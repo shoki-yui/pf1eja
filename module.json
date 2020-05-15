@@ -1,0 +1,23 @@
+{
+	"name": "pf1eja",
+	"title": "日本語化（PF1）",
+	"description": "FVTT用パスファインダー1eシステムの翻訳ファイルを組み込むモッド。",
+	"version": "0.1",
+	"author": "Brother Sharp, Chiikun",
+	"languages": [
+		{
+			"lang": "ja",
+			"system":"pf1",
+			"name": "日本語",
+			"path": "lang/ja.json"
+		}
+	],
+	"scripts": [],
+  "styles" : [],
+  "packs": [],
+	"url" : "https://github.com/BrotherSharper/pf1eja",
+	"download" : "https://github.com/BrotherSharper/pf1eja/archive/master.zip",
+	"manifest" : "https://raw.githubusercontent.com/BrotherSharper/pf1eja/master/module.json",
+  "minimumCoreVersion": "0.5.5",
+  "compatibleCoreVersion": "0.5.6"
+}
