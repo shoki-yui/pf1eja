@@ -3,7 +3,7 @@
 * **製作者**: Brother Sharp (ディスコード：Brother Sharp#6921)
 * **翻訳ファイル提供者**: Chiikun (ツイッター：[chi](https://twitter.com/_chikun))
 * **対応pf1eバージョン**: 0.51+
-* **modバージョン**: 0.1.3
+* **modバージョン**: 0.1.4
 
 ### インストール方法
 
