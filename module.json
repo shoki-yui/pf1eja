@@ -19,5 +19,5 @@
 	"download" : "https://github.com/BrotherSharper/pf1eja/archive/master.zip",
 	"manifest" : "https://raw.githubusercontent.com/BrotherSharper/pf1eja/master/module.json",
   "minimumCoreVersion": "0.6.0",
-  "compatibleCoreVersion": "0.6.4"
+  "compatibleCoreVersion": "0.6.5"
 }
