@@ -1,0 +1,325 @@
+  {
+    "label": "Armor and Shields",
+    "entries": [
+      {
+        "id": "Armored Coat",
+        "name": "アーマード・コート",
+        "description": "<p>この丈夫な革のコートは、裏地に金属の板を縫いこんで補強されている。アーマード・コートは軽装鎧より扱い辛く、ほとんどの中装鎧ほどの防護効果は望めない。しかしこの鎧の利点は着脱を移動アクションで行うことができる、という点にある（つまり、アーマード・コートでは“急いで着る”オプションを取る必要がない）。もし他の鎧の上に着る場合は、アーマー・クラス・ボーナスでは大きな値を、その他の点では悪い値を適用すること。重装鎧と一緒にアーマード・コートを着用しても、全く効果はない。魔法の効果は、鎧、衣類、アイテムなどのうち一番上に身に着けているものの効果だけが発揮される。</p>"
+      },
+      {
+        "id": "Armored Kilt",
+        "name": "アーマード・キルト",
+        "description": "<p>この鎧は単独で着ることもできるし、一揃いの鎧の上に着込むこともできる。\n軽装鎧の上にアーマード・キルトを装備したなら、その一揃いは中装鎧として扱われる。同様に、中装鎧とアーマード・キルトの組み合わせは重装鎧として扱われる。重装鎧の上にアーマード・キルトを追加した場合には何の効果もない。</p>"
+      },
+      {
+        "id": "Banded Mail",
+        "name": "バンデッド・メイル",
+        "description": "<p>バンデッド・メイルは互いに重なり合いながら表面を覆う何条もの金属製の細帯を、頑丈に裏打ちされた革と鎖で固定したものである。金属板の大きさ、互いに繋げられた金属製の帯、そして基礎となる鎧の層は、スケイル・メイルやスプリント・メイルといった同種の鎧と比べて、より顕著な防護を与える</p>"
+      },
+      {
+        "id": "Breastplate",
+        "name": "ブレストプレート",
+        "description": "<p>ブレストプレートはフル・プレートの中核部分と同種の、単一の成形した金属で着用者の胴体を保護する。その頑丈なつくりにも拘らずその非柔軟性と背後の開きのため完全な金属製の全身鎧には劣るが、ほとんどの非金属製鎧よりも優れている。</p>"
+      },
+      {
+        "id": "Breastplate (Agile)",
+        "name": "アジール・ブレストプレート",
+        "description": "<p>このブレストプレートはいくつかの動作において身体の動きを邪魔しないことを念頭に置き、特別に製作された。〈登攀〉と跳躍を行う際の〈軽業〉判定に対する鎧による判定ペナルティは－1となる（高品質やミスラル製のこの鎧は、通常どおりこのペナルティを減少させることができる）。</p>"
+      },
+      {
+        "id": "Buckler",
+        "name": "バックラー",
+        "description": "<p>この小さな金属製の盾はストラップで前腕に着用して使う。つけていてもボウ（弓）やクロスボウ（弩）はペナルティなしで使える。また、バックラーを付けた手で武器を使用することもできる（利き手でない手で使う武器を持つことも、両手武器に添えることもできる）が、そうしている間は攻撃ロールに－1のペナルティを受ける。このペナルティは利き手でない手の戦闘によるペナルティや二刀流ペナルティに加算される。そしていかなる場合にも、利き手でない手で武器を使ったなら、次の自分のターンまでバックラーのアーマー・クラス・ボーナスを失う。盾を用いたほうの手を使って動作要素のある呪文を発動することもできるが、次の自分のターンまでバックラーのアーマー・クラス・ボーナスを失う。バックラーでは盾攻撃はできない。</p>"
+      },
+      {
+        "id": "Chain Coat",
+        "name": "Chain Coat",
+        "description": "<p>This relatively simple armor consists of heavy chains that wrap around your body and limbs. While it weighs more and provides less protection than other medium armors, it is also less of a hindrance. In addition, if you are wielding a spiked chain, you can affix it to one hand. This functions as a locked gauntlet, and if you are proficient with spiked chains, you can treat the spiked chain as a one-handed weapon while it is attached. You can affix a spiked chain to each hand this way, but you can’t wear locked gauntlets while wearing a chain coat, and you can’t attach any weapon to a chain coat except spiked chains.</p>"
+      },
+      {
+        "id": "Chain Shirt",
+        "name": "チェイン・シャツ",
+        "description": "<p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\">チェイン・シャツは連結した無数の金属環でできており、胴体を覆う。</span></p>"
+      },
+      {
+        "id": "Chainmail",
+        "name": "チェインメイル",
+        "description": "<p>胸部だけを覆うチェイン・シャツとは異なり、チェインメイルは胴体と腕を覆い、さらには腰の下まで伸びた、鎖を繋げた完全な網で着用者を保護する。複数の相互に繋がれた部品は致命的な箇所にさらなる保護を提供している。この鎧にはガントレット（篭手）が付いている。</p>"
+      },
+      {
+        "id": "Dancing Scarves",
+        "name": "Dancing Scarves",
+        "description": "<p>This set of colorful scarves, is made of heavy silk and reinforced with leather straps. As you move, they flutter and flow, obscuring your shape and protecting against enemy attacks. Varisian dancing scarves provide no benefit while you are standing still. Whenever you move at least 10 feet during your turn, you gain a +2 armor bonus to AC until the beginning of your next turn. Varisian dancing scarves add their enhancement bonus to this armor bonus instead of providing a constant benefit; other magical enhancements (such as&nbsp;light fortification) apply whether or not you are moving. In addition, Varisian dancing scarves provide a +2 circumstance bonus on Bluff checks made to feint in combat.</p>"
+      },
+      {
+        "id": "Do-Maru",
+        "name": "ドウマル",
+        "description": "<p>ドウマル（胴丸）は一般にサムライに好まれる防具の中で最も軽量であり、短いアーマード・コートのように着用者の胴まわりを包む。主にラメラーによって構成されており胸甲や袖を欠いており、肩を残して上体はやや露出しているが、大多数のより重い鎧を用いるよりも着用者に大きな柔軟性を保つことができる。</p>"
+      },
+      {
+        "id": "Dwarven War-Shield",
+        "name": "Dwarven War-Shield",
+        "description": "<p>This shield’s sides are cut into jagged angles and honed to razor sharpness. Dwarven skirmishers often wield these shields in pairs, savagely hacking opponents to pieces, while some dwarven scoundrels enjoy the shields’ imposing appearance and ease of use. If you have the Two-Weapon Fighting feat and are wielding two dwarven war-shields, increase the higher of the two shield bonuses by 1. You lose this benefit for 1 round when you make a shield bash with one or both dwarven war-shields (unless you have the Improved Shield Bash feat or a similar benefit). A hand holding a dwarven warshield can’t be used for anything else. A dwarven war-shield gains no benefit from shield spikes.</p>"
+      },
+      {
+        "id": "Field Plate",
+        "name": "フィールド・プレート",
+        "description": "<p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\" style=\"margin-top: 0px;\">この重装鎧はフル・プレートに酷似しているが、若干の防御力を犠牲にして大きな柔軟性と機動性を得る為により軽量に造られている。</span></p>"
+      },
+      {
+        "id": "Fortress Plate",
+        "name": "Fortress Plate",
+        "description": "<p>This dwarf-forged armor features layers of overlapping plates molded to deflect projectiles—especially those from firearms. Whenever you are the target of a ranged weapon attack that would ignore your armor bonus to AC, you add half the fortress plate’s armor bonus (including enhancement bonuses) to your AC against that attack. This benefit does not apply to energy attacks or magical touch attacks such as rays. Because the armor is designed with dwarves in mind, If you have the dwarf’s weapon familiarity racial trait, you increase this projectile-only bonus by 1. Fortress plate is incredibly bulky, and its armor category can’t be reduced by any effect (including by special materials, such as mithral). Fortress plate includes gauntlets and a helm.</p>"
+      },
+      {
+        "id": "Four-Mirror",
+        "name": "フォーミラー",
+        "description": "<p>この鎧は共に使用される4枚の鋼鉄板と革の肩紐で構成されている。2枚の円形の鋼鉄板が前面と背面を保護すると同時に、2枚の小さな長方形の鋼鉄板が胴体の側面を覆う。フォーミラー・アーマーは更なる保護を提供するためにチェインメイルの上に着用され、チェインメイルのフードにトゲ付きの兜が付属する。</p>"
+      },
+      {
+        "id": "Full Plate",
+        "name": "フル・プレート",
+        "description": "<p>この金属の鎧は様々な種類のより劣った鎧の利点を組み込んだ、相互に繋げられ重ね合わされた複数の金属板の部品を含んでいる。フル・プレート（またはよく言われるようにプレートメイル）の完全な一揃いにはガントレット（篭手）、じょうぶな革のブーツ、面頬のついた兜、鎧の下に着る分厚い詰め物が付いている。フル・プレートは腕のいい鎧鍛冶が一領一領、持ち主の体に合うように作るものと決まっている。とはいえ、分捕った鎧を新しい持ち主に合うようにしつらえなおすことはでき、これには200～800（2d4×100）GPかかる。</p>"
+      },
+      {
+        "id": "Gray Maiden Plate",
+        "name": "Gray Maiden Plate",
+        "description": "<p>The Gray Maidens’ distinctive armor is one of their most iconic identifiers. Gray Maiden plate is mechanically identical to full plate, and any effect that functions with full plate functions with Gray Maiden plate. Certain options for Gray Maidens function only when they wear Gray Maiden plate.</p>"
+      },
+      {
+        "id": "Half-Plate",
+        "name": "ハーフプレート",
+        "description": "<p>ハーフプレート・アーマーはフル・プレートとチェインメイルの要素を兼ね備えており、基礎となる鎖を編んだ網にいくつかの大きな成形された金属の板を組み込んでいる。この鎧はそれぞれ個々の単一の骨組みには成形されていないいくつかの装甲の層で不可欠な部分を保護する一方、着用者の機動性をフル・プレートの全身鎧よりもさらに低下させる。ハーフプレート・アーマーはガントレット（篭手）とヘルム（兜）を含んでいる。</p>"
+      },
+      {
+        "id": "Half-Plate (Agile)",
+        "name": "アジール・ハーフプレート",
+        "description": "<p>このハーフプレートはいくつかの動作において身体の動きを邪魔しないことを念頭に置き、特別に製作された。〈登攀〉と跳躍の判定に対する鎧による判定ペナルティは－4となる（高品質やミスラル製のこの鎧は、通常どおりこのペナルティを減少させることができる）。さらにほとんどの重装鎧を着用した場合と異なり、着用者は3倍ではなく4倍の速さで疾走を行うことができる。</p>"
+      },
+      {
+        "id": "Haramaki",
+        "name": "ハラマキ",
+        "description": "<p>ベリーウォーマー（腹部加温器）とも呼ばれるハラマキ（腹巻）は、チェインメイルや接合された鋼鉄板で裏打ちした簡単な絹の帯であり、腹に締めつけてこれを保護する。</p>"
+      },
+      {
+        "id": "Heavy Steel Shield",
+        "name": "鋼鉄製ヘヴィ・シールド",
+        "description": "<p>鋼鉄製ヘヴィ・シールド（大盾）は前腕を盾のストラップに通した上で、持ち手を手で持つ。鋼鉄製ヘヴィ・シールドはなにしろ重いので、盾を持つ手では他には何もできない。木製にせよ鋼鉄製にせよ、ヘヴィ・シールドは基本的な保護と攻撃への利点を同じように提供するが、この2種類は（ラスティング・グラスプのような）いくつかの呪文と効果に対する反応が異なる。ドルイドは木製ヘヴィ・シールドを使うことができるが、鋼鉄製ヘヴィ・シールドは使えない。</p>"
+      },
+      {
+        "id": "Heavy Wooden Shield",
+        "name": "木製ヘヴィ・シールド",
+        "description": "<p>木製ヘヴィ・シールドは（ラスティング・グラスプのような）いくつかの呪文と効果に対する反応が異なることを除き、基本的には鋼鉄製ヘヴィ・シールドと同じである。ドルイドは木製ヘヴィ・シールドを使うことができるが、鋼鉄製ヘヴィ・シールドは使えない。</p>"
+      },
+      {
+        "id": "Hellknight Half-Plate",
+        "name": "Hellknight Half-Plate",
+        "description": "<p>The armor worn by a Hellknight signifer is a vestment of armored plates, chain, and dark fabric. It functions as half-plate, but it can be donned and removed as though it were medium armor. Any spellcaster who wears this armor is treated as if he were wearing Hellknight plate for the purposes of any feats and effects that require one to be wearing Hellknight plate. This armor includes a signifer mask, though signifer masks can be purchased separately.</p>"
+      },
+      {
+        "id": "Hellknight Leather",
+        "name": "Hellknight Leather",
+        "description": "<p>There are instances where wearing full plate armor can jeopardize a Hellknight’s life. Primarily worn by Hellknight sailors, this studded leather armor includes heavy gloves and a helm of sculpted leather designed to look like a skull— either a human’s or that of some aquatic creature. Hellknight leather’s statistics are identical to those of studded leather, except it costs 5 gp more and weighs 5 pounds more.</p>"
+      },
+      {
+        "id": "Hellknight Plate",
+        "name": "Hellknight Plate",
+        "description": "<p>These distinctive suits of armor are a special type of masterwork full plate that grant additional effects when worn by a character with levels in the Hellknight prestige class. Apart from its distinctive look (each order of Hellknights has its own style of armor), a suit of Hellknight plate functions the same as a suit of masterwork full plate.</p>"
+      },
+      {
+        "id": "Hide Armor",
+        "name": "ハイド",
+        "description": "<p>ハイド・アーマーは特に分厚い皮で覆われた獣のなめし革から作られており、複数の重なり合った未加工の革の層か、あるいは詰め物や毛皮を詰めた革の外装部分を縫い合わせている。鎧へのダメージは通常、深い傷を縫い直すか新しい革を加えることで修復され、よく使い込まれた鎧は独特のパッチワークのような品質を醸す。</p>"
+      },
+      {
+        "id": "Hide Shirt",
+        "name": "ハイド・シャツ",
+        "description": "<p>この混紡繊維のシャツの胸部と肩部を動物の皮革やジャイアント・リザードの鱗で覆った鎧は、機動性を損なうことなくショアンティの騎手達を護る。ハイド・シャツの着用者は標準アクションを使用して難易度15の【筋力】判定を行うことができ、もしそれが成功したのであれば鎧は破損状態となり、通常軽装鎧の必要になる1分間を必要とすることなく脱着し地面に落ちる。この鎧を再度使用する為には8ポイントのダメージを修理によって取り除かなければならない。\n破損状態のハイド・シャツはアーマークラスにボーナスを与えない。</p>"
+      },
+      {
+        "id": "Horn Lamellar",
+        "name": "Horn Lamellar",
+        "description": "<p>Lamellar is a type of armor in which small plates of various types of materials are strung together in parallel rows using fine cord. Lamellar plates can be constructed from lacquered leather, horn, or even stone, though suits of iron and steel are the most common. Lamellar armor can be crafted into various shapes, including partial pieces such as breastplates, greaves, or even entire coats. The properties of specific suits and pieces of lamellar armor are determined by their material.</p>"
+      },
+      {
+        "id": "Ice Coat",
+        "name": "Ice Coat",
+        "description": "<p>Used by the Erutaki human tribes and snowcaster elves native to the arctic tundra of the Crown of the World, this heavy parka is treated as an armored coatUE. It provides the benefits of a cold-weather outfit, and it can be donned or removed as a move action. In addition, the fluffy white fur of the parka blends into arctic landscapes, providing a +2 circumstance bonus on Stealth checks in snowy environments.</p>"
+      },
+      {
+        "id": "Iron Lamellar",
+        "name": "鉄製ラメラー",
+        "description": "<p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\">ラメラー（薄片鎧）は様々な種類の素材の小さな板を細い紐を用いて平行な列に繋ぎあわせた防具の種類である。ラメラーの板は漆塗りの革、角、あるいは石からさえ構成され得るが、鋼と鉄の一揃いが最も一般的である。ラメラー・アーマーは胸甲、脛当てなどのような部分的な部品、あるいはコート全体さえも含む、様々な形状に細工することができる。ラメラー・アーマーの特定のスーツおよび部品の特性は、その材質によって決定される。</span></p>"
+      },
+      {
+        "id": "Kikko",
+        "name": "キッコウ",
+        "description": "<p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\">キッコウ・アーマーは巧妙に配列して布に縫い付けられた、鉄でできた六角形の板で構成されており、同種の防御を与える多くの防具が提供するよりも大きな柔軟性を着用者に与える。この板は露出したままのものも、布の層によって隠されているものもある。</span></p>"
+      },
+      {
+        "id": "Klar",
+        "name": "クラール",
+        "description": "<p>これは、ホーンド・スピアストーカー（ストーヴァル高原に住む巨大ヤモリの一種族）の頭蓋骨に刃を固定したショアンティ達の伝統的な武器だが、近年では南ヴァリシアの武具屋はこの刃付き盾を鉄によって造り始めている。</p>"
+      },
+      {
+        "id": "Kusari Gusoku",
+        "name": "クサリ・グソク",
+        "description": "<p>クサリ・グソク（鎖具足）はタタミドウ・アーマーに似ている； しかしながら、胸部装甲の代わりとしてカタビラ――チェイン・ジャケットの一種――を着用する。</p>"
+      },
+      {
+        "id": "Lamellar Cuirass",
+        "name": "ラメラー・キュイラス",
+        "description": "<p>この鎧は共に結び付けられた漆塗りの革板で作られた軽量なブレストプレートと肩当てで構成されており、絹のシャツの上に装着する。</p>"
+      },
+      {
+        "id": "Leaf Armor",
+        "name": "リーフ・アーマー",
+        "description": "<p>この鎧は錬金術により固くした葉で作られている。この鎧は高品質であり、金属を含まないことを除いては高品質のスタデッド・レザーとして働く。</p>"
+      },
+      {
+        "id": "Leather Armor",
+        "name": "レザー",
+        "description": "<p>レザー・アーマーは自然な強靭さを高めるために煮こんだ後で、故意に一緒に縫い合わされた、複数の重なり合った革の部品で構成される。金属製の鎧ほど頑丈ではないが、広く用いられている鎧の種類の中では着用者に最も大きな柔軟性を与える。</p>"
+      },
+      {
+        "id": "Leather Lamellar",
+        "name": "革製ラメラー",
+        "description": "<p>ラメラー（薄片鎧）は様々な種類の素材の小さな板を細い紐を用いて平行な列に繋ぎあわせた防具の種類である。ラメラーの板は漆塗りの革、角、あるいは石からさえ構成され得るが、鋼と鉄の一揃いが最も一般的である。ラメラー・アーマーは胸甲、脛当てなどのような部分的な部品、あるいはコート全体さえも含む、様々な形状に細工することができる。ラメラー・アーマーの特定のスーツおよび部品の特性は、その材質によって決定される。</p>"
+      },
+      {
+        "id": "Leather Madu",
+        "name": "革製マドゥ",
+        "description": "<p>マドゥは丸いライト・シールドであり、4つのスパイクがそれぞれの縁についている。</p>"
+      },
+      {
+        "id": "Light Steel Shield",
+        "name": "鋼鉄製ライト・シールド",
+        "description": "<p>鋼鉄製ライト・シールド（小盾）は前腕を盾のストラップに通した上で、持ち手を手で持つ。鋼鉄製ライト・シールドは重さが軽いので、盾を持つ手で他のものも持てる（が、武器を使うことはできない）。木製にせよ鋼鉄製にせよ、ライト・シールドは基本的な保護と攻撃への利点を同じように提供するが、この2種類は（ラスティング・グラスプのような）いくつかの呪文と効果に対する反応が異なる。ドルイドは木製ライト・シールドを使うことができるが、鋼鉄製ライト・シールドは使えない。</p>"
+      },
+      {
+        "id": "Light Steel Shield (Quickdraw)",
+        "name": "鋼鉄製ライト・クイックドロウ・シールド",
+        "description": "<p>この鋼鉄製ライト・シールドはひと繋がりのストラップによって、この盾に習熟しているキャラクターが迅速かつ容易に背中に背負ったり、着用できたりするように特別に作成された。もし君が＋1以上の基本攻撃ボーナスを有しているのであれば、通常どおり移動しながら即行アクションでクイックドロウ・シールドを着用したりしまったりすることができる。もし君が《二刀流》特技を持っているなら、君が通常武器を準備するのと同じように、片方の手で軽い武器か片手用武器を、同時にもう一方の手でクイックドロウ・シールドを着用することができる。もし君が《早抜き》特技を持っているなら、クイックドロウ・シールドを着用したり片付けたりする行動はフリー・アクションとなる。</p>"
+      },
+      {
+        "id": "Light Wooden Shield",
+        "name": "木製ライト・シールド",
+        "description": "<p>木製ライト・シールドは（ラスティング・グラスプのような）いくつかの呪文と効果に対する反応が異なることを除き、基本的には鋼鉄製ライト・シールドと同じである。ドルイドは木製ライト・シールドを使うことができるが、鋼鉄製ライト・シールドは使えない。</p>"
+      },
+      {
+        "id": "Light Wooden Shield (Quickdraw)",
+        "name": "木製ライト・クイックドロウ・シールド",
+        "description": "<p>木製ライト・クイックドロウ・シールドは（ラスティング・グラスプのような）いくつかの呪文と効果に対する反応が異なることを除き、基本的には鋼鉄製ライト・クイックドロウ・シールドと同じである。ドルイドは木製ライト・クイックドロウ・シールドを使うことができるが、鋼鉄製ライト・クイックドロウ・シールドは使えない。</p>"
+      },
+      {
+        "id": "Mountain Pattern",
+        "name": "マウンテン・パターン・アーマー",
+        "description": "<p>マウンテン・パターン・アーマー（山文甲）は“山”の字の古代の象形文字に似た形の鋼の部品を噛み合わせた数百の小片で構成される中装鎧である。鎧にはその後、布や革を鋲で裏打ちする。マウンテン・パターン・アーマーは鎖帷子のように着用し、胴体、肩、太ももを覆う。</p>"
+      },
+      {
+        "id": "O-Yoroi",
+        "name": "オオヨロイ",
+        "description": "<p>高位のサムライによってほぼ独占的に着用されるオオヨロイ（大鎧）――または“グレート・アーマー”――は、プレートとラメラーの要素の双方を含んだ様々な補助的な構成物によって成立する重装戦闘鎧である。それぞれの具足は特定の個人のために製作され、所有者の美学が示されている。完成すると具足は着色され、最終的な漆仕上げにより防水される。オオヨロイの中核は2つの部分――ワイダテ（脇楯）と呼ばれる右面の空いた部分の補強とキッコウの胸当て――からなる胸甲である。ワイダテの上部は鋼鉄板で覆われた革で構成されている。胸甲の革の肩紐――ワタガミ（肩上）と呼ばれる――は同様に金属板で覆われている。胸甲に付属するのは、幅広のラメラーの肩当て、腕を守るキッコウの袖、パッド入りの絹のタイツの上に着用する漆塗りの鉄の脛当て、および股の防具を含むいくつかの補助的な部品である。各具足の所有者を特徴づける要素は階層化されたカブト・ヘルメット（兜）とそれに付随するホオアテ・マスク（頬当て）である。ホオアテ・マスクは硬化した革や金属で作ることができ、オニ、ドラゴン、あるいはその他の神話上の生物の恐ろしい形相を象っている。</p>"
+      },
+      {
+        "id": "Padded Armor",
+        "name": "パデッド",
+        "description": "<p>単なる衣類よりはマシという程度のパデッド・アーマーは、安価に基本的な防護を作り出すために、重いキルト布と密集した詰め物の層を組み合わせたものである。これらは一般に致死的な戦闘に直面することは想定されていない者か、運動性への影響を可能な限り極小にしたいと考えている者に着用される。</p>"
+      },
+      {
+        "id": "Parade Armor",
+        "name": "パレード・アーマー",
+        "description": "<p>資産力のある国のほとんどはパレードや戴冠式のような、華麗で戦闘に関わらない状況のための通常とは異なるユニフォームを常備軍に準備させている。この鎧の外見は国の起源やどの軍かにより様々だが、パレード用の装備のまま戦う必要がある場合に備えて防護を備えている（例えば、アンドランの鷹騎士団が身に付けているパレード・アーマーは青いコートのついた軽い鎖帷子と白いズボン、それに淡い青色の革製のブーツである）。その国のパレード・アーマーを身に付けているなら、この国に影響力のある人物に対する〈交渉〉と〈威圧〉に＋2の状況ボーナスを得る。</p>"
+      },
+      {
+        "id": "Poisoner's Buckler",
+        "name": "Poisoner's Buckler",
+        "description": "<p>Half-drow make these bucklers to allow for quick application of exactly the right poison in the middle of combat. This mithral buckler is painted black with three deep grooves running over the surface, each fitted with a slot that can hold a vial of poison. As a move action, the user can swipe a weapon over the surface of the buckler, coating it with a single dose of poison. The buckler can hold 3 doses of poison. If the wearer does not have the poison use ability, she faces the standard risk of poisoning herself</p>"
+      },
+      {
+        "id": "Quilted Cloth",
+        "name": "キルテッド・クロース",
+        "description": "<p>この強化された形状のパデット・アーマーの内側には、アローやボルト、ダーツ、シュリケン、投擲用ダガーやその他の小さい遠隔刺突武器を防ぐための層が特別に設けられている。これらの武器が君に命中した場合、それらは内側の層に絡め取られてしまい、君を傷付けることができない。キルテッド・クロース・アーマーの着用は、君にこの種類の武器に対して3／―のダメージ減少を与える。この鎧の特別な層は、その他の種類の武器には全く効果を発揮しない。</p>"
+      },
+      {
+        "id": "Reinforced Tunic",
+        "name": "Reinforced Tunic",
+        "description": "<p>Sometimes called a leine, this belted tunic has thick cords woven through it that cover vital areas. A reinforced tunic’s armor bonus is increased by 2 against attack rolls made to confirm critical hits against the wearer.</p>"
+      },
+      {
+        "id": "Rosewood Armor",
+        "name": "ローズウッド・アーマー",
+        "description": "<p>この一揃いのレザー・アーマーは特別な薔薇のつるで覆われている。この鎧はアーマー・スパイクのついたレザー・アーマーとして扱う。このつるには1日に1ガロンの水が必要であり、水をやらなければ枯れて死んでしまい通常のレザー・アーマーになってしまう。</p>"
+      },
+      {
+        "id": "Scale Mail",
+        "name": "スケイル・メイル",
+        "description": "<p>スケイル・メイル（札鎧）は互いに重なり合う数十もの金属の板でできている。スプリント・メイルとバンデッド・メイルの両方に似て、スケイルメイルは着用者の移動性を妨げないように柔軟な構造のスケイルを備えているが、鎧の保護層の追加を省いて犠牲にしている。スケイル・メイルの全身鎧にはガントレット（篭手）が付いている。</p>"
+      },
+      {
+        "id": "Silken Ceremonial",
+        "name": "シルケン・セレモニアル",
+        "description": "<p>儀式的な展覧用、あるいは時折（特に追加の利点があるわけではないにも拘らず）重装鎧の上に着用して使用されるこれらの長衣は、何層かの布と、複雑な金襴緞子の模様が織り込まれ金属の飾りボタンに覆われた絹の外層で構成されている。</p>"
+      },
+      {
+        "id": "Spider-Silk Bodysuit",
+        "name": "Spider-Silk Bodysuit",
+        "description": "<p>This exotic form-fitting garment is woven entirely from alchemically treated silk harvested from giant spiders or other arachnid creatures. If you have the drow’s weapon familiarity racial trait, you treat the spider-silk bodysuit’s maximum Dexterity bonus as 2 higher.</p>"
+      },
+      {
+        "id": "Splint Mail",
+        "name": "スプリント・メイル",
+        "description": "<p>スプリント・メイルは裏打ちされた革か頑丈な布に取り付けられた、重なり合った金属片の層で構成されている。これらの薄片はスケイル・メイルを構成しているものよりも大きなサイズと耐久性を備えており、着用者に与える保護を向上させているが、柔軟性は犠牲になっている。スプリント・メイルにはガントレット（篭手）が含まれている。</p>"
+      },
+      {
+        "id": "Steel Lamellar",
+        "name": "鋼鉄製ラメラー",
+        "description": "<p>ラメラー（薄片鎧）は様々な種類の素材の小さな板を細い紐を用いて平行な列に繋ぎあわせた防具の種類である。ラメラーの板は漆塗りの革、角、あるいは石からさえ構成され得るが、鋼と鉄の一揃いが最も一般的である。ラメラー・アーマーは胸甲、脛当てなどのような部分的な部品、あるいはコート全体さえも含む、様々な形状に細工することができる。ラメラー・アーマーの特定のスーツおよび部品の特性は、その材質によって決定される。</p>"
+      },
+      {
+        "id": "Steel Madu",
+        "name": "鉄製マドゥ",
+        "description": "<p>マドゥは丸いライト・シールドであり、4つのスパイクがそれぞれの縁についている。マドゥに《習熟》しているのなら、この武器を使用して防御的戦闘を行なう際、通常の－4のペナルティではなく－2のペナルティを受ける。もし《攻防一体》を使用しているなら、攻撃ロールへのペナルティは1軽減される（最低－1のペナルティ）。マドゥを装備している手に他のものを持つことはできない。マドゥに《習熟》していないのであれば、スパイクト・ライト・シールドとして扱う。</p>"
+      },
+      {
+        "id": "Steel Snarlshield",
+        "name": "Steel Snarlshield",
+        "description": "<p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\" style=\"margin-top: 0px;\">The snarlshield is a heavy shield that features a dozen rods protruding from its surface. When used as a weapon to bash an opponent, a snarlshield has the disarm quality.</span></p>"
+      },
+      {
+        "id": "Stone Lamellar",
+        "name": "石製ラメラー",
+        "description": "<p>ラメラー（薄片鎧）は様々な種類の素材の小さな板を細い紐を用いて平行な列に繋ぎあわせた防具の種類である。ラメラーの板は漆塗りの革、角、あるいは石からさえ構成され得るが、鋼と鉄の一揃いが最も一般的である。ラメラー・アーマーは胸甲、脛当てなどのような部分的な部品、あるいはコート全体さえも含む、様々な形状に細工することができる。ラメラー・アーマーの特定のスーツおよび部品の特性は、その材質によって決定される。</p>"
+      },
+      {
+        "id": "Stoneplate",
+        "name": "ストーンプレート",
+        "description": "<p>この鎧は錬金術的に強化された玄武岩の板からドワーフの石工によって製作されている。ストーンプレートは重く扱いにくいが、着用者に信じられないほどの保護を提供する。ストーンプレートは主に金属製の鎧を着用できないドワーフのドルイドによって使用される</p>"
+      },
+      {
+        "id": "Studded Leather Armor",
+        "name": "スタデッド・レザー",
+        "description": "<p>レザー・アーマーの改良型であるスタデッド・レザー・アーマーは数十の金属の突起で覆われている。これらの丸みを帯びた鋲は個別にも若干の防護を提供するが、数が揃ったときに致命的な刃を受け止め、重要な箇所から受け流すのに役立つ装甲となるように配列されている。追加した金属によって生じた剛性は、しかしながら、通常のレザー・アーマーよりも若干の移動性を損なう結果になる。</p>"
+      },
+      {
+        "id": "Tatami-Do",
+        "name": "タタミドウ",
+        "description": "<p>オオヨロイのより軽量な代替品としてサムライに着用されるタタミドウ（畳胴）は布の裏地を備えた1つの全身鎧の中に、金属のラメラーとキッコウの要素の双方を兼ね備えた全身を覆う鎧である。一般に折りたたむことのできるカブト・ヘルメットか装甲つきのフード、さらに腕、肩、および太ももの防具が含まれている。</p>"
+      },
+      {
+        "id": "Tower Shield",
+        "name": "タワー・シールド",
+        "description": "<p>この巨大な木製の盾は、持ち手の背丈と同じほどの高さがある。ふだんは持ち手のアーマー・クラスに、示されているとおりの盾ボーナスを与える。しかし、1回の標準アクションとして、そうでなく自分の次のターンの開始時まで完全遮蔽として使うこともできる。このやり方でタワー・シールドを使う際には、持ち手は自分のマスの1辺を選ばなくてはならない。その1辺は持ち手のみを目標とする攻撃に対し、堅固な壁として扱われる。持ち手はこの1辺からの攻撃に対しては完全遮蔽を得、これ以外の辺からの攻撃に対しては遮蔽を得ない（『遮蔽』を参照）。なおタワー・シールドも、目標型呪文に対する遮蔽は提供してくれない。というのも、呪文の使い手は、君の持っている盾を目標にすることで、君に対して呪文を発動することができるのである。タワー・シールドは盾攻撃には使えない。また、盾を持っている手は、それ以外のことには一切使えない。戦闘でタワー・シールドを使っていると、盾があまりにかさばるので、攻撃ロールに－2のペナルティが付く。</p>"
+      },
+      {
+        "id": "Wooden Armor",
+        "name": "ウッデン",
+        "description": "<p>このレザー・アーマーには、火で加工した木の板を急所の上に縫い付けてある。金属製の鎧ほどの防護効果は望めないものの、革製の鎧よりは効果的な防護を提供する。また金属製の鎧とは異なり、木は僅かながら浮力を有しているため、ウッデン・アーマーを着用したまま〈水泳〉を行うときの鎧による判定ペナルティは0になる。</p>"
+      },
+      {
+        "id": "Wooden Snarlshield",
+        "name": "Wooden Snarlshield",
+        "description": "<p>The snarlshield is a heavy shield that features a dozen rods protruding from its surface. When used as a weapon to bash an opponent, a snarlshield has the disarm quality.</p>"
+      }
+    ]
+  }
