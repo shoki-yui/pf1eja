@@ -1,0 +1,1353 @@
+{
+	"label": "Bestiary - Part 5",
+	"mapping": {
+			"token_name": "token.name"
+	},
+	"entries": [
+		{
+			"id": "12-Headed Pyrohydra",
+			"name": "12-Headed Pyrohydra",
+			"token_name": "12-Headed Pyrohydra"
+		},
+		{
+			"id": "Abhominal",
+			"name": "Abhominal",
+			"token_name": "Abhominal"
+		},
+		{
+			"id": "Adhukait",
+			"name": "アズカイト",
+			"token_name": "アズカイト"
+		},
+		{
+			"id": "Adult Black Dragon",
+			"name": "アダルト・ブラック・ドラゴン",
+			"token_name": "アダルト・ブラック・ドラゴン"
+		},
+		{
+			"id": "Adult Brine Dragon",
+			"name": "アダルト・ブライン・ドラゴン",
+			"token_name": "アダルト・ブライン・ドラゴン"
+		},
+		{
+			"id": "Adult Crystal Dragon",
+			"name": "アダルト・クリスタル・ドラゴン",
+			"token_name": "アダルト・クリスタル・ドラゴン"
+		},
+		{
+			"id": "Adult Dream Dragon",
+			"name": "アダルト・ドリーム・ドラゴン",
+			"token_name": "アダルト・ドリーム・ドラゴン"
+		},
+		{
+			"id": "Adult Lunar Dragon",
+			"name": "アダルト・ルナ・ドラゴン",
+			"token_name": "アダルト・ルナ・ドラゴン"
+		},
+		{
+			"id": "Adult Paradise Dragon",
+			"name": "Adult Paradise Dragon",
+			"token_name": "Adult Paradise Dragon"
+		},
+		{
+			"id": "Adult Time Dragon",
+			"name": "アダルト・タイム・ドラゴン",
+			"token_name": "アダルト・タイム・ドラゴン"
+		},
+		{
+			"id": "Adult Tumult Dragon",
+			"name": "Adult Tumult Dragon",
+			"token_name": "Adult Tumult Dragon"
+		},
+		{
+			"id": "Adult White Dragon",
+			"name": "アダルト・ホワイト・ドラゴン",
+			"token_name": "アダルト・ホワイト・ドラゴン"
+		},
+		{
+			"id": "Ahkhat",
+			"name": "アクハット",
+			"token_name": "アクハット"
+		},
+		{
+			"id": "Ahuizotl",
+			"name": "アウィソトル",
+			"token_name": "アウィソトル"
+		},
+		{
+			"id": "Akhana",
+			"name": "アクァナ",
+			"token_name": "アクァナ"
+		},
+		{
+			"id": "Allosaurus",
+			"name": "アロサウルス",
+			"token_name": "アロサウルス"
+		},
+		{
+			"id": "Alpluachra",
+			"name": "アルプルアハラ",
+			"token_name": "アルプルアハラ"
+		},
+		{
+			"id": "Amphisbaena",
+			"name": "アンフィスバエナ",
+			"token_name": "アンフィスバエナ"
+		},
+		{
+			"id": "Ancient Apocalypse Dragon",
+			"name": "Ancient Apocalypse Dragon",
+			"token_name": "Ancient Apocalypse Dragon"
+		},
+		{
+			"id": "Ancient Black Dragon",
+			"name": "エインシャント・ブラック・ドラゴン",
+			"token_name": "エインシャント・ブラック・ドラゴン"
+		},
+		{
+			"id": "Ancient Crystal Dragon",
+			"name": "エインシャント・クリスタル・ドラゴン",
+			"token_name": "エインシャント・クリスタル・ドラゴン"
+		},
+		{
+			"id": "Ancient Infernal Dragon",
+			"name": "Ancient Infernal Dragon",
+			"token_name": "Ancient Infernal Dragon"
+		},
+		{
+			"id": "Angheuvore Mortic",
+			"name": "Angheuvore Mortic",
+			"token_name": "Angheuvore Mortic"
+		},
+		{
+			"id": "Animated Object",
+			"name": "アニメイテッド・オブジェクト",
+			"token_name": "アニメイテッド・オブジェクト"
+		},
+		{
+			"id": "Aoandon",
+			"name": "アオアンドン",
+			"token_name": "アオアンドン"
+		},
+		{
+			"id": "Astradaemon",
+			"name": "アストラダイモン",
+			"token_name": "アストラダイモン"
+		},
+		{
+			"id": "Astral Deva",
+			"name": "アストラル・デーヴァ",
+			"token_name": "アストラル・デーヴァ"
+		},
+		{
+			"id": "Atamahuta",
+			"name": "Atamahuta",
+			"token_name": "Atamahuta"
+		},
+		{
+			"id": "Athach",
+			"name": "アハッハ",
+			"token_name": "アハッハ"
+		},
+		{
+			"id": "Atuikakura",
+			"name": "Atuikakura",
+			"token_name": "Atuikakura"
+		},
+		{
+			"id": "Balisse",
+			"name": "バリセ",
+			"token_name": "バリセ"
+		},
+		{
+			"id": "Belostomatid",
+			"name": "Belostomatid",
+			"token_name": "Belostomatid"
+		},
+		{
+			"id": "Birelu",
+			"name": "Birelu",
+			"token_name": "Birelu"
+		},
+		{
+			"id": "Bloody Bones",
+			"name": "Bloody Bones",
+			"token_name": "Bloody Bones"
+		},
+		{
+			"id": "Bogeyman",
+			"name": "ブギーマン",
+			"token_name": "ブギーマン"
+		},
+		{
+			"id": "Bokrug",
+			"name": "ボクルグ",
+			"token_name": "ボクルグ"
+		},
+		{
+			"id": "Bonewrought Willow",
+			"name": "Bonewrought Willow",
+			"token_name": "Bonewrought Willow"
+		},
+		{
+			"id": "Brain Mole",
+			"name": "ブレイン・モウル",
+			"token_name": "ブレイン・モウル"
+		},
+		{
+			"id": "Bull Shark",
+			"name": "ブル・シャーク",
+			"token_name": "ブル・シャーク"
+		},
+		{
+			"id": "Bunyip",
+			"name": "バニップ",
+			"token_name": "バニップ"
+		},
+		{
+			"id": "Cambion",
+			"name": "カンビオン",
+			"token_name": "カンビオン"
+		},
+		{
+			"id": "Cat",
+			"name": "キャット（猫）",
+			"token_name": "キャット"
+		},
+		{
+			"id": "Cecaelia",
+			"name": "Cecaelia",
+			"token_name": "Cecaelia"
+		},
+		{
+			"id": "Cerynitis",
+			"name": "ケリュネイア",
+			"token_name": "ケリュネイア"
+		},
+		{
+			"id": "Changeling",
+			"name": "チェンジリング",
+			"token_name": "チェンジリング"
+		},
+		{
+			"id": "Chelarac",
+			"name": "Chelarac",
+			"token_name": "Chelarac"
+		},
+		{
+			"id": "Chelarac Broodling",
+			"name": "Chelarac Broodling",
+			"token_name": "Chelarac Broodling"
+		},
+		{
+			"id": "Chernobue",
+			"name": "チェアノブー",
+			"token_name": "チェアノブー"
+		},
+		{
+			"id": "Clawbat",
+			"name": "Clawbat",
+			"token_name": "Clawbat"
+		},
+		{
+			"id": "Clockwork Golem",
+			"name": "クロックワーク・ゴーレム",
+			"token_name": "クロックワーク・ゴーレム"
+		},
+		{
+			"id": "Clockwork Leviathan",
+			"name": "クロックワーク・リヴァイアサン",
+			"token_name": "クロックワーク・リヴァイアサン"
+		},
+		{
+			"id": "Cloud Giant",
+			"name": "クラウド・ジャイアント",
+			"token_name": "クラウド・ジャイアント"
+		},
+		{
+			"id": "Collector Robot",
+			"name": "Collector Robot",
+			"token_name": "Collector Robot"
+		},
+		{
+			"id": "Compsognathus",
+			"name": "コンプソグナトゥス",
+			"token_name": "コンプソグナトゥス"
+		},
+		{
+			"id": "Contract Devil",
+			"name": "コントラクト・デヴィル",
+			"token_name": "コントラクト・デヴィル"
+		},
+		{
+			"id": "Criosphinx",
+			"name": "クリオスフィンクス",
+			"token_name": "クリオスフィンクス"
+		},
+		{
+			"id": "Crypt Thing",
+			"name": "クリプト・シング",
+			"token_name": "クリプト・シング"
+		},
+		{
+			"id": "Cuero",
+			"name": "クエロ",
+			"token_name": "クエロ"
+		},
+		{
+			"id": "Cytillipede",
+			"name": "サイティリピード",
+			"token_name": "サイティリピード"
+		},
+		{
+			"id": "Dark Slayer",
+			"name": "ダーク・スレイヤー",
+			"token_name": "ダーク・スレイヤー"
+		},
+		{
+			"id": "Deathsnatcher",
+			"name": "Deathsnatcher",
+			"token_name": "Deathsnatcher"
+		},
+		{
+			"id": "Decapus",
+			"name": "デカパス",
+			"token_name": "デカパス"
+		},
+		{
+			"id": "Deep One",
+			"name": "ディープ・ワン",
+			"token_name": "ディープ・ワン"
+		},
+		{
+			"id": "Derro Magister",
+			"name": "Derro Magister",
+			"token_name": "Derro Magister"
+		},
+		{
+			"id": "Deskari",
+			"name": "Deskari",
+			"token_name": "Deskari"
+		},
+		{
+			"id": "Devil, Possession Greater",
+			"name": "Devil, Possession Greater",
+			"token_name": "Devil, Possession Greater"
+		},
+		{
+			"id": "Dimensional Shambler",
+			"name": "Dimensional Shambler",
+			"token_name": "Dimensional Shambler"
+		},
+		{
+			"id": "Dimetrodon",
+			"name": "ディメトロドン",
+			"token_name": "ディメトロドン"
+		},
+		{
+			"id": "Dire Corby",
+			"name": "ダイア・コルビー",
+			"token_name": "ダイア・コルビー"
+		},
+		{
+			"id": "Dire Wolf",
+			"name": "ダイア・ウルフ",
+			"token_name": "ダイア・ウルフ"
+		},
+		{
+			"id": "Dodo",
+			"name": "ドードー",
+			"token_name": "ドードー"
+		},
+		{
+			"id": "Dosojin",
+			"name": "Dosojin",
+			"token_name": "Dosojin"
+		},
+		{
+			"id": "Dretch",
+			"name": "ドレッチ",
+			"token_name": "ドレッチ"
+		},
+		{
+			"id": "Drexin Gremlin",
+			"name": "Drexin Gremlin",
+			"token_name": "Drexin Gremlin"
+		},
+		{
+			"id": "Drider",
+			"name": "ドライダー",
+			"token_name": "ドライダー"
+		},
+		{
+			"id": "Drocha Swarm",
+			"name": "Drocha Swarm",
+			"token_name": "Drocha Swarm"
+		},
+		{
+			"id": "Dullahan",
+			"name": "デュラハン",
+			"token_name": "デュラハン"
+		},
+		{
+			"id": "Eagle",
+			"name": "イーグル（鷲）",
+			"token_name": "イーグル"
+		},
+		{
+			"id": "Elasmosaurus",
+			"name": "エラスモサウルス",
+			"token_name": "エラスモサウルス"
+		},
+		{
+			"id": "Elder Air Elemental",
+			"name": "エルダー・エア・エレメンタル",
+			"token_name": "エルダー・エア・エレメンタル"
+		},
+		{
+			"id": "Elder Ice Elemental",
+			"name": "エルダー・アイス・エレメンタル",
+			"token_name": "エルダー・アイス・エレメンタル"
+		},
+		{
+			"id": "Elder Mud Elemental",
+			"name": "エルダー・マッド・エレメンタル",
+			"token_name": "エルダー・マッド・エレメンタル"
+		},
+		{
+			"id": "Emperor of Scales",
+			"name": "Emperor of Scales",
+			"token_name": "Emperor of Scales"
+		},
+		{
+			"id": "Erodaemon",
+			"name": "Erodaemon",
+			"token_name": "Erodaemon"
+		},
+		{
+			"id": "Estuarine Worm",
+			"name": "Estuarine Worm",
+			"token_name": "Estuarine Worm"
+		},
+		{
+			"id": "Ettin",
+			"name": "エティン",
+			"token_name": "エティン"
+		},
+		{
+			"id": "Exscinder Archon",
+			"name": "エクシンダー",
+			"token_name": "エクシンダー"
+		},
+		{
+			"id": "Ez-Azael",
+			"name": "Ez-Azael",
+			"token_name": "Ez-Azael"
+		},
+		{
+			"id": "Fachen",
+			"name": "ファハン",
+			"token_name": "ファハン"
+		},
+		{
+			"id": "Faun",
+			"name": "ファウヌス",
+			"token_name": "ファウヌス"
+		},
+		{
+			"id": "Festering Spirit",
+			"name": "フェスタリング・スピリット",
+			"token_name": "フェスタリング・スピリット"
+		},
+		{
+			"id": "Fleshdreg",
+			"name": "フレッシュドレッグ",
+			"token_name": "フレッシュドレッグ"
+		},
+		{
+			"id": "Fluxwraith",
+			"name": "Fluxwraith",
+			"token_name": "Fluxwraith"
+		},
+		{
+			"id": "Forsaken Lich",
+			"name": "Forsaken Lich",
+			"token_name": "Forsaken Lich"
+		},
+		{
+			"id": "Frost Drake",
+			"name": "フロスト・ドレイク",
+			"token_name": "フロスト・ドレイク"
+		},
+		{
+			"id": "Frost Fir",
+			"name": "Frost Fir",
+			"token_name": "Frost Fir"
+		},
+		{
+			"id": "Frost Wight",
+			"name": "フロスト・ワイト",
+			"token_name": "フロスト・ワイト"
+		},
+		{
+			"id": "Gallerok",
+			"name": "Gallerok",
+			"token_name": "Gallerok"
+		},
+		{
+			"id": "Ghul",
+			"name": "グル",
+			"token_name": "グル"
+		},
+		{
+			"id": "Giant Assassin Bug",
+			"name": "ジャイアント・アサシン・バグ",
+			"token_name": "ジャイアント・アサシン・バグ"
+		},
+		{
+			"id": "Giant Chameleon",
+			"name": "ジャイアント・カメレオン",
+			"token_name": "ジャイアント・カメレオン"
+		},
+		{
+			"id": "Giant Crab",
+			"name": "ジャイアント・クラブ",
+			"token_name": "ジャイアント・クラブ"
+		},
+		{
+			"id": "Giant Crawling Hand",
+			"name": "ジャイアント・クロウリング・ハンド",
+			"token_name": "ジャイアント・クロウリング・ハンド"
+		},
+		{
+			"id": "Giant Gar",
+			"name": "ジャイアント・ガー",
+			"token_name": "ジャイアント・ガー"
+		},
+		{
+			"id": "Giant Leech",
+			"name": "ジャイアント・リーチ（巨大蛭）",
+			"token_name": "ジャイアント・リーチ"
+		},
+		{
+			"id": "Giant Tortoise",
+			"name": "ジャイアント・トータス",
+			"token_name": "ジャイアント・トータス"
+		},
+		{
+			"id": "Giraffe",
+			"name": "ジラフ（キリン）",
+			"token_name": "ジラフ"
+		},
+		{
+			"id": "Glabrezu",
+			"name": "グラブレズゥ",
+			"token_name": "グラブレズゥ"
+		},
+		{
+			"id": "Glimmerhollow",
+			"name": "Glimmerhollow",
+			"token_name": "Glimmerhollow"
+		},
+		{
+			"id": "Globster",
+			"name": "グロブスター",
+			"token_name": "グロブスター"
+		},
+		{
+			"id": "Goliath Spider",
+			"name": "ゴライアス・スパイダー",
+			"token_name": "ゴライアス・スパイダー"
+		},
+		{
+			"id": "Gourd Leshy",
+			"name": "ゴーウド・レーシー",
+			"token_name": "ゴーウド・レーシー"
+		},
+		{
+			"id": "Gravedragger",
+			"name": "Gravedragger",
+			"token_name": "Gravedragger"
+		},
+		{
+			"id": "Greater Earth Elemental",
+			"name": "グレーター・アース・エレメンタル",
+			"token_name": "グレーター・アース・エレメンタル"
+		},
+		{
+			"id": "Green Hag",
+			"name": "グリーン・ハグ",
+			"token_name": "グリーン・ハグ"
+		},
+		{
+			"id": "Hamadryad",
+			"name": "ハマドライアド",
+			"token_name": "ハマドライアド"
+		},
+		{
+			"id": "Hegessik",
+			"name": "Hegessik",
+			"token_name": "Hegessik"
+		},
+		{
+			"id": "Hippocampus",
+			"name": "ヒポカンパス",
+			"token_name": "ヒポカンパス"
+		},
+		{
+			"id": "Hobgoblin Troop",
+			"name": "Hobgoblin Troop",
+			"token_name": "Hobgoblin Troop"
+		},
+		{
+			"id": "Hooded Harbinger",
+			"name": "Hooded Harbinger",
+			"token_name": "Hooded Harbinger"
+		},
+		{
+			"id": "Huge Mud Elemental",
+			"name": "超大型のマッド・エレメンタル",
+			"token_name": "超大型のマッド・エレメンタル"
+		},
+		{
+			"id": "Hungry Fog",
+			"name": "ハングリー・フォッグ",
+			"token_name": "ハングリー・フォッグ"
+		},
+		{
+			"id": "Hunter Urchin",
+			"name": "ハンター・アーチン",
+			"token_name": "ハンター・アーチン"
+		},
+		{
+			"id": "Immense Tortoise",
+			"name": "イメンス・トータス",
+			"token_name": "イメンス・トータス"
+		},
+		{
+			"id": "Inkariax",
+			"name": "Inkariax",
+			"token_name": "Inkariax"
+		},
+		{
+			"id": "Jack-O'-Lantern",
+			"name": "ジャック・オ・ランタン",
+			"token_name": "ジャック・オ・ランタン"
+		},
+		{
+			"id": "Jackalwere",
+			"name": "ジャッカルワー",
+			"token_name": "ジャッカルワー"
+		},
+		{
+			"id": "Japalisura",
+			"name": "Japalisura",
+			"token_name": "Japalisura"
+		},
+		{
+			"id": "Juggernaut",
+			"name": "ジャガーノート",
+			"token_name": "ジャガーノート"
+		},
+		{
+			"id": "Jungle Giant",
+			"name": "ジャングル・ジャイアント",
+			"token_name": "ジャングル・ジャイアント"
+		},
+		{
+			"id": "Junk Golem",
+			"name": "ジャンク・ゴーレム",
+			"token_name": "ジャンク・ゴーレム"
+		},
+		{
+			"id": "Kikituk",
+			"name": "Kikituk",
+			"token_name": "Kikituk"
+		},
+		{
+			"id": "Killer Seahorse",
+			"name": "キラー・シーホース",
+			"token_name": "キラー・シーホース"
+		},
+		{
+			"id": "Kimenhul",
+			"name": "キメンフル",
+			"token_name": "キメンフル"
+		},
+		{
+			"id": "Kitsune",
+			"name": "キツネ",
+			"token_name": "キツネ"
+		},
+		{
+			"id": "Korada",
+			"name": "コラダ",
+			"token_name": "コラダ"
+		},
+		{
+			"id": "Kudimmu",
+			"name": "Kudimmu",
+			"token_name": "Kudimmu"
+		},
+		{
+			"id": "Kuwa",
+			"name": "クワ",
+			"token_name": "クワ"
+		},
+		{
+			"id": "Lacridaemon",
+			"name": "Lacridaemon",
+			"token_name": "Lacridaemon"
+		},
+		{
+			"id": "Lantern Archon",
+			"name": "ランタン・アルコン",
+			"token_name": "ランタン・アルコン"
+		},
+		{
+			"id": "Latten Mechanism",
+			"name": "Latten Mechanism",
+			"token_name": "Latten Mechanism"
+		},
+		{
+			"id": "Lemure",
+			"name": "レムレー",
+			"token_name": "レムレー"
+		},
+		{
+			"id": "Lhaksharut",
+			"name": "ラークシャラット",
+			"token_name": "ラークシャラット"
+		},
+		{
+			"id": "Living Effigy",
+			"name": "Living Effigy",
+			"token_name": "Living Effigy"
+		},
+		{
+			"id": "Living Mirage",
+			"name": "リヴィング・ミラージュ",
+			"token_name": "リヴィング・ミラージュ"
+		},
+		{
+			"id": "Lythirium",
+			"name": "Lythirium",
+			"token_name": "Lythirium"
+		},
+		{
+			"id": "Man-Eating Aurochs",
+			"name": "Man-Eating Aurochs",
+			"token_name": "Man-Eating Aurochs"
+		},
+		{
+			"id": "Megalania",
+			"name": "メガラニア",
+			"token_name": "メガラニア"
+		},
+		{
+			"id": "Mithral Golem",
+			"name": "ミスラル・ゴーレム",
+			"token_name": "ミスラル・ゴーレム"
+		},
+		{
+			"id": "Moloch",
+			"name": "Moloch",
+			"token_name": "Moloch"
+		},
+		{
+			"id": "Monadic Deva",
+			"name": "モナディック・デーヴァ",
+			"token_name": "モナディック・デーヴァ"
+		},
+		{
+			"id": "Moon-Beast",
+			"name": "ムーンビースト",
+			"token_name": "ムーンビースト"
+		},
+		{
+			"id": "Mothman",
+			"name": "モスマン",
+			"token_name": "モスマン"
+		},
+		{
+			"id": "Mummified Hippopotamus",
+			"name": "Mummified Hippopotamus",
+			"token_name": "Mummified Hippopotamus"
+		},
+		{
+			"id": "Munavri",
+			"name": "Munavri",
+			"token_name": "Munavri"
+		},
+		{
+			"id": "Naiad",
+			"name": "Naiad",
+			"token_name": "Naiad"
+		},
+		{
+			"id": "Nalfeshnee",
+			"name": "ナルフェシュネー",
+			"token_name": "ナルフェシュネー"
+		},
+		{
+			"id": "Nixudaemon",
+			"name": "Nixudaemon",
+			"token_name": "Nixudaemon"
+		},
+		{
+			"id": "Nuckelavee",
+			"name": "ナックラヴィー",
+			"token_name": "ナックラヴィー"
+		},
+		{
+			"id": "Nymph",
+			"name": "ニンフ",
+			"token_name": "ニンフ"
+		},
+		{
+			"id": "Oaur-Ooung",
+			"name": "Oaur-Ooung",
+			"token_name": "Oaur-Ooung"
+		},
+		{
+			"id": "Obsidian Golem",
+			"name": "Obsidian Golem",
+			"token_name": "Obsidian Golem"
+		},
+		{
+			"id": "Oceanid",
+			"name": "オケアニス",
+			"token_name": "オケアニス"
+		},
+		{
+			"id": "Ochre Jelly",
+			"name": "オーカー・ジェリー",
+			"token_name": "オーカー・ジェリー"
+		},
+		{
+			"id": "Omox",
+			"name": "オーモクス",
+			"token_name": "オーモクス"
+		},
+		{
+			"id": "Oni, Earth Yai",
+			"name": "Earth Yai",
+			"token_name": "Earth Yai"
+		},
+		{
+			"id": "Ooze Mephit",
+			"name": "ウーズ・メフィット",
+			"token_name": "ウーズ・メフィット"
+		},
+		{
+			"id": "Othaos",
+			"name": "オタオス",
+			"token_name": "オタオス"
+		},
+		{
+			"id": "Ourdivar",
+			"name": "Ourdivar",
+			"token_name": "Ourdivar"
+		},
+		{
+			"id": "Pachycephalosaurus",
+			"name": "パキケファロサウルス",
+			"token_name": "パキケファロサウルス"
+		},
+		{
+			"id": "Papinijuwari",
+			"name": "パピニジュワリ",
+			"token_name": "パピニジュワリ"
+		},
+		{
+			"id": "Peri",
+			"name": "ペリ",
+			"token_name": "ペリ"
+		},
+		{
+			"id": "Petitioner",
+			"name": "ペティショナー",
+			"token_name": "ペティショナー"
+		},
+		{
+			"id": "Phase Spider",
+			"name": "フェイズ・スパイダー",
+			"token_name": "フェイズ・スパイダー"
+		},
+		{
+			"id": "Phycomid",
+			"name": "フィコマイド",
+			"token_name": "フィコマイド"
+		},
+		{
+			"id": "Pickled Punk",
+			"name": "ピックルド・パンク",
+			"token_name": "ピックルド・パンク"
+		},
+		{
+			"id": "Piranha Swarm",
+			"name": "Piranha Swarm",
+			"token_name": "Piranha Swarm"
+		},
+		{
+			"id": "Pixie",
+			"name": "ピクシー",
+			"token_name": "ピクシー"
+		},
+		{
+			"id": "Pleroma",
+			"name": "プレローマ",
+			"token_name": "プレローマ"
+		},
+		{
+			"id": "Plesiosaurus",
+			"name": "プレシオサウルス",
+			"token_name": "プレシオサウルス"
+		},
+		{
+			"id": "Polevik",
+			"name": "Polevik",
+			"token_name": "Polevik"
+		},
+		{
+			"id": "Possession Lesser",
+			"name": "Possession Lesser",
+			"token_name": "Possession Lesser"
+		},
+		{
+			"id": "Psychemental",
+			"name": "サイケメンタル",
+			"token_name": "サイケメンタル"
+		},
+		{
+			"id": "Quickwood",
+			"name": "クイックウッド",
+			"token_name": "クイックウッド"
+		},
+		{
+			"id": "Rat Plague Swarm",
+			"name": "ラット・プレイグ・スウォーム",
+			"token_name": "ラット・プレイグ・スウォーム"
+		},
+		{
+			"id": "Remorhaz",
+			"name": "ルモアハズ",
+			"token_name": "ルモアハズ"
+		},
+		{
+			"id": "Reptoid",
+			"name": "レプトイド",
+			"token_name": "レプトイド"
+		},
+		{
+			"id": "Rukh",
+			"name": "ルフ",
+			"token_name": "ルフ"
+		},
+		{
+			"id": "Sahuagin",
+			"name": "サフアグン",
+			"token_name": "サフアグン"
+		},
+		{
+			"id": "Sapphire Jellyfish",
+			"name": "サファイア・ジェリーフィッシュ",
+			"token_name": "サファイア・ジェリーフィッシュ"
+		},
+		{
+			"id": "Sargassum Fiend",
+			"name": "サルガッスム・フィーンド",
+			"token_name": "サルガッスム・フィーンド"
+		},
+		{
+			"id": "Sea Cat",
+			"name": "シー・キャット",
+			"token_name": "シー・キャット"
+		},
+		{
+			"id": "Sepid",
+			"name": "セピド",
+			"token_name": "セピド"
+		},
+		{
+			"id": "Serpentfolk",
+			"name": "サーペントフォーク",
+			"token_name": "サーペントフォーク"
+		},
+		{
+			"id": "Set Guardian",
+			"name": "Set Guardian",
+			"token_name": "Set Guardian"
+		},
+		{
+			"id": "Shadow Giant",
+			"name": "Shadow Giant",
+			"token_name": "Shadow Giant"
+		},
+		{
+			"id": "Shadow Mastiff",
+			"name": "シャドウ・マスティフ",
+			"token_name": "シャドウ・マスティフ"
+		},
+		{
+			"id": "Shae",
+			"name": "シェイ",
+			"token_name": "シェイ"
+		},
+		{
+			"id": "Shield Archon",
+			"name": "シールド・アルコン",
+			"token_name": "シールド・アルコン"
+		},
+		{
+			"id": "Shipmind",
+			"name": "Shipmind",
+			"token_name": "Shipmind"
+		},
+		{
+			"id": "Sinspawn",
+			"name": "シンスポーン",
+			"token_name": "シンスポーン"
+		},
+		{
+			"id": "Skapraun",
+			"name": "Skapraun",
+			"token_name": "Skapraun"
+		},
+		{
+			"id": "Skull Swarm",
+			"name": "Skull Swarm",
+			"token_name": "Skull Swarm"
+		},
+		{
+			"id": "Skum",
+			"name": "スカム（ウラト・キニ）",
+			"token_name": "スカム"
+		},
+		{
+			"id": "Sleipnir",
+			"name": "スレイプニル",
+			"token_name": "スレイプニル"
+		},
+		{
+			"id": "Slurk",
+			"name": "スラーク",
+			"token_name": "スラーク"
+		},
+		{
+			"id": "Small Aether Elemental",
+			"name": "小型エーテル・エレメンタル",
+			"token_name": "小型エーテル・エレメンタル"
+		},
+		{
+			"id": "Snake Swarm",
+			"name": "スネーク・スウォーム",
+			"token_name": "スネーク・スウォーム"
+		},
+		{
+			"id": "Soulbound Mannequin",
+			"name": "ソウルバウンド・マネキン",
+			"token_name": "ソウルバウンド・マネキン"
+		},
+		{
+			"id": "Spellgorger",
+			"name": "Spellgorger",
+			"token_name": "Spellgorger"
+		},
+		{
+			"id": "Spinosaurus",
+			"name": "スピノサウルス",
+			"token_name": "スピノサウルス"
+		},
+		{
+			"id": "Spring-Heeled Jack",
+			"name": "スプリング・ヒールト・ジャック",
+			"token_name": "スプリング・ヒールト・ジャック"
+		},
+		{
+			"id": "Star Archon",
+			"name": "スター・アルコン",
+			"token_name": "スター・アルコン"
+		},
+		{
+			"id": "Stone Golem",
+			"name": "ストーン・ゴーレム",
+			"token_name": "ストーン・ゴーレム"
+		},
+		{
+			"id": "Swimming Eye Swarm",
+			"name": "Swimming Eye Swarm",
+			"token_name": "Swimming Eye Swarm"
+		},
+		{
+			"id": "Swordfish",
+			"name": "Swordfish",
+			"token_name": "Swordfish"
+		},
+		{
+			"id": "Taiga Giant",
+			"name": "タイガ・ジャイアント",
+			"token_name": "タイガ・ジャイアント"
+		},
+		{
+			"id": "Tarry Demodand",
+			"name": "ターリィ・デモダンド",
+			"token_name": "ターリィ・デモダンド"
+		},
+		{
+			"id": "Tataka",
+			"name": "タータカ",
+			"token_name": "タータカ"
+		},
+		{
+			"id": "Tenome",
+			"name": "Tenome",
+			"token_name": "Tenome"
+		},
+		{
+			"id": "Tentamort",
+			"name": "テンタモート",
+			"token_name": "テンタモート"
+		},
+		{
+			"id": "Thriae Dancer",
+			"name": "トリアイ・ダンサー",
+			"token_name": "トリアイ・ダンサー"
+		},
+		{
+			"id": "Thriae Queen",
+			"name": "トリアイ・クイーン",
+			"token_name": "トリアイ・クイーン"
+		},
+		{
+			"id": "Time Dimensional",
+			"name": "Time Dimensional",
+			"token_name": "Time Dimensional"
+		},
+		{
+			"id": "Trelmarixian",
+			"name": "Trelmarixian",
+			"token_name": "Trelmarixian"
+		},
+		{
+			"id": "Troglodyte",
+			"name": "トログロダイト",
+			"token_name": "トログロダイト"
+		},
+		{
+			"id": "Trollhound",
+			"name": "トロルハウンド",
+			"token_name": "トロルハウンド"
+		},
+		{
+			"id": "Trox",
+			"name": "トロックス",
+			"token_name": "トロックス"
+		},
+		{
+			"id": "Trumpet Archon",
+			"name": "トランペット・アルコン",
+			"token_name": "トランペット・アルコン"
+		},
+		{
+			"id": "Tsaalgrend",
+			"name": "ツアールグレンド",
+			"token_name": "ツアールグレンド"
+		},
+		{
+			"id": "Tuatara",
+			"name": "ツアタラ（ムカシトカゲ）",
+			"token_name": "ツアタラ"
+		},
+		{
+			"id": "Tupilaq",
+			"name": "トゥピラク",
+			"token_name": "トゥピラク"
+		},
+		{
+			"id": "Uinuja",
+			"name": "Uinuja",
+			"token_name": "Uinuja"
+		},
+		{
+			"id": "Unrisen",
+			"name": "Unrisen",
+			"token_name": "Unrisen"
+		},
+		{
+			"id": "Urhag",
+			"name": "Urhag",
+			"token_name": "Urhag"
+		},
+		{
+			"id": "Vespergaunt",
+			"name": "Vespergaunt",
+			"token_name": "Vespergaunt"
+		},
+		{
+			"id": "Vildeis",
+			"name": "ヴィルデイス",
+			"token_name": "ヴィルデイス"
+		},
+		{
+			"id": "Vilsteth",
+			"name": "Vilsteth",
+			"token_name": "Vilsteth"
+		},
+		{
+			"id": "Walrus",
+			"name": "ウォルラス（セイウチ）",
+			"token_name": "ウォルラス"
+		},
+		{
+			"id": "Warden Robot",
+			"name": "Warden Robot",
+			"token_name": "Warden Robot"
+		},
+		{
+			"id": "Warmonger Devil",
+			"name": "ウォーモンガー・デヴィル（レヴァローク）",
+			"token_name": "ウォーモンガー・デヴィル"
+		},
+		{
+			"id": "Water Orm",
+			"name": "ウォーター・オーム",
+			"token_name": "ウォーター・オーム"
+		},
+		{
+			"id": "Water Wysp",
+			"name": "ウォーター・ウィスプ",
+			"token_name": "ウォーター・ウィスプ"
+		},
+		{
+			"id": "Wayang",
+			"name": "ワヤン",
+			"token_name": "ワヤン"
+		},
+		{
+			"id": "Weasel",
+			"name": "ウィーゼル（イタチ）",
+			"token_name": "ウィーゼル "
+		},
+		{
+			"id": "Wendigo",
+			"name": "ウェンディゴ",
+			"token_name": "ウェンディゴ"
+		},
+		{
+			"id": "Werebear",
+			"name": "ワーベア（人間形態）",
+			"token_name": "ワーベア（人間形態）"
+		},
+		{
+			"id": "Werecrocodile",
+			"name": "ワークロコダイル（人間形態）",
+			"token_name": "ワークロコダイル（人間形態）"
+		},
+		{
+			"id": "Weremantis",
+			"name": "Weremantis (Hybrid Form)",
+			"token_name": "Weremantis (Hybrid Form)"
+		},
+		{
+			"id": "Wereraptor",
+			"name": "Wereraptor (Human Form)",
+			"token_name": "Wereraptor (Human Form)"
+		},
+		{
+			"id": "Whaler Jellyfish",
+			"name": "Whaler Jellyfish",
+			"token_name": "Whaler Jellyfish"
+		},
+		{
+			"id": "Whisperer",
+			"name": "Whisperer",
+			"token_name": "Whisperer"
+		},
+		{
+			"id": "Wickerman",
+			"name": "ウィッカーマン",
+			"token_name": "ウィッカーマン"
+		},
+		{
+			"id": "Winter Wolf",
+			"name": "ウィンター・ウルフ",
+			"token_name": "ウィンター・ウルフ"
+		},
+		{
+			"id": "Wolf-In-Sheep's-Clothing",
+			"name": "ウルフ・イン・シープス・クロッシング",
+			"token_name": "ウルフ・イン・シープス・クロッシング"
+		},
+		{
+			"id": "Wolliped",
+			"name": "ウォリペド",
+			"token_name": "ウォリペド"
+		},
+		{
+			"id": "Wolverine",
+			"name": "ウルヴァリン（クズリ）",
+			"token_name": "ウルヴァリン"
+		},
+		{
+			"id": "Wyvern",
+			"name": "ワイヴァーン",
+			"token_name": "ワイヴァーン"
+		},
+		{
+			"id": "Xiao",
+			"name": "シャオ",
+			"token_name": "シャオ"
+		},
+		{
+			"id": "Xoveron",
+			"name": "Xoveron",
+			"token_name": "Xoveron"
+		},
+		{
+			"id": "Yah-Thelgaad",
+			"name": "Yah-Thelgaad",
+			"token_name": "Yah-Thelgaad"
+		},
+		{
+			"id": "Yamabushi Tengu",
+			"name": "Yamabushi Tengu",
+			"token_name": "Yamabushi Tengu"
+		},
+		{
+			"id": "Young Adult Time Dragon",
+			"name": "ヤング・アダルト・タイム・ドラゴン",
+			"token_name": "ヤング・アダルト・タイム・ドラゴン"
+		},
+		{
+			"id": "Young Etheric Dragon",
+			"name": "ヤング・エーテリック・ドラゴン",
+			"token_name": "ヤング・エーテリック・ドラゴン"
+		},
+		{
+			"id": "Young Solar Dragon",
+			"name": "ヤング・ソーラー・ドラゴン",
+			"token_name": "ヤング・ソーラー・ドラゴン"
+		},
+		{
+			"id": "Young Vortex Dragon",
+			"name": "ヤング・ヴォーテックス・ドラゴン",
+			"token_name": "ヤング・ヴォーテックス・ドラゴン"
+		},
+		{
+			"id": "Yrthak",
+			"name": "アーサック",
+			"token_name": "アーサック"
+		},
+		{
+			"id": "Zoog",
+			"name": "ズーグ",
+			"token_name": "ズーグ"
+		},
+		{
+			"id": "Zygomind",
+			"name": "ザイゴマインド",
+			"token_name": "ザイゴマインド"
+		}
+	]
+}
