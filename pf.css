@@ -1,0 +1,9 @@
+
+.dialog .dialog-buttons{
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+.dialog {
+    width: 300px!important;
+}
