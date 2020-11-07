@@ -46,8 +46,8 @@
 		},
 		{
 			"id": "Adult Rift Dragon",
-			"name": "Adult Rift Dragon",
-			"token_name": "Adult Rift Dragon"
+			"name": "アダルト・リフト・ドラゴン",
+			"token_name": "アダルト・リフト・ドラゴン"
 		},
 		{
 			"id": "Advodaza Devil",
@@ -126,13 +126,13 @@
 		},
 		{
 			"id": "Ancient Havoc Dragon",
-			"name": "Ancient Havoc Dragon",
-			"token_name": "Ancient Havoc Dragon"
+			"name": "エインシャント・ハヴォック・ドラゴン",
+			"token_name": "エインシャント・ハヴォック・ドラゴン"
 		},
 		{
 			"id": "Ancient Rift Dragon",
-			"name": "Ancient Rift Dragon",
-			"token_name": "Ancient Rift Dragon"
+			"name": "エインシャント・リフト・ドラゴン",
+			"token_name": "エインシャント・リフト・ドラゴン"
 		},
 		{
 			"id": "Ancient Vortex Dragon",
@@ -231,8 +231,8 @@
 		},
 		{
 			"id": "Banelight",
-			"name": "Banelight",
-			"token_name": "Banelight"
+			"name": "ベインライト",
+			"token_name": "ベインライト"
 		},
 		{
 			"id": "Baphomet",
@@ -276,8 +276,8 @@
 		},
 		{
 			"id": "Black Butterfly",
-			"name": "Black Butterfly",
-			"token_name": "Black Butterfly"
+			"name": "ブラック・バタフライ",
+			"token_name": "ブラック・バタフライ"
 		},
 		{
 			"id": "Black Scorpion",
@@ -296,8 +296,8 @@
 		},
 		{
 			"id": "Blighted Fey Satyr",
-			"name": "Blighted Fey Satyr",
-			"token_name": "Blighted Fey Satyr"
+			"name": "ブライテッド・フェイのサテュロス",
+			"token_name": "ブライテッド・フェイのサテュロス"
 		},
 		{
 			"id": "Blood Algae Swarm",
@@ -326,8 +326,8 @@
 		},
 		{
 			"id": "Boggle",
-			"name": "Boggle",
-			"token_name": "Boggle"
+			"name": "ボーグル",
+			"token_name": "ボーグル"
 		},
 		{
 			"id": "Bone Idol",
@@ -411,8 +411,8 @@
 		},
 		{
 			"id": "Cave Blight",
-			"name": "Cave Blight",
-			"token_name": "Cave Blight"
+			"name": "ケイヴ・ブライト",
+			"token_name": "ケイヴ・ブライト"
 		},
 		{
 			"id": "Centaur",
@@ -446,8 +446,8 @@
 		},
 		{
 			"id": "Clockwork Angel",
-			"name": "Clockwork Angel",
-			"token_name": "Clockwork Angel"
+			"name": "クロックワーク・エンジェル",
+			"token_name": "クロックワーク・エンジェル"
 		},
 		{
 			"id": "Clockwork Goliath",
@@ -496,8 +496,8 @@
 		},
 		{
 			"id": "Coral Capuchin",
-			"name": "Coral Capuchin",
-			"token_name": "Coral Capuchin"
+			"name": "コーラル・カプチン",
+			"token_name": "コーラル・カプチン"
 		},
 		{
 			"id": "Cordulegaster",
@@ -511,8 +511,8 @@
 		},
 		{
 			"id": "Crimson Jellyfish",
-			"name": "Crimson Jellyfish",
-			"token_name": "Crimson Jellyfish"
+			"name": "クリムゾン・ジェリーフィッシュ",
+			"token_name": "クリムゾン・ジェリーフィッシュ"
 		},
 		{
 			"id": "Crimson Whale",
@@ -531,8 +531,8 @@
 		},
 		{
 			"id": "Cutlass Spider",
-			"name": "Cutlass Spider",
-			"token_name": "Cutlass Spider"
+			"name": "カトラス・スパイダー",
+			"token_name": "カトラス・スパイダー"
 		},
 		{
 			"id": "Dagon",
@@ -696,8 +696,8 @@
 		},
 		{
 			"id": "Elder Wyrm",
-			"name": "Elder Wyrm",
-			"token_name": "Elder Wyrm"
+			"name": "エルダー・ワーム",
+			"token_name": "エルダー・ワーム"
 		},
 		{
 			"id": "Elk",
@@ -736,8 +736,8 @@
 		},
 		{
 			"id": "Euryale",
-			"name": "Euryale",
-			"token_name": "Euryale"
+			"name": "エウリュアレ",
+			"token_name": "エウリュアレ"
 		},
 		{
 			"id": "Faceless Stalker",
@@ -831,8 +831,8 @@
 		},
 		{
 			"id": "Fungus Queen",
-			"name": "Fungus Queen",
-			"token_name": "Fungus Queen"
+			"name": "ファンガス・クイーン",
+			"token_name": "ファンガス・クイーン"
 		},
 		{
 			"id": "Gaki",
@@ -866,8 +866,8 @@
 		},
 		{
 			"id": "Geryon",
-			"name": "Geryon",
-			"token_name": "Geryon"
+			"name": "ゲリュオン",
+			"token_name": "ゲリュオン"
 		},
 		{
 			"id": "Ghatanothoa",
@@ -901,8 +901,8 @@
 		},
 		{
 			"id": "Giant Belostomatid",
-			"name": "Giant Belostomatid",
-			"token_name": "Giant Belostomatid"
+			"name": "ジャイアント・ベロストマティッド",
+			"token_name": "ジャイアント・ベロストマティッド"
 		},
 		{
 			"id": "Giant Black Widow Spider",
@@ -996,8 +996,8 @@
 		},
 		{
 			"id": "Giganotosaurus",
-			"name": "Giganotosaurus",
-			"token_name": "Giganotosaurus"
+			"name": "ギガノトサウルス",
+			"token_name": "ギガノトサウルス"
 		},
 		{
 			"id": "Girallon",
@@ -1041,8 +1041,8 @@
 		},
 		{
 			"id": "Gowrow",
-			"name": "Gowrow",
-			"token_name": "Gowrow"
+			"name": "ゴウロウ",
+			"token_name": "ゴウロウ"
 		},
 		{
 			"id": "Graeae",
@@ -1166,8 +1166,8 @@
 		},
 		{
 			"id": "Hookfang Worm",
-			"name": "Hookfang Worm",
-			"token_name": "Hookfang Worm"
+			"name": "フックファング・ワーム",
+			"token_name": "フックファング・ワーム"
 		},
 		{
 			"id": "Horn Caterpillar",
@@ -1366,8 +1366,8 @@
 		},
 		{
 			"id": "Krampus",
-			"name": "Krampus",
-			"token_name": "Krampus"
+			"name": "クランプス",
+			"token_name": "クランプス"
 		},
 		{
 			"id": "Kronosaurus",
@@ -1516,13 +1516,13 @@
 		},
 		{
 			"id": "Mokele-Mbembe",
-			"name": "Mokele-Mbembe",
-			"token_name": "Mokele-Mbembe"
+			"name": "モケーレムベンベ",
+			"token_name": "モケーレムベンベ"
 		},
 		{
 			"id": "Monkey Goblin",
-			"name": "Monkey Goblin",
-			"token_name": "Monkey Goblin"
+			"name": "モンキー・ゴブリン",
+			"token_name": "モンキー・ゴブリン"
 		},
 		{
 			"id": "Moon Dog",
@@ -1551,8 +1551,8 @@
 		},
 		{
 			"id": "Nekomata",
-			"name": "Nekomata",
-			"token_name": "Nekomata"
+			"name": "ネコマタ",
+			"token_name": "ネコマタ"
 		},
 		{
 			"id": "Nephilim",
@@ -1631,8 +1631,8 @@
 		},
 		{
 			"id": "Oblivion",
-			"name": "Oblivion",
-			"token_name": "Oblivion"
+			"name": "オブリヴィオン",
+			"token_name": "オブリヴィオン"
 		},
 		{
 			"id": "Ocean Giant",
@@ -1681,8 +1681,8 @@
 		},
 		{
 			"id": "Oshageros",
-			"name": "Oshageros",
-			"token_name": "Oshageros"
+			"name": "オシャゲロス",
+			"token_name": "オシャゲロス"
 		},
 		{
 			"id": "3VNsOH8Cx7PZ03hC",
@@ -1706,8 +1706,8 @@
 		},
 		{
 			"id": "Ouroboros",
-			"name": "Ouroboros",
-			"token_name": "Ouroboros"
+			"name": "ウロボロス",
+			"token_name": "ウロボロス"
 		},
 		{
 			"id": "Pale Stranger",
@@ -1796,8 +1796,8 @@
 		},
 		{
 			"id": "Psychic Stalker",
-			"name": "Psychic Stalker",
-			"token_name": "Psychic Stalker"
+			"name": "サイキック・ストーカー",
+			"token_name": "サイキック・ストーカー"
 		},
 		{
 			"id": "Pteranodon",
@@ -1816,8 +1816,8 @@
 		},
 		{
 			"id": "Quetzalcoatlus",
-			"name": "Quetzalcoatlus",
-			"token_name": "Quetzalcoatlus"
+			"name": "ケツァルコアトルス",
+			"token_name": "ケツァルコアトルス"
 		},
 		{
 			"id": "Raelis",
@@ -1826,8 +1826,8 @@
 		},
 		{
 			"id": "Ragathiel",
-			"name": "Ragathiel",
-			"token_name": "Ragathiel"
+			"name": "ラガシエル",
+			"token_name": "ラガシエル"
 		},
 		{
 			"id": "Raiju",
@@ -1851,8 +1851,8 @@
 		},
 		{
 			"id": "Razormouth",
-			"name": "Razormouth",
-			"token_name": "Razormouth"
+			"name": "レイザーマウス",
+			"token_name": "レイザーマウス"
 		},
 		{
 			"id": "Red Wyrm Ravener",
@@ -1901,8 +1901,8 @@
 		},
 		{
 			"id": "Sangudaemon",
-			"name": "Sangudaemon",
-			"token_name": "Sangudaemon"
+			"name": "サングダイモン",
+			"token_name": "サングダイモン"
 		},
 		{
 			"id": "Saumen Kar",
@@ -1966,8 +1966,8 @@
 		},
 		{
 			"id": "Shoki",
-			"name": "Shoki",
-			"token_name": "Shoki"
+			"name": "ショウキ",
+			"token_name": "ショウキ"
 		},
 		{
 			"id": "Shredskin",
@@ -2001,13 +2001,13 @@
 		},
 		{
 			"id": "Skincrawler",
-			"name": "Skincrawler",
-			"token_name": "Skincrawler"
+			"name": "スキンクロウラー",
+			"token_name": "スキンクロウラー"
 		},
 		{
 			"id": "Slithering Pit",
-			"name": "Slithering Pit",
-			"token_name": "Slithering Pit"
+			"name": "スリザリング・ピット",
+			"token_name": "スリザリング・ピット"
 		},
 		{
 			"id": "Small Fire Elemental",
@@ -2061,8 +2061,8 @@
 		},
 		{
 			"id": "Spiny Eurypterid",
-			"name": "Spiny Eurypterid",
-			"token_name": "Spiny Eurypterid"
+			"name": "スパイニー・ユーリプテリス",
+			"token_name": "スパイニー・ユーリプテリス"
 		},
 		{
 			"id": "Spitting Eurypterid",
@@ -2141,8 +2141,8 @@
 		},
 		{
 			"id": "Szuriel",
-			"name": "Szuriel",
-			"token_name": "Szuriel"
+			"name": "ザリエル",
+			"token_name": "ザリエル"
 		},
 		{
 			"id": "Taniniver",
@@ -2181,18 +2181,18 @@
 		},
 		{
 			"id": "The Black Horse Apocalypse Horse",
-			"name": "The Black Horse (Apocalypse Horse)",
-			"token_name": "The Black Horse"
+			"name": "ザ・ブラック・ホース（アポカリプス・ホース）",
+			"token_name": "ザ・ブラック・ホース"
 		},
 		{
 			"id": "The Pale Horse Apocalypse Horse",
-			"name": "The Pale Horse (Apocalypse Horse)",
-			"token_name": "The Pale Horse"
+			"name": "ザ・ペイル・ホース（アポカリプス・ホース）",
+			"token_name": "ザ・ペイル・ホース"
 		},
 		{
 			"id": "The Red Horse Apocalypse Horse",
-			"name": "The Red Horse (Apocalypse Horse)",
-			"token_name": "The Red Horse"
+			"name": "ザ・レッド・ホース（アポカリプス・ホース）",
+			"token_name": "ザ・レッド・ホース"
 		},
 		{
 			"id": "Thrasfyr",
@@ -2251,8 +2251,8 @@
 		},
 		{
 			"id": "Tundra Blight",
-			"name": "Tundra Blight",
-			"token_name": "Tundra Blight"
+			"name": "ツンドラ・ブライト",
+			"token_name": "ツンドラ・ブライト"
 		},
 		{
 			"id": "Twilight Pitri",
@@ -2301,8 +2301,8 @@
 		},
 		{
 			"id": "Vavakia",
-			"name": "Vavakia",
-			"token_name": "Vavakia"
+			"name": "ヴァヴァキア",
+			"token_name": "ヴァヴァキア"
 		},
 		{
 			"id": "Velociraptor",
@@ -2336,13 +2336,13 @@
 		},
 		{
 			"id": "Vorgozen",
-			"name": "Vorgozen",
-			"token_name": "Vorgozen"
+			"name": "ヴォルゴズン",
+			"token_name": "ヴォルゴズン"
 		},
 		{
 			"id": "Vrykolakas",
-			"name": "Vrykolakas",
-			"token_name": "Vrykolakas"
+			"name": "ヴリコラカス",
+			"token_name": "ヴリコラカス"
 		},
 		{
 			"id": "Vukodlak",
@@ -2376,18 +2376,18 @@
 		},
 		{
 			"id": "Werespider",
-			"name": "Werespider (Human Form)",
-			"token_name": "Werespider (Human Form)"
+			"name": "ワースパイダー（人間形態）",
+			"token_name": "ワースパイダー（人間形態）"
 		},
 		{
 			"id": "0cEh8ar6ec7IW0Ag",
-			"name": "Werewasp (Hybrid Form)",
-			"token_name": "Werewasp (Hybrid Form)"
+			"name": "ワーワスプ（中間形態）",
+			"token_name": "ワーワスプ（中間形態）"
 		},
 		{
 			"id": "8RUapYwwpTekRMjY",
-			"name": "Werewasp (Human Form)",
-			"token_name": "Werewasp (Human Form)"
+			"name": "ワーワスプ（人間形態）",
+			"token_name": "ワーワスプ（人間形態）"
 		},
 		{
 			"id": "Wikkawak",
@@ -2396,8 +2396,8 @@
 		},
 		{
 			"id": "Wild Hunt Archer",
-			"name": "Wild Hunt Archer",
-			"token_name": "Wild Hunt Archer"
+			"name": "ワイルド・ハント・アーチャー",
+			"token_name": "ワイルド・ハント・アーチャー"
 		},
 		{
 			"id": "Wolf",
@@ -2431,8 +2431,8 @@
 		},
 		{
 			"id": "Yaenit",
-			"name": "Yaenit",
-			"token_name": "Yaenit"
+			"name": "イエイニト",
+			"token_name": "イエイニト"
 		},
 		{
 			"id": "Yeth Hound",
@@ -2441,8 +2441,8 @@
 		},
 		{
 			"id": "Yig",
-			"name": "Yig",
-			"token_name": "Yig"
+			"name": "イグ",
+			"token_name": "イグ"
 		},
 		{
 			"id": "Young Apocalypse Dragon",
@@ -2471,8 +2471,8 @@
 		},
 		{
 			"id": "Young Paradise Dragon",
-			"name": "Young Paradise Dragon",
-			"token_name": "Young Paradise Dragon"
+			"name": "ヤング・パラダイス・ドラゴン",
+			"token_name": "ヤング・パラダイス・ドラゴン"
 		},
 		{
 			"id": "Young Red Dragon",
@@ -2481,8 +2481,8 @@
 		},
 		{
 			"id": "Young Rift Dragon",
-			"name": "Young Rift Dragon",
-			"token_name": "Young Rift Dragon"
+			"name": "ヤング・リフト・ドラゴン",
+			"token_name": "ヤング・リフト・ドラゴン"
 		},
 		{
 			"id": "Young Sea Dragon",
