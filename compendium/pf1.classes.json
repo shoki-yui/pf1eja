@@ -5,8 +5,8 @@
     },
 	"entries": [
 		{
-			"id": "Adept (NPC)",
-			"name": "アデプト (NPC)",
+			"id": "Adept",
+			"name": "アデプト",
 			"description": "<p><strong>属性：</strong>どれでも。</p>\n<p><strong>ヒット・ダイス：</strong>d6。</p>\n<h2><span id=\"Class_Skills\">クラス技能</span></h2>\n<p>アデプトのクラス技能は以下の通り：〈製作〉【知】、〈動物使い〉【魅】、〈治療〉【判】、〈知識：どれでも、別々の技能として修得すること〉【知】、〈職能〉【判】、〈呪文学〉【知】、〈生存〉【判】 。</p>\n<p><strong>レベル毎の技能ランク：</strong>2＋【知力】修正値。</p>",
 			"useCustomTag": "true"
 		},
@@ -29,8 +29,8 @@
 			"useCustomTag": "true"
 		},
 		{
-			"id": "Aristocrat (NPC)",
-			"name": "アリストクラート (NPC)",
+			"id": "Aristocrat",
+			"name": "アリストクラート",
 			"description": "<p><strong>属性：</strong>どれでも。</p>\n<p><strong>ヒット・ダイス：</strong>d8。</p>\n<h2><span id=\"Class_Skills\">クラス技能</span></h2>\n<p>アリストクラートのクラス技能は以下の通り：〈威圧〉【魅】、〈鑑定〉【知】、〈交渉〉【魅】、〈製作〉【知】、〈生存〉【判】、〈知識：どれでも別々の技能として修得すること〉【知】、〈動物使い〉【魅】、〈はったり〉【魅】、〈変装〉【魅】、〈騎乗〉【敏】、〈芸能〉【魅】、〈言語学〉【知】、〈職能〉【判】、〈真意看破〉【判】、〈水泳〉【筋】、〈知覚〉【判】。</p>\n<p><strong>レベル毎の技能ランク：</strong>4＋【知力】修正値。</p>",
 			"useCustomTag": "true"
 		},
@@ -77,8 +77,8 @@
 			"useCustomTag": "true"
 		},
 		{
-			"id": "Commoner (NPC)",
-			"name": "コモナー (NPC)",
+			"id": "Commoner",
+			"name": "コモナー",
 			"description": "<p><strong>属性：</strong>どれでも。</p>\n<p><strong>ヒット・ダイス：</strong>d6。</p>\n<h2><span id=\"Class_Skills\">クラス技能</span></h2>\n<p>コモナーのクラス技能は以下の通り：〈騎乗〉【敏】、〈職能〉【判】、〈水泳〉【筋】、〈製作〉【知】、〈知覚〉【判】、〈登攀〉【筋】、〈動物使い〉【魅】。</p>\n<p><strong>レベル毎の技能ランク：</strong>2＋【知】修正値。</p>",
 			"useCustomTag": "true"
 		},
@@ -89,8 +89,8 @@
 			"useCustomTag": "true"
 		},
 		{
-			"id": "Expert (NPC)",
-			"name": "エキスパート (NPC)",
+			"id": "Expert",
+			"name": "エキスパート",
 			"description": "<p><strong>属性：</strong>どれでも。</p>\n<p><strong>ヒット・ダイス：</strong>d8。</p>\n<h2><span id=\"Class_Skills\">クラス技能</span></h2>\n<p>エキスパートはどれでも10個の技能を選択してクラス技能にすることができる。</p>\n<p><strong>レベル毎の技能ランク：</strong>6＋【知力】修正値。</p>",
 			"useCustomTag": "true"
 		},
@@ -290,8 +290,8 @@
 			"useCustomTag": "true"
 		},
 		{
-			"id": "Warrior (NPC)",
-			"name": "ウォリアー (NPC)",
+			"id": "Warrior",
+			"name": "ウォリアー",
 			"description": "<p><strong>属性：</strong>どれでも。</p>\n<p><strong>ヒット・ダイス：</strong>d10。</p>\n<h2><span id=\"Class_Skills\">クラス技能</span></h2>\n<p>ウォリアーのクラス技能は以下の通り：〈威圧〉【魅】、〈騎乗〉【敏】、〈職能〉【判】、〈水泳〉【筋】、〈製作〉【知】、〈登攀〉【筋】、〈動物使い〉【魅】。</p>\n<p><strong>レベル毎の技能ランク：</strong>2＋【知力】修正値。</p>",
 			"useCustomTag": "true"
 		},
