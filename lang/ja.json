@@ -49,9 +49,11 @@
   "SETTINGS.pf1UnchainedActionEconomyN": "Unchained Action Economy",
   "SETTINGS.pf1UnchainedActionEconomyH": "Unchained Action Economyオプションのルールセットを使用するかどうか。",
   "SETTINGS.pf1SkipActionDialogsN": "アクション・プロンプトをスキップ",
-  "SETTINGS.pf1SkipActionDialogsH": "Shift+クリックをしなければ、アクション・プロンプト（攻撃やセーブなどの）をスキップする",
+  "SETTINGS.pf1SkipActionDialogsH": "Shift+クリックをしなければ、アクション・プロンプト（攻撃やセーブなどの）をスキップする。",
+  "SETTINGS.placeMeasureTemplateOnQuickRollsN": "クイックロール時のメジャーテンプレートの配置",
+  "SETTINGS.placeMeasureTemplateOnQuickRollsH": "アクション・プロンプトをスキップした時でもメジャーテンプレートを配置する。",
   "SETTINGS.pf1InvertSectionFilterBehaviourN": "インベントリフィルタの動作を反転する",
-  "SETTINGS.pf1InvertSectionFilterBehaviourH": "（アイテム）セクションのタイプフィルターのShiftキーを押しながらクリックする動作を反転します。",
+  "SETTINGS.pf1InvertSectionFilterBehaviourH": "（アイテム）セクションのタイプフィルターのShiftキーを押しながらクリックする動作を反転する。",
   "SETTINGS.pf1HideReachMeasurementsN": "間合いの距離の表示を隠す",
   "SETTINGS.pf1HideReachMeasurementsH": "トークンのクイックアクションにカーソルを合わせたときに見られるような、間合いの距離の表示をしない。",
 
@@ -102,6 +104,9 @@
   "PF1.ApplyCriticalDamage": "クリティカルダメージを適用",
   "PF1.ApplyHealing": "回復を適用",
   "PF1.ApplyCriticalHealing": "クリティカル回復を適用",
+  "PF1.ReduceBy": "減少値",
+  "PF1.SwapSelected": "選択を反転",
+  "PF1.ClearReduction": "減少値をクリア",
 
   "PF1.RollsForInitiative": "{0}のイニシアチブロール！",
 
@@ -847,6 +852,7 @@
   "PF1.Defenses": "防御",
   "PF1.Description": "説明",
   "PF1.Details": "詳細",
+  "PF1.Edit": "Edit",
   "PF1.Enchantments": "魔法",
   "PF1.EnRes": "エネルギー耐性",
   "PF1.Equipped": "装備",
@@ -1020,6 +1026,12 @@
   "PF1.CastingTime": "発動時間",
   "PF1.Components": "構成要素",
   "PF1.Aura": "オーラ",
+  "PF1.SpellRangeShort": "(25 ft. + 5 ft./2 levels)",
+  "PF1.SpellRangeMedium": "(100 ft. + 10 ft./level)",
+  "PF1.SpellRangeLong": "(400 ft. + 40 ft./level)",
+  "PF1.SpellRangeShortMetric": "(7.5 m + 1.5 m/2 levels)",
+  "PF1.SpellRangeMediumMetric": "(30 m + 3 m/level)",
+  "PF1.SpellRangeLongMetric": "(120 m + 12 m/level)",
 
   "PF1.AuraStrength_Faint": "微弱",
   "PF1.AuraStrength_Moderate": "中程度",
@@ -1258,6 +1270,8 @@
   "PF1.DomainSlotValue": "領域スロット数",
   "PF1.DomainSlotValueDesc": "領域/系統の呪文は呪文レベルにいくつの「空き」スロットを提供しますか？",
   "PF1.DisableLightLowLightVision": "Disable Low-light Vision for Light Source",
+  "PF1.Command": "Command",
+  "PF1.MaximumRangeIncrements": "最大距離の増加倍率",
 
   "PF1.Help": {
     "Label": "Help",
@@ -1453,7 +1467,7 @@
           "Description": "Description",
           "DescriptionDesc": "The description to show, if identified.",
           "UnidentifiedDescription": "Unidentified Description",
-          "UnidentifiedDescriptionDesc":  "The description to show to players, if unidentified.",
+          "UnidentifiedDescriptionDesc": "The description to show to players, if unidentified.",
           "Price": "Price",
           "PriceDesc": "The price of the item, in gold pieces, if identified",
           "UnidentifiedPrice": "Unidentified Price",
@@ -1493,7 +1507,7 @@
             },
             "Operator": {
               "Label": "Operator",
-              "Desc": "The operator is either '+' (relative) or '=' (absolute). Relative values <i>add</i> to an attribute, while absolute values <i>set</i> the attribute to the result of the formula."
+              "Desc": "The operators are '+' (relative), '=' (absolute) or 'S' (script). Relative values <i>add</i> to an attribute, while absolute values <i>set</i> the attribute to the result of the formula. See below for the script operator."
             },
             "Priority": {
               "Label": "Priority",
@@ -1526,6 +1540,21 @@
             "SubTarget": {
               "Label": "Sub-Target",
               "Desc": "The specific attribute to alter with this change."
+            }
+          },
+          "ScriptOperator": {
+            "Label": "Script Operator",
+            "Desc": "The 'formula' of changes using the Script operator are actually small JavaScript scripts that are run when processing changes. Some JavaScript knowledge is required to understand these.",
+            "Variables": {
+              "Desc": "Within these scripts, the following variables can be used:",
+              "0": {
+                "Name": "d",
+                "Desc": "The roll data at the time of processing the change. Contains any variable you could use within a normal change formula using the `@` symbol."
+              },
+              "1": {
+                "Name": "result",
+                "Desc": "This contains two more variables, <code>value</code> and <code>operator</code>. Set <code>value</code> to the numeric result you want for the change, and <code>operator</code> to either <code>\"add\"</code> or <code>\"set\"</code>.<br><br><code>value</code> defaults to <code>0</code> and <code>operator</code> defaults to <code>\"add\"</code>."
+              }
             }
           }
         }

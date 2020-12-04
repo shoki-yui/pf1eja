@@ -1,5 +1,9 @@
 {
 	"label": "アイテム",
+	"mapping": {
+		"identifiedName": "data.identifiedName",
+		"inventoryItems": "data.inventoryItems"
+	},
 	"entries": [
 		{
 			"id": "A Thread Of Silver",
