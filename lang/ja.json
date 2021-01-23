@@ -77,6 +77,27 @@
   "SETTINGS.pf1HealthConfigWoundsAndVigorNPCName": "NPCの負傷と活力",
   "SETTINGS.pf1HealthConfigWoundsAndVigorNPCHint": "ノンプレイヤー・キャラクターに負傷と活力の選択ルールを適用する。",
 
+  "SETTINGS.pf1HealthConfigWoundThresholdsPCName": "PCの負傷段階",
+  "SETTINGS.pf1HealthConfigWoundsThresholdsPCHint": "プレイヤー・キャラクターに負傷段階のオプションルールを使用する。",
+  "SETTINGS.pf1HealthConfigWoundThresholdsNPCName": "NPCの負傷段階",
+  "SETTINGS.pf1HealthConfigWoundsThresholdsNPCHint": "ノンプレイヤー・キャラクターに負傷段階のオプションルールを使用する。",
+  "SETTINGS.pf1HealthConfigWoundThresholdsPCOverrideName": "PCの負傷段階の上書き変更を許可する",
+  "SETTINGS.pf1HealthConfigWoundThresholdsPCOverrideHint": "アクターシートの設定でプレイヤー・キャラクターごとに負傷段階のオプションルールの設定を上書き変更することを許可する。",
+  "SETTINGS.pf1HealthConfigWoundThresholdsNPCOverrideName": "NPCの負傷段階の上書き変更を許可する",
+  "SETTINGS.pf1HealthConfigWoundThresholdsNPCOverrideHint": "アクターシートの設定でノンプレイヤー・キャラクターごとに負傷段階のオプションルールの設定を上書き変更することを許可する。",
+  "SETTINGS.pf1HealthConfigWoundThresholdDisabled": "無効",
+  "SETTINGS.pf1HealthConfigWoundThresholdNormal": "通常",
+  "SETTINGS.pf1HealthConfigWoundThresholdGritty": "気骨",
+
+  "PF1.OptionalAndVariantRules": "オプション&バリアントルール",
+
+  "PF1.WoundThresholdOverride": "負傷段階の上書き変更",
+
+  "PF1.WoundLevelHealthy": "無傷状態",
+  "PF1.WoundLevelGrazed": "軽傷状態",
+  "PF1.WoundLevelWounded": "中傷状態",
+  "PF1.WoundLevelCritical": "重傷状態",
+  
   "SETTINGS.pf1UnitsN": "単位系",
   "SETTINGS.pf1UnitsL": "このワールドで使用される単位系",
 
@@ -98,6 +119,8 @@
   "PF1.AccessibilityFontSize": "フォントサイズ",
   "PF1.AccessibilityFontSizeHint": "ゲームの特定の部分（攻撃チャットカードなど）でフォントサイズを変更します",
 
+  "PF1.General": "一般",
+  
   "PF1.Apply": "適用",
   "PF1.ApplyHalf": "半分適用",
   "PF1.ApplyDamage": "ダメージを適用",
@@ -338,7 +361,9 @@
   "PF1.BuffTarIntChecks": "知力判定",
   "PF1.BuffTarWisChecks": "判断力判定",
   "PF1.BuffTarChaChecks": "魅力判定",
+  
   "PF1.BuffTarSpells": "呪文",
+  "PF1.SpellBuffEffect": "効果",
 
   "PF1.SkillAcr": "軽業",
   "PF1.SkillApr": "鑑定",
@@ -634,6 +659,8 @@
   "PF1.WarningConditionalRoll": "Rolling conditional formula № {number} of conditional {name} caused an error",
   "PF1.WarningNoItemOnActor": "Actor {0} has no item {1}",
   "PF1.WarningCannotCreateChargeLink": "Could not create a Charge type link between {0} and {1}, because {1} has Charge type links of its own",
+  "PF1.WarningCannotCreateChargeLink2": "Could not create a Charge type link between {0} and {1}, because {1} is already linked to {2}",
+  "PF1.WarningNoCombatantFound": "No combatant found",
   "PF1.NotificationCreatedAttack": "{0}の攻撃を生成",
 
   "PF1.Action_RollDefenses": "Roll Defenses",
@@ -802,6 +829,7 @@
   "PF1.SourceInfoTraits": "特徴",
   "PF1.SourceInfoRacialTraits": "種族的特徴",
   "PF1.SourceInfoMiscFeatures": "その他の特性",
+  "PF1.SourceInfoTemplate": "テンプレート",
   "PF1.SourceInfoRace": "種族",
 
   "PF1.CreateItemForSpell": "{0}のアイテムを作成",
@@ -878,6 +906,7 @@
   "PF1.InfoShort": "情報",
   "PF1.Inventory": "所持品",
   "PF1.Inspiration": "インスピレーション",
+  "PF1.Feature": "特徴",
   "PF1.Features": "特徴",
   "PF1.FullRoundAttack": "全力攻撃",
   "PF1.Languages": "言語",
@@ -946,6 +975,7 @@
   "PF1.Active": "アクティブ",
   "PF1.SpellDetails": "呪文の詳細",
   "PF1.SpellBook": "呪文書",
+  "PF1.SpellBookPlural": "呪文書",
   "PF1.SpellLevel": "呪文レベル",
   "PF1.SpellSchool": "呪文の系統",
   "PF1.SpellComponents": "呪文の構成要素",
@@ -962,12 +992,17 @@
   "PF1.Area": "範囲",
   "PF1.Supply": "Supply",
   "PF1.Melee": "近接",
+  "PF1.MeleeWeapon": "近接武器",
+  "PF1.MeleeSpell": "近接呪文",
   "PF1.Ranged": "遠隔",
+  "PF1.RangedWeapon": "遠隔武器",
+  "PF1.RangedSpell": "遠隔呪文",
   "PF1.WeaponDamage": "武器ダメージ",
   "PF1.SpellDamage": "呪文ダメージ",
   "PF1.AttackRollPlural": "攻撃ロール",
   "PF1.DamageRollPlural": "ダメージ・ロール",
   "PF1.AbilityScore": "能力値",
+  "PF1.AbilityScoreLinks": "参照能力値の設定",
   "PF1.SavingThrow": "セーヴィング・スロー",
   "PF1.SavingThrowPlural": "セーヴィング・スロー",
   "PF1.SavingThrowEffect": "セービング・スロー効果",
@@ -990,6 +1025,7 @@
   "PF1.CMDFFAbbr": "立ちすくみCMD",
   "PF1.Untrained": "未習得",
   "PF1.DeleteItemConfirmation": "本当にこの項目を削除しますか？",
+  "PF1.UnsavedTinyMCE": "You have unsaved text in a field.<br>Would you like to save before closing?",
   "PF1.UsesItem": "{0}を使用",
   "PF1.OtherFormula": "その他の式",
   "PF1.Range": "距離",
@@ -1276,5 +1312,7 @@
   "PF1.DomainSlotValueDesc": "領域/系統の呪文は呪文レベルにいくつの「空き」スロットを提供しますか？",
   "PF1.DisableLightLowLightVision": "この光源に対して夜目を無効にする",
   "PF1.Command": "Command",
-  "PF1.MaximumRangeIncrements": "最大距離の増加倍率"
+  "PF1.MaximumRangeIncrements": "最大距離の増加倍率",
+  "PF1.DuplicateInitiative": "重複イニシアチブの生成",
+  "PF1.InitiativeOffset": "イニシアチブ補正値"
 }
