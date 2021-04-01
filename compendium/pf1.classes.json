@@ -2,8 +2,7 @@
 	"label": "クラス",
     "mapping": {
     		"armorProf": "data.armorProf",
-    		"weaponProf": "data.weaponProf",
-			"useCustomTag": "data.useCustomTag"
+    		"weaponProf": "data.weaponProf"
     },
 	"entries": [
 		{
@@ -19,8 +18,7 @@
 					"sim"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Alchemist",
@@ -37,8 +35,7 @@
 					"sim"
 				],
 				"custom": "爆弾"
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Antipaladin",
@@ -59,8 +56,7 @@
 					"mar"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Arcanist",
@@ -75,8 +71,7 @@
 					"sim"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Aristocrat",
@@ -98,8 +93,7 @@
 					"mar"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Barbarian",
@@ -119,8 +113,7 @@
 					"mar"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Barbarian (Unchained)",
@@ -140,8 +133,7 @@
 					"mar"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Bard",
@@ -159,8 +151,7 @@
 					"sim"
 				],
 				"custom": "ウィップ;ショート・ソード;ショートボウ;レイピア;ロングソード;サップ"
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Bloodrager",
@@ -180,8 +171,7 @@
 					"mar"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Brawler",
@@ -199,8 +189,7 @@
 					"sim"
 				],
 				"custom": "ハンドアックス;ショート・ソード;近距離武器グループ"
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Cavalier",
@@ -221,8 +210,7 @@
 					"mar"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Cleric",
@@ -241,8 +229,7 @@
 					"sim"
 				],
 				"custom": "神格の好む武器"
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Commoner",
@@ -255,8 +242,7 @@
 			"weaponProf": {
 				"value": [],
 				"custom": "単純武器1つ"
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Druid",
@@ -273,8 +259,7 @@
 			"weaponProf": {
 				"value": [],
 				"custom": "クオータースタッフ;クラブ;サイズ;シックル;シミター;ショートスピア;スピア;スリング;ダーツ;ダガー;肉体武器"
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Expert",
@@ -291,8 +276,7 @@
 					"sim"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Fighter",
@@ -314,8 +298,7 @@
 					"mar"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Gunslinger",
@@ -333,8 +316,7 @@
 					"mar"
 				],
 				"custom": "火器"
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Hunter",
@@ -354,8 +336,7 @@
 					"mar"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Inquisitor",
@@ -374,8 +355,7 @@
 					"sim"
 				],
 				"custom": "ハンド・クロスボウ;ロングボウ;リピーティング・クロスボウ;ショートボウ;神格の好む武器"
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Investigator",
@@ -392,8 +372,7 @@
 					"sim"
 				],
 				"custom": "サップ;ショート・ソード;ショートボウ;ソード・ケイン;ハンド・クロスボウ;レイピア"
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Kineticist",
@@ -410,8 +389,7 @@
 					"sim"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Magus",
@@ -429,8 +407,7 @@
 					"mar"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Medium",
@@ -448,8 +425,7 @@
 					"sim"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Mesmerist",
@@ -466,8 +442,7 @@
 					"sim"
 				],
 				"custom": "ウィップ;サップ;ソード・ケイン;ハンド・クロスボウ"
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Monk",
@@ -480,8 +455,7 @@
 			"weaponProf": {
 				"value": [],
 				"custom": "カマ;クオータースタッフ;クラブ;ヘヴィ・クロスボウ;ライト・クロスボウ;サイ;ジャヴェリン;シャンガム;シュリケン;ショートスピア;ショート・ソード;スピア;スリング;セスタス;ダガー;テンプル・ソード;ヌンチャク;ハンドアックス;ブラス・ナックル"
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Monk (Unchained)",
@@ -494,8 +468,7 @@
 			"weaponProf": {
 				"value": [],
 				"custom": "カマ;クオータースタッフ;クラブ;サイ;ジャヴェリン;シャンガム;シュリケン;ショートスピア;ショート・ソード;スピア;スリング;ダガー;ヌンチャク;ハンドアックス;ヘヴィ・クロスボウ;ライト・クロスボウ;モンク武器"
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Ninja",
@@ -512,8 +485,7 @@
 					"sim"
 				],
 				"custom": "カタナ;カマ;クサリガマ;サイ;シャンガム;シュリケン;ショート・ソード;ショートボウ;ヌンチャク;ワキザシ"
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Occultist",
@@ -533,8 +505,7 @@
 					"mar"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Omdura",
@@ -553,8 +524,7 @@
 					"sim"
 				],
 				"custom": ""
-			},
-			"useCustomTag": true
+			}
 		},
 		{
 			"id": "Oracle",
@@ -573,8 +543,7 @@
 					"sim"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Paladin",
@@ -595,8 +564,7 @@
 					"mar"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Psychic",
@@ -611,8 +579,7 @@
 					"sim"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Ranger",
@@ -632,8 +599,7 @@
 					"mar"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Rogue",
@@ -650,8 +616,7 @@
 					"sim"
 				],
 				"custom": "サップ;ショート・ソード;ショートボウ;ハンド・クロスボウ;レイピア"
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Rogue (Unchained)",
@@ -668,8 +633,7 @@
 					"sim"
 				],
 				"custom": "サップ;ショート・ソード;ショートボウ;ハンド・クロスボウ;レイピア"
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Samurai",
@@ -690,8 +654,7 @@
 					"mar"
 				],
 				"custom": "カタナ;ナギナタ;ワキザシ"
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Shaman",
@@ -709,8 +672,7 @@
 					"sim"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Shifter",
@@ -727,8 +689,7 @@
 			"weaponProf": {
 				"value": [],
 				"custom": "クオータースタッフ;クラブ;サイズ;シックル;シミター;ショートスピア;スピア;スリング;ダーツ;ダガー;肉体武器"
-			},
-			"useCustomTag": true
+			}
 		},
 		{
 			"id": "Skald",
@@ -748,8 +709,7 @@
 					"mar"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Slayer",
@@ -769,8 +729,7 @@
 					"mar"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Sorcerer",
@@ -785,8 +744,7 @@
 					"sim"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Spiritualist",
@@ -803,8 +761,7 @@
 					"sim"
 				],
 				"custom": "ククリ;サイズ;サップ"
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Summoner",
@@ -821,8 +778,7 @@
 					"sim"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Summoner (Unchained)",
@@ -839,8 +795,7 @@
 					"sim"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Swashbuckler",
@@ -858,8 +813,7 @@
 					"mar"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Vampire Hunter",
@@ -879,8 +833,7 @@
 					"mar"
 				],
 				"custom": ""
-			},
-			"useCustomTag": true
+			}
 		},
 		{
 			"id": "Vigilante",
@@ -900,8 +853,7 @@
 					"mar"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Warpriest",
@@ -922,8 +874,7 @@
 					"mar"
 				],
 				"custom": "神格の好む武器"
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Warrior",
@@ -945,8 +896,7 @@
 					"mar"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Witch",
@@ -961,8 +911,7 @@
 					"sim"
 				],
 				"custom": ""
-			},
-			"useCustomTag": "true"
+			}
 		},
 		{
 			"id": "Wizard",
@@ -975,8 +924,7 @@
 			"weaponProf": {
 				"value": [],
 				"custom": "クラブ;ダガー;ヘヴィ・クロスボウ;ライト・クロスボウ;クオータースタッフ"
-			},
-			"useCustomTag": "true"
+			}
 		}
 	]
 }

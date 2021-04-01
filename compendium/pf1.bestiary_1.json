@@ -1685,17 +1685,17 @@
 			"token_name": "オシャゲロス"
 		},
 		{
-			"id": "3VNsOH8Cx7PZ03hC",
+			"id": "Ossumental (Air)",
 			"name": "Ossumental (Air)",
 			"token_name": "Ossumental (Air)"
 		},
 		{
-			"id": "5qydAAqWpAfI3UqN",
+			"id": "Ossumental (Earth)",
 			"name": "Ossumental (Earth)",
 			"token_name": "Ossumental (Earth)"
 		},
 		{
-			"id": "B0tneXu4Rf330o3y",
+			"id": "Ossumental (Water)",
 			"name": "Ossumental (Water)",
 			"token_name": "Ossumental (Water)"
 		},
@@ -2380,12 +2380,12 @@
 			"token_name": "ワースパイダー（人間形態）"
 		},
 		{
-			"id": "0cEh8ar6ec7IW0Ag",
+			"id": "Werewasp (Hybrid Form)",
 			"name": "ワーワスプ（中間形態）",
 			"token_name": "ワーワスプ（中間形態）"
 		},
 		{
-			"id": "8RUapYwwpTekRMjY",
+			"id": "Werewasp (Human Form)",
 			"name": "ワーワスプ（人間形態）",
 			"token_name": "ワーワスプ（人間形態）"
 		},

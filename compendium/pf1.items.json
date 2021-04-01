@@ -296,13 +296,7 @@
 			"identifiedName": "パイチュウ"
 		},
 		{
-			"id": "JqKe0uzy9vQYW53J",
-			"name": "ボール（10インチ）",
-			"description": "<p><b>市価</b> 6gp; <b>重量</b> 1ポンド</p><p>この球は、膨らませた動物の嚢、軽い木を削ったもの、布や植物の繊維を詰め込んで縫って口を締めた織物などだ。</p>",
-			"identifiedName": "ボール（10インチ）"
-		},
-		{
-			"id": "KKVx0R4EH17PZonh",
+			"id": "Ball (10 in)",
 			"name": "ボール（10インチ）",
 			"description": "<p><b>市価</b> 6gp; <b>重量</b> 1ポンド</p><p>この球は、膨らませた動物の嚢、軽い木を削ったもの、布や植物の繊維を詰め込んで縫って口を締めた織物などだ。</p>",
 			"identifiedName": "ボール（10インチ）"
@@ -1478,16 +1472,10 @@
 			"identifiedName": "影視メガネ"
 		},
 		{
-			"id": "fquaazebaawmhsuz",
-			"name": "遮光ゴーグル（APG）",
-			"description": "<p><b>市価</b> 10gp; <b>重量</b> -</p><p>この眼鏡は曇ったガラスで作成されたレンズを持っており、着用者を凝視攻撃から守ってくれる。凝視攻撃に対した際に、君は常に視線をずらしているものとして扱われ、視覚に基づいた攻撃（盲目のクリーチャーには無効となる攻撃全て）に対するセーヴに＋8の状況ボーナスを提供する。ゴーグルをかけている間、君は〈知覚〉判定に－4のペナルティを受ける。また、全ての敵は視認困難（20％失敗確率）を持っているものとして扱う。</p>",
-			"identifiedName": "遮光ゴーグル（APG）"
-		},
-		{
-			"id": "dxoaodiakqybbbyc",
-			"name": "遮光ゴーグル（UE）",
+			"id": "Goggles, Smoked",
+			"name": "遮光ゴーグル",
 			"description": "<p><b>市価</b> 10gp; <b>重量</b> -</p><p>この眼鏡は曇ったガラスで作成されたレンズを備えており、着用者を凝視攻撃から守ってくれる。凝視攻撃に対した際に、君は常に視線をずらしているものとして扱われ、視覚に基づいた攻撃（盲目のクリーチャーには無効となる攻撃全て）に対するセーヴに＋8の状況ボーナスを提供する。ゴーグルをかけている間、君は〈知覚〉判定に－4のペナルティを受ける。また、全ての敵は視認困難（20％失敗確率）を持っているものとして扱う。</p>",
-			"identifiedName": "遮光ゴーグル（UE）"
+			"identifiedName": "遮光ゴーグル"
 		},
 		{
 			"id": "Gold",
@@ -1772,22 +1760,16 @@
 			"identifiedName": "Incendiary Catalyst"
 		},
 		{
-			"id": "DC7QVYDxzkYAYSPT",
-			"name": "香（OA）",
-			"description": "<p><b>市価</b> 7sp／10本; <b>重量</b> -</p><p>この香りの強い樹脂には、香油が混ぜられており、棒状、円錐状、球状といった形をしている。このアイテムはしばしば宗教儀式や瞑想時に燃やされる。香1回分は1時間燃える。</p>",
-			"identifiedName": "香（OA）"
-		},
-		{
-			"id": "iclfnaawjjxuvupa",
-			"name": "香（ARG）",
+			"id": "Incense",
+			"name": "香",
 			"description": "<p><b>市価</b> 10gp／10本; <b>重量</b> 1ポンド</p><p>この香りのよい樹脂には香油が含まれている。棒や三角錐、球といった形であることが多く、儀式や瞑想中に燃やされる。香1つは1時間燃える。</p>",
-			"identifiedName": "香（ARG）"
+			"identifiedName": "香"
 		},
 		{
 			"id": "Incense (10 sticks)",
-			"name": "香（10本）（ARG）",
+			"name": "香（10本）",
 			"description": "<p><b>市価</b> 10gp／10本; <b>重量</b> 1ポンド</p><p>この香りのよい樹脂には香油が含まれている。棒や三角錐、球といった形であることが多く、儀式や瞑想中に燃やされる。香1つは1時間燃える。</p>",
-			"identifiedName": "香（10本）（ARG）"
+			"identifiedName": "香（10本）"
 		},
 		{
 			"id": "Incense, Scentbane",
@@ -1820,28 +1802,16 @@
 			"identifiedName": "Ink, Ghost"
 		},
 		{
-			"id": "txkgvmomhompjpbr",
-			"name": "発光インク（UE）",
+			"id": "Ink, Glowing",
+			"name": "発光インク",
 			"description": "<p><b>市価</b> 5gp; <b>重量</b> -</p><p>しばしば青光りする昆虫、小さな海洋植物、あるいは地下菌類から抽出される発光インクは、通常の暗闇──これにはダークネスのような呪文によって作られた暗闇も含むが、ディーパー・ダークネスによって作られた超常的な暗闇は含まない──の中で読むことのできるほのかだが着実な光（通常は赤か緑）を放つ。物体に発光インクが付着している場合、それを見つけるための〈知覚〉判定に＋2のボーナスが得られる。発光インクを標識染料と混ぜ合わせると、退色するまで暗闇の中で光る染料ができる。</p>",
-			"identifiedName": "発光インク（UE）"
+			"identifiedName": "発光インク"
 		},
 		{
-			"id": "myypbnspnadicnyw",
-			"name": "発光インク（Adventurer's Armory）",
-			"description": "<p><b>市価</b> 8gp; <b>重量</b> -</p><p>しばしば青光りする昆虫、小さな海洋植物、あるいは地下菌類から抽出される発光インクは、通常の暗闇──これにはダークネスのような呪文によって作られた暗闇も含むが、ディーパー・ダークネスによって作られた超常的な暗闇は含まない──の中で読むことのできるほのかだが着実な光（通常は赤か緑）を放つ。物体に発光インクが付着している場合、それを見つけるための〈知覚〉判定に＋2のボーナスが得られる。発光インクを標識染料と混ぜ合わせると、退色するまで暗闇の中で光る染料ができる。</p>",
-			"identifiedName": "発光インク（Adventurer's Armory）"
-		},
-		{
-			"id": "wdhvbcdxpntgzbxj",
-			"name": "透明インク（Adventurer's Armory）",
+			"id": "Ink, Invisible",
+			"name": "透明インク",
 			"description": "<p><table border='1'><thead><tr><th>種類</th><th>市価</th><th>重量</th></tr></thead><tr><td>非常に単純</td><td>2gp</td><td>-</td></tr><tr><td>平均的</td><td>10gp</td><td>-</td></tr><tr><td>良い</td><td>25gp</td><td>-</td></tr><tr><td>素晴らしい</td><td>75gp</td><td>-</td></tr></table></p><p>透明インクはスパイ、反逆者、そして至る所の秘密結社の定石である。透明インクで書かれたメッセージは、特定の状況下で目に見えるようになる。適切な誘発剤によって秘密のメッセージを明らかにするのは、文書のページごとに1全ラウンド・アクションである。1時間をかけて〈製作：錬金術〉判定に成功することで、適切なトリガーなしにメッセージを明らかにすることができる（難易度はインクの品質によって異なる）。</p><p><b>非常に単純／Simple：</b>このインクは熱や酢などの、かなり一般的な単一のトリガーを鍵にしている（トリガーなしに明らかにする 難易度は20）。</p><p><b>平均的／Average：</b>このインクは血や酸などの、一般的な2つのトリガーを鍵にしている（トリガーなしに明らかにする 難易度は25）</p><p><b>良い／Good：</b>このインクは特定のヴィンテージ・ワインや特定の種類の魔物の血などの、一般的でない2つのトリガーか、珍しい1つのトリガーのいずれかを鍵にしている（トリガーなしに明らかにする 難易度は30）。</p><p><b>素晴らしい／Superior：</b>このインクは特定の個人の血などの、珍しい2つのトリガーか、固有の1つのトリガーのいずれかを鍵にしている（トリガーなしに明らかにする 難易度は35）。</p>",
-			"identifiedName": "透明インク（Adventurer's Armory）"
-		},
-		{
-			"id": "lgkrtqlvcgxwfwoj",
-			"name": "透明インク（UE）",
-			"description": "<p><table border='1'><thead><tr><th>種類</th><th>市価</th><th>重量</th></tr></thead><tr><td>非常に単純</td><td>2gp</td><td>-</td></tr><tr><td>平均的</td><td>10gp</td><td>-</td></tr><tr><td>良い</td><td>25gp</td><td>-</td></tr><tr><td>素晴らしい</td><td>75gp</td><td>-</td></tr></table></p><p>透明インクはスパイ、反逆者、そして至る所の秘密結社の定石である。透明インクで書かれたメッセージは、特定の状況下で目に見えるようになる。適切な誘発剤によって秘密のメッセージを明らかにするのは、文書のページごとに1全ラウンド・アクションである。1時間をかけて〈製作：錬金術〉判定に成功することで、適切なトリガーなしにメッセージを明らかにすることができる（難易度はインクの品質によって異なる）。</p><p><b>非常に単純／Simple：</b>このインクは熱や酢などの、かなり一般的な単一のトリガーを鍵にしている（トリガーなしに明らかにする 難易度は20）。</p><p><b>平均的／Average：</b>このインクは血や酸などの、一般的な2つのトリガーを鍵にしている（トリガーなしに明らかにする 難易度は25）</p><p><b>良い／Good：</b>このインクは特定のヴィンテージ・ワインや特定の種類の魔物の血などの、一般的でない2つのトリガーか、珍しい1つのトリガーのいずれかを鍵にしている（トリガーなしに明らかにする 難易度は30）。</p><p><b>素晴らしい／Superior：</b>このインクは特定の個人の血などの、珍しい2つのトリガーか、固有の1つのトリガーのいずれかを鍵にしている（トリガーなしに明らかにする 難易度は35）。</p>",
-			"identifiedName": "透明インク（UE）"
+			"identifiedName": "透明インク"
 		},
 		{
 			"id": "Ink, Light Fire",
@@ -2889,7 +2859,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -4189,7 +4159,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -4921,7 +4891,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -5723,7 +5693,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -7160,7 +7130,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -7968,7 +7938,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -8718,7 +8688,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -10160,7 +10130,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -11712,7 +11682,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -13079,7 +13049,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -14511,7 +14481,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -15010,7 +14980,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -16393,7 +16363,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -17754,7 +17724,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -19329,7 +19299,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -19657,76 +19627,6 @@
 					"price": 0.5,
 					"empty": false,
 					"totalWeight": 5,
-					"units": "lbs"
-				},
-				{
-					"_id": "qlmtnppwxkubqyhp",
-					"name": "ロープ（麻、50フィート）",
-					"permission": {
-						"default": 0,
-						"T9i9xVjdkHeFZC72": 3
-					},
-					"type": "loot",
-					"data": {
-						"subType": "gear",
-						"description": {
-							"value": "<p><b>市価</b> 1gp; <b>重量</b> 10ポンド</p><p>この長さ50フィートの麻のロープは2hp を有する。難易度23の【筋力】判定で引きちぎることができる。</p>",
-							"chat": "",
-							"unidentified": ""
-						},
-						"tags": [],
-						"quantity": 1,
-						"weight": 10,
-						"price": 1,
-						"identified": true,
-						"hp": {
-							"max": 10,
-							"value": 10
-						},
-						"hardness": 0,
-						"carried": true,
-						"unidentified": {
-							"price": 0,
-							"name": ""
-						},
-						"identifiedName": "ロープ（麻、50フィート）",
-						"cl": 0,
-						"aura": {
-							"custom": false,
-							"school": ""
-						},
-						"links": {
-							"children": []
-						},
-						"damage": {
-							"parts": []
-						},
-						"weightConverted": 10,
-						"weightUnits": "lbs",
-						"priceUnits": "gp"
-					},
-					"flags": {
-						"core": {
-							"sourceId": "Compendium.pf1.items.qlmtnppwxkubqyhp"
-						}
-					},
-					"img": "systems/pf1/icons/items/inventory/dice.jpg",
-					"effects": [],
-					"labels": {
-						"equipped": "<i class=\"fas fa-times\"></i>",
-						"carried": "<i class=\"fas fa-check\"></i>",
-						"identified": "<i class=\"fas fa-check\"></i>"
-					},
-					"hasAttack": false,
-					"hasMultiAttack": false,
-					"hasDamage": false,
-					"hasAction": false,
-					"showUnidentifiedData": false,
-					"isStack": false,
-					"isCharged": false,
-					"price": 1,
-					"empty": false,
-					"totalWeight": 10,
 					"units": "lbs"
 				},
 				{
@@ -20783,7 +20683,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -22489,7 +22389,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -23222,7 +23122,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -24518,7 +24418,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -25891,7 +25791,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -27112,7 +27012,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -28784,7 +28684,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -31226,7 +31126,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -32667,7 +32567,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -33963,7 +33863,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -35126,7 +35026,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -36277,7 +36177,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -38581,7 +38481,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -40012,7 +39912,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -41517,7 +41417,7 @@
 						},
 						"tags": [],
 						"quantity": 1,
-						"weight": 0,
+						"weight": 0.5,
 						"price": 0.01,
 						"identified": true,
 						"hp": {
@@ -43974,25 +43874,13 @@
 			"identifiedName": "Sunderblock"
 		},
 		{
-			"id": "Sunderblock",
-			"name": "Sunderblock",
-			"description": "",
-			"identifiedName": "Sunderblock"
-		},
-		{
 			"id": "Sunrise cinnamon",
 			"name": "Sunrise cinnamon",
 			"description": "",
 			"identifiedName": "Sunrise cinnamon"
 		},
 		{
-			"id": "bnegktjhqyilcxwq",
-			"name": "陽光棒",
-			"description": "<p><b>市価</b> 2gp; <b>重量</b> 1ポンド</p><p>この長さ1フィートで先端に金の小片がついた鉄の棒は、標準アクションで叩くことで明るく輝きだす。半径30フィートに通常の光を発し、半径60フィート以内の光量を1段階引き上げる（暗闇は薄明かりに、薄明かりは通常の光に）。陽光棒は通常の光または明るい光より光量をあげることはできない。この棒は6時間輝き、その後は先端の金が燃え尽きて役に立たない。</p>",
-			"identifiedName": "陽光棒"
-		},
-		{
-			"id": "wsscyfbrjmgsvxlr",
+			"id": "Sunrod",
 			"name": "陽光棒",
 			"description": "<p><b>市価</b> 2gp; <b>重量</b> 1ポンド</p><p>この長さ1フィートで先端に金の小片がついた鉄の棒は、標準アクションで叩くことで明るく輝きだす。半径30フィートに通常の光を発し、半径60フィート以内の光量を1段階引き上げる（暗闇は薄明かりに、薄明かりは通常の光に）。陽光棒は通常の光または明るい光より光量をあげることはできない。この棒は6時間輝き、その後は先端の金が燃え尽きて役に立たない。</p>",
 			"identifiedName": "陽光棒"
@@ -44124,13 +44012,7 @@
 			"identifiedName": "雷石"
 		},
 		{
-			"id": "vdmttqpwhvyukpyh",
-			"name": "振り香炉",
-			"description": "<p><b>市価</b> 50gp; <b>重量</b> 3ポンド</p><p>石炭と、一般的には2SP の価値の香草で満たすことで、この小さな火鉢は直径30フィートの範囲を一時間の間軽い煙で満たす。この煙の範囲内のクリーチャーは吸引の病気に抵抗するための頑健セーヴに＋2の状況ボーナスを得る。</p>",
-			"identifiedName": "振り香炉"
-		},
-		{
-			"id": "ezskgkpervvnkpmz",
+			"id": "Thurible",
 			"name": "振り香炉",
 			"description": "<p><b>市価</b> 50gp; <b>重量</b> 3ポンド</p><p>石炭と、一般的には2SP の価値の香草で満たすことで、この小さな火鉢は直径30フィートの範囲を一時間の間軽い煙で満たす。この煙の範囲内のクリーチャーは吸引の病気に抵抗するための頑健セーヴに＋2の状況ボーナスを得る。</p>",
 			"identifiedName": "振り香炉"
@@ -44250,13 +44132,7 @@
 			"identifiedName": "Training Sleeve"
 		},
 		{
-			"id": "pleacktrhfgxriwp",
-			"name": "トラバサミ",
-			"description": "<p><table border='1'><thead><tr><th>名前</th><th>市価</th><th>重量</th></tr></thead><tr><td>トラバサミ</td><td>2gp</td><td>10ポンド</td></tr><tr><td>Offset Bear Trap</td><td>3gp</td><td>10ポンド</td></tr><tr><td>Sawtooth Bear Trap</td><td>1,800gp</td><td>20ポンド</td></tr></table></p><p>トラバサミは大きな動物を捕らえることを目的としているが、人型生物やモンスターも同様に罠にかけることができる。ヒンジで留められたこの罠の顎には、犠牲者が這って逃げ出せないようにするための鎖が取り付けられており、その一方は地面に打ち込まれた杭に繋がっている。顎を押し開いたり、杭を地面から引き抜くには 難易度20の【筋力】判定に成功する必要がある。</p><h2>トラバサミの罠 脅威度1</h2><p><b>種類</b> 機械式; 〈知覚〉難易度15; 〈装置無力化〉難易度20</p><p><b>起動条件</b> 場所式; <b>再準備</b> 手動</p><p><b>効果</b> 攻撃＋10近接（2d6＋3）； 鋭い顎がクリーチャーの足首にバネ仕掛けで閉まり、対象の移動速度を半分にする（罠が固定されている場合は対象を動けなくさせる）。クリーチャーは 難易度20の〈装置無力化〉判定か、難易度22の〈脱出術〉判定、もしくは 難易度26の【筋力】判定に成功することで罠を抜け出すことができる。</p><h2>Offset Bear Trap 脅威度1/2</h2><p><b>種類</b> 機械式; 〈知覚〉難易度15; 〈装置無力化〉難易度20</p><p><b>起動条件</b> 場所式; <b>再準備</b> 手動</p><p><b>効果</b> Atk +10 melee (1d6+2); jaws spring shut around the creature's ankle and hold the creature immobile; the creature can escape with a DC 20 Disable Device check, DC 24 Escape Artist check, or DC 28 Strength check.</p><p>An offset bear trap is a specialized variety of a bear trap constructed with offset jaws coated in resin.</p><p>It inflicts less damage on captured creatures but holds them more securely, and is therefore primarily used by trappers or bounty hunters who do not want to risk killing their prey. Offset bear traps are almost always secured to the ground by a heavy spike and chain so the captured creature can't wander far.</p><h2>Sawtooth Bear Trap 脅威度5</h2><p><b>種類</b> 機械式; 〈知覚〉難易度25; 〈装置無力化〉難易度25</p><p><b>起動条件</b> 場所式; <b>再準備</b> 手動</p><p><b>効果</b> Atk +15 melee (3d6+9); serrated jaws spring shut around the creature's ankle and halve the creature's base speed (or hold the creature immobile if the trap is attached to a solid object); the creature can escape with a DC 25 Disable Device check, DC 28 Escape Artist check, or DC 32 Strength check.</p><p>A sawtooth bear trap has vicious jaws and tighter springs.</p><p>Used primarily against humanoids or monsters rather than animals, sawtooth bear traps are often painted in camouflaged colors to blend in with the trap site. Most include locking plates over the spring mechanisms to prevent tampering by intelligent victims.</p>",
-			"identifiedName": "トラバサミ"
-		},
-		{
-			"id": "sgcmlqjebhlqagmp",
+			"id": "Trap, Bear",
 			"name": "トラバサミ",
 			"description": "<p><table border='1'><thead><tr><th>名前</th><th>市価</th><th>重量</th></tr></thead><tr><td>トラバサミ</td><td>2gp</td><td>10ポンド</td></tr><tr><td>Offset Bear Trap</td><td>3gp</td><td>10ポンド</td></tr><tr><td>Sawtooth Bear Trap</td><td>1,800gp</td><td>20ポンド</td></tr></table></p><p>トラバサミは大きな動物を捕らえることを目的としているが、人型生物やモンスターも同様に罠にかけることができる。ヒンジで留められたこの罠の顎には、犠牲者が這って逃げ出せないようにするための鎖が取り付けられており、その一方は地面に打ち込まれた杭に繋がっている。顎を押し開いたり、杭を地面から引き抜くには 難易度20の【筋力】判定に成功する必要がある。</p><h2>トラバサミの罠 脅威度1</h2><p><b>種類</b> 機械式; 〈知覚〉難易度15; 〈装置無力化〉難易度20</p><p><b>起動条件</b> 場所式; <b>再準備</b> 手動</p><p><b>効果</b> 攻撃＋10近接（2d6＋3）； 鋭い顎がクリーチャーの足首にバネ仕掛けで閉まり、対象の移動速度を半分にする（罠が固定されている場合は対象を動けなくさせる）。クリーチャーは 難易度20の〈装置無力化〉判定か、難易度22の〈脱出術〉判定、もしくは 難易度26の【筋力】判定に成功することで罠を抜け出すことができる。</p><h2>Offset Bear Trap 脅威度1/2</h2><p><b>種類</b> 機械式; 〈知覚〉難易度15; 〈装置無力化〉難易度20</p><p><b>起動条件</b> 場所式; <b>再準備</b> 手動</p><p><b>効果</b> Atk +10 melee (1d6+2); jaws spring shut around the creature's ankle and hold the creature immobile; the creature can escape with a DC 20 Disable Device check, DC 24 Escape Artist check, or DC 28 Strength check.</p><p>An offset bear trap is a specialized variety of a bear trap constructed with offset jaws coated in resin.</p><p>It inflicts less damage on captured creatures but holds them more securely, and is therefore primarily used by trappers or bounty hunters who do not want to risk killing their prey. Offset bear traps are almost always secured to the ground by a heavy spike and chain so the captured creature can't wander far.</p><h2>Sawtooth Bear Trap 脅威度5</h2><p><b>種類</b> 機械式; 〈知覚〉難易度25; 〈装置無力化〉難易度25</p><p><b>起動条件</b> 場所式; <b>再準備</b> 手動</p><p><b>効果</b> Atk +15 melee (3d6+9); serrated jaws spring shut around the creature's ankle and halve the creature's base speed (or hold the creature immobile if the trap is attached to a solid object); the creature can escape with a DC 25 Disable Device check, DC 28 Escape Artist check, or DC 32 Strength check.</p><p>A sawtooth bear trap has vicious jaws and tighter springs.</p><p>Used primarily against humanoids or monsters rather than animals, sawtooth bear traps are often painted in camouflaged colors to blend in with the trap site. Most include locking plates over the spring mechanisms to prevent tampering by intelligent victims.</p>",
 			"identifiedName": "トラバサミ"
