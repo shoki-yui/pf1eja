@@ -58,8 +58,8 @@
   "SETTINGS.pf1InvertSectionFilterBehaviourH": "（アイテム）セクションのタイプフィルターのShiftキーを押しながらクリックする動作を反転する。",
   "SETTINGS.pf1HideReachMeasurementsN": "間合いの距離の表示を隠す",
   "SETTINGS.pf1HideReachMeasurementsH": "トークンのクイックアクションにカーソルを合わせたときに見られるような、間合いの距離の表示をしない。",
-  "SETTINGS.pf1DisplayIterativesN": "Display iteratives",
-  "SETTINGS.pf1DisplayIterativesH": "Breaks down BAB display to iteratives instead of only the total bonus",
+  "SETTINGS.pf1DisplayIterativesN": "繰り返し攻撃を表示",
+  "SETTINGS.pf1DisplayIterativesH": "合計ボーナスだけでなく、基本攻撃ボーナスによる繰り返し攻撃を表示する",
   
   "SETTINGS.pf1HealthConfigName": "ヒット・ポイント設定",
   "SETTINGS.pf1HealthConfigLabel": "ヒット・ポイント設定",
@@ -93,9 +93,9 @@
   "SETTINGS.pf1HealthConfigWoundThresholdNormal": "通常",
   "SETTINGS.pf1HealthConfigWoundThresholdGritty": "気骨",
   
-  "SETTINGS.pf1DragRulerWalk": "walk",
-  "SETTINGS.pf1DragRulerDash": "dash",
-  "SETTINGS.pf1DragRulerRun": "run",
+  "SETTINGS.pf1DragRulerWalk": "歩き",
+  "SETTINGS.pf1DragRulerDash": "速歩",
+  "SETTINGS.pf1DragRulerRun": "疾走",
 
   "PF1.OptionalAndVariantRules": "オプション&バリアントルール",
 
@@ -134,7 +134,7 @@
   "PF1.TooltipConfigUpdateInfo": "ツールチップの設定を変更しました",
   "PF1.TooltipConfigAnchor": "ツールチップの表示位置",
   "PF1.TooltipConfigOffset": "ツールチップの表示位置の補正",
-  "PF1.TooltipConfigLocationPreview": "Location Preview",
+  "PF1.TooltipConfigLocationPreview": "場所のプレビュー",
   "PF1.TooltipConfigHidePortraits": "ポートレートの非表示",
   "PF1.TooltipConfigMaxPortraitSize": "ポートレートの最大サイズ",
   "PF1.TooltipConfigDisable": "ツールチップを無効にする",
@@ -210,7 +210,7 @@
   "PF1.FlagsDictionary": "Dictionary Flags",
   "PF1.AdvancedInfo": {
     "Flags": {
-      "InfoBox": "Flags can be used by modules and macros, and don't do anything by themselves."
+      "InfoBox": "フラグはモジュールやマクロから参照することができ、それ単体では何もしません。"
     }
   },
 
@@ -263,7 +263,7 @@
 
   "PF1.SavingThrowFort": "頑健",
   "PF1.SavingThrowRef": "反応",
-  "PF1.SavingThrowWill": "意思",
+  "PF1.SavingThrowWill": "意志",
 
   "PF1.ACNormal": "AC",
   "PF1.ACTouch": "接触",
@@ -531,7 +531,7 @@
 
   "PF1.MeasureTemplateCone": "円錐",
   "PF1.MeasureTemplateCircle": "円",
-  "PF1.MeasureTemplateRay": "光線",
+  "PF1.MeasureTemplateRay": "直線",
   "PF1.MeasureTemplateRectangle": "長方形",
 
   "PF1.LoadingCompendiumBrowser": "辞典ブラウザをロード中…",
@@ -726,7 +726,7 @@
   "PF1.ChangeFlagMediumArmorFullSpeed": "中装鎧で通常速度",
   "PF1.ChangeFlagHeavyArmorFullSpeed": "重装鎧で通常速度",
 
-  "PF1.ErrorGenericPermission": "You don't have permission to perform what action",
+  "PF1.ErrorGenericPermission": "あなたにはそのアクションを行う権限がありません",
   "PF1.ErrorNoActorPermission": "あなたにはこのアクターを操作する権限がありません",
   "PF1.ErrorNoActorPermissionAlt": "あなたにはこのアクターを操作する権限がありません '{0}'",
   "PF1.ErrorNoFormula": "{0} にはロールをするための式がありません！",
@@ -739,17 +739,17 @@
   "PF1.ErrorUnauthorizedAction": "あなたはその行動を行う権限がありません",
   "PF1.ErrorActorFormula": "アクター {1}にタイプ{0}の式エラー",
   "PF1.ErrorActorNotFound": "ID{0}のアクターが見つかりませんでした",
-  "PF1.ErrorCantIdentify": "You are not allowed to identify items",
-  "PF1.ErrorNoApplicableActorFoundForAction": "No applicable actor found for action '{0}'",
-  "PF1.ErrorCouldNotFindActorByName": "Could not find actor by name '{0}'",
+  "PF1.ErrorCantIdentify": "あなたにはアイテムを鑑定する権限がありません",
+  "PF1.ErrorNoApplicableActorFoundForAction": "アクション'{0}'に該当するアクターが見つかりませんでした",
+  "PF1.ErrorCouldNotFindActorByName": "'{0}'という名前のアクターが見つかりませんでした",
   "PF1.WarningNoSizeDie": "{0}のサイズに適当なダイスが判断できませんでした、デフォルトの{1}を振ります",
   "PF1.WarningNoDiceAllowedInFormula": "{1}の式'{0}'ではダイスロールは許可されていません",
   "PF1.WarningInsufficientAmmunition": "あなたは{0}の種類の矢弾が足りていません",
   "PF1.WarningConditionalRoll": "Rolling conditional formula № {number} of conditional {name} caused an error",
-  "PF1.WarningNoItemOnActor": "Actor {0} has no item {1}",
+  "PF1.WarningNoItemOnActor": "アクター {0} はアイテム {1} を持っていません",
   "PF1.WarningCannotCreateChargeLink": "Could not create a Charge type link between {0} and {1}, because {1} has Charge type links of its own",
   "PF1.WarningCannotCreateChargeLink2": "Could not create a Charge type link between {0} and {1}, because {1} is already linked to {2}",
-  "PF1.WarningNoCombatantFound": "No combatant found",
+  "PF1.WarningNoCombatantFound": "戦闘参加者が見つかりませんでした",
   "PF1.NotificationCreatedAttack": "{0}の攻撃を生成",
 
   "PF1.Action_RollDefenses": "Roll Defenses",
@@ -1339,8 +1339,8 @@
   "PF1.Manyshot": "束ね射ち",
   "PF1.RapidShot": "速射",
   "PF1.PointBlankShot": "近距離射撃",
-  "PF1.AmmoRemaining": "Ammunition Remaining: {0}",
-  "PF1.AmmoDepleted": "Out of Ammunition!",
+  "PF1.AmmoRemaining": "残弾数: {0}",
+  "PF1.AmmoDepleted": "弾切れ！",
   "PF1.Priority": "優先順位",
   "PF1.Creatures": "クリーチャー",
   "PF1.ChargeCost": "チャージコスト",
