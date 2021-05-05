@@ -15,3 +15,7 @@
 .pf1alt.sheet.actor h4.box-title {
     font-size: 13px!important;
 }
+
+.pf1alt.sheet.actor .point-buy-button {
+    flex: 0 130px!important;
+}
