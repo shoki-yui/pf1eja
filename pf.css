@@ -7,3 +7,11 @@
 .dialog {
     width: 300px!important;
 }
+
+.pf1alt.sheet.actor.character .sheet-header .race-container .race {
+    flex: 0 0 40px!important;
+}
+
+.pf1alt.sheet.actor h4.box-title {
+    font-size: 13px!important;
+}
