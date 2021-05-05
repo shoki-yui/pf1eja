@@ -19,3 +19,7 @@
 .pf1alt.sheet.actor .point-buy-button {
     flex: 0 130px!important;
 }
+
+.pf1alt.sheet.actor h2.block-header {
+    font-size: 25px!important;
+}
