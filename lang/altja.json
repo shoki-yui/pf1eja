@@ -1,0 +1,53 @@
+{
+    "PF1AS": {
+        "InfoMissingClass": "キャタクターにクラスが設定されていません。特徴タブでクラスを追加してください。",
+        "CharacterSheetLabel": "Alternative character sheet",
+        "NPCSheetLabel": "Alternative NPC character sheet",
+        "ExperienceShort": "XP",
+        "Abilities": "能力値",
+        "AbilityScores": "能力値",
+        "ACShort": "AC",
+        "FFShort": "立ちすくみ",
+        "NatAC": "外皮",
+        "SpellRes": "呪文抵抗",
+        "Levels": "レベル",
+        "TouchShort": "接触AC",
+        "PointBuy": "ポイント購入",
+        "SpeedAndMovement": "移動速度",
+        "AttackBonuses": "攻撃ボーナス",
+        "BaseCombatStats": "基本戦闘力",
+        "ClassNoFeatures": "クラス特徴なし",
+        "DieLetter": "D",
+        "NoFeatures": "辞典のリストからドラッグで追加、または＋ボタンで作成",
+        "SpecialQualities": "特性",
+        "CombatManeuvers": "戦技",
+        "CasterLevel": "術者レベル",
+        "Roll": "Roll",
+        "Level0": "0レベル",
+        "Level1": "1レベル",
+        "Level2": "2レベル",
+        "Level3": "3レベル",
+        "Level4": "4レベル",
+        "Level5": "5レベル",
+        "Level6": "6レベル",
+        "Level7": "7レベル",
+        "Level8": "8レベル",
+        "Level9": "9レベル",
+        "Spells": {
+            "CannotCast": "このレベルの呪文を唱えることはできません：",
+            "CannotCastAbilityScore": "能力値が不足しています"
+        },
+        "Skill": {
+            "AlwaysShow": "AS",
+            "AlwaysShowTooltip": "概要タブの技能リストに表示"
+        },
+        "Features": {
+            "MinimizeClasses": "クラスを小さく表示する"
+        },
+        "Config": {
+            "Reset": "シートの設定を初期化",
+            "ResetTooltip": "このアクターのモジュール固有の設定を初期化しデフォルトに戻します。何かが壊れているような場合に有効です。"
+        },
+        "MetricSpeeds": "メートル法を使用しています。\nいずれにしてもフィートの値を入力してください。\nCommon values:\n20 ft = 6 m\n30 ft = 9 m"
+    }
+}

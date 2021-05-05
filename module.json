@@ -2,7 +2,7 @@
 	"name": "pf1eja",
 	"title": "日本語化（PF1）",
 	"description": "FVTT用パスファインダー1eシステムの翻訳ファイルおよびBabele用の辞典翻訳ファイルを組み込むモッド。",
-	"version": "0.6.6",
+	"version": "0.6.5",
 	"author": "Brother Sharp, Chiikun, Shoki, Yuu",
 	"languages": [
 		{
@@ -10,7 +10,13 @@
 			"system":"pf1",
 			"name": "日本語",
 			"path": "lang/ja.json"
-		}
+		},
+        {
+            		"lang": "ja",
+			"module":"pf1-alt-sheet",
+            		"name": "日本語",
+            		"path": "lang/altja.json"
+        }
 	],
 	"scripts": ["register-babele.js"],
 	"styles" : ["./pf.css"],
