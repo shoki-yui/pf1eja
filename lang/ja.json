@@ -60,7 +60,9 @@
   "SETTINGS.pf1HideReachMeasurementsH": "トークンのクイックアクションにカーソルを合わせたときに見られるような、間合いの距離の表示をしない。",
   "SETTINGS.pf1DisplayIterativesN": "繰り返し攻撃を表示",
   "SETTINGS.pf1DisplayIterativesH": "合計ボーナスだけでなく、基本攻撃ボーナスによる繰り返し攻撃を表示する",
-  
+  "SETTINGS.pf1AlternativeReachCornerRuleN": "代替間合いルール",
+  "SETTINGS.pf1AlternativeReachCornerRuleH": "10フィートの間合い測定から四隅の角を非表示にする",
+
   "SETTINGS.pf1HealthConfigName": "ヒット・ポイント設定",
   "SETTINGS.pf1HealthConfigLabel": "ヒット・ポイント設定",
   "SETTINGS.pf1HealthConfigHint": "アクターのヒット・ポイントの計算を設定。",
@@ -189,7 +191,7 @@
   "PF1.Next": "Next",
   "PF1.Previous": "Previous",
   "PF1.General": "一般",
-  
+
   "PF1.Apply": "適用",
   "PF1.ApplyHalf": "半分適用",
   "PF1.ApplyDamage": "ダメージを適用",
@@ -208,11 +210,6 @@
   "PF1.FlagsSave": "特性を更新",
   "PF1.FlagsBoolean": "Boolean Flags",
   "PF1.FlagsDictionary": "Dictionary Flags",
-  "PF1.AdvancedInfo": {
-    "Flags": {
-      "InfoBox": "フラグはモジュールやマクロから参照することができ、それ単体では何もしません。"
-    }
-  },
 
   "PF1.AbilityDamage": "能力値ダメージ",
   "PF1.AbilityDrain": "能力値吸収",
@@ -370,6 +367,14 @@
   "PF1.CurrencyGP": "GP",
   "PF1.CurrencySP": "SP",
   "PF1.CurrencyCP": "CP",
+  "PF1.CurrencySend": "通貨を送る",
+  "PF1.CurrencyPlatinumP": "白金貨（PP）",
+  "PF1.CurrencyGoldP": "金貨（GP）",
+  "PF1.CurrencySilverP": "銀貨（SP）",
+  "PF1.CurrencyCopperP": "銅貨（CP）",
+  "PF1.CurrencyFailed": "通貨を送るのに失敗しました：",
+  "PF1.CurrencyGMRequired": "処理を完了するにはGMが必要です",
+  "PF1.CurrencyInsufficient": "通貨が不足しています",
 
   "PF1.DistPersonal": "自身",
   "PF1.DistTouch": "接触",
@@ -429,6 +434,8 @@
   "PF1.BuffTarACArmor": "鎧",
   "PF1.BuffTarACShield": "盾",
   "PF1.BuffTarACNatural": "外皮",
+  "PF1.BuffTarACTouch": "接触AC",
+  "PF1.BuffTarACFlatFooted": "立ちすくみAC",
   "PF1.BuffTarStrSkills": "筋力技能",
   "PF1.BuffTarDexSkills": "敏捷力技能",
   "PF1.BuffTarConSkills": "耐久力技能",
@@ -445,7 +452,15 @@
   "PF1.BuffTarChaChecks": "魅力判定",
   "PF1.BuffTarBonusSkillRanks": "ボーナス技能ランク",
   "PF1.BuffTarBonusFeats": "ボーナス特技",
-  
+  "PF1.BuffTarAllAttackRolls": "全ての攻撃ロール",
+  "PF1.BuffTarAllDamageRolls": "全てのダメージロール",
+  "PF1.BuffTarAllSavingThrows": "全てのセーヴィング・スロー",
+  "PF1.BuffTarAllSkills": "全ての技能",
+  "PF1.BuffTarAllAbilityChecks": "全ての能力値判定",
+  "PF1.BuffTarAllSpeeds": "全ての移動速度",
+  "PF1.BuffTarMeleeAttack": "近接攻撃ロール",
+  "PF1.BuffTarRangedAttack": "遠隔攻撃ロール",
+
   "PF1.BuffTarSpells": "呪文",
   "PF1.SpellBuffEffect": "効果",
 
@@ -519,6 +534,11 @@
   "PF1.SpellPrepPrepared": "準備型",
   "PF1.SpellPrepSpontaneous": "任意発動型",
 
+  "PF1.SpellsKnown": "呪文修得数",
+
+  "PF1.Arcanist": "アーケイニスト",
+  "PF1.RedMantisAssassin": "Red Mantis Assassin",
+
   "PF1.SpellComponentVerbal": "音声",
   "PF1.SpellComponentSomatic": "動作",
   "PF1.SpellComponentMaterial": "物質",
@@ -528,6 +548,18 @@
   "PF1.SpellComponentDivineFocusAlone": "信",
   "PF1.SpellComponentDivineFocusMaterial": "物/信",
   "PF1.SpellComponentDivineFocusFocus": "焦/信",
+
+  "PF1.AutoSpellClassLevelOffset": {
+    "Formula": "クラスレベル修正",
+    "InfoBox": "クラスレベルを変化させる上級クラスがある場合はここに追加してください。（例：@classes.mysticTheurge.level）"
+  },
+
+  "PF1.LearnMoreSpell": "呪文を1つ追加で習得できます",
+  "PF1.LearnMoreSpells": "呪文を{quantity}つ追加で習得できます",
+  "PF1.PrepareMoreSpell": "呪文を1つ準備できます",
+  "PF1.PrepareMoreSpells": "呪文を{quantity}つ準備できます",
+  "PF1.SpellScoreTooLow": "このレベルの呪文を使用するには能力値が足りません",
+  "PF1.TooManySpells": "呪文の準備数が{quantity}つ多いです",
 
   "PF1.MeasureTemplateCone": "円錐",
   "PF1.MeasureTemplateCircle": "円",
@@ -742,6 +774,7 @@
   "PF1.ErrorCantIdentify": "あなたにはアイテムを鑑定する権限がありません",
   "PF1.ErrorNoApplicableActorFoundForAction": "アクション'{0}'に該当するアクターが見つかりませんでした",
   "PF1.ErrorCouldNotFindActorByName": "'{0}'という名前のアクターが見つかりませんでした",
+  "PF1.ErrorFeatDisabled": "この特技は無効です",
   "PF1.WarningNoSizeDie": "{0}のサイズに適当なダイスが判断できませんでした、デフォルトの{1}を振ります",
   "PF1.WarningNoDiceAllowedInFormula": "{1}の式'{0}'ではダイスロールは許可されていません",
   "PF1.WarningInsufficientAmmunition": "あなたは{0}の種類の矢弾が足りていません",
@@ -786,6 +819,7 @@
   "PF1.BrowseFeats": "特技・特徴閲覧",
   "PF1.BrowseClasses": "クラス閲覧",
   "PF1.BrowseRaces": "種族閲覧",
+  "PF1.BrowseBuffs": "バフ閲覧",
 
   "PF1.LanguageAboleth": "アボレス語",
   "PF1.LanguageAbyssal": "奈落語",
@@ -986,6 +1020,7 @@
   "PF1.MinimumDamage": "最低ダメージ",
   "PF1.Drain": "吸収",
   "PF1.Penalty": "ペナルティ",
+  "PF1.Defense": "防御",
   "PF1.Defenses": "防御",
   "PF1.Description": "説明",
   "PF1.Details": "詳細",
@@ -1129,6 +1164,7 @@
   "PF1.CMB": "戦技ボーナス",
   "PF1.CMDAbbr": "CMD",
   "PF1.CMDFFAbbr": "立ちすくみCMD",
+  "PF1.CMD": "戦技防御値",
   "PF1.Untrained": "未習得",
   "PF1.DeleteItemConfirmation": "本当にこの項目を削除しますか？",
   "PF1.UnsavedTinyMCE": "You have unsaved text in a field.<br>Would you like to save before closing?",
@@ -1206,6 +1242,11 @@
   "PF1.MaxDexterityModifier": "敏捷力上限",
   "PF1.ArmorCheckPenalty": "鎧判定ペナルティ",
   "PF1.ArcaneSpellFailure": "秘術呪文失敗確率",
+  "PF1.AutoCalculateSpellSlots": "スペルスロットの自動計算",
+  "PF1.HasCantrips": "初級呪文/祈りの使用",
+  "PF1.Modifications": "修正値",
+  "PF1.PreparePerDay": "1日の準備数",
+  "PF1.CastPerDay": "1日の呪文数",
   "PF1.SkillsPerLevel": "技能/レベル",
   "PF1.Source": "源",
   "PF1.Unlimited": "無制限",
@@ -1278,6 +1319,8 @@
   "PF1.PrimaryAttack": "主要攻撃",
   "PF1.Enabled": "有効",
   "PF1.Disabled": "無効",
+  "PF1.Enable": "有効",
+  "PF1.Disable": "無効",
   "PF1.AttackPenalty": "攻撃ペナルティ",
   "PF1.Low": "低",
   "PF1.Medium": "中",
@@ -1304,8 +1347,8 @@
   "PF1.DRN": "DRN",
   "PF1.UnidentifiedName": "名称不明",
   "PF1.UnidentifiedPriceShort": "価格不明",
-  "PF1.Yes": "はい",
-  "PF1.No": "いいえ",
+  "PF1.Yes": "可",
+  "PF1.No": "不可",
   "PF1.YesShort": "Y",
   "PF1.NoShort": "N",
   "PF1.IdentifiedShort": "識別",
@@ -1348,6 +1391,7 @@
   "PF1.Value": "値",
   "PF1.TotalItems": "合計{0}個のアイテム",
   "PF1.FilteredItems": "{0}個のフィルタされたアイテム",
+  "PF1.SearchFilterPlaceholder": "Search filter...",
   "PF1.QuickInfo": "Quick Info",
   "PF1.QuickActions": "Quick Actions",
   "PF1.ConvertCurrency": "通貨を変換",
@@ -1419,7 +1463,7 @@
   "PF1.ReducedMovementSpeed": "移動速度の低下",
   "PF1.Settings": "設定",
   "PF1.SpellbookUsage": "呪文書の使用",
-  "PF1.SpellSlotAbilityBonus": "呪文スロット能力値ボーナス（特徴による増加値）",
+  "PF1.SpellSlotAbilityBonus": "呪文スロット能力値修正（特徴由来）",
   "PF1.AlternativeSpellbookName": "呪文書の名前",
   "PF1.StaticSize": "Static Size",
   "PF1.DomainSlotValue": "領域スロット数",
@@ -1437,6 +1481,15 @@
   "PF1.Migration.Start": "Applying PF1 System Migration for version {version}. Please stand by.",
   "PF1.Migration.Ongoing": "Migration is ongoing. Please wait until it finishes.",
   "PF1.Migration.End": "PF1 System Migration to version {version} succeeded!",
+
+  "PF1.Application": {
+    "ChangeTargetSelector": {
+      "Title": "変更する対象の選択"
+    },
+    "ContextNoteTargetSelector": {
+      "Title": "文脈メモの対象の選択"
+    }
+  },
 
   "PF1.Info": {
     "AddClassDialog": "Shiftキーを押しながらクラスをドラッグ＆ドロップするとこのダイアログの表示を飛ばせます。",

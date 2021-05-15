@@ -830,6 +830,12 @@
 			"identifiedName": "大釜"
 		},
 		{
+			"id": "Caviar",
+			"name": "キャビア",
+			"description": "<p><b>市価</b> 50gp; <b>重量</b> ―</p><p>この透明な塩味の魚卵は珍味である。普通はクラッカーやゆで卵、パンやクッキー、野菜などに塗って食べる。すぐに腐り、それらの採れる湾岸地域以外では珍しい。厳密に物事を考えるものは、チョウザメの卵だけがキャビアなのだと考える。しかしそうでないものは定義にそこまでうるさくなく、サケ、マス、コクチマスの卵もキャビアと考える。いくつかの国では、巨大な珍しい魚や海洋クリーチャー（ジャイアント・ガー、チュール、リーフクロウ）の卵もキャビアとして食べるが、ずっと高い価格となる。</p>",
+			"identifiedName": "キャビア"
+		},
+		{
 			"id": "Censer, Celestial",
 			"name": "天界の香炉",
 			"description": "<p><b>市価</b> 50gp; <b>重量</b> 3ポンド</p><p>この祝福された香炉は10個までの香を入れておくことができ、1時間に香1本の速度で燃える。香が燃えている間に香炉の中央に発煙棒を加えると、（悪）の副種別のクリーチャーは煙の覆う範囲にいる限り目が眩んだ状態になる。</p>",
@@ -900,6 +906,12 @@
 			"name": "Chest, False-Bottomed",
 			"description": "",
 			"identifiedName": "Chest, False-Bottomed"
+		},
+		{
+			"id": "Chocolate (Bar)",
+			"name": "チョコレート",
+			"description": "<p><b>市価</b> 5gp; <b>重量</b> 0.5ポンド</p><p>この黒く苦いおやつは固形のまま食べることもあるし、溶かして牛乳のような飲み物を加えることもある。国によっては、砂糖や唐辛子を混ぜることもある。</p>",
+			"identifiedName": "チョコレート"
 		},
 		{
 			"id": "Clay, Blackfire",
@@ -1518,6 +1530,12 @@
 			"name": "グロッグ",
 			"description": "<p><b>市価</b> 2cp; <b>重量</b> 0.5ポンド</p><p>グロッグは違う種類のアルコールと手近なものを何でも混ぜ合わせ腐らせたものだ。海賊や海兵により発明され、地上で広がることはほとんどない。誰も最初にグロッグを飲もうとはしないが、船上で十分な時間が過ぎると、ついに誰かが味を見る。</p><p>Additional Information from <a title=\"PPC:Pirates of the Inner Sea\" href=\"http://www.amazon.com/gp/product/1601254059/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1601254059&amp;linkCode=as2&amp;tag=httpwwwd20pfs-20\" target=\"_blank\" rel=\"noopener\">Pirates of the Inner Sea</a>: Sailors, especially on pirate crews, often demand daily rations of alcohol. To prevent hoarding of alcohol (resulting in drunkenness and subsequent hangovers), most captains mix alcohol with water and a bit of lime or lemon juice to make grog. The water dilutes the alcohol and causes it to spoil more quickly, while the citrus juice masks the taste of spoilage and also prevents scurvy.</p>",
 			"identifiedName": "グロッグ"
+		},
+		{
+			"id": "Haggis",
+			"name": "ハギス",
+			"description": "<p><b>市価</b> 1sp; <b>重量</b> 1.5ポンド</p><p>この料理は羊の内臓（主に心臓、肝臓、肺）でできた肉入りの詰め物料理で、タマネギ、オート麦、脂肪、香辛料、塩を刻み、羊の胃でくるんでゆっくりと調理したものだ。材料はためらいがちな人には敬遠されるが、ハギスを好む人は素晴らしい質感で元気になる料理だと考えている。通常、カブやジャガイモ、ウイスキーと共に提供される。</p>",
+			"identifiedName": "ハギス"
 		},
 		{
 			"id": "Hammer",
