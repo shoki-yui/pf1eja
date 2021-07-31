@@ -1,0 +1,1365 @@
+{
+	"label": "Bestiary - CR 4-5",
+	"entries": [
+		{
+			"id": "Abandoned One",
+			"name": "Abandoned One"
+		},
+		{
+			"id": "Accomplice Devil (hesperian)",
+			"name": "Accomplice Devil (hesperian)"
+		},
+		{
+			"id": "Achaierai",
+			"name": "アケイライ"
+		},
+		{
+			"id": "Aghash",
+			"name": "アガシ"
+		},
+		{
+			"id": "Agrawgh",
+			"name": "Agrawgh"
+		},
+		{
+			"id": "Ahkhat",
+			"name": "アクハット"
+		},
+		{
+			"id": "Ahmuuth",
+			"name": "Ahmuuth"
+		},
+		{
+			"id": "Albino Cave Solifugid",
+			"name": "アルバイノ・ケイヴ・サリフュージド"
+		},
+		{
+			"id": "Amphiptere",
+			"name": "アンピプテラ"
+		},
+		{
+			"id": "Amphisbaena",
+			"name": "アンフィスバエナ"
+		},
+		{
+			"id": "Andrazku",
+			"name": "Andrazku"
+		},
+		{
+			"id": "Angelic Guardian",
+			"name": "Angelic Guardian"
+		},
+		{
+			"id": "Aranea",
+			"name": "アレイニア"
+		},
+		{
+			"id": "Archelon",
+			"name": "アルケロン"
+		},
+		{
+			"id": "Ascomoid",
+			"name": "アスコモイド"
+		},
+		{
+			"id": "Ash Hag",
+			"name": "Ash Hag"
+		},
+		{
+			"id": "Ataxian",
+			"name": "Ataxian"
+		},
+		{
+			"id": "Azuretzi",
+			"name": "アズアチ"
+		},
+		{
+			"id": "Bagman",
+			"name": "Bagman"
+		},
+		{
+			"id": "Barghest",
+			"name": "バーゲスト"
+		},
+		{
+			"id": "Basidirond",
+			"name": "バシディランド"
+		},
+		{
+			"id": "Basilisk",
+			"name": "バジリスク"
+		},
+		{
+			"id": "Bearded Devil (barbazu)",
+			"name": "ビアデッド・デヴィル"
+		},
+		{
+			"id": "Bishop Agathion",
+			"name": "Bishop Agathion"
+		},
+		{
+			"id": "Bison",
+			"name": "バイソン"
+		},
+		{
+			"id": "Blast Shadow",
+			"name": "Blast Shadow"
+		},
+		{
+			"id": "Blightspawn",
+			"name": "ブライトスポーン"
+		},
+		{
+			"id": "Blightspawn Of Ghlaunder",
+			"name": "ブライトスポーン"
+		},
+		{
+			"id": "Blood Caterpillar",
+			"name": "ブラッド・キャタピラー"
+		},
+		{
+			"id": "Bluetip Eurypterid",
+			"name": "Bluetip Eurypterid"
+		},
+		{
+			"id": "Bogwid",
+			"name": "Bogwid"
+		},
+		{
+			"id": "Bone Priest",
+			"name": "Bone Priest"
+		},
+		{
+			"id": "Boroboroton",
+			"name": "ボロボロトン"
+		},
+		{
+			"id": "Brain Mole Monarch",
+			"name": "ブレイン・モウルの君主"
+		},
+		{
+			"id": "Brethedan",
+			"name": "ブレセダン"
+		},
+		{
+			"id": "Brimorak",
+			"name": "ブリモラク"
+		},
+		{
+			"id": "Bugbear Gnasher",
+			"name": "バグベアの歯ぎしり男"
+		},
+		{
+			"id": "Buggane",
+			"name": "ボゲードン"
+		},
+		{
+			"id": "Byakhee",
+			"name": "Byakhee"
+		},
+		{
+			"id": "Calathgar",
+			"name": "Calathgar"
+		},
+		{
+			"id": "Cassomir Stray",
+			"name": "Cassomir Stray"
+		},
+		{
+			"id": "Cayhound",
+			"name": "Cayhound"
+		},
+		{
+			"id": "Cecaelia",
+			"name": "シセイリア"
+		},
+		{
+			"id": "Centaur Greenspeaker",
+			"name": "Centaur Greenspeaker"
+		},
+		{
+			"id": "Centianima",
+			"name": "Centianima"
+		},
+		{
+			"id": "Ceratosaurus",
+			"name": "ケラトサウルス"
+		},
+		{
+			"id": "Cervapral",
+			"name": "Cervapral"
+		},
+		{
+			"id": "Chalkost",
+			"name": "Chalkost"
+		},
+		{
+			"id": "Chemosit",
+			"name": "Chemosit"
+		},
+		{
+			"id": "Chitikin",
+			"name": "Chitikin"
+		},
+		{
+			"id": "Choking Shade",
+			"name": "Choking Shade"
+		},
+		{
+			"id": "Chuul, Lesser",
+			"name": "Chuul, Lesser"
+		},
+		{
+			"id": "Cloaker",
+			"name": "クローカー"
+		},
+		{
+			"id": "Clockwork Hound",
+			"name": "クロックワーク・ハウンド"
+		},
+		{
+			"id": "Codex Archon",
+			"name": "Codex Archon"
+		},
+		{
+			"id": "Crepitus",
+			"name": "Crepitus"
+		},
+		{
+			"id": "Crypt Thing",
+			"name": "クリプト・シング"
+		},
+		{
+			"id": "Cuero",
+			"name": "クエロ"
+		},
+		{
+			"id": "Cyclops",
+			"name": "サイクロプス"
+		},
+		{
+			"id": "Dandasuka",
+			"name": "ダンダスカ"
+		},
+		{
+			"id": "Danthienne",
+			"name": "ダンティエンヌ"
+		},
+		{
+			"id": "Dapsara",
+			"name": "Dapsara"
+		},
+		{
+			"id": "Dark Caller",
+			"name": "ダーク・コーラー"
+		},
+		{
+			"id": "Dark Champion",
+			"name": "Dark Champion"
+		},
+		{
+			"id": "Dark Stalker",
+			"name": "ダーク・ストーカー"
+		},
+		{
+			"id": "Deadfall Dweller",
+			"name": "Deadfall Dweller"
+		},
+		{
+			"id": "Deadfall Tracker",
+			"name": "Deadfall Tracker"
+		},
+		{
+			"id": "Decapus",
+			"name": "デカパス"
+		},
+		{
+			"id": "Deeplit",
+			"name": "Deeplit"
+		},
+		{
+			"id": "Deinochos",
+			"name": "Deinochos"
+		},
+		{
+			"id": "Derhii",
+			"name": "デルヒ"
+		},
+		{
+			"id": "Derro Brainwasher",
+			"name": "Derro Brainwasher"
+		},
+		{
+			"id": "Devilfish",
+			"name": "デヴィルフィッシュ"
+		},
+		{
+			"id": "Dire Boar (daeodon)",
+			"name": "ダイア・ボア"
+		},
+		{
+			"id": "Dire Lion (spotted Lion)",
+			"name": "ダイア・ライオン"
+		},
+		{
+			"id": "Dire Wolverine",
+			"name": "ダイア・ウルヴァリン"
+		},
+		{
+			"id": "Djinni",
+			"name": "ジン"
+		},
+		{
+			"id": "Doppeldrek",
+			"name": "ドッペルドレック"
+		},
+		{
+			"id": "Draugr Captain",
+			"name": "Draugr Captain"
+		},
+		{
+			"id": "Duergar Lieutenant",
+			"name": "ドゥエルガルの補佐官"
+		},
+		{
+			"id": "Dunagh",
+			"name": "Dunagh"
+		},
+		{
+			"id": "Dust Digger",
+			"name": "ダスト・ディガー"
+		},
+		{
+			"id": "Dvorovoi",
+			"name": "ドヴォロヴォイ"
+		},
+		{
+			"id": "Ekekeh",
+			"name": "Ekekeh"
+		},
+		{
+			"id": "Embolotherium",
+			"name": "Embolotherium"
+		},
+		{
+			"id": "Emerald Automaton",
+			"name": "Emerald Automaton"
+		},
+		{
+			"id": "Emperor Cobra",
+			"name": "エンペラー・コブラ"
+		},
+		{
+			"id": "Enisysian",
+			"name": "Enisysian"
+		},
+		{
+			"id": "Eudranis",
+			"name": "Eudranis"
+		},
+		{
+			"id": "Exoskeleton Giant Stag Beetle",
+			"name": "ジャイアント・スタッグ・ビートルのエクソスケルトン"
+		},
+		{
+			"id": "Eye Of Lamashtu",
+			"name": "Eye Of Lamashtu"
+		},
+		{
+			"id": "Faceless Stalker",
+			"name": "フェイスレス・ストーカー"
+		},
+		{
+			"id": "Fachen",
+			"name": "ファハン"
+		},
+		{
+			"id": "Fantionette",
+			"name": "Fantionette"
+		},
+		{
+			"id": "Firbolg",
+			"name": "フィルボルグ"
+		},
+		{
+			"id": "Flail Snail",
+			"name": "フレイル・スネイル"
+		},
+		{
+			"id": "Flotsam Terror",
+			"name": "Flotsam Terror"
+		},
+		{
+			"id": "Foo Lion",
+			"name": "フー・ライオン"
+		},
+		{
+			"id": "Forsaken Defender",
+			"name": "Forsaken Defender"
+		},
+		{
+			"id": "Fossegrim",
+			"name": "フォッセグリム"
+		},
+		{
+			"id": "Freezing Flow",
+			"name": "フリージング・フロウ"
+		},
+		{
+			"id": "Gambling Devil (magadaz)",
+			"name": "Gambling Devil (magadaz)"
+		},
+		{
+			"id": "Gancanagh",
+			"name": "ガンカナグ"
+		},
+		{
+			"id": "Gargoyle",
+			"name": "ガーゴイル"
+		},
+		{
+			"id": "Gearghost",
+			"name": "ギアゴースト"
+		},
+		{
+			"id": "Gearsman Robot",
+			"name": "ギアーズマン"
+		},
+		{
+			"id": "Genthodaemon",
+			"name": "Genthodaemon"
+		},
+		{
+			"id": "Ghul",
+			"name": "グル"
+		},
+		{
+			"id": "Giant Ant Lion",
+			"name": "ジャイアント・アント・ライオン"
+		},
+		{
+			"id": "Giant Blowfish",
+			"name": "Giant Blowfish"
+		},
+		{
+			"id": "Giant Crawling Hand",
+			"name": "ジャイアント・クロウリング・ハンド"
+		},
+		{
+			"id": "Giant Dragonfly",
+			"name": "ジャイアント・ドラゴンフライ"
+		},
+		{
+			"id": "Giant Frilled Lizard",
+			"name": "ジャイアント・フリルド・リザード"
+		},
+		{
+			"id": "Giant Ground Wasp",
+			"name": "Giant Ground Wasp"
+		},
+		{
+			"id": "Giant Hellgrammite",
+			"name": "ジャイアント・ヘルグラマイト"
+		},
+		{
+			"id": "Giant Moray Eel",
+			"name": "ジャイアント・モーレイ・イール"
+		},
+		{
+			"id": "Giant Owl",
+			"name": "ジャイアント・アウル"
+		},
+		{
+			"id": "Giant Phantom Armor",
+			"name": "ジャイアント・ファントム・アーマー"
+		},
+		{
+			"id": "Giant Queen Bee",
+			"name": "ジャイアント・クイーン・ビー"
+		},
+		{
+			"id": "Giant Stag Beetle",
+			"name": "ジャイアント・スタッグ・ビートル"
+		},
+		{
+			"id": "Giant Stargazer",
+			"name": "Giant Stargazer"
+		},
+		{
+			"id": "Giant Vulture",
+			"name": "ジャイアント・ヴァルチャー"
+		},
+		{
+			"id": "Giant Walking Stick",
+			"name": "Giant Walking Stick"
+		},
+		{
+			"id": "Gibbering Mouther",
+			"name": "ジバリング・マウザー"
+		},
+		{
+			"id": "Globster",
+			"name": "グロブスター"
+		},
+		{
+			"id": "Gloomwing",
+			"name": "グルームウィング"
+		},
+		{
+			"id": "Gnoll Sergeant",
+			"name": "ノールの軍曹"
+		},
+		{
+			"id": "Goblin Firestarter",
+			"name": "ゴブリンの着火狂"
+		},
+		{
+			"id": "Goblin Frog-talker",
+			"name": "ゴブリンの蛙話者"
+		},
+		{
+			"id": "Goldpebble",
+			"name": "Goldpebble"
+		},
+		{
+			"id": "Gowrow",
+			"name": "ゴウロウ"
+		},
+		{
+			"id": "Gravebound",
+			"name": "グレイヴバウンド"
+		},
+		{
+			"id": "Graven Guardian",
+			"name": "グレイヴン・ガーディアン"
+		},
+		{
+			"id": "Gray Ooze",
+			"name": "グレイ・ウーズ"
+		},
+		{
+			"id": "Great Diadem Urchin",
+			"name": "Great Diadem Urchin"
+		},
+		{
+			"id": "Great White Shark",
+			"name": "グレート・ホワイト・シャーク"
+		},
+		{
+			"id": "Green Hag",
+			"name": "グリーン・ハグ"
+		},
+		{
+			"id": "Griffon",
+			"name": "グリフィン"
+		},
+		{
+			"id": "Grizzled Rider",
+			"name": "灰染めの騎手"
+		},
+		{
+			"id": "Grodair",
+			"name": "グロデール"
+		},
+		{
+			"id": "Guardian Spirit Imp",
+			"name": "Guardian Spirit Imp"
+		},
+		{
+			"id": "Hala",
+			"name": "Hala"
+		},
+		{
+			"id": "Half-celestial (unicorn)",
+			"name": "ハーフセレスチャル・ユニコーン"
+		},
+		{
+			"id": "Harpy",
+			"name": "ハーピー"
+		},
+		{
+			"id": "Heikegani",
+			"name": "ヘイケガニ"
+		},
+		{
+			"id": "Hieracosphinx",
+			"name": "ヒエラコスフィンクス"
+		},
+		{
+			"id": "Hive Warrior",
+			"name": "ハイヴ・ウォリアー"
+		},
+		{
+			"id": "Hobgoblin Lieutenant",
+			"name": "ホブゴブリンの副官"
+		},
+		{
+			"id": "Honored Of Kaoling",
+			"name": "Honored Of Kaoling"
+		},
+		{
+			"id": "Hound Archon",
+			"name": "ハウンド・アルコン"
+		},
+		{
+			"id": "Huldra",
+			"name": "フルドラ"
+		},
+		{
+			"id": "Hydra",
+			"name": "ヒュドラ"
+		},
+		{
+			"id": "Hypnalis",
+			"name": "ヒプナリス"
+		},
+		{
+			"id": "Ib Shade",
+			"name": "Ib Shade"
+		},
+		{
+			"id": "Ice Troll",
+			"name": "アイス・トロル"
+		},
+		{
+			"id": "Ichthyocentaur",
+			"name": "イクテュオケンタウロス"
+		},
+		{
+			"id": "Iophanite",
+			"name": "Iophanite"
+		},
+		{
+			"id": "Iron Sentinel",
+			"name": "Iron Sentinel"
+		},
+		{
+			"id": "Ja Noi",
+			"name": "Ja Noi"
+		},
+		{
+			"id": "Jade",
+			"name": "Jade"
+		},
+		{
+			"id": "Janni",
+			"name": "ジャーン"
+		},
+		{
+			"id": "Jitterbone",
+			"name": "Jitterbone"
+		},
+		{
+			"id": "Kaicharek",
+			"name": "Kaicharek"
+		},
+		{
+			"id": "Kamadan",
+			"name": "カマダン"
+		},
+		{
+			"id": "Kaprosuchus",
+			"name": "カプロスクス"
+		},
+		{
+			"id": "Karkadann",
+			"name": "カルカダン"
+		},
+		{
+			"id": "Karumzek",
+			"name": "Karumzek"
+		},
+		{
+			"id": "Kelpie",
+			"name": "ケルピー"
+		},
+		{
+			"id": "Kentrosaurus",
+			"name": "ケントロサウルス"
+		},
+		{
+			"id": "Kerakinsi",
+			"name": "Kerakinsi"
+		},
+		{
+			"id": "Kikimora",
+			"name": "キキーモラ"
+		},
+		{
+			"id": "Killer Seahorse",
+			"name": "キラー・シーホース"
+		},
+		{
+			"id": "Knight Ant",
+			"name": "ナイト・アント"
+		},
+		{
+			"id": "Kobold Guilecaster",
+			"name": "コボルドの邪慧術者"
+		},
+		{
+			"id": "Kobold Master Trapper",
+			"name": "コボルドの達人罠師"
+		},
+		{
+			"id": "Kodama",
+			"name": "コダマ"
+		},
+		{
+			"id": "Korred",
+			"name": "コレド"
+		},
+		{
+			"id": "Kuwa",
+			"name": "クワ"
+		},
+		{
+			"id": "Lampad",
+			"name": "ランパデス"
+		},
+		{
+			"id": "Lampadarius",
+			"name": "Lampadarius"
+		},
+		{
+			"id": "Large Aether Elemental",
+			"name": "大型エーテル・エレメンタル"
+		},
+		{
+			"id": "Large Air Elemental",
+			"name": "大型エア・エレメンタル"
+		},
+		{
+			"id": "Large Earth Elemental",
+			"name": "大型アース・エレメンタル"
+		},
+		{
+			"id": "Large Fire Elemental",
+			"name": "大型ファイアー・エレメンタル"
+		},
+		{
+			"id": "Large Lightning Elemental",
+			"name": "大型ライトニング・エレメンタル"
+		},
+		{
+			"id": "Large Magma Elemental",
+			"name": "大型マグマ・エレメンタル"
+		},
+		{
+			"id": "Large Mud Elemental",
+			"name": "大型マッド・エレメンタル"
+		},
+		{
+			"id": "Large Water Elemental",
+			"name": "大型ウォーター・エレメンタル"
+		},
+		{
+			"id": "Leechroot",
+			"name": "リーチルート"
+		},
+		{
+			"id": "Leucrotta",
+			"name": "レウクロッタ"
+		},
+		{
+			"id": "Lion Alebrije",
+			"name": "Lion Alebrije"
+		},
+		{
+			"id": "Living Cave Painting",
+			"name": "Living Cave Painting"
+		},
+		{
+			"id": "Living Topiary",
+			"name": "リヴィング・トピエリィ"
+		},
+		{
+			"id": "Living Wall",
+			"name": "リヴィング・ウォール"
+		},
+		{
+			"id": "Lizard Scion",
+			"name": "リザード・サイオン"
+		},
+		{
+			"id": "Lizardfolk Berserker",
+			"name": "リザードフォークの狂戦士"
+		},
+		{
+			"id": "Lizardfolk Rattler",
+			"name": "リザードフォークの鳴物師"
+		},
+		{
+			"id": "Lotus Leshy",
+			"name": "ロータス・レーシー"
+		},
+		{
+			"id": "Lovelorn",
+			"name": "ラヴローン"
+		},
+		{
+			"id": "Lurker In Light",
+			"name": "ラーカー・イン・ライト"
+		},
+		{
+			"id": "Mana Wastes Mutant (gnoll)",
+			"name": "Mana Wastes Mutant (gnoll)"
+		},
+		{
+			"id": "Mandragora",
+			"name": "マンドラゴラ"
+		},
+		{
+			"id": "Manticore",
+			"name": "マンティコア"
+		},
+		{
+			"id": "Megaloceros",
+			"name": "メガロセロス"
+		},
+		{
+			"id": "Megatherium",
+			"name": "メガテリウム"
+		},
+		{
+			"id": "Melacage",
+			"name": "Melacage"
+		},
+		{
+			"id": "Mimic",
+			"name": "ミミック"
+		},
+		{
+			"id": "Minotaur",
+			"name": "ミノタウロス"
+		},
+		{
+			"id": "Mirror Man",
+			"name": "Mirror Man"
+		},
+		{
+			"id": "Mist Drake",
+			"name": "ミスト・ドレイク"
+		},
+		{
+			"id": "Morgodea",
+			"name": "Morgodea"
+		},
+		{
+			"id": "Mummy",
+			"name": "ミイラ"
+		},
+		{
+			"id": "Myceloid",
+			"name": "マイシロイド"
+		},
+		{
+			"id": "Nightgaunt",
+			"name": "ナイトゴーント"
+		},
+		{
+			"id": "Nightmare",
+			"name": "ナイトメア"
+		},
+		{
+			"id": "Nightmare Ettercap",
+			"name": "ナイトメア・エターキャップ"
+		},
+		{
+			"id": "Nirento",
+			"name": "Nirento"
+		},
+		{
+			"id": "Nisid",
+			"name": "Nisid"
+		},
+		{
+			"id": "Nothosaur",
+			"name": "Nothosaur"
+		},
+		{
+			"id": "Novenarut",
+			"name": "Novenarut"
+		},
+		{
+			"id": "Nualidu",
+			"name": "Nualidu"
+		},
+		{
+			"id": "Ochre Jelly",
+			"name": "オーカー・ジェリー"
+		},
+		{
+			"id": "Ogre Priest",
+			"name": "オーガの神官"
+		},
+		{
+			"id": "Ogre Spider",
+			"name": "オーガ・スパイダー"
+		},
+		{
+			"id": "Ogre Stalker",
+			"name": "オーガの静殺者"
+		},
+		{
+			"id": "Ohancanu",
+			"name": "Ohancanu"
+		},
+		{
+			"id": "Orc Lieutenant",
+			"name": "オークの副官"
+		},
+		{
+			"id": "Orc Scout",
+			"name": "オークの偵察兵"
+		},
+		{
+			"id": "Orca",
+			"name": "オルカ"
+		},
+		{
+			"id": "Oronci",
+			"name": "Oronci"
+		},
+		{
+			"id": "Orsheval",
+			"name": "Orsheval"
+		},
+		{
+			"id": "Othaos",
+			"name": "オタオス"
+		},
+		{
+			"id": "Ourdivar",
+			"name": "アウアディヴァル"
+		},
+		{
+			"id": "Owlbear",
+			"name": "アウルベア"
+		},
+		{
+			"id": "Paakis-si",
+			"name": "Paakis-si"
+		},
+		{
+			"id": "Pachycephalosaurus",
+			"name": "パキケファロサウルス"
+		},
+		{
+			"id": "Parasaurolophus",
+			"name": "パラサウロロフス"
+		},
+		{
+			"id": "Pavbagha",
+			"name": "Pavbagha"
+		},
+		{
+			"id": "Penanggalen",
+			"name": "ペナンガラン"
+		},
+		{
+			"id": "Peryton",
+			"name": "ペリュトン"
+		},
+		{
+			"id": "Phase Spider",
+			"name": "フェイズ・スパイダー"
+		},
+		{
+			"id": "Phycomid",
+			"name": "フィコマイド"
+		},
+		{
+			"id": "Polar Bear",
+			"name": "ポーラー・ベア"
+		},
+		{
+			"id": "Polevik",
+			"name": "Polevik"
+		},
+		{
+			"id": "Raiju",
+			"name": "Raiju"
+		},
+		{
+			"id": "Ratfolk Warden",
+			"name": "ラットフォークの用心棒"
+		},
+		{
+			"id": "Rhinoceros",
+			"name": "ライナセラス"
+		},
+		{
+			"id": "Rope Dragon",
+			"name": "ロープ・ドラゴン"
+		},
+		{
+			"id": "Runewarped Goblin",
+			"name": "Runewarped Goblin"
+		},
+		{
+			"id": "Sabosan",
+			"name": "サボサン"
+		},
+		{
+			"id": "Saguaroi",
+			"name": "サグアロイ"
+		},
+		{
+			"id": "Sahuagin Deep Racer",
+			"name": "サフアグンの深海暴走狂"
+		},
+		{
+			"id": "Sahuagin Lieutenant",
+			"name": "サフアグンの副官"
+		},
+		{
+			"id": "Sahuagin Underpriestess",
+			"name": "サフアグンの下級女神官"
+		},
+		{
+			"id": "Saltwater Crocodile",
+			"name": "Saltwater Crocodile"
+		},
+		{
+			"id": "Satyr",
+			"name": "サテュロス"
+		},
+		{
+			"id": "Sawdust Slough",
+			"name": "Sawdust Slough"
+		},
+		{
+			"id": "Scarecrow",
+			"name": "スケアクロウ"
+		},
+		{
+			"id": "Schir",
+			"name": "シーア"
+		},
+		{
+			"id": "Scrivenite",
+			"name": "Scrivenite"
+		},
+		{
+			"id": "Sea Cat",
+			"name": "シー・キャット"
+		},
+		{
+			"id": "Sea Hag",
+			"name": "シー・ハグ"
+		},
+		{
+			"id": "Selkie",
+			"name": "シルキー"
+		},
+		{
+			"id": "Sentient Wax Golem",
+			"name": "Sentient Wax Golem"
+		},
+		{
+			"id": "Serpentfolk",
+			"name": "サーペントフォーク"
+		},
+		{
+			"id": "Serpentfolk Spy",
+			"name": "サーペントフォークの密偵"
+		},
+		{
+			"id": "Sha",
+			"name": "シャー"
+		},
+		{
+			"id": "Shadow Animal Lion",
+			"name": "Shadow Animal Lion"
+		},
+		{
+			"id": "Shadow Fern",
+			"name": "Shadow Fern"
+		},
+		{
+			"id": "Shadow Mastiff",
+			"name": "シャドウ・マスティフ"
+		},
+		{
+			"id": "Shae",
+			"name": "シェイ"
+		},
+		{
+			"id": "Shell Sentinel",
+			"name": "Shell Sentinel"
+		},
+		{
+			"id": "Ship Scavenger",
+			"name": "Ship Scavenger"
+		},
+		{
+			"id": "Shissah",
+			"name": "Shissah"
+		},
+		{
+			"id": "Shobhad",
+			"name": "ショブハド"
+		},
+		{
+			"id": "Shriezyx",
+			"name": "シュリジクス"
+		},
+		{
+			"id": "Sightless Sea Sailor",
+			"name": "Sightless Sea Sailor"
+		},
+		{
+			"id": "Silverblood Lycanthrope (human Form)",
+			"name": "Silverblood Lycanthrope (human Form)"
+		},
+		{
+			"id": "Siren",
+			"name": "セイレーン"
+		},
+		{
+			"id": "Skaveling",
+			"name": "スケイヴリング"
+		},
+		{
+			"id": "Skeltercat",
+			"name": "Skeltercat"
+		},
+		{
+			"id": "Skinstitch",
+			"name": "スキンスティッチ"
+		},
+		{
+			"id": "Slicer Beetle",
+			"name": "スライサー・ビートル"
+		},
+		{
+			"id": "Slithering Tracker",
+			"name": "スリザリング・トラッカー"
+		},
+		{
+			"id": "Spear Urchin",
+			"name": "スピア・アーチン"
+		},
+		{
+			"id": "Stag Archon",
+			"name": "Stag Archon"
+		},
+		{
+			"id": "Stalker Automaton",
+			"name": "Stalker Automaton"
+		},
+		{
+			"id": "Strix Voyager",
+			"name": "Strix Voyager"
+		},
+		{
+			"id": "Styracosaurus",
+			"name": "スティラコサウルス"
+		},
+		{
+			"id": "Suffragan",
+			"name": "Suffragan"
+		},
+		{
+			"id": "Sun Falcon",
+			"name": "Sun Falcon"
+		},
+		{
+			"id": "Swaithe",
+			"name": "Swaithe"
+		},
+		{
+			"id": "Swamp Mummy",
+			"name": "スウォンプ・ミイラ"
+		},
+		{
+			"id": "Synesis",
+			"name": "Synesis"
+		},
+		{
+			"id": "Tanuki",
+			"name": "タヌキ"
+		},
+		{
+			"id": "Tenome",
+			"name": "テノメ"
+		},
+		{
+			"id": "Tentamort",
+			"name": "テンタモート"
+		},
+		{
+			"id": "Thin Man",
+			"name": "Thin Man"
+		},
+		{
+			"id": "Thognorok",
+			"name": "Thognorok"
+		},
+		{
+			"id": "Thoxel Demon",
+			"name": "Thoxel Demon"
+		},
+		{
+			"id": "Thriae Soldier",
+			"name": "トリアイ・ソルジャー"
+		},
+		{
+			"id": "Thyrlien",
+			"name": "Thyrlien"
+		},
+		{
+			"id": "Tiger",
+			"name": "タイガー"
+		},
+		{
+			"id": "Tinder Devil (ukobach)",
+			"name": "Tinder Devil (ukobach)"
+		},
+		{
+			"id": "Tojanida",
+			"name": "トジャナイダ"
+		},
+		{
+			"id": "Toy Golem",
+			"name": "Toy Golem"
+		},
+		{
+			"id": "Troggle",
+			"name": "トログル"
+		},
+		{
+			"id": "Troglodyte Sorcerer",
+			"name": "トログロダイトの妖術師"
+		},
+		{
+			"id": "Troll",
+			"name": "トロル"
+		},
+		{
+			"id": "Tuyewera",
+			"name": "Tuyewera"
+		},
+		{
+			"id": "Umasi",
+			"name": "Umasi"
+		},
+		{
+			"id": "Unfettered Phantom",
+			"name": "解放された守護霊"
+		},
+		{
+			"id": "Unrisen",
+			"name": "アンリズン"
+		},
+		{
+			"id": "Uraeus",
+			"name": "ウラエウス"
+		},
+		{
+			"id": "Vayuphak",
+			"name": "Vayuphak"
+		},
+		{
+			"id": "Ved",
+			"name": "ヴェド"
+		},
+		{
+			"id": "Vendenopterix",
+			"name": "Vendenopterix"
+		},
+		{
+			"id": "Vodyanoi",
+			"name": "ヴォジャノーイ"
+		},
+		{
+			"id": "Voonith",
+			"name": "ヴーニス"
+		},
+		{
+			"id": "Vulnudaemon",
+			"name": "ヴァルヌダイモン"
+		},
+		{
+			"id": "Walrus",
+			"name": "ウォルラス"
+		},
+		{
+			"id": "Weird Butler",
+			"name": "不気味な執事"
+		},
+		{
+			"id": "Werebear (human Form)",
+			"name": "ワーベア（人間形態）"
+		},
+		{
+			"id": "Werebear (hybrid Form)",
+			"name": "ワーベア（中間形態）"
+		},
+		{
+			"id": "Weremantis (human Form)",
+			"name": "ワーマンティス（人間形態）"
+		},
+		{
+			"id": "Weremantis (hybrid Form)",
+			"name": "ワーマンティス（中間形態）"
+		},
+		{
+			"id": "Weretiger (human Form)",
+			"name": "ワータイガー（人間形態）"
+		},
+		{
+			"id": "Weretiger (hybrid Form)",
+			"name": "ワータイガー（中間形態）"
+		},
+		{
+			"id": "Werewasp (human Form)",
+			"name": "ワーワスプ（人間形態）"
+		},
+		{
+			"id": "Wikkawak",
+			"name": "ウィカワク"
+		},
+		{
+			"id": "Wraith",
+			"name": "レイス"
+		},
+		{
+			"id": "Wraithwing",
+			"name": "Wraithwing"
+		},
+		{
+			"id": "Wretchghost",
+			"name": "Wretchghost"
+		},
+		{
+			"id": "Xocothian",
+			"name": "Xocothian"
+		},
+		{
+			"id": "Xulgath",
+			"name": "Xulgath"
+		},
+		{
+			"id": "Yamah",
+			"name": "ヤマ"
+		},
+		{
+			"id": "Yeti",
+			"name": "イエティ"
+		},
+		{
+			"id": "Yhohm",
+			"name": "Yhohm"
+		},
+		{
+			"id": "Zentragt",
+			"name": "Zentragt"
+		},
+		{
+			"id": "Zuvembie",
+			"name": "ズヴェンビ"
+		}
+	]
+}
