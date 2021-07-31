@@ -39,14 +39,23 @@
         },
         "Skill": {
             "AlwaysShow": "AS",
-            "AlwaysShowTooltip": "概要タブの技能リストに表示"
+            "AlwaysShowTooltip": "概要タブの技能リストに表示",
+            "TooManyRanks": "技能ランクが多い"
         },
         "Features": {
-            "MinimizeClasses": "クラスを小さく表示する"
+            "MinimizeClasses": "クラスを小さく表示する",
+            "TooManyFeats": "特技が多い"
         },
         "Config": {
             "Reset": "シートの設定を初期化",
             "ResetTooltip": "このアクターのモジュール固有の設定を初期化しデフォルトに戻します。何かが壊れているような場合に有効です。"
+        },
+        "Links" : {
+            "Header": "Actor Link",
+            "Mode": "Mode",
+            "ModeNone": "None",
+            "ModeFamiliar": "Familiar",
+            "MasterRankPlural": "Master Ranks"
         },
         "MetricSpeeds": "メートル法を使用しています。\nいずれにしてもフィートの値を入力してください。\nCommon values:\n20 ft = 6 m\n30 ft = 9 m"
     }
