@@ -5,6 +5,21 @@
 	},
 	"entries": [
 		{
+			"id": "Touch of Glory",
+			"name": "栄光の手",
+			"description": "<p><strong>効果：</strong>【魅力】基準の技能判定か、【魅力】判定にクレリック・レベルに等しいボーナスを得る。</p>\n<p><strong>持続時間：</strong>この効果は1時間か、対象が効果を使用するまで続く。</p>\n<p><strong>使用方法：</strong>バフのレベル欄に栄光の手を持つクラスレベルと同じ数字を設定する。</p>\n<p>ボーナス： [[@item.level]]</p>",
+			"contextNotes": [
+				{
+					"subTarget": "chaSkills",
+					"text": "【魅力】基準の技能判定に＋[[@item.level]]のボーナス"
+				},
+				{
+					"subTarget": "chaChecks",
+					"text": "【魅力】判定に＋[[@item.level]]のボーナス"
+				}
+			]
+		},
+		{
 			"id": "Fighting Defensively",
 			"name": "防御的戦闘",
 			"description": "<p>攻撃を行う際、防御的戦闘を選択することができる。そうすれば、君は次の君のターン開始まですべての攻撃に－4のペナルティを受け、代わりにその間アーマー・クラスに＋2のボーナスを得る。</p>",

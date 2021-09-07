@@ -33,6 +33,11 @@
         "Level7": "7レベル",
         "Level8": "8レベル",
         "Level9": "9レベル",
+         "Chat": {
+            "AttackChatCard": "Alternative (from pf1-alt-sheet)",
+            "addAttackChatCardTemplateN": "攻撃のチャットカードのスタイルに Alternative を追加する",
+            "addAttackChatCardTemplateH": "Pathfinder 1eのシステム設定で手動で選択する必要があります。"
+        },
         "Spells": {
             "CannotCast": "このレベルの呪文を唱えることはできません：",
             "CannotCastAbilityScore": "能力値が不足しています"
@@ -40,7 +45,8 @@
         "Skill": {
             "AlwaysShow": "AS",
             "AlwaysShowTooltip": "概要タブの技能リストに表示",
-            "TooManyRanks": "技能ランクが多い"
+            "TooManyRanks": "技能ランクが多い",
+            "AddSkill": "技能を追加"
         },
         "Features": {
             "MinimizeClasses": "クラスを小さく表示する",

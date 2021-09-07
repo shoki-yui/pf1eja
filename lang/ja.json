@@ -111,6 +111,19 @@
   "SETTINGS.pf1UnitsN": "単位系",
   "SETTINGS.pf1UnitsL": "このワールドで使用される単位系",
 
+  "SETTINGS.pf1ImperialUnits": "帝国単位 (feet, lbs)",
+  "SETTINGS.pf1ImperialDistanceUnits": "帝国単位 (feet)",
+  "SETTINGS.pf1ImperialWeightUnits": "帝国単位 (lbs)",
+  "SETTINGS.pf1MetricUnits": "メートル法 (meters, kg)",
+  "SETTINGS.pf1MetricDistanceUnits": "メートル法 (meters)",
+  "SETTINGS.pf1MetricWeightUnits": "メートル法 (kg)",
+
+  "SETTINGS.pf1DistanceUnitsN": "距離の単位系",
+  "SETTINGS.pf1DistanceUnitsL": "距離に使用する単位系を上書きします",
+
+  "SETTINGS.pf1WeightUnitsN": "重さの単位系",
+  "SETTINGS.pf1WeightUnitsL": "重さに使用する単位系を上書きします",
+
   "TOKEN.VisionLowLight": "夜目",
   "TOKEN.VisionLowLightMultiplier": "夜目の倍率（薄暗い、明るい）",
   "TOKEN.VisionDarkvision": "暗視",
@@ -204,6 +217,9 @@
   "PF1.ClearReduction": "減少値をクリア",
 
   "PF1.RollsForInitiative": "{0}のイニシアチブロール！",
+
+  "PF1.Take10": "出目 10",
+  "PF1.Take20": "出目 20",
 
   "PF1.Flags": "Flags",
   "PF1.FlagsInstructions": "PF1システムの挙動を微調整するためのキャラクターの能力や特性を設定する。",
@@ -528,8 +544,11 @@
 
   "PF1.TimeInst": "瞬間",
   "PF1.TimeTurn": "ターン",
+  "PF1.TimeTurnShort": "ターン",
   "PF1.TimeRound": "ラウンド",
+  "PF1.TimeRoundShort": "ラウンド",
   "PF1.TimeMinute": "分",
+  "PF1.TimeMinuteShort": "分",
   "PF1.TimeHour": "時間",
   "PF1.TimeDay": "日",
   "PF1.TimeMonth": "ヶ月",
@@ -769,6 +788,8 @@
   "PF1.ChangeFlagMediumArmorFullSpeed": "中装鎧で通常速度",
   "PF1.ChangeFlagHeavyArmorFullSpeed": "重装鎧で通常速度",
 
+  "PF1.Undefined": "未定義",
+
   "PF1.ErrorGenericPermission": "あなたにはそのアクションを行う権限がありません",
   "PF1.ErrorNoActorPermission": "あなたにはこのアクターを操作する権限がありません",
   "PF1.ErrorNoActorPermissionAlt": "あなたにはこのアクターを操作する権限がありません '{0}'",
@@ -938,7 +959,8 @@
   "PF1.RollCLMacroName": "{0}: 術者レベル判定({1})をロール",
   "PF1.RollConcentrationMacroName": "{0}: 精神集中({1})をロール",
   "PF1.RollBABMacroName": "{0}: 基本攻撃ボーナスをロール",
-
+  "PF1.RollSaveMacroName": "{0}: Roll {1} Save",
+  
   "PF1.DamageTypeBludgeoning": "殴打",
   "PF1.DamageTypePiercing": "刺突",
   "PF1.DamageTypeSlashing": "斬撃",
@@ -1107,6 +1129,7 @@
   "PF1.Senses": "感覚",
   "PF1.Save": "セーヴ",
   "PF1.Size": "サイズ",
+  "PF1.Resizing": "Resizing",
   "PF1.Special": "特殊",
   "PF1.Speed": "移動力",
   "PF1.SpeedBurrow": "穴掘り移動速度",
@@ -1334,6 +1357,9 @@
   "PF1.UpdateActor": "アクターの更新",
   "PF1.UpdateItem": "アイテムの更新",
   "PF1.BonusCarryStrength": "運搬筋力ボーナス",
+  "PF1.BonusCarryMultiplier": "運搬倍率ボーナス",
+  "PF1.CarryStrength": "運搬筋力",
+  "PF1.CarryMultiplier": "運搬能力倍率",
   "PF1.Multiplier": "倍率",
   "PF1.CarryLightLoad": "軽荷重",
   "PF1.CarryMediumLoad": "中荷重",
@@ -1344,6 +1370,7 @@
   "PF1.CarryLabel": "{0}ポンド運搬中",
   "PF1.CarryLabelKg": "{0}kg運搬中",
   "PF1.SkillBonusRankFormula": "ボーナスランクの式",
+  "PF1.ToggleSkillLock": "技能リストのチェックボックスなどの編集ロックを切り替えます",
   "PF1.Rank": "ランク",
   "PF1.SkillRankPlural": "技能ランク",
   "PF1.Used": "使用済み",
