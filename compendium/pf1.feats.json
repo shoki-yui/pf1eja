@@ -1,5 +1,9 @@
 {
 	"label": "特技",
+    "mapping": {
+		"changes": "data.changes",
+		"contextNotes": "data.contextNotes"
+    },
 	"entries": [
 		{
 			"id": "Acrobatic",
@@ -34,12 +38,14 @@
 		{
 			"id": "Arcane Armor Mastery",
 			"name": "秘術使いの鎧体得",
-			"description": "<p><strong>《秘術使いの鎧体得》（戦闘） Arcane Armor Mastery</strong></p><p>君は鎧を着ながら呪文を発動する術を会得した。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.3v85ul6tGGBZbtBg]{秘術使いの鎧訓練}、@Compendium[pf1.feats.qQCgBVieojhmMuHL]{鎧習熟：中装}、術者レベル7。</p><p><strong>利益：</strong>即行アクションで、このラウンドの間発動する呪文への鎧による秘術呪文失敗確率を20％低減させることができる。このボーナスは@Compendium[pf1.feats.3v85ul6tGGBZbtBg]{秘術使いの鎧訓練}による低減を置き換えるため、累積はしない。</p>"
+			"description": "<p><strong>《秘術使いの鎧体得》（戦闘） Arcane Armor Mastery</strong></p><p>君は鎧を着ながら呪文を発動する術を会得した。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.3v85ul6tGGBZbtBg]{秘術使いの鎧訓練}、@Compendium[pf1.feats.qQCgBVieojhmMuHL]{鎧習熟：中装}、術者レベル7。</p><p><strong>利益：</strong>即行アクションで、このラウンドの間発動する呪文への鎧による秘術呪文失敗確率を20％低減させることができる。このボーナスは@Compendium[pf1.feats.3v85ul6tGGBZbtBg]{秘術使いの鎧訓練}による低減を置き換えるため、累積はしない。</p>",
+			"contextNotes": []
 		},
 		{
 			"id": "Arcane Armor Training",
 			"name": "秘術使いの鎧訓練",
-			"description": "<p><strong>《秘術使いの鎧訓練》（戦闘） Arcane Armor Training</strong></p><p>君は鎧を着ながら呪文を発動する術を学んだ。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.FszchlqR39lnNduC]{鎧習熟：軽装}、術者レベル3。</p><p><strong>利益：</strong>即行アクションで、このラウンドの間発動する呪文への鎧による秘術呪文失敗確率を10％低減させることができる。</p>"
+			"description": "<p><strong>《秘術使いの鎧訓練》（戦闘） Arcane Armor Training</strong></p><p>君は鎧を着ながら呪文を発動する術を学んだ。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.FszchlqR39lnNduC]{鎧習熟：軽装}、術者レベル3。</p><p><strong>利益：</strong>即行アクションで、このラウンドの間発動する呪文への鎧による秘術呪文失敗確率を10％低減させることができる。</p>",
+			"contextNotes": []
 		},
 		{
 			"id": "Arcane Strike",
@@ -74,17 +80,39 @@
 		{
 			"id": "Bleeding Critical",
 			"name": "出血化クリティカル",
-			"description": "<p><strong>《出血化クリティカル》（戦闘、クリティカル） Bleeding Critical</strong></p><p>君のクリティカル・ヒットによって相手はおびただしい量の血を流し始める。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>斬撃、あるいは刺突武器によってクリティカル・ヒットを放った時、クリティカルの対象は通常のクリティカル・ダメージを受けるのみならず、2d6ポイントの出血ダメージ（“状態”を参照）を毎ラウンド自分のターンに受ける。出血は難易度15の@Compendium[pf1.skills.RtBGttkocvTbySjd]{治療}技能判定か、なんらかの魔法による治癒によって止まる。この特技による効果は累積する。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>"
+			"description": "<p><strong>《出血化クリティカル》（戦闘、クリティカル） Bleeding Critical</strong></p><p>君のクリティカル・ヒットによって相手はおびただしい量の血を流し始める。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>斬撃、あるいは刺突武器によってクリティカル・ヒットを放った時、クリティカルの対象は通常のクリティカル・ダメージを受けるのみならず、2d6ポイントの出血ダメージ（“状態”を参照）を毎ラウンド自分のターンに受ける。出血は難易度15の@Compendium[pf1.skills.RtBGttkocvTbySjd]{治療}技能判定か、なんらかの魔法による治癒によって止まる。この特技による効果は累積する。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "effect",
+					"text": "出血化クリティカル：斬撃、あるいは刺突武器によってクリティカル・ヒットしたとき、相手に[[/r 2d6]]ポイントの出血ダメージを与える"
+				}
+			]
 		},
 		{
 			"id": "Blind-Fight",
 			"name": "無視界戦闘",
-			"description": "<p><strong>《無視界戦闘》（戦闘） Blind-Fight</strong></p><p>君ははっきりとは見えない相手と戦うことに秀でている。</p><p><strong>利益：</strong>近接戦闘で視認困難（“戦闘”を参照）のために失敗するたびに、実際に命中したかどうかを調べるための失敗確率の％ロールを1回だけ再ロールできる。</p><p>不可視状態の攻撃側は近接戦闘で君を攻撃する際にボーナスを得ることはない。つまり、君はアーマー・クラスへの【敏捷力】ボーナスを失うことはなく、攻撃側は通常の＋2のボーナスを得られない。ただし遠隔攻撃の場合には、攻撃者が不可視状態であることによるボーナスが適用される。</p><p>君は目が見えない時に全力で移動するための@Compendium[pf1.skills.HPsdXjjRtKNGFGRc]{軽業}判定を行う必要がない。</p><p><strong>通常：</strong>不可視状態の攻撃者が君に命中させるための攻撃ロールに通常通り修正値が足され、君はアーマー・クラスへの【敏捷力】ボーナスを失う。暗闇や視界の悪さによる移動速度の低下も通常通り適用される。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.pmAO1Sni8xx71pLF]{無視界戦闘}はブリンク呪文の対象になっているキャラクターに対しては役にたたない。</p>"
+			"description": "<p><strong>《無視界戦闘》（戦闘） Blind-Fight</strong></p><p>君ははっきりとは見えない相手と戦うことに秀でている。</p><p><strong>利益：</strong>近接戦闘で視認困難（“戦闘”を参照）のために失敗するたびに、実際に命中したかどうかを調べるための失敗確率の％ロールを1回だけ再ロールできる。</p><p>不可視状態の攻撃側は近接戦闘で君を攻撃する際にボーナスを得ることはない。つまり、君はアーマー・クラスへの【敏捷力】ボーナスを失うことはなく、攻撃側は通常の＋2のボーナスを得られない。ただし遠隔攻撃の場合には、攻撃者が不可視状態であることによるボーナスが適用される。</p><p>君は目が見えない時に全力で移動するための@Compendium[pf1.skills.HPsdXjjRtKNGFGRc]{軽業}判定を行う必要がない。</p><p><strong>通常：</strong>不可視状態の攻撃者が君に命中させるための攻撃ロールに通常通り修正値が足され、君はアーマー・クラスへの【敏捷力】ボーナスを失う。暗闇や視界の悪さによる移動速度の低下も通常通り適用される。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.pmAO1Sni8xx71pLF]{無視界戦闘}はブリンク呪文の対象になっているキャラクターに対しては役にたたない。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "attack",
+					"text": "無視界戦闘：視認困難時の失敗確率の％ロールを1回だけ再ロールできる"
+				},
+				{
+					"subTarget": "ac",
+					"text": "無視界戦闘：不可視状態の攻撃側は近接戦闘で君を攻撃する際にボーナスを得ない"
+				}
+			]
 		},
 		{
 			"id": "Blinding Critical",
 			"name": "盲目化クリティカル",
-			"description": "<p><strong>《盲目化クリティカル》（戦闘、クリティカル） Blinding Critical</strong></p><p>君のクリティカル・ヒットは相手を盲目にする。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋15。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は恒久的に盲目状態になる。ただし頑健セーヴに成功した場合、対象は1d4ラウンド目が眩んだ状態になるだけですむ。セーヴ難易度は10＋君の基本攻撃ボーナスである。この特技は視界を目に頼っていないクリーチャーや、2つより多くの目があるクリーチャーには効果がない（目が多いクリーチャーに関しては、GMの判断によっては複数のクリティカル・ヒットによって目が見えなくなることにしても良い）。盲目状態は@Compendium[pf1.spells.4re1j2w8wkvsvnsi]{ヒール}、@Compendium[pf1.spells.3fbrrckyfagfzyop]{リジェネレイト}、@Compendium[pf1.spells.kundr7ekztiqml5t]{リムーヴ・ブラインドネス／デフネス}やそれに類似した呪文や効果によって癒すことができる。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>"
+			"description": "<p><strong>《盲目化クリティカル》（戦闘、クリティカル） Blinding Critical</strong></p><p>君のクリティカル・ヒットは相手を盲目にする。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋15。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は恒久的に盲目状態になる。ただし頑健セーヴに成功した場合、対象は1d4ラウンド目が眩んだ状態になるだけですむ。セーヴ難易度は10＋君の基本攻撃ボーナスである。この特技は視界を目に頼っていないクリーチャーや、2つより多くの目があるクリーチャーには効果がない（目が多いクリーチャーに関しては、GMの判断によっては複数のクリティカル・ヒットによって目が見えなくなることにしても良い）。盲目状態は@Compendium[pf1.spells.4re1j2w8wkvsvnsi]{ヒール}、@Compendium[pf1.spells.3fbrrckyfagfzyop]{リジェネレイト}、@Compendium[pf1.spells.kundr7ekztiqml5t]{リムーヴ・ブラインドネス／デフネス}やそれに類似した呪文や効果によって癒すことができる。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "effect",
+					"text": "盲目化クリティカル：クリティカル・ヒット時、相手は頑健セーヴ（難易度 [[10 + @attributes.bab.total]]）に失敗すると恒久的に盲目状態になる。頑健セーヴに成功した場合は [[/r 1d4]]ラウンドの間目が眩んだ状態になる"
+				}
+			]
 		},
 		{
 			"id": "Brew Potion",
@@ -94,7 +122,13 @@
 		{
 			"id": "Catch Off-Guard",
 			"name": "代用武器の巧み",
-			"description": "<p><strong>《代用武器の巧み》（戦闘） Catch Off-Guard</strong></p><p>敵は君が正統なものでない、間に合わせの武器を自在に操ることに驚かされる。</p><p><strong>利益：</strong>君は近接代用武器を扱う際にペナルティを受けない。武装していない敵は君の代用武器による攻撃に対して立ちすくみ状態になる。</p><p><strong>通常：</strong>代用武器を扱う際には攻撃ロールに－4のペナルティを受ける。</p>"
+			"description": "<p><strong>《代用武器の巧み》（戦闘） Catch Off-Guard</strong></p><p>敵は君が正統なものでない、間に合わせの武器を自在に操ることに驚かされる。</p><p><strong>利益：</strong>君は近接代用武器を扱う際にペナルティを受けない。武装していない敵は君の代用武器による攻撃に対して立ちすくみ状態になる。</p><p><strong>通常：</strong>代用武器を扱う際には攻撃ロールに－4のペナルティを受ける。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "attack",
+					"text": "代用武器の巧み：武装していない敵は君の代用武器による攻撃に対して立ちすくみ状態になる"
+				}
+			]
 		},
 		{
 			"id": "Channel Smite",
@@ -104,7 +138,8 @@
 		{
 			"id": "Cleave",
 			"name": "薙ぎ払い",
-			"description": "<p><strong>《薙ぎ払い》（戦闘） Cleave</strong></p><p>君は武器の一薙ぎで隣り合う2人の敵を攻撃できる。</p><p><strong>前提条件：</strong>【筋】13、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>標準アクションで、君の最も高い基本攻撃ボーナスを用いて間合い内の敵を攻撃する。攻撃が当たった場合通常通りにダメージを与え、さらにその敵に隣接し、かつ間合い内にいるもう1人の敵に同じ基本攻撃ボーナスを用いて追加攻撃を行うことができる。この特技を用いての追加攻撃は、1ラウンドに1回までしかできない。この特技を用いた場合、君は次の君のターンまでアーマー・クラスに－2のペナルティを受ける。</p>"
+			"description": "<p><strong>《薙ぎ払い》（戦闘） Cleave</strong></p><p>君は武器の一薙ぎで隣り合う2人の敵を攻撃できる。</p><p><strong>前提条件：</strong>【筋】13、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>標準アクションで、君の最も高い基本攻撃ボーナスを用いて間合い内の敵を攻撃する。攻撃が当たった場合通常通りにダメージを与え、さらにその敵に隣接し、かつ間合い内にいるもう1人の敵に同じ基本攻撃ボーナスを用いて追加攻撃を行うことができる。この特技を用いての追加攻撃は、1ラウンドに1回までしかできない。この特技を用いた場合、君は次の君のターンまでアーマー・クラスに－2のペナルティを受ける。</p>",
+			"contextNotes": []
 		},
 		{
 			"id": "Combat Casting",
@@ -119,7 +154,8 @@
 		{
 			"id": "Combat Reflexes",
 			"name": "迎え討ち",
-			"description": "<p><strong>《迎え討ち》（戦闘） Combat Reflexes</strong></p><p>君は追加の機会攻撃を行える。</p><p><strong>利益：</strong>君が1ラウンドに行える機会攻撃の回数は、【敏捷力】修正値回数増加する。また、立ちすくみ状態の時も機会攻撃を行える。</p><p><strong>通常：</strong>この特技を持っていないキャラクターは1ラウンドに1回までしか機会攻撃が行えず、また立ちすくみ状態の時には機会攻撃を行えない。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.h9nHYLxXvIXBTmup]{迎え討ち}を持つローグでも、追い討ちの能力を1ラウンドに2回以上使用することはできない。</p>"
+			"description": "<p><strong>《迎え討ち》（戦闘） Combat Reflexes</strong></p><p>君は追加の機会攻撃を行える。</p><p><strong>利益：</strong>君が1ラウンドに行える機会攻撃の回数は、【敏捷力】修正値回数増加する。また、立ちすくみ状態の時も機会攻撃を行える。</p><p><strong>通常：</strong>この特技を持っていないキャラクターは1ラウンドに1回までしか機会攻撃が行えず、また立ちすくみ状態の時には機会攻撃を行えない。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.h9nHYLxXvIXBTmup]{迎え討ち}を持つローグでも、追い討ちの能力を1ラウンドに2回以上使用することはできない。</p>",
+			"contextNotes": []
 		},
 		{
 			"id": "Command Undead",
@@ -154,12 +190,29 @@
 		{
 			"id": "Critical Focus",
 			"name": "クリティカル熟練",
-			"description": "<p><strong>《クリティカル熟練》（戦闘） Critical Focus</strong></p><p>君は苦痛を与える術に長けている。</p><p><strong>前提条件：</strong>基本攻撃ボーナス＋9。</p><p><strong>利益：</strong>クリティカル・ヒットを確定させるためのクリティカル・ロールに＋4の状況ボーナスを得る。</p>"
+			"description": "<p><strong>《クリティカル熟練》（戦闘） Critical Focus</strong></p><p>君は苦痛を与える術に長けている。</p><p><strong>前提条件：</strong>基本攻撃ボーナス＋9。</p><p><strong>利益：</strong>クリティカル・ヒットを確定させるためのクリティカル・ロールに＋4の状況ボーナスを得る。</p>",
+			"changes":[
+				{
+					"formula":"4",
+					"operator":"add",
+					"subTarget":"critConfirm",
+					"modifier":"circumstance",
+					"priority":0,
+					"value":0
+				}
+			],
+			"contextNotes": []
 		},
 		{
 			"id": "Critical Mastery",
 			"name": "クリティカル体得",
-			"description": "<p><strong>《クリティカル体得》（戦闘） Critical Mastery</strong></p><p>君のクリティカル・ヒットは2つの追加効果を与える。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、2つ以上のクリティカル特技、ファイター・レベル14。</p><p><strong>利益：</strong>クリティカル・ヒットした際、ダメージを与えた上に2つのクリティカル特技の効果を与える。</p><p><strong>通常：</strong>クリティカル・ヒットの際にはダメージの他に1つのクリティカル特技だけを適用できる。</p>"
+			"description": "<p><strong>《クリティカル体得》（戦闘） Critical Mastery</strong></p><p>君のクリティカル・ヒットは2つの追加効果を与える。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、2つ以上のクリティカル特技、ファイター・レベル14。</p><p><strong>利益：</strong>クリティカル・ヒットした際、ダメージを与えた上に2つのクリティカル特技の効果を与える。</p><p><strong>通常：</strong>クリティカル・ヒットの際にはダメージの他に1つのクリティカル特技だけを適用できる。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "effect",
+					"text": "クリティカル体得：クリティカル・ヒットした際、2つのクリティカル特技の効果を与える"
+				}
+			]
 		},
 		{
 			"id": "Dazzling Display",
@@ -174,12 +227,19 @@
 		{
 			"id": "Deadly Stroke",
 			"name": "手ひどい一打",
-			"description": "<p><strong>《手ひどい一打》（戦闘） Deadly Stroke</strong></p><p>良く狙った一撃でもって、君は多くの敵に素早く、痛みに満ちた終焉を迎えさせる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.3cq9YbgcMrAXC76j]{威圧演舞}、@Compendium[pf1.feats.IER2MzJrjSvxMlNS]{上級武器熟練}、@Compendium[pf1.feats.kn854Ovz0BDA2Dgz]{防御崩し}、@Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器熟練}、選択した武器への習熟、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>標準アクションで、君が@Compendium[pf1.feats.IER2MzJrjSvxMlNS]{上級武器熟練}を持つ武器を用いて朦朧状態、あるいは立ちすくみ状態の敵に1回の攻撃を行う。命中した場合、通常の2倍のダメージを与え、さらに【耐久力】に対する1ポイントの出血状態を引き起こさせる（“状態”の章を参照）。クリティカルした場合、2倍したダメージを何倍かするのではなく、通常のクリティカルによるダメージにさらに通常ダメージを加える。クリティカルによって出血ダメージの量は変わらない。</p>"
+			"description": "<p><strong>《手ひどい一打》（戦闘） Deadly Stroke</strong></p><p>良く狙った一撃でもって、君は多くの敵に素早く、痛みに満ちた終焉を迎えさせる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.3cq9YbgcMrAXC76j]{威圧演舞}、@Compendium[pf1.feats.IER2MzJrjSvxMlNS]{上級武器熟練}、@Compendium[pf1.feats.kn854Ovz0BDA2Dgz]{防御崩し}、@Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器熟練}、選択した武器への習熟、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>標準アクションで、君が@Compendium[pf1.feats.IER2MzJrjSvxMlNS]{上級武器熟練}を持つ武器を用いて朦朧状態、あるいは立ちすくみ状態の敵に1回の攻撃を行う。命中した場合、通常の2倍のダメージを与え、さらに【耐久力】に対する1ポイントの出血状態を引き起こさせる（“状態”の章を参照）。クリティカルした場合、2倍したダメージを何倍かするのではなく、通常のクリティカルによるダメージにさらに通常ダメージを加える。クリティカルによって出血ダメージの量は変わらない。</p>",
+			"contextNotes": []
 		},
 		{
 			"id": "Deafening Critical",
 			"name": "聴覚喪失化クリティカル",
-			"description": "<p><strong>《聴覚喪失化クリティカル》（戦闘、クリティカル） Deafening Critical</strong></p><p>君のクリティカル・ヒットは敵の聴覚を奪う。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋13。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は恒久的に聴覚喪失状態になる。ただし頑健セーヴに成功した場合、聴覚喪失状態は1ラウンドしか継続しない。セーヴ難易度は10＋君の基本攻撃ボーナスである。この特技は音が聞こえないクリーチャーには効果がない。聴覚喪失状態は@Compendium[pf1.spells.4re1j2w8wkvsvnsi]{ヒール}、@Compendium[pf1.spells.3fbrrckyfagfzyop]{リジェネレイト}、@Compendium[pf1.spells.kundr7ekztiqml5t]{リムーヴ・ブラインドネス／デフネス}等々の呪文や効果によって癒すことができる。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>"
+			"description": "<p><strong>《聴覚喪失化クリティカル》（戦闘、クリティカル） Deafening Critical</strong></p><p>君のクリティカル・ヒットは敵の聴覚を奪う。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋13。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は恒久的に聴覚喪失状態になる。ただし頑健セーヴに成功した場合、聴覚喪失状態は1ラウンドしか継続しない。セーヴ難易度は10＋君の基本攻撃ボーナスである。この特技は音が聞こえないクリーチャーには効果がない。聴覚喪失状態は@Compendium[pf1.spells.4re1j2w8wkvsvnsi]{ヒール}、@Compendium[pf1.spells.3fbrrckyfagfzyop]{リジェネレイト}、@Compendium[pf1.spells.kundr7ekztiqml5t]{リムーヴ・ブラインドネス／デフネス}等々の呪文や効果によって癒すことができる。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "effect",
+					"text": "聴覚喪失化クリティカル：クリティカル・ヒット時、相手は頑健セーヴ（難易度 [[10 + @attributes.bab.total]]）に失敗すると恒久的に聴覚喪失状態になる。頑健セーヴに成功した場合は1ラウンド聴覚喪失状態になる"
+				}
+			]
 		},
 		{
 			"id": "Deceitful",
@@ -194,7 +254,13 @@
 		{
 			"id": "Deflect Arrows",
 			"name": "矢止め",
-			"description": "<p><strong>《矢止め》（戦闘） Deflect Arrows</strong></p><p>君は矢などの発射体をはじいてその軌道をそらし、自分への命中を阻止できる。</p><p><strong>前提条件：</strong>【敏】13、@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}。</p><p><strong>利益：</strong>この特技を使うためには、少なくとも片手を自由（何も持たない状態）にしておかなければならない。1ラウンドに1回、普通なら遠隔武器が君に命中するような時に、それをそらしてダメージを受けないようにすることができる。君はその攻撃に気づいていなければならず、立ちすくみ状態であってはならない。この試みはアクションとは見なさない。例外的に大きな遠隔武器（大岩や、バリスタの矢）や、肉体武器や呪文の効果によって生み出された遠隔攻撃に対してはこの特技を使うことはできない。</p>"
+			"description": "<p><strong>《矢止め》（戦闘） Deflect Arrows</strong></p><p>君は矢などの発射体をはじいてその軌道をそらし、自分への命中を阻止できる。</p><p><strong>前提条件：</strong>【敏】13、@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}。</p><p><strong>利益：</strong>この特技を使うためには、少なくとも片手を自由（何も持たない状態）にしておかなければならない。1ラウンドに1回、普通なら遠隔武器が君に命中するような時に、それをそらしてダメージを受けないようにすることができる。君はその攻撃に気づいていなければならず、立ちすくみ状態であってはならない。この試みはアクションとは見なさない。例外的に大きな遠隔武器（大岩や、バリスタの矢）や、肉体武器や呪文の効果によって生み出された遠隔攻撃に対してはこの特技を使うことはできない。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "ac",
+					"text": "矢止め：1ラウンドに1回、遠隔武器をそらすことができる。これには片手を自由にしておく必要がある。"
+				}
+			]
 		},
 		{
 			"id": "Deft Hands",
@@ -204,7 +270,13 @@
 		{
 			"id": "Diehard",
 			"name": "不屈の闘志",
-			"description": "<p><strong>《不屈の闘志》 Diehard</strong></p><p>君を殺すことは特に難しい。重傷を負っても自動的に容態が安定するだけでなく、死の扉の前にあっても意識を保ち、行動することができるからだ。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.ehqx8txNRGMaNOPt]{持久力}。</p><p><strong>利益：</strong>ヒット・ポイントの合計が0未満であるが死亡状態ではない場合、自動的に容態安定化する。ヒット・ポイントをさらに失わないための【耐久力】判定は必要ない。君は瀕死状態でいる代わりに、満身創痍状態として行動することを選択しても良い。この選択は、ヒット・ポイントがマイナスに突入した瞬間に（例えそれが自分のターンでなくても）成されなければならない。瀕死状態になることを選択した場合には、即座に意識を失う。</p><p>この特技を使って行動する際、君は満身創痍状態である。1回の移動アクションまでなら、自分を傷つけることなくとることができるが、標準アクション（あるいは活発だと見なされる他のアクション、例えば@Compendium[pf1.feats.wFoLrh5FeeqBXsQ8]{呪文高速化}した呪文を発動するなどの即行アクション）を行った場合、アクションが完了した後に1ポイントのダメージを受ける。君のヒット・ポイントが－【耐久力】以下まで減少した場合、即座に死亡する。</p><p><strong>通常：</strong>この特技を持たないキャラクターのヒット・ポイントが－1以下となった場合、そのキャラクターは瀕死状態となり、自動的に意識を失う。</p>"
+			"description": "<p><strong>《不屈の闘志》 Diehard</strong></p><p>君を殺すことは特に難しい。重傷を負っても自動的に容態が安定するだけでなく、死の扉の前にあっても意識を保ち、行動することができるからだ。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.ehqx8txNRGMaNOPt]{持久力}。</p><p><strong>利益：</strong>ヒット・ポイントの合計が0未満であるが死亡状態ではない場合、自動的に容態安定化する。ヒット・ポイントをさらに失わないための【耐久力】判定は必要ない。君は瀕死状態でいる代わりに、満身創痍状態として行動することを選択しても良い。この選択は、ヒット・ポイントがマイナスに突入した瞬間に（例えそれが自分のターンでなくても）成されなければならない。瀕死状態になることを選択した場合には、即座に意識を失う。</p><p>この特技を使って行動する際、君は満身創痍状態である。1回の移動アクションまでなら、自分を傷つけることなくとることができるが、標準アクション（あるいは活発だと見なされる他のアクション、例えば@Compendium[pf1.feats.wFoLrh5FeeqBXsQ8]{呪文高速化}した呪文を発動するなどの即行アクション）を行った場合、アクションが完了した後に1ポイントのダメージを受ける。君のヒット・ポイントが－【耐久力】以下まで減少した場合、即座に死亡する。</p><p><strong>通常：</strong>この特技を持たないキャラクターのヒット・ポイントが－1以下となった場合、そのキャラクターは瀕死状態となり、自動的に意識を失う。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "conChecks",
+					"text": "不屈の闘志：自動的に容態安定化する"
+				}
+			]
 		},
 		{
 			"id": "Disruptive",
@@ -249,7 +321,13 @@
 		{
 			"id": "Exhausting Critical",
 			"name": "過労化クリティカル",
-			"description": "<p><strong>《過労化クリティカル》（戦闘、クリティカル） Exhausting Critical</strong></p><p>君のクリティカル・ヒットは相手を過労状態にする。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、@Compendium[pf1.feats.0bpGtfB3ksWHe0lW]{疲労化クリティカル}、基本攻撃ボーナス＋15。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は即座に過労状態になる。この特技は既に過労状態の相手に対しては効果がない。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>"
+			"description": "<p><strong>《過労化クリティカル》（戦闘、クリティカル） Exhausting Critical</strong></p><p>君のクリティカル・ヒットは相手を過労状態にする。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、@Compendium[pf1.feats.0bpGtfB3ksWHe0lW]{疲労化クリティカル}、基本攻撃ボーナス＋15。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は即座に過労状態になる。この特技は既に過労状態の相手に対しては効果がない。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "effect",
+					"text": "過労化クリティカル：クリティカル・ヒット時、相手は過労状態になる."
+				}
+			]
 		},
 		{
 			"id": "Exotic Weapon Proficiency",
@@ -299,7 +377,13 @@
 		{
 			"id": "Far Shot",
 			"name": "遠射",
-			"description": "<p><strong>《遠射》（戦闘） Far Shot</strong></p><p>君は長距離の射撃においてより正確だ。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.8rsFtye3PwM6CKli]{近距離射撃}。</p><p><strong>利益：</strong>君は遠隔武器を使う時、君と目標との間の距離が1射程単位ぶん増えるたびに－1しかペナルティを受けない。</p><p><strong>通常：</strong>君と目標との距離が射程単位ぶん増えるたびに、攻撃に－2のペナルティを受ける。</p>"
+			"description": "<p><strong>《遠射》（戦闘） Far Shot</strong></p><p>君は長距離の射撃においてより正確だ。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.8rsFtye3PwM6CKli]{近距離射撃}。</p><p><strong>利益：</strong>君は遠隔武器を使う時、君と目標との間の距離が1射程単位ぶん増えるたびに－1しかペナルティを受けない。</p><p><strong>通常：</strong>君と目標との距離が射程単位ぶん増えるたびに、攻撃に－2のペナルティを受ける。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "rangedWeapon",
+					"text": "遠射：君と目標との間の距離が1射程単位ぶん増えるたびに－1しかペナルティを受けない"
+				}
+			]
 		},
 		{
 			"id": "Fleet",
@@ -329,12 +413,24 @@
 		{
 			"id": "Greater Bull Rush",
 			"name": "上級突き飛ばし",
-			"description": "<p><strong>《上級突き飛ばし》（戦闘） Greater Bull Rush</strong></p><p>君に突き飛ばされた敵はバランスを崩す。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.dn2KgHFQRbuoNRx0]{突き飛ばし強化}、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋6、【筋】13。</p><p><strong>利益：</strong>突き飛ばしを行う際の判定に＋2のボーナスを得る。このボーナスは@Compendium[pf1.feats.dn2KgHFQRbuoNRx0]{突き飛ばし強化}によるボーナスと累積する。また、君が突き飛ばしに成功した時、相手の移動は君の味方からの（君は含まない）機会攻撃を誘発する。</p><p><strong>通常：</strong>突き飛ばしによって動かされたクリーチャーは機会攻撃を誘発しない。</p>"
+			"description": "<p><strong>《上級突き飛ばし》（戦闘） Greater Bull Rush</strong></p><p>君に突き飛ばされた敵はバランスを崩す。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.dn2KgHFQRbuoNRx0]{突き飛ばし強化}、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋6、【筋】13。</p><p><strong>利益：</strong>突き飛ばしを行う際の判定に＋2のボーナスを得る。このボーナスは@Compendium[pf1.feats.dn2KgHFQRbuoNRx0]{突き飛ばし強化}によるボーナスと累積する。また、君が突き飛ばしに成功した時、相手の移動は君の味方からの（君は含まない）機会攻撃を誘発する。</p><p><strong>通常：</strong>突き飛ばしによって動かされたクリーチャーは機会攻撃を誘発しない。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "cmb",
+					"text": "上級突き飛ばし：突き飛ばしの戦技判定に＋2ボーナス"
+				}
+			]
 		},
 		{
 			"id": "Greater Disarm",
 			"name": "上級武器落とし",
-			"description": "<p><strong>《上級武器落とし》（戦闘） Greater Disarm</strong></p><p>君は敵の武器を遠くに吹き飛ばすことができる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}、@Compendium[pf1.feats.711B9WNFgpdDKKf2]{武器落とし強化}、基本攻撃ボーナス＋6、【知】13。</p><p><strong>利益：</strong>武器落としを行う際の判定に＋2のボーナスを得る。このボーナスは@Compendium[pf1.feats.711B9WNFgpdDKKf2]{武器落とし強化}によるボーナスと累積する。また、君が武器落としに成功した時、武器はその所持者から15フィート離れたランダムな位置に落ちる。</p><p><strong>通常：</strong>武器落としによって落ちた武器は所持者の足下に落ちる。</p>"
+			"description": "<p><strong>《上級武器落とし》（戦闘） Greater Disarm</strong></p><p>君は敵の武器を遠くに吹き飛ばすことができる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}、@Compendium[pf1.feats.711B9WNFgpdDKKf2]{武器落とし強化}、基本攻撃ボーナス＋6、【知】13。</p><p><strong>利益：</strong>武器落としを行う際の判定に＋2のボーナスを得る。このボーナスは@Compendium[pf1.feats.711B9WNFgpdDKKf2]{武器落とし強化}によるボーナスと累積する。また、君が武器落としに成功した時、武器はその所持者から15フィート離れたランダムな位置に落ちる。</p><p><strong>通常：</strong>武器落としによって落ちた武器は所持者の足下に落ちる。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "cmb",
+					"text": "上級武器落とし：武器落としの戦技判定に＋2ボーナス"
+				}
+			]
 		},
 		{
 			"id": "Greater Feint",
@@ -344,12 +440,24 @@
 		{
 			"id": "Greater Grapple",
 			"name": "上級組みつき",
-			"description": "<p><strong>《上級組みつき》（戦闘） Greater Grapple</strong></p><p>組みつきの維持は、君にとっては第二の天性となっている。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.ZmQkRk93nbHxsQSt]{組みつき強化}、@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}、基本攻撃ボーナス＋6、【敏】13。</p><p><strong>利益：</strong>組みつきを行う際の判定に＋2のボーナスを得る。このボーナスは@Compendium[pf1.feats.ZmQkRk93nbHxsQSt]{組みつき強化}によるボーナスと累積する。また、君がクリーチャーに組みついた場合、組みつきの維持は移動アクションで行える。この特技によって、君は相手を動かしたり、ダメージを与えたり、押さえ込むための組みつき判定を1ラウンドに2回行えるが、2回行わなくても構わない。組みつきを維持するためには、2回の判定のうちどちらか一方に成功すればよい。</p><p><strong>通常：</strong>組みつきを維持するのには標準アクションが必要である。</p>"
+			"description": "<p><strong>《上級組みつき》（戦闘） Greater Grapple</strong></p><p>組みつきの維持は、君にとっては第二の天性となっている。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.ZmQkRk93nbHxsQSt]{組みつき強化}、@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}、基本攻撃ボーナス＋6、【敏】13。</p><p><strong>利益：</strong>組みつきを行う際の判定に＋2のボーナスを得る。このボーナスは@Compendium[pf1.feats.ZmQkRk93nbHxsQSt]{組みつき強化}によるボーナスと累積する。また、君がクリーチャーに組みついた場合、組みつきの維持は移動アクションで行える。この特技によって、君は相手を動かしたり、ダメージを与えたり、押さえ込むための組みつき判定を1ラウンドに2回行えるが、2回行わなくても構わない。組みつきを維持するためには、2回の判定のうちどちらか一方に成功すればよい。</p><p><strong>通常：</strong>組みつきを維持するのには標準アクションが必要である。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "cmb",
+					"text": "上級組みつき：組みつきの戦技判定に＋2ボーナス"
+				}
+			]
 		},
 		{
 			"id": "Greater Overrun",
 			"name": "上級蹴散らし",
-			"description": "<p><strong>《上級蹴散らし》（戦闘） Greater Overrun</strong></p><p>敵は君の危険な移動を避けるために飛び退かなければならない。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.go4xOiSUP8R1QJ5N]{蹴散らし強化}、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋6、【筋】13。</p><p><strong>利益：</strong>蹴散らしを行う際の判定に＋2のボーナスを得る。このボーナスは@Compendium[pf1.feats.go4xOiSUP8R1QJ5N]{蹴散らし強化}によるボーナスと累積する。また、君がクリーチャーを蹴散らして伏せ状態にさせた時、機会攻撃を誘発させる。</p><p><strong>通常：</strong>蹴散らしによって伏せ状態になっても機会攻撃は誘発しない。</p>"
+			"description": "<p><strong>《上級蹴散らし》（戦闘） Greater Overrun</strong></p><p>敵は君の危険な移動を避けるために飛び退かなければならない。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.go4xOiSUP8R1QJ5N]{蹴散らし強化}、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋6、【筋】13。</p><p><strong>利益：</strong>蹴散らしを行う際の判定に＋2のボーナスを得る。このボーナスは@Compendium[pf1.feats.go4xOiSUP8R1QJ5N]{蹴散らし強化}によるボーナスと累積する。また、君がクリーチャーを蹴散らして伏せ状態にさせた時、機会攻撃を誘発させる。</p><p><strong>通常：</strong>蹴散らしによって伏せ状態になっても機会攻撃は誘発しない。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "cmb",
+					"text": "上級蹴散らし：蹴散らしの戦技判定に＋2ボーナス"
+				}
+			]
 		},
 		{
 			"id": "Greater Penetrating Strike",
@@ -374,12 +482,24 @@
 		{
 			"id": "Greater Sunder",
 			"name": "上級武器破壊",
-			"description": "<p><strong>《上級武器破壊》（戦闘） Greater Sunder</strong></p><p>君の破壊的な攻撃は武器や鎧を切り裂いてその持ち主にも到達し、一撃でアイテムと所持者双方にダメージを与える。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.lpXdFoT6OqS5vi2X]{武器破壊強化}、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋6、【筋】13。</p><p><strong>利益：</strong>武器破壊を行う際の判定に＋2のボーナスを得る。このボーナスは@Compendium[pf1.feats.lpXdFoT6OqS5vi2X]{武器破壊強化}によるボーナスと累積する。君が武器破壊によって武器、盾、あるいは鎧を破壊した時、超過したダメージはそのアイテムの所持者に与えられる。アイテムを1hp残した状態にすると決めた場合には、ダメージの転送は起きない。</p>"
+			"description": "<p><strong>《上級武器破壊》（戦闘） Greater Sunder</strong></p><p>君の破壊的な攻撃は武器や鎧を切り裂いてその持ち主にも到達し、一撃でアイテムと所持者双方にダメージを与える。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.lpXdFoT6OqS5vi2X]{武器破壊強化}、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋6、【筋】13。</p><p><strong>利益：</strong>武器破壊を行う際の判定に＋2のボーナスを得る。このボーナスは@Compendium[pf1.feats.lpXdFoT6OqS5vi2X]{武器破壊強化}によるボーナスと累積する。君が武器破壊によって武器、盾、あるいは鎧を破壊した時、超過したダメージはそのアイテムの所持者に与えられる。アイテムを1hp残した状態にすると決めた場合には、ダメージの転送は起きない。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "cmb",
+					"text": "上級武器破壊：武器破壊の戦技判定に＋2ボーナス"
+				}
+			]
 		},
 		{
 			"id": "Greater Trip",
 			"name": "上級足払い",
-			"description": "<p><strong>《上級足払い》（戦闘） Greater Trip</strong></p><p>君は転ばせた相手に追撃を行うことができる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}、@Compendium[pf1.feats.gTrGPxzN054GfpkM]{足払い強化}、基本攻撃ボーナス＋6、【知】13</p><p><strong>利益：</strong>足払いを行う際の判定に＋2のボーナスを得る。このボーナスは@Compendium[pf1.feats.gTrGPxzN054GfpkM]{足払い強化}によるボーナスと累積する。また、君が足払いに成功して相手が伏せ状態になった時、相手は機会攻撃を誘発する。</p><p><strong>通常：</strong>足払いされても機会攻撃を誘発しない。</p>"
+			"description": "<p><strong>《上級足払い》（戦闘） Greater Trip</strong></p><p>君は転ばせた相手に追撃を行うことができる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}、@Compendium[pf1.feats.gTrGPxzN054GfpkM]{足払い強化}、基本攻撃ボーナス＋6、【知】13</p><p><strong>利益：</strong>足払いを行う際の判定に＋2のボーナスを得る。このボーナスは@Compendium[pf1.feats.gTrGPxzN054GfpkM]{足払い強化}によるボーナスと累積する。また、君が足払いに成功して相手が伏せ状態になった時、相手は機会攻撃を誘発する。</p><p><strong>通常：</strong>足払いされても機会攻撃を誘発しない。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "cmb",
+					"text": "上級足払い：足払いの戦技判定に＋2ボーナス"
+				}
+			]
 		},
 		{
 			"id": "Greater Two-Weapon Fighting",
@@ -409,7 +529,17 @@
 		{
 			"id": "Improved Bull Rush",
 			"name": "突き飛ばし強化",
-			"description": "<p><strong>《突き飛ばし強化》（戦闘） Improved Bull Rush</strong></p><p>君は敵をあちこちへ押しやることに長けている。</p><p><strong>前提条件：</strong>【筋】13、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>君は突き飛ばしの戦技を行う時、機会攻撃を誘発しない。さらに、突き飛ばすための判定に＋2のボーナスを得る。また、突き飛ばしに抵抗するための戦技防御値にも＋2のボーナスを得る。</p><p><strong>通常：</strong>突き飛ばしを行う際には機会攻撃を誘発する。</p>"
+			"description": "<p><strong>《突き飛ばし強化》（戦闘） Improved Bull Rush</strong></p><p>君は敵をあちこちへ押しやることに長けている。</p><p><strong>前提条件：</strong>【筋】13、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>君は突き飛ばしの戦技を行う時、機会攻撃を誘発しない。さらに、突き飛ばすための判定に＋2のボーナスを得る。また、突き飛ばしに抵抗するための戦技防御値にも＋2のボーナスを得る。</p><p><strong>通常：</strong>突き飛ばしを行う際には機会攻撃を誘発する。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "cmb",
+					"text": "突き飛ばし強化：突き飛ばしの戦技判定に＋2ボーナス"
+				},
+				{
+					"subTarget": "cmd",
+					"text": "突き飛ばし強化：突き飛ばしに抵抗するための戦技防御値に＋2ボーナス"
+				}
+			]
 		},
 		{
 			"id": "Improved Channel",
@@ -429,7 +559,17 @@
 		{
 			"id": "Improved Disarm",
 			"name": "武器落とし強化",
-			"description": "<p><strong>《武器落とし強化》（戦闘） Improved Disarm</strong></p><p>君は相手の手から武器を叩き落とすことに長けている。</p><p><strong>前提条件：</strong>【知】13、@Compendium[pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}。</p><p><strong>利益：</strong>君は武器落としの戦技を行う時、機会攻撃を誘発しない。さらに、武器落としのための判定に＋2のボーナスを得る。また、武器落としに抵抗するための戦技防御値にも＋2のボーナスを得る。</p><p><strong>通常：</strong>武器落としを行う際には機会攻撃を誘発する。</p>"
+			"description": "<p><strong>《武器落とし強化》（戦闘） Improved Disarm</strong></p><p>君は相手の手から武器を叩き落とすことに長けている。</p><p><strong>前提条件：</strong>【知】13、@Compendium[pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}。</p><p><strong>利益：</strong>君は武器落としの戦技を行う時、機会攻撃を誘発しない。さらに、武器落としのための判定に＋2のボーナスを得る。また、武器落としに抵抗するための戦技防御値にも＋2のボーナスを得る。</p><p><strong>通常：</strong>武器落としを行う際には機会攻撃を誘発する。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "cmb",
+					"text": "武器落とし強化：武器落としの戦技判定に＋2ボーナス"
+				},
+				{
+					"subTarget": "cmd",
+					"text": "武器落とし強化：武器落としに抵抗するための戦技防御値に＋2ボーナス"
+				}
+			]
 		},
 		{
 			"id": "Improved Familiar",
@@ -444,7 +584,17 @@
 		{
 			"id": "Improved Grapple",
 			"name": "組みつき強化",
-			"description": "<p><strong>《組みつき強化》（戦闘） Improved Grapple</strong></p><p>君は相手と組み合うことに長けている。</p><p><strong>前提条件：</strong>【敏】13、@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}。</p><p><strong>利益：</strong>君は組みつきの戦技を行う時、機会攻撃を誘発しない。さらに、組みつくための判定に＋2のボーナスを得る。また、相手が君に組みつきを試みるときの戦技防御値にも＋2のボーナスを得る。</p><p><strong>通常：</strong>組みつきを試みる際には機会攻撃を誘発する。</p>"
+			"description": "<p><strong>《組みつき強化》（戦闘） Improved Grapple</strong></p><p>君は相手と組み合うことに長けている。</p><p><strong>前提条件：</strong>【敏】13、@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}。</p><p><strong>利益：</strong>君は組みつきの戦技を行う時、機会攻撃を誘発しない。さらに、組みつくための判定に＋2のボーナスを得る。また、相手が君に組みつきを試みるときの戦技防御値にも＋2のボーナスを得る。</p><p><strong>通常：</strong>組みつきを試みる際には機会攻撃を誘発する。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "cmb",
+					"text": "組みつき強化：組みつきの戦技判定に＋2ボーナス"
+				},
+				{
+					"subTarget": "cmd",
+					"text": "組みつき強化：組みつきに抵抗するための戦技防御値に＋2ボーナス"
+				}
+			]
 		},
 		{
 			"id": "Improved Great Fortitude",
@@ -469,12 +619,29 @@
 		{
 			"id": "Improved Overrun",
 			"name": "蹴散らし強化",
-			"description": "<p><strong>《蹴散らし強化》（戦闘） Improved Overrun</strong></p><p>は相手を突き倒して進むことに長けている。</p><p><strong>前提条件：</strong>【筋】13、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>君は蹴散らしの戦技を行う時、機会攻撃を誘発しない。さらに、敵1体を蹴散らすためにされた判定に＋2のボーナスを得る。また、敵が君に試みた蹴散らしに対する戦技防御にも＋2のボーナスを得る。君の蹴散らしの対象たちは、君を避ける選択ができない。</p><p><strong>通常：</strong>蹴散らしの戦技を行う際には機会攻撃を誘発する。</p>"
+			"description": "<p><strong>《蹴散らし強化》（戦闘） Improved Overrun</strong></p><p>君は相手を突き倒して進むことに長けている。</p><p><strong>前提条件：</strong>【筋】13、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>君は蹴散らしの戦技を行う時、機会攻撃を誘発しない。さらに、敵1体を蹴散らすためにされた判定に＋2のボーナスを得る。また、敵が君に試みた蹴散らしに対する戦技防御にも＋2のボーナスを得る。君の蹴散らしの対象たちは、君を避ける選択ができない。</p><p><strong>通常：</strong>蹴散らしの戦技を行う際には機会攻撃を誘発する。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "cmb",
+					"text": "蹴散らし強化：蹴散らしの戦技判定に＋2ボーナス"
+				},
+				{
+					"subTarget": "cmd",
+					"text": "蹴散らし強化：蹴散らしに抵抗するための戦技防御値に＋2ボーナス"
+				}
+			]
 		},
 		{
 			"id": "Improved Precise Shot",
 			"name": "精密射撃強化",
-			"description": "<p><strong>《精密射撃強化》（戦闘） Improved Precise Shot</strong></p><p>君の射撃は完全視認困難と完全遮蔽以外のすべてを無視する。</p><p><strong>前提条件：</strong>【敏】19、@Compendium[pf1.feats.8rsFtye3PwM6CKli]{近距離射撃}、@Compendium[pf1.feats.53urYIbYYpQuoSLd]{精密射撃}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>君の遠隔攻撃は完全遮蔽未満の遮蔽によってもたらされる目標のアーマー・クラス・ボーナス、および完全視認困難未満の視認困難による失敗確率の影響を受けない。完全遮蔽、完全視認困難による効果は君の遠隔攻撃に対して通常通り適用される。</p><p><strong>通常：</strong>“戦闘”の章にある遮蔽と視認困難の通常のルールを参照。</p>"
+			"description": "<p><strong>《精密射撃強化》（戦闘） Improved Precise Shot</strong></p><p>君の射撃は完全視認困難と完全遮蔽以外のすべてを無視する。</p><p><strong>前提条件：</strong>【敏】19、@Compendium[pf1.feats.8rsFtye3PwM6CKli]{近距離射撃}、@Compendium[pf1.feats.53urYIbYYpQuoSLd]{精密射撃}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>君の遠隔攻撃は完全遮蔽未満の遮蔽によってもたらされる目標のアーマー・クラス・ボーナス、および完全視認困難未満の視認困難による失敗確率の影響を受けない。完全遮蔽、完全視認困難による効果は君の遠隔攻撃に対して通常通り適用される。</p><p><strong>通常：</strong>“戦闘”の章にある遮蔽と視認困難の通常のルールを参照。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "ranged",
+					"target": "attacks",
+					"text": "遠隔攻撃は完全遮蔽未満の遮蔽によってもたらされる目標のアーマー・クラス・ボーナス、および完全視認困難未満の視認困難による失敗確率の影響を受けない"
+				}
+			]
 		},
 		{
 			"id": "Improved Shield Bash",
@@ -484,12 +651,32 @@
 		{
 			"id": "Improved Sunder",
 			"name": "武器破壊強化",
-			"description": "<p><strong>《武器破壊強化》（戦闘） Improved Sunder</strong></p><p>君は敵の武器や鎧にダメージを与えることに長けている。</p><p><strong>前提条件：</strong>【筋】13、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>君は武器破壊の戦技を行う時、機会攻撃を誘発しない。さらに、アイテムを武器破壊するための判定に＋2のボーナスを得る。また、相手が君の装着品に武器破壊するときの戦技防御にも＋2のボーナスを得る。</p><p><strong>通常：</strong>武器破壊の戦技を行う際には機会攻撃を誘発する。</p>"
+			"description": "<p><strong>《武器破壊強化》（戦闘） Improved Sunder</strong></p><p>君は敵の武器や鎧にダメージを与えることに長けている。</p><p><strong>前提条件：</strong>【筋】13、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>君は武器破壊の戦技を行う時、機会攻撃を誘発しない。さらに、アイテムを武器破壊するための判定に＋2のボーナスを得る。また、相手が君の装着品に武器破壊するときの戦技防御にも＋2のボーナスを得る。</p><p><strong>通常：</strong>武器破壊の戦技を行う際には機会攻撃を誘発する。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "cmb",
+					"text": "武器破壊強化：武器破壊の戦技判定に＋2ボーナス"
+				},
+				{
+					"subTarget": "cmd",
+					"text": "武器破壊強化：武器破壊に抵抗するための戦技防御値に＋2ボーナス"
+				}
+			]
 		},
 		{
 			"id": "Improved Trip",
 			"name": "足払い強化",
-			"description": "<p><strong>《足払い強化》（戦闘） Improved Trip</strong></p><p>君は敵を地面に転がすことに長けている。</p><p><strong>前提条件：</strong>知】13、@Compendium[pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}。</p><p><strong>利益：</strong>君は足払いの戦技を行う時、機会攻撃を誘発しない。さらに、足払いを行うための判定に＋2のボーナスを得る。また、敵が君に足払いの戦技を行ったときの戦技防御にも＋2のボーナスを得る。</p><p><strong>通常：</strong>足払いの戦技を行う際には機会攻撃を誘発する。</p>"
+			"description": "<p><strong>《足払い強化》（戦闘） Improved Trip</strong></p><p>君は敵を地面に転がすことに長けている。</p><p><strong>前提条件：</strong>知】13、@Compendium[pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}。</p><p><strong>利益：</strong>君は足払いの戦技を行う時、機会攻撃を誘発しない。さらに、足払いを行うための判定に＋2のボーナスを得る。また、敵が君に足払いの戦技を行ったときの戦技防御にも＋2のボーナスを得る。</p><p><strong>通常：</strong>足払いの戦技を行う際には機会攻撃を誘発する。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "cmb",
+					"text": "足払い強化：足払いの戦技判定に＋2ボーナス"
+				},
+				{
+					"subTarget": "cmd",
+					"text": "足払い強化：足払いに抵抗するための戦技防御値に＋2ボーナス"
+				}
+			]
 		},
 		{
 			"id": "Improved Two-Weapon Fighting",
@@ -614,7 +801,8 @@
 		{
 			"id": "Point-Blank Shot",
 			"name": "近距離射撃",
-			"description": "<p><strong>《近距離射撃》（戦闘） Point-Blank Shot</strong></p><p>君は近くにいる敵を正確に射撃することができる。</p><p><strong>利益：</strong>武器を用いた遠隔攻撃において、30フィート以内の敵に対する攻撃ロールとダメージ・ロールに＋1のボーナスを得る。</p>"
+			"description": "<p><strong>《近距離射撃》（戦闘） Point-Blank Shot</strong></p><p>君は近くにいる敵を正確に射撃することができる。</p><p><strong>利益：</strong>武器を用いた遠隔攻撃において、30フィート以内の敵に対する攻撃ロールとダメージ・ロールに＋1のボーナスを得る。</p>",
+			"contextNotes": []
 		},
 		{
 			"id": "Power Attack",
@@ -624,7 +812,14 @@
 		{
 			"id": "Precise Shot",
 			"name": "精密射撃",
-			"description": "<p><strong>《精密射撃》（戦闘） Precise Shot</strong></p><p>君は近接戦闘している目標に向けて遠隔攻撃を放つことが得意だ。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.8rsFtye3PwM6CKli]{近距離射撃}。</p><p><strong>利益：</strong>近接戦闘に参加している敵に対して、通常受ける－4のペナルティを受けずに、遠隔武器を射撃したり投擲したりできる。</p>"
+			"description": "<p><strong>《精密射撃》（戦闘） Precise Shot</strong></p><p>君は近接戦闘している目標に向けて遠隔攻撃を放つことが得意だ。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.8rsFtye3PwM6CKli]{近距離射撃}。</p><p><strong>利益：</strong>近接戦闘に参加している敵に対して、通常受ける－4のペナルティを受けずに、遠隔武器を射撃したり投擲したりできる。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "ranged",
+					"target": "attacks",
+					"text": "近接戦闘に参加している敵に対して行う遠隔攻撃ロールのペナルティを受けない"
+				}
+			]
 		},
 		{
 			"id": "Quick Draw",
@@ -654,7 +849,13 @@
 		{
 			"id": "Run",
 			"name": "疾走",
-			"description": "<p><strong>《疾走》 Run</strong></p><p>君は軽快な足を持っている。</p><p><strong>利益：</strong>君が疾走する時、軽装鎧か中装鎧を着ている時か、鎧を着ていない時、もしくは運んでいる重量が中荷重以下の時には、移動速度の5倍で移動できる。また重装鎧を着ているか、重荷重の時には、移動速度の4倍で移動できる。助走を付けてから跳躍を行う時（@Compendium[pf1.skills.HPsdXjjRtKNGFGRc]{軽業}を参照）、@Compendium[pf1.skills.HPsdXjjRtKNGFGRc]{軽業}判定に＋4のボーナスを得る。また、疾走している時にもアーマー・クラスへの【敏捷力】ボーナスを失わない。</p><p><strong>通常：</strong>君が疾走する時、軽装鎧か中装鎧を着ている時か、鎧を着ていない時、もしくは運んでいる重量が中荷重以下の時には、移動速度の4倍で移動できる。また重装鎧を着ているか、重荷重の時には、移動速度の3倍で移動できる。疾走している時にはアーマー・クラスへの【敏捷力】ボーナスを失う。</p>"
+			"description": "<p><strong>《疾走》 Run</strong></p><p>君は軽快な足を持っている。</p><p><strong>利益：</strong>君が疾走する時、軽装鎧か中装鎧を着ている時か、鎧を着ていない時、もしくは運んでいる重量が中荷重以下の時には、移動速度の5倍で移動できる。また重装鎧を着ているか、重荷重の時には、移動速度の4倍で移動できる。助走を付けてから跳躍を行う時（@Compendium[pf1.skills.HPsdXjjRtKNGFGRc]{軽業}を参照）、@Compendium[pf1.skills.HPsdXjjRtKNGFGRc]{軽業}判定に＋4のボーナスを得る。また、疾走している時にもアーマー・クラスへの【敏捷力】ボーナスを失わない。</p><p><strong>通常：</strong>君が疾走する時、軽装鎧か中装鎧を着ている時か、鎧を着ていない時、もしくは運んでいる重量が中荷重以下の時には、移動速度の4倍で移動できる。また重装鎧を着ているか、重荷重の時には、移動速度の3倍で移動できる。疾走している時にはアーマー・クラスへの【敏捷力】ボーナスを失う。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "skill.acr",
+					"text": "助走を付けてから跳躍を行う時、軽業判定に+[[4]]ボーナス"
+				}
+			]
 		},
 		{
 			"id": "Scorpion Style",
@@ -709,7 +910,13 @@
 		{
 			"id": "Sickening Critical",
 			"name": "不調化クリティカル",
-			"description": "<p><strong>《不調化クリティカル》（戦闘、クリティカル） Sickening Critical</strong></p><p>君のクリティカル・ヒットは相手の気分を悪くさせる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は1分の間不調状態になる。この特技の効果は累積せず、持続時間を1分間延長させる。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>"
+			"description": "<p><strong>《不調化クリティカル》（戦闘、クリティカル） Sickening Critical</strong></p><p>君のクリティカル・ヒットは相手の気分を悪くさせる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は1分の間不調状態になる。この特技の効果は累積せず、持続時間を1分間延長させる。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "effect",
+					"text": "不調化クリティカル：クリティカル・ヒット時、相手は1分間不調状態になる"
+				}
+			]
 		},
 		{
 			"id": "Silent Spell",
@@ -764,7 +971,13 @@
 		{
 			"id": "Staggering Critical",
 			"name": "よろめき化クリティカル",
-			"description": "<p><strong>《よろめき化クリティカル》（戦闘、クリティカル） Staggering Critical</strong></p><p>君のクリティカル・ヒットは相手の動きを遅くする。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋13。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は1d4＋1ラウンドの間よろめき状態になる。ただし頑健セーヴに成功した場合、よろめき状態は1ラウンドしか継続しない。セーヴ難易度は10＋君の基本攻撃ボーナスである。この特技の効果は累積せず、持続時間を延長させるだけである。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>"
+			"description": "<p><strong>《よろめき化クリティカル》（戦闘、クリティカル） Staggering Critical</strong></p><p>君のクリティカル・ヒットは相手の動きを遅くする。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋13。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は1d4＋1ラウンドの間よろめき状態になる。ただし頑健セーヴに成功した場合、よろめき状態は1ラウンドしか継続しない。セーヴ難易度は10＋君の基本攻撃ボーナスである。この特技の効果は累積せず、持続時間を延長させるだけである。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "effect",
+					"text": "よろめき化クリティカル：クリティカル・ヒット時、相手は頑健セーヴ（難易度 [[10 + @attributes.bab.total]]）に失敗すると[[/r 1d4+1]]ラウンドの間よろめき状態になる。頑健セーヴに成功すると1ラウンドよろめき状態になる"
+				}
+			]
 		},
 		{
 			"id": "Stand Still",
@@ -794,7 +1007,13 @@
 		{
 			"id": "Stunning Critical",
 			"name": "朦朧化クリティカル",
-			"description": "<p><strong>《朦朧化クリティカル》（戦闘、クリティカル） Stunning Critical</strong></p><p>君のクリティカル・ヒットは相手の意識をも断つ。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、@Compendium[pf1.feats.nVNkWyzh4EVyxouV]{よろめき化クリティカル}、基本攻撃ボーナス＋17。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は1d4ラウンドの間朦朧状態になる。ただし頑健セーヴに成功した場合、1d4ラウンドの間よろめき状態になる。頑健セーヴの難易度は10＋君の基本攻撃ボーナスである。この特技の効果は累積せず、持続時間を延長させるだけである。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>"
+			"description": "<p><strong>《朦朧化クリティカル》（戦闘、クリティカル） Stunning Critical</strong></p><p>君のクリティカル・ヒットは相手の意識をも断つ。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、@Compendium[pf1.feats.nVNkWyzh4EVyxouV]{よろめき化クリティカル}、基本攻撃ボーナス＋17。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は1d4ラウンドの間朦朧状態になる。ただし頑健セーヴに成功した場合、1d4ラウンドの間よろめき状態になる。頑健セーヴの難易度は10＋君の基本攻撃ボーナスである。この特技の効果は累積せず、持続時間を延長させるだけである。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "effect",
+					"text": "朦朧化クリティカル：クリティカル・ヒット時、相手は頑健セーヴ（難易度 [[10 + @attributes.bab.total]]）に失敗すると[[/r 1d4]]ラウンドの間朦朧状態になる。頑健セーヴに成功すると[[/r 1d4]]ラウンドの間よろめき状態になる"
+				}
+			]
 		},
 		{
 			"id": "Stunning Fist",
@@ -809,7 +1028,13 @@
 		{
 			"id": "Tiring Critical",
 			"name": "疲労化クリティカル",
-			"description": "<p><strong>《疲労化クリティカル》（戦闘、クリティカル） Tiring Critical</strong></p><p>君のクリティカル・ヒットは相手を疲労させる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋13。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は疲労状態になる。既に疲労状態であったり、過労状態のクリーチャーには効果がない。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>"
+			"description": "<p><strong>《疲労化クリティカル》（戦闘、クリティカル） Tiring Critical</strong></p><p>君のクリティカル・ヒットは相手を疲労させる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋13。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は疲労状態になる。既に疲労状態であったり、過労状態のクリーチャーには効果がない。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "effect",
+					"text": "疲労化クリティカル：クリティカル・ヒット時、相手は疲労状態になる"
+				}
+			]
 		},
 		{
 			"id": "Toughness",

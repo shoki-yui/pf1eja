@@ -1,6 +1,7 @@
 {
 	"label": "クラス特徴",
     "mapping": {
+		"contextNotes": "data.contextNotes",
 		"tags": "data.tags",
 		"classes": "data.associations.classes"
     },
@@ -5561,6 +5562,13 @@
 			"id": "Bravery",
 			"name": "武勇",
 			"description": "<p><strong>武勇（変則）／Bravery：</strong></p><p>レベル2の時点でファイターは［恐怖］に対する意志セーヴに＋1のボーナスを獲得する。このボーナスは2レベルを越える4レベル毎に＋1される。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "will",
+					"target": "savingThrows",
+					"text": "［恐怖］に対する意志セーヴに+[[floor((@classes.fighter.level + 2) / 4)]]ボーナス"
+				}
+			],
 			"tags": [],
 			"classes": [
 				[
@@ -6646,7 +6654,7 @@
 		{
 			"id": "Channel Energy (WAR)",
 			"name": "エネルギー放出（ウォープリースト）",
-			"description": "<p><strong>エネルギー放出（超常）／Channel Energy：</strong></p><p>4レベルの時点で、ウォープリーストはその信仰の力を聖印（あるいは邪印）から導くことで、エネルギーの波を放出することができる。このエネルギーは、導かれたエネルギーのタイプ、そして対象クリーチャーによってダメージを与えるか治癒することに使える。この能力の使用は標準アクションであり、@Compendium[pf1.class-abilities.Rzexvt4z8taA8dCu]{熱狂}能力の使用回数を2回分消費する。このアクションは機会攻撃を誘発しない。この能力を使うためには、ウォープリーストは聖印（または邪印）を示すことができなければならない。</p><p>善のウォープリースト（あるいは善の神格を信仰するウォープリースト）は正のエネルギーを導き、アンデッドにダメージを与える、あるいは生きているクリーチャーを治癒することができる。悪のウォープリースト（あるいは悪の神格を信仰するウォープリースト）は負のエネルギーを導き、生きているクリーチャーにダメージを与える、あるいはアンデッドを治癒することができる。中立の神格を信仰する中立のクレリック（あるいは特定の神格を信仰しないウォープリースト）は、正のエネルギーと負のエネルギーのどちらを導くかを選ばなければならない。一度選択がなされたらそれを変更することはできない。この決定はまたウォープリーストが@Compendium[pf1.class-abilities.7u0MuhPEYNa4t11u]{任意発動}できる呪文がキュア系呪文であるかインフリクト系呪文であるかをも決める（@Compendium[pf1.class-abilities.7u0MuhPEYNa4t11u]{任意発動}を参照）。</p><p>エネルギー放出はウォープリーストを中心とした30フィート半径の爆発を生じさせる。この爆発は、範囲内にいる全てのアンデッドもしくは生きているクリーチャーのどちらか一方に影響を及ぼす。与えられる、あるいは治癒されるダメージの量は、@Compendium[pf1.class-abilities.Rzexvt4z8taA8dCu]{熱狂}に記載された値に等しい。導かれたエネルギーからダメージを受けたクリーチャーは意志セーヴに成功すれば、ダメージを半分にすることができる。このセーヴの難易度は10＋ウォープリースト・レベルの1/2＋ウォープリーストの【魅力】修正値である。治癒されたクリーチャーは、その最大ヒット・ポイントを超えて治癒されることはなく、余分な回復分は無視される。ウォープリーストは自分を効果に含めるかどうかを選択できる。</p>",
+			"description": "<p><strong>エネルギー放出（超常）／Channel Energy：</strong></p><p>4レベルの時点で、ウォープリーストはその信仰の力を聖印（あるいは邪印）から導くことで、エネルギーの波を放出することができる。このエネルギーは、導かれたエネルギーのタイプ、そして対象クリーチャーによってダメージを与えるか治癒することに使える。この能力の使用は標準アクションであり、@Compendium[pf1.class-abilities.Rzexvt4z8taA8dCu]{熱狂}能力の使用回数を2回分消費する。このアクションは機会攻撃を誘発しない。この能力を使うためには、ウォープリーストは聖印（または邪印）を示すことができなければならない。</p><p>善のウォープリースト（あるいは善の神格を信仰するウォープリースト）は正のエネルギーを導き、アンデッドにダメージを与える、あるいは生きているクリーチャーを治癒することができる。悪のウォープリースト（あるいは悪の神格を信仰するウォープリースト）は負のエネルギーを導き、生きているクリーチャーにダメージを与える、あるいはアンデッドを治癒することができる。中立の神格を信仰する中立のクレリック（あるいは特定の神格を信仰しないウォープリースト）は、正のエネルギーと負のエネルギーのどちらを導くかを選ばなければならない。一度選択がなされたらそれを変更することはできない。この決定はまたウォープリーストが@Compendium[pf1.class-abilities.7u0MuhPEYNa4t11u]{任意発動}できる呪文がキュア系呪文であるかインフリクト系呪文であるかをも決める（@Compendium[pf1.class-abilities.7u0MuhPEYNa4t11u]{任意発動}を参照）。</p><p>エネルギー放出はウォープリーストを中心とした30フィート半径の爆発を生じさせる。この爆発は、範囲内にいる全てのアンデッドもしくは生きているクリーチャーのどちらか一方に影響を及ぼす。与えられる、あるいは治癒されるダメージの量は、@Compendium[pf1.class-abilities.Rzexvt4z8taA8dCu]{熱狂}に記載された値に等しい。導かれたエネルギーからダメージを受けたクリーチャーは意志セーヴに成功すれば、ダメージを半分にすることができる。このセーヴの難易度は10＋ウォープリースト・レベルの1/2＋ウォープリーストの【判断力】修正値である。治癒されたクリーチャーは、その最大ヒット・ポイントを超えて治癒されることはなく、余分な回復分は無視される。ウォープリーストは自分を効果に含めるかどうかを選択できる。</p>",
 			"tags": [],
 			"classes": [
 				[
@@ -6865,6 +6873,12 @@
 			"id": "Charmer",
 			"name": "人たらし（ローグの技）",
 			"description": "<p><strong>人たらし（変則）／Charmer：</strong></p><p>1日1回、ローグは@Compendium[pf1.skills.OtfbHJhIQsNzmiTN]{交渉}判定で2つのダイスを振り、高い出目を使うことができる。この技は@Compendium[pf1.skills.OtfbHJhIQsNzmiTN]{交渉}判定を行う前に宣言しなければならない。ローグはローグ・レベル5ごとに、この技の1日の使用回数を1回追加で獲得する。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "skill.dip",
+					"text": "人たらし：2つのダイスを振り、高い出目を使うことができる"
+				}
+			],
 			"tags": [["ローグの技"]],
 			"classes": [
 				[
@@ -7407,6 +7421,16 @@
 			"id": "Coax Information",
 			"name": "言いくるめ（ローグの技）",
 			"description": "<p><strong>言いくるめ（変則）／Coax Information：</strong></p><p>この技を有するローグは敵を自分に対して友好的に振舞わせるために@Compendium[pf1.skills.ImjhcPmm02QSCbPg]{威圧}のかわりに@Compendium[pf1.skills.pAB2PYkZO3lsmeaC]{はったり}または@Compendium[pf1.skills.OtfbHJhIQsNzmiTN]{交渉}を使用することができる。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "skill.blf",
+					"text": "言いくるめ：敵を友好的に振舞わせるために威圧の代わりにはったりを使用できる"
+				},
+				{
+					"subTarget": "skill.dip",
+					"text": "言いくるめ：敵を友好的に振舞わせるために威圧の代わりに交渉を使用できる"
+				}
+			],
 			"tags": [["ローグの技"]],
 			"classes": [
 				[
@@ -9233,6 +9257,23 @@
 			"id": "Danger Sense",
 			"name": "危険感知（UC）",
 			"description": "<p><strong>危険感知（変則）／Danger Sense：</strong></p><p><strong>バーバリアン（アンチェインド）：</strong>3レベルの時点で、バーバリアンは罠を回避するための反応セーヴに＋1のボーナスと、罠による攻撃に対するアーマー・クラスに＋1の回避ボーナスを得る。加えて、バーバリアンは敵の不意討ちを避けるために行う@Compendium[pf1.skills.YYmmxDgp0g3ltSUG]{知覚}判定に＋1のボーナスを得る。これらのボーナスは以降3レベル毎に1ずつ増加する（18レベルの時点で最大の＋6）。この能力は特技やクラスの前提条件において@Compendium[pf1.class-abilities.BoEkMviJrW0PKmhj]{罠感知}として扱われ、@Compendium[pf1.class-abilities.BoEkMviJrW0PKmhj]{罠感知}を置き換えるアーキタイプのクラス特徴と置き換えることができる。バーバリアンが他のクラスで@Compendium[pf1.class-abilities.BoEkMviJrW0PKmhj]{罠感知}を獲得した場合、この能力で得られたボーナスは@Compendium[pf1.class-abilities.BoEkMviJrW0PKmhj]{罠感知}によるボーナスと累積する。</p><p><strong>ローグ（アンチェインド）：</strong>3レベルの時点で、ローグは罠を避けるための反応セーヴに＋1のボーナスと、罠による攻撃に対するアーマー・クラスに＋1の回避ボーナスを得る。加えて、ローグは敵から不意討ちされないようにするために行う@Compendium[pf1.skills.YYmmxDgp0g3ltSUG]{知覚}判定に＋1のボーナスを得る。これらのボーナスは以降ローグ・レベルが3上昇する毎に1ずつ増加する（18レベルの時点で最大の＋6）。この能力は特技やクラスの前提条件を満たす際、@Compendium[pf1.class-abilities.BoEkMviJrW0PKmhj]{罠感知}として扱われ、@Compendium[pf1.class-abilities.BoEkMviJrW0PKmhj]{罠感知}を置き換えるアーキタイプのクラス特徴で置き換えることができる。この能力から得られるボーナスは、（他のクラスから得られる）@Compendium[pf1.class-abilities.BoEkMviJrW0PKmhj]{罠感知}によるボーナスと累積する。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "ref",
+					"target": "savingThrows",
+					"text": "罠を避けるための反応セーヴに+[[@classes.rogue.level < 3 ? 1 : (floor(@classes.rogue.level / 3))]]ボーナス"
+				},
+				{
+					"subTarget": "skill.per",
+					"target": "skill",
+					"text": "敵から不意討ちされないようにするために行う知覚判定に+[[@classes.rogue.level < 3 ? 1 : (floor(@classes.rogue.level / 3))]]ボーナス"
+				},
+				{
+					"subTarget": "ac",
+					"target": "misc",
+					"text": "罠による攻撃に対するアーマー・クラスに+[[@classes.rogue.level < 3 ? 1 : (floor(@classes.rogue.level / 3))]]回避ボーナス"
+				}
+			],
 			"tags": [],
 			"classes": [
 				[
@@ -14576,6 +14617,13 @@
 			"id": "Evasion",
 			"name": "身かわし",
 			"description": "<p><strong>身かわし（変則）／Evasion：</strong></p><p><strong>モンク／モンク（アンチェインド）：</strong>2レベル以上のモンクは、一定範囲に効果のある攻撃によるダメージを避けることができる。通常なら反応セーヴに成功すればダメージを半減できるような攻撃を受けた際、反応セーヴに成功すれば、ダメージを半減するかわりにダメージを受けずに済むのである。身かわしはモンクが軽装鎧を着ているか、鎧を着ていない場合に使用できる。無防備状態のモンクは身かわしによる利益を受けられない。</p><p><strong>レンジャー：</strong>クラス・レベル9に達した時点で、レンジャーは超人的な身のこなしにより、魔法の攻撃や尋常ならざる攻撃さえ回避できるようになる。普通なら反応セーヴに成功することでダメージを半減できる攻撃の対象となった場合、レンジャーはセーヴィング・スローに成功すればダメージを全く受けずにすむ。身かわし能力は、レンジャーが軽装鎧または中装鎧を着ている時か、鎧を着用していない時にのみ使用できる。無防備状態のレンジャーは、身かわし能力の利益を受けることはできない。</p><p><strong>ローグ／ローグ（アンチェインド）：</strong>クラス・レベル2以上のローグは、超人的な身のこなしにより、魔法の攻撃や尋常ならざる攻撃さえ回避できるようになる。普通なら反応セーヴに成功することでダメージを半減できる攻撃の対象となった場合、ローグはセーヴィング・スローに成功すればダメージを全く受けずにすむ。身かわし能力は、ローグが軽装鎧を着ているときか、鎧を着用していない時にのみ使用できる。無防備状態のローグは、身かわし能力の利益を得ることはできない。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "ref",
+					"target": "savingThrows",
+					"text": "身かわし"
+				}
+			],
 			"tags": [],
 			"classes": [
 				[
@@ -15555,6 +15603,13 @@
 			"id": "Fast Stealth",
 			"name": "高速隠密（ローグの技）",
 			"description": "<p><strong>高速隠密（変則）／Fast Stealth：</strong></p><p>この能力を持つローグは、@Compendium[pf1.skills.T6nefKotIb5vKE9h]{隠密}技能を使いながらペナルティ無しで通常の速度で移動できる。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "skill.ste",
+					"target": "skill",
+					"text": "高速隠密"
+				}
+			],
 			"tags": [["ローグの技"]],
 			"classes": [
 				[
@@ -21095,6 +21150,12 @@
 			"id": "Honeyed Words",
 			"name": "蜜のような言葉（ローグの技）",
 			"description": "<p><strong>蜜のような言葉（変則）／Honeyed Words：</strong></p><p>1日1回、この技を有するローグは@Compendium[pf1.skills.pAB2PYkZO3lsmeaC]{はったり}判定で2つのダイスを振り、よい方の目を使うことができる。この技は@Compendium[pf1.skills.pAB2PYkZO3lsmeaC]{はったり}判定を行う前に宣言しなければならない。ローグはローグ・レベルを5レベル取るごとに、この技の1日の使用回数を追加で1回得る。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "skill.blf",
+					"text": "蜜のような言葉：2つのダイスを振り、よい方の目を使うことができる"
+				}
+			],
 			"tags": [["ローグの技"]],
 			"classes": [
 				[
@@ -21936,6 +21997,13 @@
 			"id": "Improved Uncanny Dodge",
 			"name": "直感回避強化",
 			"description": "<p><strong>直感回避強化（変則）／Improved Uncanny Dodge：</strong></p><p>君は挟撃されなくなる。この能力を持つ君に対して、ローグは挟撃による急所攻撃を行なうことができない。ただし、ローグのクラス・レベルが、目標のクラス・レベルより4以上高い場合、ローグは挟撃（および急所攻撃）を行なうことができる。</p><p>他のクラスで得た直感回避（前述）の代わりとして自動的に直感回避強化を獲得したキャラクターは、ローグに挟撃されうるかどうかを判断する際、直感回避を授けるクラスのクラス・レベルをすべて累積させることができる。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "ac",
+					"target": "misc",
+					"text": "挟撃されない"
+				}
+			],
 			"tags": [],
 			"classes": [
 				[
@@ -31367,6 +31435,13 @@
 			"id": "Poison Resistance",
 			"name": "毒に対する抵抗（アルケミスト）",
 			"description": "<p><strong>毒に対する抵抗（変則）／Poison Resistance：</strong></p><p>2レベルの時点で、アルケミストはすべての毒に対するセーヴィング・スローに＋2のボーナスを得る。このボーナスは5レベルの時点で＋4、8レベルの時点で＋6に上昇する。10レベルの時点で、アルケミストは毒に対する完全耐性を得る。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "allSavingThrows",
+					"target": "savingThrows",
+					"text": "すべての毒に対するセーヴィング・スローに+[[2]]ボーナス"
+				}
+			],
 			"tags": [],
 			"classes": [
 				[
@@ -41065,7 +41140,7 @@
 		{
 			"id": "Sudden Insight",
 			"name": "突然の閃き（装具系統：占術）",
-			"description": "<p><strong>突然の閃き（擬呪）／Sudden Insight：</strong></p><p>君は即行アクションとして@Compendium[pf1.class-abilities.dv8TDGs9c7h4awY2]{念集積}から1ポイントを消費することで、一瞬先に対する洞察を得ることができる。君が能力値判定、攻撃ロール、技能判定を行う前に、君はフリー・アクションでこの予見を使用することができる。そうすると、そのロールにオカルティスト・レベルの半分（最低1）に等しいボーナスを得る。君は予見をターンに1回だけ使用することができる。自分のターンの終了時までに使用しなければ予見は失われ、一切の利益を得ることはない。</p>",
+			"description": "<p><strong>突然の閃き（擬呪）／Sudden Insight：</strong></p><p>君は即行アクションとして@Compendium[pf1.class-abilities.dv8TDGs9c7h4awY2]{念集積}から1ポイントを消費することで、一瞬先に対する洞察を得ることができる。君が能力値判定、攻撃ロール、技能判定を行う前に、君はフリー・アクションでこの予見を使用することができる。そうすると、そのロールにオカルティスト・レベルの半分（最低1）に等しい洞察ボーナスを得る。君は予見をターンに1回だけ使用することができる。自分のターンの終了時までに使用しなければ予見は失われ、一切の利益を得ることはない。</p>",
 			"tags": [["装具系統"]],
 			"classes": [
 				[
@@ -43857,6 +43932,13 @@
 			"id": "Track",
 			"name": "追跡",
 			"description": "<p><strong>追跡（変則）／Track：</strong></p><p><strong>レンジャー：</strong>レンジャーは痕跡をたどるための@Compendium[pf1.skills.TXrxgrB2sQjppZFY]{生存}判定にクラス・レベルの半分に等しい値（最低1）を加える。</p><p><strong>インクィジター：</strong>2レベルの時点で、インクィジターは追跡あるいは痕跡を識別するために行う@Compendium[pf1.skills.TXrxgrB2sQjppZFY]{生存}判定にレベルの半分を加える。</p><p><strong>スレイヤー：</strong>スレイヤーは痕跡を追跡するために行う@Compendium[pf1.skills.TXrxgrB2sQjppZFY]{生存}技能判定に、自分のレベルの半分（最低1）を加える。</p><p><strong>ハンター：</strong>2レベルの時点で、ハンターは痕跡をたどるための@Compendium[pf1.skills.TXrxgrB2sQjppZFY]{生存}判定にクラス・レベルの半分に等しい値（最低1）を加える。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "skill.sur",
+					"target": "skill",
+					"text": "痕跡をたどるための生存判定に+[[min(1,floor(@classes.ranger.level/2))]]ボーナス"
+				}
+			],
 			"tags": [],
 			"classes": [
 				[
@@ -44056,6 +44138,18 @@
 			"id": "Trap Sense",
 			"name": "罠感知",
 			"description": "<p><strong>罠感知（変則）／Trap Sense：</strong></p><p>君は罠を避けるための反応セーヴに＋1のボーナスを、罠からの攻撃に対するアーマー・クラスに＋1の回避ボーナスを得る。以降、このボーナスは罠感知を取得したクラス・レベルが3上昇するごとに（つまり、6、9、12、15、18レベルで）＋1ずつ増えていく。複数のクラスで得た罠感知のボーナスは累積する。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "ref",
+					"target": "savingThrows",
+					"text": "罠を避けるための反応セーヴに+[[floor(@classes.rogue.level/3)]]ボーナス"
+				},
+				{
+					"subTarget": "ac",
+					"target": "misc",
+					"text": "罠からの攻撃に対するアーマー・クラスに+[[floor(@classes.rogue.level/3)]]回避ボーナス"
+				}
+			],
 			"tags": [],
 			"classes": [
 				[
@@ -44117,6 +44211,13 @@
 			"id": "Trapfinding",
 			"name": "罠探し（ローグ）",
 			"description": "<p><strong>罠探し／Trapfinding：</strong></p><p>ローグは@Compendium[pf1.skills.CCy1fajKKU3K02iQ]{装置無力化}技能判定と罠を探すための@Compendium[pf1.skills.YYmmxDgp0g3ltSUG]{知覚}技能判定にクラス・レベルの1/2（最低1）を加える。ローグは@Compendium[pf1.skills.CCy1fajKKU3K02iQ]{装置無力化}技能を用いて魔法的な罠を解除できる。</p>",
+			"contextNotes": [
+				{
+					"text": "罠を探すための知覚判定に+[[@classes.rogue.level < 4 ? 1 : (floor(@classes.rogue.level / 2))]]ボーナス",
+					"target": "skill",
+					"subTarget": "skill.per"
+				}
+			],
 			"tags": [],
 			"classes": [
 				[
@@ -44128,6 +44229,13 @@
 			"id": "Trapfinding (INV)",
 			"name": "罠探し（インヴェスティゲーター）",
 			"description": "<p><strong>罠探し／Trapfinding：</strong></p><p>インヴェスティゲーターは罠の在処を見つけるための@Compendium[pf1.skills.YYmmxDgp0g3ltSUG]{知覚}技能判定と、@Compendium[pf1.skills.CCy1fajKKU3K02iQ]{装置無力化}判定にレベルの半分（最低1）を加える。インヴェスティゲーターは@Compendium[pf1.skills.CCy1fajKKU3K02iQ]{装置無力化}を用いて魔法の罠を解除することができる。</p>",
+			"contextNotes": [
+				{
+					"text": "罠を探すための知覚判定に+[[@classes.investigator.level < 4 ? 1 : (floor(@classes.investigator.level / 2))]]ボーナス",
+					"target": "skill",
+					"subTarget": "skill.per"
+				}
+			],
 			"tags": [],
 			"classes": [
 				[
@@ -44139,6 +44247,13 @@
 			"id": "Trapfinding (SLA)",
 			"name": "罠探し（スレイヤーの技）",
 			"description": "<p><strong>罠探し／Trapfinding：</strong></p><p>スレイヤーは@Compendium[pf1.skills.CCy1fajKKU3K02iQ]{装置無力化}をクラス技能として得る。スレイヤーは罠探しと罠感知のローグの能力を獲得する。この能力において、自分の有効ローグ・レベルとしてスレイヤー・レベルを用いる。</p>",
+			"contextNotes": [
+				{
+					"text": "罠を探すための知覚判定に+[[@classes.slayer.level < 4 ? 1 : (floor(@classes.slayer.level / 2))]]ボーナス",
+					"target": "skill",
+					"subTarget": "skill.per"
+				}
+			],
 			"tags": [["スレイヤーの技"]],
 			"classes": [
 				[
@@ -44150,6 +44265,13 @@
 			"id": "Trapfinding (UC)",
 			"name": "罠探し（UCローグ）",
 			"description": "<p><strong>罠探し／Trapfinding：</strong></p><p>ローグは@Compendium[pf1.skills.CCy1fajKKU3K02iQ]{装置無力化}判定と、罠を探すための@Compendium[pf1.skills.YYmmxDgp0g3ltSUG]{知覚}判定にクラス・レベルの半分（最低＋1）を加える。ローグは@Compendium[pf1.skills.CCy1fajKKU3K02iQ]{装置無力化}技能を用いて魔法の罠を解除できる。</p>",
+			"contextNotes": [
+				{
+					"text": "罠を探すための知覚判定に+[[@classes.rogueUnchained.level < 4 ? 1 : (floor(@classes.rogueUnchained.level / 2))]]ボーナス",
+					"target": "skill",
+					"subTarget": "skill.per"
+				}
+			],
 			"tags": [],
 			"classes": [
 				[

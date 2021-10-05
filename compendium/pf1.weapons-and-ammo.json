@@ -149,12 +149,6 @@
 			"identifiedName": "アロー・スプリンガル"
 		},
 		{
-			"id": "Arrows (20)",
-			"name": "アロー (20)",
-			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 22</em>, <em>PRPG Core Rulebook pg. 143</em></p>\n<h3 class=\"framing\"><img style=\"margin: 3px 3px 0px 3px;\" title=\"PFS Legal\" src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" />詳細</h3>\n<p><strong>市価</strong> 1 gp <strong>重量</strong> 3 ポンド</p>\n<p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p>\n<h3 class=\"framing\">説明</h3>\n<p>アロー（弓の矢）は近接武器として使う場合、軽い代用武器と見なされ（攻撃ロールに－4のペナルティ）、同じサイズ用のダガーとしてダメージを与える（クリティカル倍率＝×2）。アローは20本入りの皮の矢筒に入った状態で手に入る。</p>",
-			"identifiedName": "アロー (20)"
-		},
-		{
 			"id": "Assault Bridge, Colossal",
 			"name": "アサルト・ブリッジ（超巨大）",
 			"description": "<p><strong>Source</strong> <em>Ultimate Combat pg. 165</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 250 gp <strong>重量</strong> -</p><p><strong>ダメージ</strong> -; <strong>クリティカル</strong> -; <strong>射程</strong> -; <strong>タイプ</strong> -</p><p><strong>兵員</strong> 0; <strong>照準</strong> 0; <strong>装填</strong> 0; <strong>移動速度</strong> 0 ft.</p><p><strong>区分</strong> 近接強襲攻城兵器; <strong>習熟</strong> 攻城兵器</p><h3 class=\"framing\">説明</h3><p>アサルト・ブリッジ（強襲架橋）は堀、壕、またはその他の間隙にまたがるように使用される。アサルト・ブリッジを架橋するには長さ5フィートにつき1全ラウンド・アクションを必要とする； 最大で4体のクリーチャーを架橋に協働させることができる。必要時間は橋のサイズ段階がそれを架けるクリーチャーよりも大きくなるごとに2倍になる。大型のアサルト・ブリッジは40ヒット・ポイント、超大型のアサルト・ブリッジは60ヒット・ポイント、巨大のアサルト・ブリッジは160ヒット・ポイント、超巨大のアサルト・ブリッジは240ヒット・ポイントを持つ。</p><h2>表：ブリッジおよびエスカレイド・ラダー</h2><p><table border='1'><thead><tr><th>サイズ</th><th>幅</th><th>長さ／高さ</th></tr></thead><tr><td>大型</td><td>5フィート</td><td>20フィート</td></tr><tr><td>超大型</td><td>5フィート</td><td>30フィート</td></tr><tr><td>巨大</td><td>10フィート</td><td>40フィート</td></tr><tr><td>超巨大</td><td>10フィート</td><td>60フィート</td></tr></table></p>",
@@ -207,12 +201,6 @@
 			"name": "バンブー・シャフト・アロー",
 			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 22</em></p>\n<h3 class=\"framing\"><img style=\"margin: 3px 3px 0px 3px;\" title=\"PFS Legal\" src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" />詳細</h3>\n<p><strong>市価</strong> 1 gp <strong>重量</strong> 1/2 ポンド</p>\n<p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p>\n<h3 class=\"framing\">説明</h3>\n<p>バンブー・シャフト（竹箭）はアロー・チューブの矢弾として使用される1フィート長のアローである。代用近接武器としてスパイクト・ガントレットと同等のダメージを与えることもできる。これらは10本入の竹筒で販売されている。</p>",
 			"identifiedName": "バンブー・シャフト・アロー"
-		},
-		{
-			"id": "Bamboo Shaft Arrows (10)",
-			"name": "バンブー・シャフト・アロー (10)",
-			"description": "<p><strong>Source</strong> <em>Ultimate Combat pg. 130</em></p><h3 class=\"framing\"><img src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" title=\"PFS Legal\" style=\"margin:3px 3px 0px 3px;\">詳細</h3><p><strong>市価</strong> 1 gp <strong>重量</strong> 1/2 ポンド</p><p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p><h3 class=\"framing\">説明</h3><p>バンブー・シャフト（竹箭）はアロー・チューブの矢弾として使用される1フィート長のアローである。代用近接武器としてスパイクト・ガントレットと同等のダメージを与えることもできる。これらは10本入の竹筒で販売されている。</p>",
-			"identifiedName": "バンブー・シャフト・アロー (10)"
 		},
 		{
 			"id": "Barbazu Beard",
@@ -347,12 +335,6 @@
 			"identifiedName": "ブロウガン用ダーツ"
 		},
 		{
-			"id": "Blowgun Darts (10)",
-			"name": "ブロウガン用ダーツ (10)",
-			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 22</em>, <em>Pathfinder Campaign Setting pg. 211</em>, <em>PRPG Core Rulebook pg. 142</em></p><h3 class=\"framing\"><img src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" title=\"PFS Legal\" style=\"margin:3px 3px 0px 3px;\">詳細</h3><p><strong>市価</strong> 5 sp <strong>重量</strong> -</p><p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p><h3 class=\"framing\">説明</h3><p>このブロウガンに用いる薄く軽いダーツは、通常は堅い木で作られ、安定化のための綿毛か毛皮の矢羽根を備えている。ダーツは通常は発射の直前に後ろから装填される。</p>",
-			"identifiedName": "ブロウガン用ダーツ (10)"
-		},
-		{
 			"id": "Blunderbuss",
 			"name": "ブランダーバス",
 			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 43</em>, <em>Ultimate Combat pg. 137</em></p>\n<h3 class=\"framing\"><img style=\"margin: 3px 3px 0px 3px;\" title=\"No character may purchase a firearm unless she possesses the Gunsmithing feat and firearms are never considered Always Available\" src=\"https://www.aonprd.com/images/PathfinderSocietySymbolN.gif\" />詳細</h3>\n<p><strong>市価</strong> 2,000 gp <strong>重量</strong> 8 ポンド</p>\n<p><strong>ダメージ</strong> 1d6 （小型）、 1d8 （中型）; <strong>クリティカル</strong> x2; <strong>射程</strong> 特殊; <strong>タイプ</strong> 殴打および刺突; <strong>特殊</strong> 散弾</p>\n<p><strong>不発</strong> 1-2 (10 ft.); <strong>装弾数</strong> 1</p>\n<p><strong>区分</strong> 両手武器; <strong>習熟</strong> 特殊武器</p>\n<h3 class=\"framing\">説明</h3>\n<p><strong>タイプ</strong> 黎明期の火器</p><p>この武器はそのトランペット状の銃身からペレットかブリットを発射する、有用な鳥撃ち銃または近接戦闘の個人防御火器である。ブランダーバス（ラッパ銃）は15フィートの円錐状に燃えるペレットを発射し、ブリットを撃つときは10フィートの射程単位を持つ。ブランダーバスは矢弾としてブリット1つまたはペレットと1服の黒色火薬、または錬金術カートリッジ1つを使用する。ブランダーバスは黎明期の火器である。</p>",
@@ -363,12 +345,6 @@
 			"name": "ブラント・アロー",
 			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 22</em>, <em>Advanced Player's Guide pg. 176</em></p>\n<h3 class=\"framing\"><img style=\"margin: 3px 3px 0px 3px;\" title=\"PFS Legal\" src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" />詳細</h3>\n<p><strong>市価</strong> 2 gp <strong>重量</strong> 3 ポンド</p>\n<p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p>\n<h3 class=\"framing\">説明</h3>\n<p>この矢は先端が木で覆われている。この矢は刺突ダメージではなく、殴打ダメージを与える。射手は（致傷ダメージを与える武器で非致傷ダメージを与える際に被る通常の－4の攻撃ペナルティを受けた上で）ブラント・アローを非致傷ダメージを与えるために用いることができる。</p>",
 			"identifiedName": "ブラント・アロー"
-		},
-		{
-			"id": "Blunt Arrows (20)",
-			"name": "ブラント・アロー (20)",
-			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 22</em>, <em>Advanced Player's Guide pg. 176</em></p>\n<h3 class=\"framing\"><img style=\"margin: 3px 3px 0px 3px;\" title=\"PFS Legal\" src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" />詳細</h3>\n<p><strong>市価</strong> 2 gp <strong>重量</strong> 3 ポンド</p>\n<p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p>\n<h3 class=\"framing\">説明</h3>\n<p>この矢は先端が木で覆われている。この矢は刺突ダメージではなく、殴打ダメージを与える。射手は（致傷ダメージを与える武器で非致傷ダメージを与える際に被る通常の－4の攻撃ペナルティを受けた上で）ブラント・アローを非致傷ダメージを与えるために用いることができる。</p>",
-			"identifiedName": "ブラント・アロー (20)"
 		},
 		{
 			"id": "Bo Staff",
@@ -407,7 +383,7 @@
 			"identifiedName": "ボーラ"
 		},
 		{
-			"id": "Bolas Bolts",
+			"id": "Bolas Bolt",
 			"name": "ボーラ・ボルト",
 			"description": "<p><strong>Source</strong> <em>Monster Codex pg. 44</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 20 gp <strong>重量</strong> 4 ポンド</p><p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p><h3 class=\"framing\">説明</h3><p>ボーラ・ボルトはボーラに似た矢弾であり、スレイヴァーズ・クロスボウの矢弾として使用される。スレイヴァーズ・クロスボウから放たれたボーラ・ボルトが目標に命中すると、使用者は目標に対して足払い戦技を試みる（戦技判定の際、【筋力】ボーナスは加えない）。ボーラ・ボルトを用いた足払い戦技では、使用者は足払いをやり返されることはない。</p><p>クリティカル・ヒットが確定すると、ボーラ・ボルトは追加ダメージを与える代わりに目標は絡みつかれた状態となる。この効果は、目標かその仲間が難易度15の【筋力】判定に成功してボーラの紐を引きちぎるまで持続する。ライト・スレイヴァーズ・クロスボウは適切な使用者と同じサイズまでの目標1体を、ヘヴィ・スレイヴァーズ・クロスボウは適切な使用者より1段階サイズの大きな目標1体を、絡みつかれた状態にすることができる。高品質あるいは＋1以上の強化ボーナスを持つボーラ・ボルトは、ボーラを破壊するために行う【筋力】判定の難易度が20に増加する。</p><p>目標を足払いしたり絡みつかれた状態にしたなら、そのクリーチャーはボーラの紐を引きちぎって自由になるまで、そのマスから移動することはできない。</p>",
 			"identifiedName": "ボーラ・ボルト"
@@ -599,12 +575,6 @@
 			"identifiedName": "クロスボウ・ボルト"
 		},
 		{
-			"id": "Crossbow Bolts (10)",
-			"name": "クロスボウ・ボルト (10)",
-			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 22</em>, <em>PRPG Core Rulebook pg. 142</em>, <em>PRPG Core Rulebook pg. 143</em></p>\n<h3 class=\"framing\"><img style=\"margin: 3px 3px 0px 3px;\" title=\"PFS Legal\" src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" />詳細</h3>\n<p><strong>市価</strong> 1 gp <strong>重量</strong> 1 ポンド</p>\n<p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p>\n<h3 class=\"framing\">説明</h3>\n<p>クロスボウ・ボルト（弩の矢）は近接武器として使う場合、軽い代用武器と見なされ（攻撃ロールに－4のペナルティ）、同じサイズ用のダガーとしてダメージを与える（クリティカル倍率×2）。ボルトは10本入りのケースに入った状態で手に入る。リピーティング・クロスボウを除くすべてのクロスボウは“クォレル”と呼ばれることもあるこれらの種類のクロスボウ・ボルトを使用する。</p>",
-			"identifiedName": "クロスボウ・ボルト (10)"
-		},
-		{
 			"id": "Crushing Wheel",
 			"name": "Crushing Wheel",
 			"description": "<p><strong>Source</strong> <em>Belkzen, Hold of the Orc Hordes pg. 39</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 500 gp <strong>重量</strong> -</p><p><strong>ダメージ</strong> 4d6; <strong>クリティカル</strong> -; <strong>射程</strong> -; <strong>タイプ</strong> 殴打</p><p><strong>兵員</strong> 4; <strong>照準</strong> 0; <strong>装填</strong> 0; <strong>移動速度</strong> 0 ft.</p><p><strong>区分</strong> 近接強襲攻城兵器; <strong>習熟</strong> 攻城兵器</p><h3 class=\"framing\">説明</h3><p>The bulk of this weapon is a steel roller nearly 10 feet wide. Handles or a harness project from the axle, allowing four orcs or one Large beast to push the crushing wheel from behind. As a full-round action, its crew can roll the crushing wheel over creatures in front of it. This functions as the trample monster ability except as noted here. Creatures that are overrun fall prone and take 4d6 points of damage. Targets that succeed at a DC 15 Reflex saving throw take only half damage and avoid falling prone. A crushing wheel has a hardness of 10 and 100 hit points.</p><p></p><p>A crushing wheel is a Large siege engine.</p>",
@@ -683,10 +653,10 @@
 			"identifiedName": "ダイア・フレイル"
 		},
 		{
-			"id": "Distance Arrow",
-			"name": "Distance Arrow",
-			"description": "<p>Used tactically for long-range attacks on troops, these arrows are fitted with heavy iron heads. While these heads help them travel great distances, they make the arrows less effective at dealing damage.</p>\n<p><strong>Benefit</strong>: Iron-tipped distance arrows increase their bow’s range increment by 10 feet but take a –1 penalty on damage dealt per range increment (minimum 1 point of damage). They are sold in leather quivers in quantities of 20.</p>",
-			"identifiedName": "Distance Arrow"
+			"id": "Distance Arrow (Iron-tipped)",
+			"name": "アイアンティップド・ディスタンス・アロー",
+			"description": "<p><strong>Source</strong> <em>Ultimate Combat pg. 130</em></p>\n<h3 class=\"framing\"><img style=\"margin: 3px 3px 0px 3px;\" title=\"PFS Legal\" src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" />詳細</h3>\n<p><strong>市価</strong> 1 gp <strong>重量</strong> 4 ポンド</p>\n<p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p>\n<h3 class=\"framing\">説明</h3>\n<p>軍隊の長距離攻撃のために戦術的に用いられるこれらのアローには重い鉄の矢尻が取り付けられている。この矢尻は長距離の投射に役立つ一方で、アローが与えるダメージの有効性を低減する。アイアンティップド・ディスタンス・アローはボウの射程単位を10フィート増加するが、与えるダメージに射程単位ごとに－1のペナルティを受ける（最小1ポイントのダメージ）。これらは20本入の革の矢筒で販売されている。</p>",
+			"identifiedName": "アイアンティップド・ディスタンス・アロー"
 		},
 		{
 			"id": "Dogslicer",
@@ -1049,7 +1019,7 @@
 			"identifiedName": "ファイアー・ランス"
 		},
 		{
-			"id": "Firearm Bullet (1)",
+			"id": "Firearm Bullet",
 			"name": "火器ブリット",
 			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 41</em>, <em>Pathfinder Campaign Setting pg. 211</em>, <em>Ultimate Combat pg. 141</em></p><h3 class=\"framing\"><img src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" title=\"PFS Legal\" style=\"margin:3px 3px 0px 3px;\">詳細</h3><p><strong>市価</strong> 1 gp <strong>重量</strong> -</p><p><strong>区分</strong> 矢弾; <strong>習熟</strong> 特殊武器</p><h3 class=\"framing\">説明</h3><p>多くの片手火器および両手火器の矢弾である火器ブリットは、一般に小さな鉛かその他の金属の弾の形状を取る。火器ブリットの重量は30発で1/2ポンドである。</p>",
 			"identifiedName": "火器ブリット"
@@ -1119,12 +1089,6 @@
 			"name": "フライト・アロー",
 			"description": "<p><strong>Source</strong>&nbsp;<em>Ultimate Equipment pg. 22</em>,&nbsp;<em>Advanced Player's Guide pg. 176</em></p>\n<h3 class=\"framing\"><img style=\"margin: 3px 3px 0px 3px;\" title=\"PFS Legal\" src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" />詳細</h3>\n<p><strong>市価</strong>&nbsp;2 gp&nbsp;<strong>重量</strong>&nbsp;3 ポンド</p>\n<p><strong>区分</strong> ;矢弾;&nbsp;<strong>習熟</strong> 矢弾</p>\n<h3 class=\"framing\">説明</h3>\n<p>この矢は射程を延ばすために軽いシャフトと特別な矢羽を用いている。フライト・アローはロングボウの射程単位を20フィート、ショートボウの射程単位を10フィート延ばす。この矢によるダメージは1段階サイズが小さいものとして算出される。</p>",
 			"identifiedName": "フライト・アロー"
-		},
-		{
-			"id": "Flight Arrows (20)",
-			"name": "フライト・アロー (20)",
-			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 22</em>, <em>Advanced Player's Guide pg. 176</em></p>\n<h3 class=\"framing\"><img style=\"margin: 3px 3px 0px 3px;\" title=\"PFS Legal\" src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" />詳細</h3>\n<p><strong>市価</strong> 2 gp <strong>重量</strong> 3 ポンド</p>\n<p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p>\n<h3 class=\"framing\">説明</h3>\n<p>この矢は射程を延ばすために軽いシャフトと特別な矢羽を用いている。フライト・アローはロングボウの射程単位を20フィート、ショートボウの射程単位を10フィート延ばす。この矢によるダメージは1段階サイズが小さいものとして算出される。</p>",
-			"identifiedName": "フライト・アロー (20)"
 		},
 		{
 			"id": "Flindbar",
@@ -1289,10 +1253,10 @@
 			"identifiedName": "グレートソード"
 		},
 		{
-			"id": "Groaning Bullets (10)",
-			"name": "グローニング・ブリット (10)",
+			"id": "Groaning Bullet",
+			"name": "グローニング・ブリット",
 			"description": "<p><strong>Source</strong> <em>Adventurer's Armory pg. 3</em></p>\n<h3 class=\"framing\"><img style=\"margin: 3px 3px 0px 3px;\" title=\"PFS Legal\" src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" />詳細</h3>\n<p><strong>市価</strong> 2 gp <strong>重量</strong> 5 ポンド</p>\n<p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p>\n<h3 class=\"framing\">説明</h3>\n<p>このスリング・ブリットは畳み込まれた穿孔により無数の穴が開けられている。これによりこのブリットは飛んだ経路から500フィート以内まで届くぶきみなうなりを放つ。</p>",
-			"identifiedName": "グローニング・ブリット (10)"
+			"identifiedName": "グローニング・ブリット"
 		},
 		{
 			"id": "Groaning Sling Bullet",
@@ -1379,10 +1343,10 @@
 			"identifiedName": "Harvester"
 		},
 		{
-			"id": "Heartstake Bolts (5)",
-			"name": "ハートステーク・ボルト (5)",
+			"id": "Heartstake Bolt",
+			"name": "ハートステーク・ボルト",
 			"description": "<p><strong>Source</strong> <em>Advanced Race Guide pg. 99</em></p>\n<h3 class=\"framing\"><img style=\"margin: 3px 3px 0px 3px;\" title=\"PFS Legal\" src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" />詳細</h3>\n<p><strong>市価</strong> 100 gp <strong>重量</strong> 3 ポンド</p>\n<p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p>\n<h3 class=\"framing\">説明</h3>\n<p>純粋なダークウッドで特別に作られるハートステーク・ボルトは、ヴァンパイアを殺す為に特別に作られた。ハートステーク・ボルトはどのクロスボウからでも射出できるが、攻撃ロールに－2のペナルティを受け、射程単位はその武器の半分になる。ハートステーク・ボルトが命中したヴァンパイアは通常のダメージを受けた上、難易度20の頑健セーヴィング・スローに成功しなければ1ラウンドの間無防備状態で地面に倒れてしまう。このようにしてヴァンパイアが無防備状態になっている間、クリーチャーは全ラウンド・アクションとしてヴァンパイアの心臓にハートステーク・ボルトを突き刺すことで、ヴァンパイアにとどめを刺すことを試みることができる。ハートステーク・ボルトによるこの衰弱させる効果が終了すると、ヴァンパイアは移動アクションとしてこのボルトを引き抜くことができる。ハートステーク・ボルトで殺されたヴァンパイアは、ヴァンパイアの弱点に記載される木の杭でヴァンパイアを殺すルールと制限に従う。</p><p>ハートステーク・ボルトはその種別のクロスボウにおける通常のダメージを与える。</p>",
-			"identifiedName": "ハートステーク・ボルト (5)"
+			"identifiedName": "ハートステーク・ボルト"
 		},
 		{
 			"id": "Heavy Ballista",
@@ -1571,12 +1535,6 @@
 			"identifiedName": "アイアン・ブラシ"
 		},
 		{
-			"id": "Iron-Tipped Distance Arrows (20)",
-			"name": "アイアンティップド・ディスタンス・アロー (20)",
-			"description": "<p><strong>Source</strong> <em>Ultimate Combat pg. 130</em></p>\n<h3 class=\"framing\"><img style=\"margin: 3px 3px 0px 3px;\" title=\"PFS Legal\" src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" />詳細</h3>\n<p><strong>市価</strong> 1 gp <strong>重量</strong> 4 ポンド</p>\n<p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p>\n<h3 class=\"framing\">説明</h3>\n<p>軍隊の長距離攻撃のために戦術的に用いられるこれらのアローには重い鉄の矢尻が取り付けられている。この矢尻は長距離の投射に役立つ一方で、アローが与えるダメージの有効性を低減する。アイアンティップド・ディスタンス・アローはボウの射程単位を10フィート増加するが、与えるダメージに射程単位ごとに－1のペナルティを受ける（最小1ポイントのダメージ）。これらは20本入の革の矢筒で販売されている。</p>",
-			"identifiedName": "アイアンティップド・ディスタンス・アロー (20)"
-		},
-		{
 			"id": "Javelin",
 			"name": "ジャヴェリン",
 			"description": "<p><strong>Source</strong> <em>Ranged Tactics Toolbox pg. 0</em>, <em>PRPG Core Rulebook pg. 142</em>, <em>Ultimate Combat pg. 144</em>, <em>Ultimate Equipment pg. 17</em></p><h3 class=\"framing\"><img src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" title=\"PFS Legal\" style=\"margin:3px 3px 0px 3px;\">詳細</h3><p><strong>市価</strong> 1 gp <strong>重量</strong> 2 ポンド</p><p><strong>ダメージ</strong> 1d4 （小型）、 1d6 （中型）; <strong>クリティカル</strong> x2; <strong>射程</strong> 30 ft.; <strong>タイプ</strong> 刺突; <strong>特殊</strong> -</p><p><strong>区分</strong> 遠隔武器; <strong>習熟</strong> 単純武器</p><p><strong>武器グループ</strong> 槍; 投擲武器</p><h3 class=\"framing\">説明</h3><p>ジャヴェリン（投げ槍）は細い投擲用の槍である。なにぶん近接戦闘用にはできていないので、どんなキャラクターもこの武器には未習熟として扱われ、近接武器として使う場合の攻撃ロールに－4のペナルティを受ける。</p>",
@@ -1625,10 +1583,10 @@
 			"identifiedName": "ケストロス"
 		},
 		{
-			"id": "Kestros Dart (10)",
-			"name": "ケストロス・ダーツ (10)",
+			"id": "Kestros Dart",
+			"name": "ケストロス・ダーツ",
 			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 22</em></p>\n<h3 class=\"framing\"><img style=\"margin: 3px 3px 0px 3px;\" title=\"PFS Legal\" src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" />詳細</h3>\n<p><strong>市価</strong> 5 gp <strong>重量</strong> 5 ポンド</p>\n<p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p>\n<h3 class=\"framing\">説明</h3>\n<p>このダーツはケストロスを使用して投擲することを想定し、約12インチの長さの木の軸に、約9インチの長さの重い金属の先端を取り付け、安定のため矢羽根をつけている。近接武器として使用するなら、軽い代用武器（攻撃ロールに－4ペナルティ）であり、同サイズのダガーとしてダメージを与える（クリティカル倍率×2）。ケストロス・ダーツは10本入りの矢筒で売られている。</p>",
-			"identifiedName": "ケストロス・ダーツ (10)"
+			"identifiedName": "ケストロス・ダーツ"
 		},
 		{
 			"id": "Khopesh",
@@ -1871,10 +1829,10 @@
 			"identifiedName": "氷液（攻城兵器の矢弾）"
 		},
 		{
-			"id": "Little Starstones Sling Bullets (10)",
-			"name": "リトル・スターストーン (10)",
+			"id": "Little Starstones Sling Bullet",
+			"name": "リトル・スターストーン",
 			"description": "<p><strong>Source</strong> <em>Halflings of Golarion pg. 22</em></p><h3 class=\"framing\"><img src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" title=\"PFS Legal\" style=\"margin:3px 3px 0px 3px;\">詳細</h3><p><strong>市価</strong> 5 cp <strong>重量</strong> 2 ポンド</p><p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p><h3 class=\"framing\">説明</h3><p>大きな損傷を充分に与えるのが難しいこれらの糸や布に包まれた小石は厳密にはスリングの弾ではなく、主に信号や祝宴の時に使用される。油や強いアルコールに浸された後、この小石は1ラウンドの間ロウソクの明るさに燃え輝き、光の尾を引いて空を飛ぶ。リトル・スターストーンは追加のダメージを与える程熱くならず、また素早く燃え尽きる為可燃物に点火することは出来ない。</p>",
-			"identifiedName": "リトル・スターストーン (10)"
+			"identifiedName": "リトル・スターストーン"
 		},
 		{
 			"id": "Lizard King War Trident",
@@ -2267,12 +2225,6 @@
 			"identifiedName": "リピーティング・クロスボウ・ボルト"
 		},
 		{
-			"id": "Repeating Crossbow Bolts (5)",
-			"name": "リピーティング・クロスボウ・ボルト (5)",
-			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 22</em>, <em>PRPG Core Rulebook pg. 143</em></p>\n<h3 class=\"framing\"><img style=\"margin: 3px 3px 0px 3px;\" title=\"PFS Legal\" src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" />詳細</h3>\n<p><strong>市価</strong> 1 gp <strong>重量</strong> 1 ポンド</p>\n<p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p>\n<h3 class=\"framing\">説明</h3>\n<p>リピーティング・クロスボウ用のボルトは、リピーティング・クロスボウの弾倉にフィットするように設計されている。これらは標準のクロスボウ・ボルトよりも高価であり、（弾倉の装弾数に合わせて）10本単位ではなく5本単位で販売されている。</p>",
-			"identifiedName": "リピーティング・クロスボウ・ボルト (5)"
-		},
-		{
 			"id": "Repeating Hand Crossbow",
 			"name": "リピーティング・ハンド・クロスボウ",
 			"description": "<p><strong>Source</strong> <em>Ranged Tactics Toolbox pg. 33</em>, <em>Ultimate Equipment pg. 21</em></p><h3 class=\"framing\"><img src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" title=\"PFS Legal\" style=\"margin:3px 3px 0px 3px;\">詳細</h3><p><strong>市価</strong> 800 gp <strong>重量</strong> 4 ポンド</p><p><strong>ダメージ</strong> 1d3 （小型）、 1d4 （中型）; <strong>クリティカル</strong> 19-20/x2; <strong>射程</strong> 30 ft.; <strong>タイプ</strong> 刺突; <strong>特殊</strong> -</p><p><strong>区分</strong> 遠隔武器; <strong>習熟</strong> 特殊武器</p><p><strong>武器グループ</strong> 弩</p><h3 class=\"framing\">説明</h3><p>この武器はダメージ、クリティカル可能域、および射程単位の値がハンド・クロスボウ相当であることを除いてリピーティング・ヘヴィ・クロスボウと同じように機能する。</p>",
@@ -2435,10 +2387,10 @@
 			"identifiedName": "シャープンド・コンバット・スキャバード"
 		},
 		{
-			"id": "Sharpstones Sling Bullets (10)",
-			"name": "シャープストーン・ブリット (10)",
+			"id": "Sharpstones Sling Bullet",
+			"name": "シャープストーン・ブリット",
 			"description": "<p><strong>Source</strong> <em>Halflings of Golarion pg. 23</em></p><h3 class=\"framing\"><img src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" title=\"PFS Legal\" style=\"margin:3px 3px 0px 3px;\">詳細</h3><p><strong>市価</strong> 1 gp <strong>重量</strong> 5 ポンド</p><p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p><h3 class=\"framing\">説明</h3><p>この特製の弾丸の棘とぎざぎざの縁は素焼き粘土の薄い層で覆われている。習熟した使い手は発射時にこの粘土の覆いをフリー・アクションで割って棘か縁のいずれかを露出させる方法を知っており、刺突か斬撃ダメージのどちらかを選択することが出来る。</p>",
-			"identifiedName": "シャープストーン・ブリット (10)"
+			"identifiedName": "シャープストーン・ブリット"
 		},
 		{
 			"id": "Shield Spikes (Heavy)",
@@ -2507,12 +2459,6 @@
 			"identifiedName": "シュリケン"
 		},
 		{
-			"id": "Shuriken (5)",
-			"name": "シュリケン (5)",
-			"description": "<p><strong>Source</strong> <em>Ranged Tactics Toolbox pg. 33</em>, <em>PRPG Core Rulebook pg. 143</em>, <em>Ultimate Equipment pg. 21</em></p>\n<h3 class=\"framing\"><img style=\"margin: 3px 3px 0px 3px;\" title=\"PFS Legal\" src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" />詳細</h3>\n<p><strong>市価</strong> 1 gp <strong>重量</strong> 1/2 ポンド</p>\n<p><strong>ダメージ</strong> 1 （小型）、 1d2 （中型）; <strong>クリティカル</strong> x2; <strong>射程</strong> 10 ft.; <strong>タイプ</strong> 刺突; <strong>特殊</strong> モンク用</p>\n<p><strong>区分</strong> 遠隔武器; <strong>習熟</strong> 特殊武器</p>\n<h3 class=\"framing\">説明</h3>\n<p>シュリケンは鋭い縁を持った金属の小片であり、投擲するように設計されている。シュリケンは近接武器としては使えない。シュリケンは投擲武器ではあるが、“抜く”際や、高品質その他の特殊なバージョンを作成する際や、投げた後にどうなるかを決定する際には矢弾として扱う。</p>",
-			"identifiedName": "シュリケン (5)"
-		},
-		{
 			"id": "Siangham",
 			"name": "シャンガム",
 			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 20</em>, <em>PRPG Core Rulebook pg. 143</em></p><h3 class=\"framing\"><img src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" title=\"PFS Legal\" style=\"margin:3px 3px 0px 3px;\">詳細</h3><p><strong>市価</strong> 3 gp <strong>重量</strong> 1 ポンド</p><p><strong>ダメージ</strong> 1d4 （小型）、 1d6 （中型）; <strong>クリティカル</strong> x2; <strong>射程</strong> -; <strong>タイプ</strong> 刺突; <strong>特殊</strong> モンク用</p><p><strong>区分</strong> 軽い武器; <strong>習熟</strong> 特殊武器</p><p><strong>武器グループ</strong> モンク</p><h3 class=\"framing\">説明</h3><p>この武器は敵を突き刺すための尖った先端をもった棒であり、手に持って使う。シャンガムは近接戦闘用に設計された、握りを備えた（ずっと頑丈な）アローに似ている。</p>",
@@ -2555,10 +2501,10 @@
 			"identifiedName": "スリング"
 		},
 		{
-			"id": "Sling Bullets (10)",
-			"name": "スリング・ブリット (10)",
+			"id": "Sling Bullet",
+			"name": "スリング・ブリット",
 			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 22</em>, <em>PRPG Core Rulebook pg. 142</em></p><h3 class=\"framing\"><img src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" title=\"PFS Legal\" style=\"margin:3px 3px 0px 3px;\">詳細</h3><p><strong>市価</strong> 1 sp <strong>重量</strong> 5 ポンド</p><p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p><h3 class=\"framing\">説明</h3><p>スリング・ブリット（投石器の弾）は金属の球であり、スリングかハーフリング・スリング・スタッフで用いるために設計されている。10個入りの皮袋に入った状態で手に入る。</p>",
-			"identifiedName": "スリング・ブリット (10)"
+			"identifiedName": "スリング・ブリット"
 		},
 		{
 			"id": "Sling Glove",
@@ -2603,10 +2549,10 @@
 			"identifiedName": "スナッグ・ネット"
 		},
 		{
-			"id": "Softstones Sling Bullets (10)",
-			"name": "ソフトストーン・ブリット (10)",
+			"id": "Softstones Sling Bullet",
+			"name": "ソフトストーン・ブリット",
 			"description": "<p><strong>Source</strong> <em>Halflings of Golarion pg. 23</em></p><h3 class=\"framing\"><img src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" title=\"PFS Legal\" style=\"margin:3px 3px 0px 3px;\">詳細</h3><p><strong>市価</strong> 1 sp <strong>重量</strong> 4 ポンド</p><p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p><h3 class=\"framing\">説明</h3><p>この弾力がある繊維をきつく縛った塊は、スリングで射出された時に目標に非致傷ダメージを与える。</p>",
-			"identifiedName": "ソフトストーン・ブリット (10)"
+			"identifiedName": "ソフトストーン・ブリット"
 		},
 		{
 			"id": "Spear",
@@ -2675,10 +2621,10 @@
 			"identifiedName": "スプリット・ブレイドソード"
 		},
 		{
-			"id": "Spongestones Sling Bullets (10)",
-			"name": "スポンジストーン・ブリット (10)",
+			"id": "Spongestones Sling Bullet",
+			"name": "スポンジストーン・ブリット",
 			"description": "<p><strong>Source</strong> <em>Halflings of Golarion pg. 23</em></p><h3 class=\"framing\"><img src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" title=\"PFS Legal\" style=\"margin:3px 3px 0px 3px;\">詳細</h3><p><strong>市価</strong> 10 gp <strong>重量</strong> 2 ポンド</p><p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p><h3 class=\"framing\">説明</h3><p>これらのブリットは、衝撃を受けると砕ける多孔性の石や重い木で出来ている。スポンジストーン・ブリットは、よく毒や燃える油を投げる為に使用される。油瓶1つは10個のスポンジストーン・ブリットを満たす。点火した（もし火があるならばフリー・アクション）燃えている油まみれのスポンジストーン・ブリットは追加で＋1d2点の［火炎］ダメージを与え、可燃性の材料（草葺き屋根のような）に点火することが出来る。スポンジストーン・ブリットがスリングのカップの中に1d3ラウンド以上火が点いた状態だったならば、そのスリングは破損状態となる。</p>",
-			"identifiedName": "スポンジストーン・ブリット (10)"
+			"identifiedName": "スポンジストーン・ブリット"
 		},
 		{
 			"id": "Spring Blade",
@@ -2837,10 +2783,10 @@
 			"identifiedName": "シッスル・アロー"
 		},
 		{
-			"id": "Thorn Arrows (20)",
-			"name": "Thorn Arrows (20)",
+			"id": "Thorn Arrow",
+			"name": "Thorn Arrow",
 			"description": "<p><strong>Source</strong> <em>Conquest of Bloodsworn Vale pg. 31</em></p><h3 class=\"framing\"><img src=\"https://www.aonprd.com/images/ThreeFiveSymbol.gif\" title=\"3.5 Material\" style=\"margin: 3px 3px 0px 3px\">詳細</h3><p><strong>市価</strong> 1 gp <strong>重量</strong> 2 ポンド</p><p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p><h3 class=\"framing\">説明</h3><p>These small arrows are tipped with a wicked rose thorn and fletched with lacquered rose petals.</p>",
-			"identifiedName": "Thorn Arrows (20)"
+			"identifiedName": "Thorn Arrow"
 		},
 		{
 			"id": "Thorn Bow",
@@ -3015,12 +2961,6 @@
 			"name": "ホイッスリング・アロー",
 			"description": "<p><strong>Source</strong>&nbsp;<em>Ultimate Equipment pg. 22</em>,&nbsp;<em>Adventurer's Armory pg. 2</em>,&nbsp;<em>Ultimate Combat pg. 130</em></p>\n<h3 class=\"framing\"><img style=\"margin: 3px 3px 0px 3px;\" title=\"PFS Legal\" src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" />詳細</h3>\n<p><strong>市価</strong>&nbsp;2 gp&nbsp;<strong>重量</strong>&nbsp;3 ポンド</p>\n<p><strong>区分</strong> ;矢弾;&nbsp;<strong>習熟</strong> 矢弾</p>\n<h3 class=\"framing\">説明</h3>\n<p>これらのアローは特別に設計された溝が彫りこまれており、その矢羽根は矢の弾道の500フィート以内に聞こえる大音声の耳障りな音を発する。これらは20本入で販売されている。</p>",
 			"identifiedName": "ホイッスリング・アロー"
-		},
-		{
-			"id": "Whistling Arrows (20)",
-			"name": "ホイッスリング・アロー (20)",
-			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 22</em>, <em>Adventurer's Armory pg. 2</em>, <em>Ultimate Combat pg. 130</em></p>\n<h3 class=\"framing\"><img style=\"margin: 3px 3px 0px 3px;\" title=\"PFS Legal\" src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" />詳細</h3>\n<p><strong>市価</strong> 2 gp <strong>重量</strong> 3 ポンド</p>\n<p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p>\n<h3 class=\"framing\">説明</h3>\n<p>これらのアローは特別に設計された溝が彫りこまれており、その矢羽根は矢の弾道の500フィート以内に聞こえる大音声の耳障りな音を発する。これらは20本入で販売されている。</p>",
-			"identifiedName": "ホイッスリング・アロー (20)"
 		},
 		{
 			"id": "Wooden Stake",

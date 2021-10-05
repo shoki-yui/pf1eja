@@ -20,6 +20,8 @@
   "SETTINGS.pf1ExpRateL": "キャラクターのレベルが増加する速度",
   "SETTINGS.pf1NoExpN": "経験点の管理を無効にする",
   "SETTINGS.pf1NoExpL": "キャラクターシートから経験点ゲージを削除する。",
+  "SETTINGS.pf1OpenXPDistributorN": "経験点の分配ウィンドウを開く",
+  "SETTINGS.pf1OpenXPDistributorL": "戦闘終了時に経験点の分配ウィンドウを開きます。Shiftキーを押しながら戦闘終了するとスキップされます。",
   "SETTINGS.pf1BackgroundSkillsN": "背景技能を使用",
   "SETTINGS.pf1BackgroundSkillsH": "背景技能の選択ルールを使用",
   "SETTINGS.pf1FractionalBaseBonusesN": "分数基本ボーナスを使用",
@@ -156,6 +158,15 @@
   "PF1.TooltipConfigDisable": "ツールチップを無効にする",
   "PF1.TooltipConfigHideWithoutKey": "{key} キーを押している間のみ表示",
   "PF1.OnMouse": "On Mouse",
+
+  "PF1.Sheet": {
+    "PC": "Player Character (PC)",
+    "NPC": "Nonplayer Character (NPC)",
+    "NPCLite": "NPC Lite",
+    "NPCLoot": "Loot",
+    "Item": "Generic Item",
+    "Container": "Container"
+  },
 
   "PF1.TooltipWorldConfigName": "ワールドのツールチップの設定",
   "PF1.TooltipWorldConfigLabel": "ツールチップ（ワールド）",
@@ -1047,8 +1058,8 @@
   "PF1.Attack": "攻撃",
   "PF1.FormulaAttack": "Attack #{0}",
   "PF1.FormulaAttackHint": "Insert {0} to show iteration counter.",
-  "PF1.FormulaicExtraAttacks": "Formulaic Extra Attacks",
-  "PF1.FormulaicAttacksCount": "Attack Count Formula",
+  "PF1.FormulaicExtraAttacks": "複数回攻撃の設定",
+  "PF1.FormulaicAttacksCount": "攻撃回数の式",
   "PF1.AddAttack": "追加攻撃を追加",
   "PF1.AddDamage": "ダメージの式を追加",
   "PF1.AddHealing": "回復の式を追加",
@@ -1095,7 +1106,7 @@
   "PF1.NotEquipped": "非装備",
   "PF1.Carried": "所持",
   "PF1.Identified": "鑑定済み",
-  "PF1.Iterative": "Iterative",
+  "PF1.Iterative": "複数回攻撃",
   "PF1.Unidentified": "未鑑定",
   "PF1.Exhaustion": "過労",
   "PF1.FlyManeuverability": "飛行の機動性",
@@ -1320,6 +1331,7 @@
   "PF1.Unlimited": "無制限",
   "PF1.Requirements": "前提条件",
   "PF1.Formula": "式",
+  "PF1.BonusFormula": "ボーナスの式",
   "PF1.FormulaResult": "Formula Result",
   "PF1.ActionType": "アクションの種類",
   "PF1.AttackRollBonus": "攻撃ロールボーナス",
@@ -1553,6 +1565,10 @@
   "PF1.Hidden": "Hidden",
   "PF1.Bright": "明るい",
   "PF1.Dim": "薄暗い",
+  "PF1.PCs": "PC",
+  "PF1.NPCs": "NPC",
+  "PF1.Options": "オプション",
+  "PF1.Cancel": "キャンセル",
 
   "PF1.Migration.Start": "Applying PF1 System Migration for version {version}. Please stand by.",
   "PF1.Migration.Ongoing": "Migration is ongoing. Please wait until it finishes.",
@@ -1566,6 +1582,16 @@
     },
     "ContextNoteTargetSelector": {
       "Title": "文脈メモの対象の選択"
+    },
+    "XPDistributor": {
+      "Title": "経験点の分配",
+      "Options": {
+        "BonusExperience": "ボーナス経験点"
+      },
+      "SplitEvenly": "均等に分割",
+      "GiveToAll": "分割せず付与",
+      "TotalExperience": "合計経験点",
+      "SplitExperience": "分割経験点"
     }
   },
 
