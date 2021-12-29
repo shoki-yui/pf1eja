@@ -1,6 +1,7 @@
 {
 	"label": "クラス特徴",
     "mapping": {
+		"changes": "data.changes",
 		"contextNotes": "data.contextNotes",
 		"tags": "data.tags",
 		"classes": "data.associations.classes"
@@ -24504,7 +24505,7 @@
 		{
 			"id": "Legend Subdomain",
 			"name": "副領域：伝説",
-			"description": "<h2>伝説の副領域 Legend Subdomain</h2><p>この副領域は使用権を得るために〔外典の侍祭〕の信仰特徴が必要である。</p><p><strong>関連領域：</strong>栄光</p><p><strong>代替能力：</strong>キャンペーンでヒーロー・ポイントのオプションを使用している場合（Pathfinder RPG Advanced Player’s Guide 322ページ）、ボーナス特技として《英雄の運命》を得る（Advanced Player’s Guide 324ページ）。そうでない場合、ボーナス特技として、前提条件を満たしていなくとも《栄光の印》を得る（Pathfinder RPG Mythic Adventures 69ページ）。これは@Compendium[pf1.class-abilities.RL0hOHIz4MnsVgv9]{栄光}の領域の正のエネルギー放出を行う時のセーヴ難易度の増加と置き換える。加えて下記に与えられる能力を、@Compendium[pf1.class-abilities.RL0hOHIz4MnsVgv9]{栄光}の領域における@Compendium[pf1.class-abilities.KXN1Y4DDcWd8ZraE]{神々しき存在感}と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.cyQV91IYp7KVdgp2]{伝説の目撃}</li></ul><p><strong>代替領域呪文：</strong></p><ul><li>2レベル - @Compendium[pf1.spells.ibk7jrc5rwubpia6]{エイド}</li><li>3レベル - @Compendium[pf1.spells.3wcvosazm31i8758]{コンテイジアス・ジール}</li><li>4レベル - @Compendium[pf1.spells.dm52jk1e37b05v9d]{ライチャス・ヴィゴー}</li><li>6レベル - @Compendium[pf1.spells.p4h6ocn0axh59xrc]{アンシェイカブル・ジール}</li><li>君が悪である場合、領域呪文の@Compendium[pf1.spells.erndkoe44rgj0lob]{ホーリィ・スマイト}、@Compendium[pf1.spells.osi62mwn6rpkwlm6]{ホーリィ・ソード}、@Compendium[pf1.spells.n0vm6or4nwaylpfa]{ホーリィ・オーラ}を@Compendium[pf1.spells.okui7mft5bquqfrg]{アンホーリィ・ブライト}、@Compendium[pf1.spells.ftrg3ira8jwicetv]{アンホーリィ・ソード}、@Compendium[pf1.spells.flrn1xmm2wfrxbkf]{アンホーリィ・オーラ}と置き換える。</li></ul>",
+			"description": "<h2>伝説の副領域 Legend Subdomain</h2><p>この副領域は使用権を得るために〔外典の侍祭〕の信仰特徴が必要である。</p><p><strong>関連領域：</strong>@Compendium[pf1.class-abilities.RL0hOHIz4MnsVgv9]{栄光}</p><p><strong>代替能力：</strong>キャンペーンでヒーロー・ポイントのオプションを使用している場合（Pathfinder RPG Advanced Player’s Guide 322ページ）、ボーナス特技として《英雄の運命》を得る（Advanced Player’s Guide 324ページ）。そうでない場合、ボーナス特技として、前提条件を満たしていなくとも《栄光の印》を得る（Pathfinder RPG Mythic Adventures 69ページ）。これは@Compendium[pf1.class-abilities.RL0hOHIz4MnsVgv9]{栄光}の領域の正のエネルギー放出を行う時のセーヴ難易度の増加と置き換える。加えて下記に与えられる能力を、@Compendium[pf1.class-abilities.RL0hOHIz4MnsVgv9]{栄光}の領域における@Compendium[pf1.class-abilities.KXN1Y4DDcWd8ZraE]{神々しき存在感}と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.cyQV91IYp7KVdgp2]{伝説の目撃}</li></ul><p><strong>代替領域呪文：</strong></p><ul><li>2レベル - @Compendium[pf1.spells.ibk7jrc5rwubpia6]{エイド}</li><li>3レベル - @Compendium[pf1.spells.3wcvosazm31i8758]{コンテイジアス・ジール}</li><li>4レベル - @Compendium[pf1.spells.dm52jk1e37b05v9d]{ライチャス・ヴィゴー}</li><li>6レベル - @Compendium[pf1.spells.p4h6ocn0axh59xrc]{アンシェイカブル・ジール}</li><li>君が悪である場合、領域呪文の@Compendium[pf1.spells.erndkoe44rgj0lob]{ホーリィ・スマイト}、@Compendium[pf1.spells.osi62mwn6rpkwlm6]{ホーリィ・ソード}、@Compendium[pf1.spells.n0vm6or4nwaylpfa]{ホーリィ・オーラ}を@Compendium[pf1.spells.okui7mft5bquqfrg]{アンホーリィ・ブライト}、@Compendium[pf1.spells.ftrg3ira8jwicetv]{アンホーリィ・ソード}、@Compendium[pf1.spells.flrn1xmm2wfrxbkf]{アンホーリィ・オーラ}と置き換える。</li></ul>",
 			"tags": [["副領域"]],
 			"classes": [
 				[
@@ -42229,6 +42230,8 @@
 			"id": "Tactician",
 			"name": "戦術家",
 			"description": "<p><strong>戦術家（変則）／Tactician：</strong></p><p>1レベルの時点で、キャヴァリアーはチームワーク特技1つをボーナス特技として得る。前提条件は満たしていなければならない。標準アクションにより、キャヴァリアーはこの特技を30フィート以内の自身の姿を見、声を聞くことのできるすべての仲間に与えることができる。仲間は3ラウンドに加えキャヴァリアーの持つ2レベル毎に1ラウンドの間その特技を使用できる。仲間がボーナス特技の前提条件を満たしている必要はない。キャヴァリアーはこの能力を1日に1レベルの時点で1回使用でき、5レベルの時点と以降5レベル毎に追加で1回ずつ使用回数が増加する。</p>",
+			"changes": [],
+			"contextNotes": [],
 			"tags": [],
 			"classes": [
 				[
