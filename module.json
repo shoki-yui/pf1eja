@@ -2,7 +2,7 @@
 	"name": "pf1eja",
 	"title": "日本語化（PF1）",
 	"description": "FVTT用パスファインダー1eシステムの翻訳ファイルおよびBabele用の辞典翻訳ファイルを組み込むモッド。",
-	"version": "1.0",
+	"version": "1.1",
 	"author": "Brother Sharp, Chiikun, Shoki, Yuu",
 	"languages": [
 		{
@@ -21,6 +21,13 @@
 	"scripts": ["register-babele.js"],
 	"styles" : ["./pf.css"],
   "packs": [],
+  "dependencies": [
+	{
+  "name": "babele",
+  "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+  "type": "module"
+	}
+	],
 	"url" : "https://github.com/BrotherSharper/pf1eja",
 	"download" : "https://github.com/BrotherSharper/pf1eja/archive/master.zip",
 	"manifest" : "https://raw.githubusercontent.com/BrotherSharper/pf1eja/master/module.json",
