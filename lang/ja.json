@@ -48,14 +48,18 @@
   "SETTINGS.pf1AllowScriptChangesE": "このワールドではスクリプトの変更が無効に設定されています。",
   "SETTINGS.pf1HideTokenConditionsN": "トークンのバフアイコンを隠す",
   "SETTINGS.pf1HideTokenConditionsH": "バフと状態のアイコンをトークンから非表示にします。",
+  "SETTINGS.pf1obscureInlineRollsN": "インラインロールの詳細を隠す",
+  "SETTINGS.pf1obscureInlineRollsH": "攻撃ロールのようなインラインロールの詳細を閲覧者(observer)以上の権限がなければ見えないようにします。",
+  "SETTINGS.pf1obscureSaveDCsN": "セーヴ難易度を隠す",
+  "SETTINGS.pf1obscureSaveDCsH": "チャットカードのセーヴ難易度をプレイヤーから見えないようにします。",
   "SETTINGS.pf1CoreEffectsN": "トークンの状態異常アイコンの表示設定",
   "SETTINGS.pf1CoreEffectsH": "トークンにPF1の状態異常のみ表示（チェックなし）、コアのアイコンも表示（チェックあり）。",
   "SETTINGS.pf1HideChatButtonsN": "チャットカードボタンを隠す",
   "SETTINGS.pf1HideChatButtonsH": "攻撃ロールにあるようなチャットカードのボタンを非表示にします。",
   "SETTINGS.pf1AttackChatCardTemplateN": "攻撃のチャットカードのスタイル",
   "SETTINGS.pf1AttackChatCardTemplateH": "攻撃ロール時のチャットカードのスタイルを選択出来ます。",
-  "SETTINGS.pf1UnchainedActionEconomyN": "Unchained Action Economy",
-  "SETTINGS.pf1UnchainedActionEconomyH": "Unchained Action Economyオプションのルールセットを使用します。",
+  "SETTINGS.pf1UnchainedActionEconomyN": "Unchainedのアクション機構ルールを使用",
+  "SETTINGS.pf1UnchainedActionEconomyH": "アクション関係のルールをPathfinder Unchainedに記載されたルールに変更します。",
   "SETTINGS.pf1SkipActionDialogsN": "アクション・プロンプトをスキップ",
   "SETTINGS.pf1SkipActionDialogsH": "Shift+クリックをしなければ、アクション・プロンプト（攻撃やセーブなどの）をスキップします。",
   "SETTINGS.placeMeasureTemplateOnQuickRollsN": "クイックロール時のメジャーテンプレートの配置",
@@ -70,6 +74,8 @@
   "SETTINGS.pf1AlternativeReachCornerRuleH": "10フィートの間合い測定から四隅の角を非表示にします。",
   "SETTINGS.pf1DisableAttackCardTargetsN": "攻撃対象を非表示にする",
   "SETTINGS.pf1DisableAttackCardTargetsH": "選択対象を攻撃した時にチャットカードに表示しないようにします。",
+  "SETTINGS.pf1ClearTargetsAfterAttackN": "攻撃後にターゲットを解除する",
+  "SETTINGS.pf1ClearTargetsAfterAttackH": "攻撃ロール後にすべてのターゲットを解除します。",
 
   "SETTINGS.pf1HealthConfigName": "ヒット・ポイント設定",
   "SETTINGS.pf1HealthConfigLabel": "ヒット・ポイント設定",
@@ -127,6 +133,16 @@
       "Name": "Force Show Item",
       "Hint": "Whether to show the item to chat when using a macro for it"
     }
+  },
+
+  "PF1.SpellComponentKeys": {
+    "Verbal": "V",
+    "Somatic": "S",
+    "Thought": "T",
+    "Emotion": "E",
+    "Material": "M",
+    "Focus": "F",
+    "DivineFocus": "DF"
   },
 
   "PF1.OptionalAndVariantRules": "オプション&バリアントルール",
@@ -221,6 +237,40 @@
   "PF1.LevelUpForm_Health_Manual": "手動",
   "PF1.LevelUp": {
     "Label": "Level Up",
+    "Health": {
+      "Roll": {
+        "Desc": "このレベルのヒット・ポイントはヒット・ダイスのサイズに基づいてロールされます。"
+      },
+      "Manual": {
+        "Desc": "このレベルで獲得するヒット・ポイントの数を貴方が決定します。"
+      }
+    },
+    "FC": {
+      "Label": "適性クラス・ボーナス",
+      "HP": {
+        "Desc": "このレベルの適性クラス・ボーナスとして、ヒット・ポイントを1点獲得します。"
+      },
+      "Skill": {
+        "Desc": "このレベルの適性クラス・ボーナスとして技能ランクを1つ獲得します。"
+      },
+      "Alt": {
+        "Desc": "このレベルの適性クラス・ボーナスとして、クラスと種族の組み合わせによる固有の利点を獲得します。"
+      }
+    },
+    "AbilityScore": {
+      "Label": "能力値",
+      "PointsLeft": "残りポイント: {value}",
+      "Item": {
+        "Name": "Added Ability Scores",
+        "Desc": "<p>This feature is used for tracking your ability score changes from gaining hit die.</p>"
+      }
+    },
+    "Summary": {
+      "Label": "概要",
+      "AbilityScore": {
+        "Gain": "{abl}: +{value}"
+      }
+    },
     "Chat": {
       "Header": "Level Up Report",
       "Health": {
@@ -229,7 +279,10 @@
         "Manual": "手動で追加：{add}"
       },
       "FC": {
-        "Header": "適正クラス・ボーナス"
+        "Header": "適性クラス・ボーナス"
+      },
+      "AbilityScore": {
+        "Header": "能力値の上昇"
       },
       "Extra": {
         "Header": "Extra",
@@ -241,8 +294,8 @@
   },
 
   "PF1.Submit": "送信",
-  "PF1.Next": "Next",
-  "PF1.Previous": "Previous",
+  "PF1.Next": "次へ",
+  "PF1.Previous": "前へ",
   "PF1.General": "一般",
 
   "PF1.Apply": "適用",
@@ -251,6 +304,7 @@
   "PF1.ApplyCriticalDamage": "クリティカルダメージを適用",
   "PF1.ApplyHealing": "回復を適用",
   "PF1.ApplyCriticalHealing": "クリティカル回復を適用",
+  "PF1.ApplyToAll": "全てに適用",
   "PF1.ReduceBy": "減少値",
   "PF1.SwapSelected": "選択を反転",
   "PF1.ClearReduction": "減少値をクリア",
@@ -363,6 +417,7 @@
   "PF1.CondNauseated": "吐き気",
   "PF1.CondDazed": "幻惑",
   "PF1.CondSleep": "睡眠",
+  "PF1.CondCowering": "戦慄",
 
   "PF1.CondTypeBleed": "出血",
   "PF1.CondTypeBlind": "盲目",
@@ -370,6 +425,7 @@
   "PF1.CondTypeDaze": "幻惑",
   "PF1.CondTypeDazzle": "目が眩んだ",
   "PF1.CondTypeDeaf": "聴覚喪失",
+  "PF1.CondTypeDeathEffects": "Death Effects",
   "PF1.CondTypeDisease": "病気",
   "PF1.CondTypeEnergyDrain": "生命力吸収",
   "PF1.CondTypeFatigue": "疲労",
@@ -481,6 +537,14 @@
   "PF1.LootTypeAmmoSingle": "矢弾",
   "PF1.LootTypeTradeGoodsSingle": "交易品",
 
+  "PF1.AmmoTypeArrow": "アロー",
+  "PF1.AmmoTypeBolt": "ボルト（クロスボウ）",
+  "PF1.AmmoTypeRepeatingBolt": "ボルト（リピーティング・クロスボウ）",
+  "PF1.AmmoTypeBulletSling": "ブリット（スリング）",
+  "PF1.AmmoTypeBulletGun": "ブリット（火器）",
+  "PF1.AmmoTypeBulletDragoon": "ブリット（騎銃火器）",
+  "PF1.AmmoTypeDart": "ダーツ",
+
   "PF1.SenseBS": "擬似視覚",
   "PF1.SenseDV": "暗視",
   "PF1.SenseTS": "振動感知",
@@ -566,6 +630,8 @@
   "PF1.SkillSwm": "水泳",
   "PF1.SkillUMD": "魔法装置使用",
 
+  "PF1.AddSkill": "技能を追加",
+
   "PF1.TargetAlly": "味方",
   "PF1.TargetCreature": "クリーチャー",
   "PF1.TargetCylinder": "円筒形",
@@ -605,10 +671,13 @@
   "PF1.SpellsKnown": "呪文修得数",
 
   "PF1.Arcanist": "アーケイニスト",
-  "PF1.RedMantisAssassin": "Red Mantis Assassin",
+  "PF1.RedMantisAssassin": "レッド・マンティス・アサシン",
+  "PF1.Psychic": "念術魔法",
 
   "PF1.SpellComponentVerbal": "音声",
   "PF1.SpellComponentSomatic": "動作",
+  "PF1.SpellComponentThought": "思考",
+  "PF1.SpellComponentEmotion": "感情",
   "PF1.SpellComponentMaterial": "物質",
   "PF1.SpellComponentFocus": "焦点",
   "PF1.SpellComponentDivineFocus": "信仰",
@@ -1033,7 +1102,7 @@
   "PF1.SourceInfoRace": "種族",
 
   "PF1.SourceInfoSkillRank_ClassBase": "{className} (基本)",
-  "PF1.SourceInfoSkillRank_ClassFC": "{className} (適正クラス)",
+  "PF1.SourceInfoSkillRank_ClassFC": "{className} (適性クラス)",
 
   "PF1.CreateItemForSpell": "{0}のアイテムを作成",
   "PF1.CreateItemWand": "ワンド",
@@ -1101,7 +1170,7 @@
   "PF1.AddConditional": "条件を追加",
   "PF1.AddChange": "変更点を追加",
   "PF1.AddNote": "メモを追加",
-  "PF1.AddEntry": "Add Entry",
+  "PF1.AddEntry": "項目を追加",
   "PF1.Confirmation": "Confirmation",
   "PF1.Attributes": "能力値",
   "PF1.ArmorClass": "アーマー・クラス",
@@ -1153,6 +1222,8 @@
   "PF1.Vigor": "活力",
   "PF1.HitDice": "ヒット・ダイス",
   "PF1.HitDie": "ヒット・ダイス",
+  "PF1.CustomHitDice": "カスタム・ヒット・ダイス",
+  "PF1.CustomHitDiceHint": "Enter formula, e.g. floor(@item.level / 2)",
   "PF1.InfoShort": "情報",
   "PF1.Inventory": "所持品",
   "PF1.Inspiration": "インスピレーション",
@@ -1214,8 +1285,10 @@
   "PF1.TempHP": "一時的ヒット・ポイント",
   "PF1.Nonlethal": "非致傷",
   "PF1.Initiative": "イニシアチブ",
+  "PF1.Tiebreaker": "Tiebreaker",
   "PF1.MaxDexShort": "【敏】上限",
   "PF1.Type": "タイプ",
+  "PF1.Subtype": "副種別",
   "PF1.ActionPlural": "アクション",
   "PF1.ChargePlural": "チャージ",
   "PF1.ConditionPlural": "状態異常",
@@ -1335,6 +1408,7 @@
   "PF1.AuraStrength_Strong": "強力",
   "PF1.AuraStrength_Overwhelming": "圧倒的",
 
+  "PF1.Unknown": "Unknown",
   "PF1.ElementalSchool": "元素系統",
   "PF1.Bloodline": "血脈",
   "PF1.ConcentrationCheck": "精神集中判定",
@@ -1502,6 +1576,7 @@
   "PF1.Manyshot": "束ね射ち",
   "PF1.RapidShot": "速射",
   "PF1.PointBlankShot": "近距離射撃",
+  "PF1.UsesAmmo": "矢弾を使用",
   "PF1.AmmoRemaining": "残弾数: {0}",
   "PF1.AmmoDepleted": "弾切れ！",
   "PF1.Priority": "優先順位",
@@ -1605,9 +1680,9 @@
   "PF1.Options": "オプション",
   "PF1.Cancel": "キャンセル",
 
-  "PF1.Migration.Start": "Applying PF1 System Migration for version {version}. Please stand by.",
-  "PF1.Migration.Ongoing": "Migration is ongoing. Please wait until it finishes.",
-  "PF1.Migration.End": "PF1 System Migration to version {version} succeeded!",
+  "PF1.Migration.Start": "PF1eシステムにバージョン {version} への移行を適用します。しばらくお待ち下さい。",
+  "PF1.Migration.Ongoing": "移行は進行中です。終了するまでお待ちください。",
+  "PF1.Migration.End": "PF1eシステムはバージョン {version} への移行に成功しました！",
 
   "PF1.DenyDexBonus": "Deny Dexterity bonus",
 

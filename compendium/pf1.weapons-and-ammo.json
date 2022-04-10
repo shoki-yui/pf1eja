@@ -2429,12 +2429,6 @@
 			"identifiedName": "ショートスピア"
 		},
 		{
-			"id": "Shortsword",
-			"name": "Shortsword",
-			"description": "<p><em>Short swords are some of the most common weapons found in any martial society, and thus designs are extremely varied, depending on the region and creator. Most are around 2 feet in length. Their blades can be curved or straight, single- or double-edged, and wide or narrow. Hilts may be ornate or simple, with crossguards, basket hilts, or no guard at all. Such weapons are often used on their own, but can also be paired as a matched set, or used in conjunction with a dagger or longer sword.</em></p>",
-			"identifiedName": "Shortsword"
-		},
-		{
 			"id": "Shotel",
 			"name": "ショーテル",
 			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 20</em>, <em>Adventurer's Armory pg. 5</em>, <em>Ultimate Combat pg. 144</em></p><h3 class=\"framing\"><img src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" title=\"PFS Legal\" style=\"margin:3px 3px 0px 3px;\">詳細</h3><p><strong>市価</strong> 30 gp <strong>重量</strong> 3 ポンド</p><p><strong>ダメージ</strong> 1d6 （小型）、 1d8 （中型）; <strong>クリティカル</strong> x3; <strong>射程</strong> -; <strong>タイプ</strong> 刺突; <strong>特殊</strong> 演武</p><p><strong>区分</strong> 片手武器; <strong>習熟</strong> 特殊武器</p><p><strong>武器グループ</strong> 大剣</p><h3 class=\"framing\">説明</h3><p>ショーテルは相手の盾を迂回して届くように設計された右向きに湾曲した剣である。バックラー、ヘヴィ・シールド、ライト・シールドを使用している相手に対して行う、ショーテルによる攻撃ロールは＋1のボーナスを得る。ショーテルの刃の湾曲は剣によって異なり、一部のモデルは両刃だが他は片刃であり、峰側は盾に対する力を追加するため補強することができる。ショーテルは騎乗した戦闘員を引っ掛け、その乗騎から引き剥がすのに特に有用である。</p>",
