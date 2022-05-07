@@ -1,0 +1,1289 @@
+{
+	"label": "Bestiary - CR 15-19",
+	"entries": {
+		"Abaddon Gigas": {
+			"name": "Abaddon Gigas",
+			"description": ""
+		},
+		"Abysogh": {
+			"name": "Abysogh",
+			"description": ""
+		},
+		"Abyss Gigas": {
+			"name": "Abyss Gigas",
+			"description": ""
+		},
+		"Addu": {
+			"name": "Addu",
+			"description": ""
+		},
+		"Adult Apocalypse Dragon": {
+			"name": "Adult Apocalypse Dragon",
+			"description": ""
+		},
+		"Adult Bliss Dragon": {
+			"name": "Adult Bliss Dragon",
+			"description": ""
+		},
+		"Adult Edict Dragon": {
+			"name": "Adult Edict Dragon",
+			"description": ""
+		},
+		"Adult Tumult Dragon": {
+			"name": "Adult Tumult Dragon",
+			"description": ""
+		},
+		"Akaruzug": {
+			"name": "Akaruzug",
+			"description": ""
+		},
+		"Ammut": {
+			"name": "Ammut",
+			"description": ""
+		},
+		"Arcanotheign": {
+			"name": "Arcanotheign",
+			"description": ""
+		},
+		"Aridus, the Desert's Howl": {
+			"name": "Aridus, the Desert's Howl",
+			"description": ""
+		},
+		"Ashen Forgemaster": {
+			"name": "Ashen Forgemaster",
+			"description": ""
+		},
+		"Aspidochelone": {
+			"name": "Aspidochelone",
+			"description": ""
+		},
+		"Axial Monitor": {
+			"name": "Axial Monitor",
+			"description": ""
+		},
+		"Balravnus, Lord of the Deep Pools": {
+			"name": "Balravnus, Lord of the Deep Pools",
+			"description": ""
+		},
+		"Basavan": {
+			"name": "Basavan",
+			"description": ""
+		},
+		"Basileus": {
+			"name": "Basileus",
+			"description": ""
+		},
+		"Behemoth Golem": {
+			"name": "Behemoth Golem",
+			"description": ""
+		},
+		"Bezilak, the Silken Fang": {
+			"name": "Bezilak, the Silken Fang",
+			"description": ""
+		},
+		"Black Magga": {
+			"name": "Black Magga",
+			"description": ""
+		},
+		"Bramble Throne": {
+			"name": "Bramble Throne",
+			"description": ""
+		},
+		"Cauldron Bloom": {
+			"name": "Cauldron Bloom",
+			"description": ""
+		},
+		"Charnel Colossus": {
+			"name": "Charnel Colossus",
+			"description": ""
+		},
+		"Chicome": {
+			"name": "Chicome",
+			"description": ""
+		},
+		"Corbayrant": {
+			"name": "Corbayrant",
+			"description": ""
+		},
+		"Courage Heart": {
+			"name": "Courage Heart",
+			"description": ""
+		},
+		"Dancing Hut of Baba Yaga": {
+			"name": "Dancing Hut of Baba Yaga",
+			"description": ""
+		},
+		"Dragonhide Golem": {
+			"name": "Dragonhide Golem",
+			"description": ""
+		},
+		"Elder Sphinx": {
+			"name": "Elder Sphinx",
+			"description": ""
+		},
+		"Emperor of Scales": {
+			"name": "Emperor of Scales",
+			"description": ""
+		},
+		"End's Voice": {
+			"name": "End's Voice",
+			"description": ""
+		},
+		"Ephialtes": {
+			"name": "Ephialtes",
+			"description": ""
+		},
+		"Faceless Whale": {
+			"name": "Faceless Whale",
+			"description": ""
+		},
+		"First Blade": {
+			"name": "First Blade",
+			"description": ""
+		},
+		"Fluxwraith": {
+			"name": "Fluxwraith",
+			"description": ""
+		},
+		"Fulgati": {
+			"name": "Fulgati",
+			"description": ""
+		},
+		"Gallu": {
+			"name": "Gallu",
+			"description": ""
+		},
+		"Gare Linnorm": {
+			"name": "Gare Linnorm",
+			"description": ""
+		},
+		"Ghalzarokh": {
+			"name": "Ghalzarokh",
+			"description": ""
+		},
+		"Gladiator Robot": {
+			"name": "Gladiator Robot",
+			"description": ""
+		},
+		"Grand Defender": {
+			"name": "Grand Defender",
+			"description": ""
+		},
+		"Gravedragger": {
+			"name": "Gravedragger",
+			"description": ""
+		},
+		"Great Elder Iuu": {
+			"name": "Great Elder Iuu",
+			"description": ""
+		},
+		"Half-Fiend Scion": {
+			"name": "Half-Fiend Scion",
+			"description": ""
+		},
+		"Hallowed Lynx": {
+			"name": "Hallowed Lynx",
+			"description": ""
+		},
+		"Hammer Archon": {
+			"name": "Hammer Archon",
+			"description": ""
+		},
+		"Hand of the Inheritor": {
+			"name": "Hand of the Inheritor",
+			"description": ""
+		},
+		"Hell Gigas": {
+			"name": "Hell Gigas",
+			"description": ""
+		},
+		"Hishandura": {
+			"name": "Hishandura",
+			"description": ""
+		},
+		"Hound Archon Troop": {
+			"name": "Hound Archon Troop",
+			"description": ""
+		},
+		"Hungerer": {
+			"name": "Hungerer",
+			"description": ""
+		},
+		"Hykariut": {
+			"name": "Hykariut",
+			"description": ""
+		},
+		"Ilzunae, the Gloom Widow": {
+			"name": "Ilzunae, the Gloom Widow",
+			"description": ""
+		},
+		"Ioun Golem": {
+			"name": "Ioun Golem",
+			"description": ""
+		},
+		"Irii": {
+			"name": "Irii",
+			"description": ""
+		},
+		"Ironfang Siege Alchemist Troop": {
+			"name": "Ironfang Siege Alchemist Troop",
+			"description": ""
+		},
+		"Ironfang Yzobu Rider Troop": {
+			"name": "Ironfang Yzobu Rider Troop",
+			"description": ""
+		},
+		"Juggerloathe": {
+			"name": "Juggerloathe",
+			"description": ""
+		},
+		"Juggernaut Robot": {
+			"name": "Juggernaut Robot",
+			"description": ""
+		},
+		"Kaminari": {
+			"name": "Kaminari",
+			"description": ""
+		},
+		"Katpaskir": {
+			"name": "Katpaskir",
+			"description": ""
+		},
+		"Kelpie’s Wrath": {
+			"name": "Kelpie’s Wrath",
+			"description": ""
+		},
+		"Khalirai, the Ivory Queen": {
+			"name": "Khalirai, the Ivory Queen",
+			"description": ""
+		},
+		"Kudimmu": {
+			"name": "Kudimmu",
+			"description": ""
+		},
+		"Kurshu the Undying": {
+			"name": "Kurshu the Undying",
+			"description": ""
+		},
+		"Labyrinth Minotaur": {
+			"name": "Labyrinth Minotaur",
+			"description": ""
+		},
+		"Larva of the Outer Gods": {
+			"name": "Larva of the Outer Gods",
+			"description": ""
+		},
+		"Latten Mechanism": {
+			"name": "Latten Mechanism",
+			"description": ""
+		},
+		"Lord Sun-Warrior": {
+			"name": "Lord Sun-Warrior",
+			"description": ""
+		},
+		"Malsandra": {
+			"name": "Malsandra",
+			"description": ""
+		},
+		"Mangvhune, the Temple Hill Slasher": {
+			"name": "Mangvhune, the Temple Hill Slasher",
+			"description": ""
+		},
+		"Mardahamman, Cyclops Tyrant": {
+			"name": "Mardahamman, Cyclops Tyrant",
+			"description": ""
+		},
+		"Mote Archon Swarm": {
+			"name": "Mote Archon Swarm",
+			"description": ""
+		},
+		"Mother's Maw": {
+			"name": "Mother's Maw",
+			"description": ""
+		},
+		"Mother’s Maw": {
+			"name": "Mother’s Maw",
+			"description": ""
+		},
+		"Mustelidal": {
+			"name": "Mustelidal",
+			"description": ""
+		},
+		"Ninkonda": {
+			"name": "Ninkonda",
+			"description": ""
+		},
+		"Noqual Golem": {
+			"name": "Noqual Golem",
+			"description": ""
+		},
+		"Onyx Scourge": {
+			"name": "Onyx Scourge",
+			"description": ""
+		},
+		"Orania, Cloud Giant Oligarch": {
+			"name": "Orania, Cloud Giant Oligarch",
+			"description": ""
+		},
+		"Orynox Marchelin, Fire Giant King": {
+			"name": "Orynox Marchelin, Fire Giant King",
+			"description": ""
+		},
+		"Personification of Fury": {
+			"name": "Personification of Fury",
+			"description": ""
+		},
+		"Pharmakos": {
+			"name": "Pharmakos",
+			"description": ""
+		},
+		"Phylacator": {
+			"name": "Phylacator",
+			"description": ""
+		},
+		"Possession Devil, Greater (Gidim)": {
+			"name": "Possession Devil, Greater (Gidim)",
+			"description": ""
+		},
+		"Prism Dragon": {
+			"name": "Prism Dragon",
+			"description": ""
+		},
+		"Prydanu": {
+			"name": "Prydanu",
+			"description": ""
+		},
+		"Pyralisia, the Rain of Embers": {
+			"name": "Pyralisia, the Rain of Embers",
+			"description": ""
+		},
+		"Ravener": {
+			"name": "Ravener",
+			"description": ""
+		},
+		"Rokyamut": {
+			"name": "Rokyamut",
+			"description": ""
+		},
+		"Savage Great Cyclops": {
+			"name": "Savage Great Cyclops",
+			"description": ""
+		},
+		"Sharpshooter Automaton": {
+			"name": "Sharpshooter Automaton",
+			"description": ""
+		},
+		"Shrike Worm": {
+			"name": "Shrike Worm",
+			"description": ""
+		},
+		"Soulbound Annihilator Robot": {
+			"name": "Soulbound Annihilator Robot",
+			"description": ""
+		},
+		"Soulpierced": {
+			"name": "Soulpierced",
+			"description": ""
+		},
+		"Spine Dragon": {
+			"name": "Spine Dragon",
+			"description": ""
+		},
+		"Spirit of Adoration": {
+			"name": "Spirit of Adoration",
+			"description": ""
+		},
+		"Steam-Powered Clockwork Dragon": {
+			"name": "Steam-Powered Clockwork Dragon",
+			"description": ""
+		},
+		"Steward of the Skein": {
+			"name": "Steward of the Skein",
+			"description": ""
+		},
+		"Sturzstromer": {
+			"name": "Sturzstromer",
+			"description": ""
+		},
+		"Tanaq Mammoth-Eater, Taiga Giant Shaman": {
+			"name": "Tanaq Mammoth-Eater, Taiga Giant Shaman",
+			"description": ""
+		},
+		"Termagant": {
+			"name": "Termagant",
+			"description": ""
+		},
+		"The First Blade": {
+			"name": "The First Blade",
+			"description": ""
+		},
+		"The Grand Defender": {
+			"name": "The Grand Defender",
+			"description": ""
+		},
+		"The Grim White Stag": {
+			"name": "The Grim White Stag",
+			"description": ""
+		},
+		"The Menotherian": {
+			"name": "The Menotherian",
+			"description": ""
+		},
+		"The Mourning One": {
+			"name": "The Mourning One",
+			"description": ""
+		},
+		"The Old Man": {
+			"name": "The Old Man",
+			"description": ""
+		},
+		"The Spirit of Adoration": {
+			"name": "The Spirit of Adoration",
+			"description": ""
+		},
+		"The Stabbing Beast": {
+			"name": "The Stabbing Beast",
+			"description": ""
+		},
+		"The Stabbing Beast (Scorpion Form)": {
+			"name": "The Stabbing Beast (Scorpion Form)",
+			"description": ""
+		},
+		"Ugash-Iram": {
+			"name": "Ugash-Iram",
+			"description": ""
+		},
+		"Ulkreth": {
+			"name": "Ulkreth",
+			"description": ""
+		},
+		"Valonesse Hergrut, Frost Giant Jarl": {
+			"name": "Valonesse Hergrut, Frost Giant Jarl",
+			"description": ""
+		},
+		"Vault Giant": {
+			"name": "Vault Giant",
+			"description": ""
+		},
+		"Vilsteth": {
+			"name": "Vilsteth",
+			"description": ""
+		},
+		"Whyrlish": {
+			"name": "Whyrlish",
+			"description": ""
+		},
+		"Wind Yai": {
+			"name": "Wind Yai",
+			"description": ""
+		},
+		"Woundwyrm": {
+			"name": "Woundwyrm",
+			"description": ""
+		},
+		"Zarxorin": {
+			"name": "Zarxorin",
+			"description": ""
+		},
+		"Ice Linnorm": {
+			"name": "アイス・リノーム",
+			"description": ""
+		},
+		"Astradaemon": {
+			"name": "アストラダイモン",
+			"description": ""
+		},
+		"Astral Leviathan": {
+			"name": "アストラル・リヴァイアサン",
+			"description": ""
+		},
+		"Adamantine Golem": {
+			"name": "アダマンティン・ゴーレム",
+			"description": ""
+		},
+		"Adult Infernal Dragon": {
+			"name": "アダルト・インファーナル・ドラゴン",
+			"description": ""
+		},
+		"Adult Crypt Dragon": {
+			"name": "アダルト・クリプト・ドラゴン",
+			"description": ""
+		},
+		"Adult Gold Dragon": {
+			"name": "アダルト・ゴールド・ドラゴン",
+			"description": ""
+		},
+		"Adult Sovereign Dragon": {
+			"name": "アダルト・ソヴリン・ドラゴン",
+			"description": ""
+		},
+		"Adult Time Dragon": {
+			"name": "アダルト・タイム・ドラゴン",
+			"description": ""
+		},
+		"Adult Havoc Dragon": {
+			"name": "アダルト・ハヴォック・ドラゴン",
+			"description": ""
+		},
+		"Adult Paradise Dragon": {
+			"name": "アダルト・パラダイス・ドラゴン",
+			"description": ""
+		},
+		"Adult Rift Dragon": {
+			"name": "アダルト・リフト・ドラゴン",
+			"description": ""
+		},
+		"Annihilator Robot": {
+			"name": "アナイアレーター",
+			"description": ""
+		},
+		"Anemos": {
+			"name": "アネモイ",
+			"description": ""
+		},
+		"Apostate Devil (Deimavigga)": {
+			"name": "アポステート・デヴィル",
+			"description": ""
+		},
+		"Eclipse Giant": {
+			"name": "イクリプス・ジャイアント",
+			"description": ""
+		},
+		"Isonade": {
+			"name": "イソナデ",
+			"description": ""
+		},
+		"Ypotryll": {
+			"name": "イポトリル",
+			"description": ""
+		},
+		"Immortal Ichor": {
+			"name": "イモータル・イコル",
+			"description": ""
+		},
+		"Immolation Devil (Puragaus)": {
+			"name": "イモレーション・デヴィル",
+			"description": ""
+		},
+		"Vavakia": {
+			"name": "ヴァヴァキア",
+			"description": ""
+		},
+		"Vampire Lord": {
+			"name": "ヴァンパイアの君主",
+			"description": ""
+		},
+		"Vishap": {
+			"name": "ヴィシャップ",
+			"description": ""
+		},
+		"Uinuja": {
+			"name": "ウイヌジャ",
+			"description": ""
+		},
+		"Viridium Golem": {
+			"name": "ヴィリジウム・ゴーレム",
+			"description": ""
+		},
+		"Vilderavn": {
+			"name": "ヴィルデラヴン",
+			"description": ""
+		},
+		"Winterwight": {
+			"name": "ウィンターワイト",
+			"description": ""
+		},
+		"Wendigo": {
+			"name": "ウェンディゴ",
+			"description": ""
+		},
+		"Warsworn": {
+			"name": "ウォースウォーン",
+			"description": ""
+		},
+		"Water Yai": {
+			"name": "ウォーター・ヤイ",
+			"description": ""
+		},
+		"Warmonger": {
+			"name": "ウォーモンガー",
+			"description": ""
+		},
+		"Vrolikai": {
+			"name": "ヴロリカイ",
+			"description": ""
+		},
+		"Ancient Astral Dragon": {
+			"name": "エインシャント・アストラル・ドラゴン",
+			"description": ""
+		},
+		"Ancient Underworld Dragon": {
+			"name": "エインシャント・アンダーワールド・ドラゴン",
+			"description": ""
+		},
+		"Ancient Umbral Dragon": {
+			"name": "エインシャント・アンブラル・ドラゴン",
+			"description": ""
+		},
+		"Ancient Void Dragon": {
+			"name": "エインシャント・ヴォイド・ドラゴン",
+			"description": ""
+		},
+		"Ancient Vortex Dragon": {
+			"name": "エインシャント・ヴォーテックス・ドラゴン",
+			"description": ""
+		},
+		"Ancient Etheric Dragon": {
+			"name": "エインシャント・エーテリック・ドラゴン",
+			"description": ""
+		},
+		"Ancient Occult Dragon": {
+			"name": "エインシャント・オカルト・ドラゴン",
+			"description": ""
+		},
+		"Ancient Copper Dragon": {
+			"name": "エインシャント・カッパー・ドラゴン",
+			"description": ""
+		},
+		"Ancient Cloud Dragon": {
+			"name": "エインシャント・クラウド・ドラゴン",
+			"description": ""
+		},
+		"Ancient Green Dragon": {
+			"name": "エインシャント・グリーン・ドラゴン",
+			"description": ""
+		},
+		"Ancient Crystal Dragon": {
+			"name": "エインシャント・クリスタル・ドラゴン",
+			"description": ""
+		},
+		"Ancient Sea Dragon": {
+			"name": "エインシャント・シー・ドラゴン",
+			"description": ""
+		},
+		"Ancient Silver Dragon": {
+			"name": "エインシャント・シルヴァー・ドラゴン",
+			"description": ""
+		},
+		"Ancient Sky Dragon": {
+			"name": "エインシャント・スカイ・ドラゴン",
+			"description": ""
+		},
+		"Ancient Solar Dragon": {
+			"name": "エインシャント・ソーラー・ドラゴン",
+			"description": ""
+		},
+		"Ancient Dream Dragon": {
+			"name": "エインシャント・ドリーム・ドラゴン",
+			"description": ""
+		},
+		"Ancient Nightmare Dragon": {
+			"name": "エインシャント・ナイトメア・ドラゴン",
+			"description": ""
+		},
+		"Ancient Forest Dragon": {
+			"name": "エインシャント・フォレスト・ドラゴン",
+			"description": ""
+		},
+		"Ancient Brine Dragon": {
+			"name": "エインシャント・ブライン・ドラゴン",
+			"description": ""
+		},
+		"Ancient Brass Dragon": {
+			"name": "エインシャント・ブラス・ドラゴン",
+			"description": ""
+		},
+		"Ancient Black Dragon": {
+			"name": "エインシャント・ブラック・ドラゴン",
+			"description": ""
+		},
+		"Ancient Blue Dragon": {
+			"name": "エインシャント・ブルー・ドラゴン",
+			"description": ""
+		},
+		"Ancient Bronze Dragon": {
+			"name": "エインシャント・ブロンズ・ドラゴン",
+			"description": ""
+		},
+		"Ancient White Dragon": {
+			"name": "エインシャント・ホワイト・ドラゴン",
+			"description": ""
+		},
+		"Ancient Magma Dragon": {
+			"name": "エインシャント・マグマ・ドラゴン",
+			"description": ""
+		},
+		"Ancient Lunar Dragon": {
+			"name": "エインシャント・ルナ・ドラゴン",
+			"description": ""
+		},
+		"Ancient Red Dragon": {
+			"name": "エインシャント・レッド・ドラゴン",
+			"description": ""
+		},
+		"Erlking": {
+			"name": "エールキング",
+			"description": ""
+		},
+		"Ecorche": {
+			"name": "エコルシェ",
+			"description": ""
+		},
+		"Oma": {
+			"name": "オウマ",
+			"description": ""
+		},
+		"Obcisidaemon": {
+			"name": "オブシシダイモン",
+			"description": ""
+		},
+		"Omnipath": {
+			"name": "オムニパス",
+			"description": ""
+		},
+		"Olethros": {
+			"name": "オレスロス",
+			"description": ""
+		},
+		"Cataboligne": {
+			"name": "カタボリグネ",
+			"description": ""
+		},
+		"Khala": {
+			"name": "カラ",
+			"description": ""
+		},
+		"Cannon Golem": {
+			"name": "キャノン・ゴーレム",
+			"description": ""
+		},
+		"Gallowdead": {
+			"name": "ギャロウデッド",
+			"description": ""
+		},
+		"Qolok": {
+			"name": "クォロック",
+			"description": ""
+		},
+		"Kraken": {
+			"name": "クラーケン",
+			"description": ""
+		},
+		"Gristly Demodand": {
+			"name": "グリスリー・デモダンド",
+			"description": ""
+		},
+		"Crucidaemon": {
+			"name": "クルシダイモン",
+			"description": ""
+		},
+		"Crone Queen": {
+			"name": "クロウン・クイーン",
+			"description": ""
+		},
+		"Grootslang": {
+			"name": "グローツラング",
+			"description": ""
+		},
+		"Clockwork Angel": {
+			"name": "クロックワーク・エンジェル",
+			"description": ""
+		},
+		"Clockwork Goliath": {
+			"name": "クロックワーク・ゴライアス",
+			"description": ""
+		},
+		"Clockwork Dragon": {
+			"name": "クロックワーク・ドラゴン",
+			"description": ""
+		},
+		"Clockwork Fiend": {
+			"name": "クロックワーク・フィーンド",
+			"description": ""
+		},
+		"Cave Blight": {
+			"name": "ケイヴ・ブライト",
+			"description": ""
+		},
+		"Gate Archon": {
+			"name": "ゲート・アルコン",
+			"description": ""
+		},
+		"Keketar": {
+			"name": "ケケター",
+			"description": ""
+		},
+		"Gegenees": {
+			"name": "ゲゲネイス",
+			"description": ""
+		},
+		"Cairn Linnorm": {
+			"name": "ケルン・リノーム",
+			"description": ""
+		},
+		"Gold Golem": {
+			"name": "ゴールド・ゴーレム",
+			"description": ""
+		},
+		"Gorynych": {
+			"name": "ゴリニッチ",
+			"description": ""
+		},
+		"Kongamato": {
+			"name": "コンガマトー",
+			"description": ""
+		},
+		"Kongmato": {
+			"name": "コンガマトー",
+			"description": ""
+		},
+		"Cervinal": {
+			"name": "サーヴィナル",
+			"description": ""
+		},
+		"Sard": {
+			"name": "サード",
+			"description": ""
+		},
+		"Zygomind": {
+			"name": "ザイゴマインド",
+			"description": ""
+		},
+		"Xacarba": {
+			"name": "ザカーバ",
+			"description": ""
+		},
+		"Saxra": {
+			"name": "サキスラ",
+			"description": ""
+		},
+		"Thulgant": {
+			"name": "サルガント",
+			"description": ""
+		},
+		"Sun Giant": {
+			"name": "サン・ジャイアント",
+			"description": ""
+		},
+		"Thunder Behemoth": {
+			"name": "サンダー・ベヒモス",
+			"description": ""
+		},
+		"Siabrae": {
+			"name": "シアブレイ",
+			"description": ""
+		},
+		"Sea Bonze": {
+			"name": "シー・ボンズ",
+			"description": ""
+		},
+		"Thrasfyr": {
+			"name": "シーラスフィア",
+			"description": ""
+		},
+		"Shemhazian": {
+			"name": "シェムハジアン",
+			"description": ""
+		},
+		"Cetaceal": {
+			"name": "シタシール",
+			"description": ""
+		},
+		"Shinigami": {
+			"name": "シニガミ",
+			"description": ""
+		},
+		"Ximtal": {
+			"name": "ジムタル",
+			"description": ""
+		},
+		"Simurgh": {
+			"name": "シムルグ",
+			"description": ""
+		},
+		"Shaggy Demodand": {
+			"name": "シャギィ・デモダンド",
+			"description": ""
+		},
+		"Jubjub Bird": {
+			"name": "ジャブジャブ・バード",
+			"description": ""
+		},
+		"Shoggoth": {
+			"name": "ショゴス",
+			"description": ""
+		},
+		"Sewer Blight": {
+			"name": "スーアー・ブライト",
+			"description": ""
+		},
+		"Scylla": {
+			"name": "スキュラ",
+			"description": ""
+		},
+		"Star Archon": {
+			"name": "スター・アルコン",
+			"description": ""
+		},
+		"Stormghost": {
+			"name": "ストームゴースト",
+			"description": ""
+		},
+		"Stringy Demodand": {
+			"name": "ストリンジー・デモダンド",
+			"description": ""
+		},
+		"Slimy Demodand": {
+			"name": "スライミィ・デモダンド",
+			"description": ""
+		},
+		"Swamp Blight": {
+			"name": "スワンプ・ブライト",
+			"description": ""
+		},
+		"Seilenos": {
+			"name": "セイレノス",
+			"description": ""
+		},
+		"Seraptis": {
+			"name": "セラプティス",
+			"description": ""
+		},
+		"Saurian": {
+			"name": "ソーリアン",
+			"description": ""
+		},
+		"Zomok": {
+			"name": "ゾモック",
+			"description": ""
+		},
+		"Tataka": {
+			"name": "タータカ",
+			"description": ""
+		},
+		"Taiga Linnorm": {
+			"name": "タイガ・リノーム",
+			"description": ""
+		},
+		"Taniniver": {
+			"name": "タニニヴァール",
+			"description": ""
+		},
+		"Tarantula Tree": {
+			"name": "タランチュラ・ツリー",
+			"description": ""
+		},
+		"Targotha": {
+			"name": "タルゴサ",
+			"description": ""
+		},
+		"Tzitzimitl": {
+			"name": "チチミトル",
+			"description": ""
+		},
+		"Tunche": {
+			"name": "ツンチェ",
+			"description": ""
+		},
+		"Tundra Blight": {
+			"name": "ツンドラ・ブライト",
+			"description": ""
+		},
+		"Deep Sea Serpent": {
+			"name": "ディープ・シー・サーペント",
+			"description": ""
+		},
+		"Titanic Whip Spider": {
+			"name": "ティタニック・ウィップ・スパイダー",
+			"description": ""
+		},
+		"Dybbuk": {
+			"name": "ディビューク",
+			"description": ""
+		},
+		"Deathsnatcher": {
+			"name": "デススナッチャー",
+			"description": ""
+		},
+		"Thessalhydra": {
+			"name": "テッサルヒュドラ",
+			"description": ""
+		},
+		"Duneshaker": {
+			"name": "デューンシェイカー",
+			"description": ""
+		},
+		"Turul": {
+			"name": "トゥルル",
+			"description": ""
+		},
+		"Toshigami": {
+			"name": "トシガミ",
+			"description": ""
+		},
+		"Drow Matron": {
+			"name": "ドラウの慈母",
+			"description": ""
+		},
+		"Thriae Queen": {
+			"name": "トリアイ・クイーン",
+			"description": ""
+		},
+		"Troll Monarch": {
+			"name": "トロルの帝王",
+			"description": ""
+		},
+		"Twilight Pitri (Barhisad)": {
+			"name": "トワイライト・ピトリ",
+			"description": ""
+		},
+		"Nightwalker": {
+			"name": "ナイトウォーカー",
+			"description": ""
+		},
+		"Nightcrawler": {
+			"name": "ナイトクロウラー",
+			"description": ""
+		},
+		"Ningen": {
+			"name": "ニンゲン",
+			"description": ""
+		},
+		"Neothelid": {
+			"name": "ネオセリッド",
+			"description": ""
+		},
+		"Nemhain": {
+			"name": "ネムハイン",
+			"description": ""
+		},
+		"Advodaza": {
+			"name": "ネメシス・デヴィル",
+			"description": ""
+		},
+		"Nemesis Devil (Advodaza)": {
+			"name": "ネメシス・デヴィル",
+			"description": ""
+		},
+		"Norn": {
+			"name": "ノルン",
+			"description": ""
+		},
+		"Bakekujira": {
+			"name": "バケクジラ",
+			"description": ""
+		},
+		"Hamadryad": {
+			"name": "ハマドライアド",
+			"description": ""
+		},
+		"Barometz": {
+			"name": "バロメッツ",
+			"description": ""
+		},
+		"Bandersnatch": {
+			"name": "バンダースナッチ",
+			"description": ""
+		},
+		"Hyakume": {
+			"name": "ヒャクメ",
+			"description": ""
+		},
+		"Bythos": {
+			"name": "ビューソス",
+			"description": ""
+		},
+		"Fire Giant Magmablade": {
+			"name": "ファイアー・ジャイアントの紅蓮戦斧",
+			"description": ""
+		},
+		"Fire Giant Queen": {
+			"name": "ファイアー・ジャイアントの女王",
+			"description": ""
+		},
+		"Fire Giant Doombringer": {
+			"name": "ファイアー・ジャイアントの破滅の運び手",
+			"description": ""
+		},
+		"Fire Giant Lieutenant": {
+			"name": "ファイアー・ジャイアントの補佐官",
+			"description": ""
+		},
+		"Fire Whale": {
+			"name": "ファイアー・ホエール",
+			"description": ""
+		},
+		"Fire Yai": {
+			"name": "ファイアー・ヤイ",
+			"description": ""
+		},
+		"Phasmadaemon": {
+			"name": "ファズマダイモン",
+			"description": ""
+		},
+		"Fjord Linnorm": {
+			"name": "フィヨルド・リノーム",
+			"description": ""
+		},
+		"Phoenix": {
+			"name": "フェニックス",
+			"description": ""
+		},
+		"Formian Queen": {
+			"name": "フォーミアン・クイーン",
+			"description": ""
+		},
+		"Forest Blight": {
+			"name": "フォレスト・ブライト",
+			"description": ""
+		},
+		"Plasma Ooze": {
+			"name": "プラズマ・ウーズ",
+			"description": ""
+		},
+		"Black Scorpion": {
+			"name": "ブラック・スコーピオン",
+			"description": ""
+		},
+		"Planetar": {
+			"name": "プラネター",
+			"description": ""
+		},
+		"Plankta": {
+			"name": "プランクタ",
+			"description": ""
+		},
+		"Brijidine": {
+			"name": "ブリジディーン",
+			"description": ""
+		},
+		"Flesh Colossus": {
+			"name": "フレッシュ・コロッサス",
+			"description": ""
+		},
+		"Frost Giant Jarl": {
+			"name": "フロスト・ジャイアントの首長",
+			"description": ""
+		},
+		"Purrodaemon": {
+			"name": "プロダイモン",
+			"description": ""
+		},
+		"Humbaba": {
+			"name": "フンババ",
+			"description": ""
+		},
+		"Hegessik": {
+			"name": "ヘゲシック",
+			"description": ""
+		},
+		"Belier Devil (Bdellavritra)": {
+			"name": "ベリエ・デヴィル",
+			"description": ""
+		},
+		"Whaler Jellyfish": {
+			"name": "ホエーラー・ジェリーフィッシュ",
+			"description": ""
+		},
+		"Bhole": {
+			"name": "ボール",
+			"description": ""
+		},
+		"Bone Ship": {
+			"name": "ボーン・シップ",
+			"description": ""
+		},
+		"Horned Devil (Cornugon)": {
+			"name": "ホーンド・デヴィル",
+			"description": ""
+		},
+		"Popobala": {
+			"name": "ポポバワ",
+			"description": ""
+		},
+		"Hollow Serpent": {
+			"name": "ホロウ・サーペント",
+			"description": ""
+		},
+		"Marut": {
+			"name": "マールート",
+			"description": ""
+		},
+		"Mountain Giant": {
+			"name": "マウンテン・ジャイアント",
+			"description": ""
+		},
+		"Manitou": {
+			"name": "マニトウ",
+			"description": ""
+		},
+		"Maharishi Manu": {
+			"name": "マハリシ・マヌ",
+			"description": ""
+		},
+		"Marilith": {
+			"name": "マリリス",
+			"description": ""
+		},
+		"Mithral Golem": {
+			"name": "ミスラル・ゴーレム",
+			"description": ""
+		},
+		"Muse": {
+			"name": "ミューズ",
+			"description": ""
+		},
+		"Moon Giant": {
+			"name": "ムーン・ジャイアント",
+			"description": ""
+		},
+		"Memitim": {
+			"name": "メミティム",
+			"description": ""
+		},
+		"Mosslord": {
+			"name": "モスロード",
+			"description": ""
+		},
+		"Jotund Troll": {
+			"name": "ヨツン・トロル",
+			"description": ""
+		},
+		"Lipika": {
+			"name": "リピカ",
+			"description": ""
+		},
+		"Riftcreeper": {
+			"name": "リフトクリーパー",
+			"description": ""
+		},
+		"Lilitu": {
+			"name": "リリトゥ",
+			"description": ""
+		},
+		"Rune Giant": {
+			"name": "ルーン・ジャイアント",
+			"description": ""
+		},
+		"Lusca": {
+			"name": "ルスカ",
+			"description": ""
+		},
+		"Lesser Death": {
+			"name": "レッサー・デス",
+			"description": ""
+		},
+		"Wyrmwraith": {
+			"name": "ワームレイス",
+			"description": ""
+		},
+		"Wild Hunt Scout": {
+			"name": "ワイルド・ハント・スカウト",
+			"description": ""
+		},
+		"Wild Hunt Monarch": {
+			"name": "ワイルド・ハント・モナーク",
+			"description": ""
+		}
+	}
+}

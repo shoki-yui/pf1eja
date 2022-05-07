@@ -1,0 +1,629 @@
+{
+	"label": "Bestiary - CR 20+",
+	"entries": {
+		"Agmazar the Star Titan": {
+			"name": "Agmazar the Star Titan",
+			"description": ""
+		},
+		"Ahriman, Lord of All Divs": {
+			"name": "Ahriman, Lord of All Divs",
+			"description": ""
+		},
+		"Ancient Apocalypse Dragon": {
+			"name": "Ancient Apocalypse Dragon",
+			"description": ""
+		},
+		"Ancient Bliss Dragon": {
+			"name": "Ancient Bliss Dragon",
+			"description": ""
+		},
+		"Ancient Edict Dragon": {
+			"name": "Ancient Edict Dragon",
+			"description": ""
+		},
+		"Ancient Paraside Dragon": {
+			"name": "Ancient Paraside Dragon",
+			"description": ""
+		},
+		"Ancient Tumult Dragon": {
+			"name": "Ancient Tumult Dragon",
+			"description": ""
+		},
+		"Ashava": {
+			"name": "Ashava",
+			"description": ""
+		},
+		"Atlach-Nacha": {
+			"name": "Atlach-Nacha",
+			"description": ""
+		},
+		"Ayandamahla, the Crimson Lotus": {
+			"name": "Ayandamahla, the Crimson Lotus",
+			"description": ""
+		},
+		"Baphomet": {
+			"name": "Baphomet",
+			"description": ""
+		},
+		"Barzahk": {
+			"name": "Barzahk",
+			"description": ""
+		},
+		"Bastion Archon": {
+			"name": "Bastion Archon",
+			"description": ""
+		},
+		"Blood Queen": {
+			"name": "Blood Queen",
+			"description": ""
+		},
+		"Braismois": {
+			"name": "Braismois",
+			"description": ""
+		},
+		"Chemnosit (The Monarch Worm)": {
+			"name": "Chemnosit (The Monarch Worm)",
+			"description": ""
+		},
+		"Deskari": {
+			"name": "Deskari",
+			"description": ""
+		},
+		"Erotundee, Keeper of the Risen Light": {
+			"name": "Erotundee, Keeper of the Risen Light",
+			"description": ""
+		},
+		"Fafnheir": {
+			"name": "Fafnheir",
+			"description": ""
+		},
+		"Festering Ulunat (The Unholy First)": {
+			"name": "Festering Ulunat (The Unholy First)",
+			"description": ""
+		},
+		"Galundari, the Scourge of Heaven": {
+			"name": "Galundari, the Scourge of Heaven",
+			"description": ""
+		},
+		"Ghatanothoa": {
+			"name": "Ghatanothoa",
+			"description": ""
+		},
+		"HAVERO": {
+			"name": "HAVERO",
+			"description": ""
+		},
+		"Hell Engine Adamantine Golem": {
+			"name": "Hell Engine Adamantine Golem",
+			"description": ""
+		},
+		"Inkariax": {
+			"name": "Inkariax",
+			"description": ""
+		},
+		"Ithaqua": {
+			"name": "Ithaqua",
+			"description": ""
+		},
+		"Kaltestrua, Governess of Casnoriva": {
+			"name": "Kaltestrua, Governess of Casnoriva",
+			"description": ""
+		},
+		"Leviathan": {
+			"name": "Leviathan",
+			"description": ""
+		},
+		"Lorthact": {
+			"name": "Lorthact",
+			"description": ""
+		},
+		"Malziarax, Rune Giant Overlord": {
+			"name": "Malziarax, Rune Giant Overlord",
+			"description": ""
+		},
+		"Master Automaton": {
+			"name": "Master Automaton",
+			"description": ""
+		},
+		"Mhar": {
+			"name": "Mhar",
+			"description": ""
+		},
+		"Mordiggian": {
+			"name": "Mordiggian",
+			"description": ""
+		},
+		"Moxix": {
+			"name": "Moxix",
+			"description": ""
+		},
+		"Neothelid Overlord": {
+			"name": "Neothelid Overlord",
+			"description": ""
+		},
+		"Nightripper": {
+			"name": "Nightripper",
+			"description": ""
+		},
+		"Nocticula": {
+			"name": "Nocticula",
+			"description": ""
+		},
+		"Oliphaunt of Jandelay": {
+			"name": "Oliphaunt of Jandelay",
+			"description": ""
+		},
+		"Qaur-Ooung": {
+			"name": "Qaur-Ooung",
+			"description": ""
+		},
+		"Quantium Golem": {
+			"name": "Quantium Golem",
+			"description": ""
+		},
+		"Qwoshokk": {
+			"name": "Qwoshokk",
+			"description": ""
+		},
+		"Scyld Hranni, Storm Giant Matriarch": {
+			"name": "Scyld Hranni, Storm Giant Matriarch",
+			"description": ""
+		},
+		"Sea Linnorm": {
+			"name": "Sea Linnorm",
+			"description": ""
+		},
+		"Shamira": {
+			"name": "Shamira",
+			"description": ""
+		},
+		"Shaorhaz, Glutton of the Green": {
+			"name": "Shaorhaz, Glutton of the Green",
+			"description": ""
+		},
+		"Shax": {
+			"name": "Shax",
+			"description": ""
+		},
+		"Sifkesh": {
+			"name": "Sifkesh",
+			"description": ""
+		},
+		"Sirrush": {
+			"name": "Sirrush",
+			"description": ""
+		},
+		"Squamous Demodand": {
+			"name": "Squamous Demodand",
+			"description": ""
+		},
+		"Talmandor": {
+			"name": "Talmandor",
+			"description": ""
+		},
+		"Treerazer": {
+			"name": "Treerazer",
+			"description": ""
+		},
+		"Tsathoggua": {
+			"name": "Tsathoggua",
+			"description": ""
+		},
+		"Tychilarius": {
+			"name": "Tychilarius",
+			"description": ""
+		},
+		"Urtleytlar, The Tempest Queen": {
+			"name": "Urtleytlar, The Tempest Queen",
+			"description": ""
+		},
+		"Uvaglor, the Misbegotten Prince": {
+			"name": "Uvaglor, the Misbegotten Prince",
+			"description": ""
+		},
+		"Voice of the Damned": {
+			"name": "Voice of the Damned",
+			"description": ""
+		},
+		"Volnagur (The End-Singer)": {
+			"name": "Volnagur (The End-Singer)",
+			"description": ""
+		},
+		"Watcher": {
+			"name": "Watcher",
+			"description": ""
+		},
+		"Wrackworm": {
+			"name": "Wrackworm",
+			"description": ""
+		},
+		"Xhamen-Dor": {
+			"name": "Xhamen-Dor",
+			"description": ""
+		},
+		"Xoveron": {
+			"name": "Xoveron",
+			"description": ""
+		},
+		"Yamasoth": {
+			"name": "Yamasoth",
+			"description": ""
+		},
+		"Ymeri": {
+			"name": "Ymeri",
+			"description": ""
+		},
+		"Zelishkar of the Bitter Flame": {
+			"name": "Zelishkar of the Bitter Flame",
+			"description": ""
+		},
+		"Arshea": {
+			"name": "アーシェイ",
+			"description": ""
+		},
+		"Iathavos": {
+			"name": "アイアタヴォス",
+			"description": ""
+		},
+		"Agyra": {
+			"name": "アギラ",
+			"description": ""
+		},
+		"Akvan": {
+			"name": "アクヴァン",
+			"description": ""
+		},
+		"Asurendra": {
+			"name": "アスレンドラ",
+			"description": ""
+		},
+		"Apollyon": {
+			"name": "アポリュオン",
+			"description": ""
+		},
+		"Yig": {
+			"name": "イグ",
+			"description": ""
+		},
+		"Izfiitar": {
+			"name": "イズフィイタル",
+			"description": ""
+		},
+		"Isph-Aun-Vuln": {
+			"name": "イスフオウンヴァルン",
+			"description": ""
+		},
+		"Varklops": {
+			"name": "ヴァルクロプス",
+			"description": ""
+		},
+		"Whisperer": {
+			"name": "ウィスパラー",
+			"description": ""
+		},
+		"Vildeis": {
+			"name": "ヴィルデイス",
+			"description": ""
+		},
+		"Veranallia": {
+			"name": "ヴェラナリア",
+			"description": ""
+		},
+		"Void Yai": {
+			"name": "ヴォイド・ヤイ",
+			"description": ""
+		},
+		"Vorgozen": {
+			"name": "ヴォルゴズン",
+			"description": ""
+		},
+		"Ouroboros": {
+			"name": "ウロボロス",
+			"description": ""
+		},
+		"Ancient Infernal Dragon": {
+			"name": "エインシャント・インファーナル・ドラゴン",
+			"description": ""
+		},
+		"Ancient Crypt Dragon": {
+			"name": "エインシャント・クリプト・ドラゴン",
+			"description": ""
+		},
+		"Ancient Gold Dragon": {
+			"name": "エインシャント・ゴールド・ドラゴン",
+			"description": ""
+		},
+		"Ancient Sovereign Dragon": {
+			"name": "エインシャント・ソヴリン・ドラゴン",
+			"description": ""
+		},
+		"Ancient Time Dragon": {
+			"name": "エインシャント・タイム・ドラゴン",
+			"description": ""
+		},
+		"Ancient Havoc Dragon": {
+			"name": "エインシャント・ハヴォック・ドラゴン",
+			"description": ""
+		},
+		"Ancient Rift Dragon": {
+			"name": "エインシャント・リフト・ドラゴン",
+			"description": ""
+		},
+		"Euryale": {
+			"name": "エウリュアレ",
+			"description": ""
+		},
+		"Elysian": {
+			"name": "エリシアン・ティタン",
+			"description": ""
+		},
+		"Elder Wyrm": {
+			"name": "エルダー・ワーム",
+			"description": ""
+		},
+		"Eremite": {
+			"name": "エレマイト",
+			"description": ""
+		},
+		"Empyrean": {
+			"name": "エンピリアン",
+			"description": ""
+		},
+		"Oaur-Ooung": {
+			"name": "オウアオオウン",
+			"description": ""
+		},
+		"Oblivion": {
+			"name": "オブリヴィオン",
+			"description": ""
+		},
+		"Olethrodaemon": {
+			"name": "オレスロダイモン",
+			"description": ""
+		},
+		"Charon": {
+			"name": "カロン",
+			"description": ""
+		},
+		"Kimenhul": {
+			"name": "キメンフル",
+			"description": ""
+		},
+		"Quintessence Golem": {
+			"name": "クインテセンス・ゴーレム",
+			"description": ""
+		},
+		"Cthulhu": {
+			"name": "クトゥルフ",
+			"description": ""
+		},
+		"Krampus": {
+			"name": "クランプス",
+			"description": ""
+		},
+		"Green Man": {
+			"name": "グリーン・マン",
+			"description": ""
+		},
+		"Grim Reaper": {
+			"name": "グリム・リーパー",
+			"description": ""
+		},
+		"Grim Reaper (Bestiary 5)": {
+			"name": "グリム・リーパー",
+			"description": ""
+		},
+		"Geryon": {
+			"name": "ゲリュオン",
+			"description": ""
+		},
+		"Cernunnos": {
+			"name": "ケルヌンノス",
+			"description": ""
+		},
+		"Kostchtchie": {
+			"name": "コシチェイ",
+			"description": ""
+		},
+		"Korada": {
+			"name": "コラダ",
+			"description": ""
+		},
+		"Conqueror Worm": {
+			"name": "コンカラー・ワーム",
+			"description": ""
+		},
+		"Hundun": {
+			"name": "コントン",
+			"description": ""
+		},
+		"Thuskchoon": {
+			"name": "サスクチューン",
+			"description": ""
+		},
+		"Thalassic Behemoth": {
+			"name": "サラシック・ベヒモス",
+			"description": ""
+		},
+		"Szuriel": {
+			"name": "ザリエル",
+			"description": ""
+		},
+		"Jinushigami": {
+			"name": "ジヌシガミ",
+			"description": ""
+		},
+		"Cipactli": {
+			"name": "シパクトリ",
+			"description": ""
+		},
+		"Jabberwock": {
+			"name": "ジャバウォック",
+			"description": ""
+		},
+		"Star-Spawn of Cthulhu": {
+			"name": "スタースポーン・オヴ・クトゥルフ",
+			"description": ""
+		},
+		"Solar": {
+			"name": "ソーラー",
+			"description": ""
+		},
+		"Tarn Linnorm": {
+			"name": "ターン・リノーム",
+			"description": ""
+		},
+		"Tawil At'umr": {
+			"name": "タウィル＝アト・ウムル",
+			"description": ""
+		},
+		"Dagon": {
+			"name": "ダゴン",
+			"description": ""
+		},
+		"Thanatotic": {
+			"name": "タナトティック・ティタン",
+			"description": ""
+		},
+		"Tarrasque": {
+			"name": "タラスク",
+			"description": ""
+		},
+		"Charnel God": {
+			"name": "チャーネル・ゴッド",
+			"description": ""
+		},
+		"Chavazvug": {
+			"name": "チャヴァズヴァグ",
+			"description": ""
+		},
+		"Dispater": {
+			"name": "ディスパテル",
+			"description": ""
+		},
+		"Tempest Behemoth": {
+			"name": "テンペスト・ベヒモス",
+			"description": ""
+		},
+		"Tor Linnorm": {
+			"name": "トアー・リノーム",
+			"description": ""
+		},
+		"Draconal": {
+			"name": "ドラコナル",
+			"description": ""
+		},
+		"Trelmarixian": {
+			"name": "トレルマリクシアン",
+			"description": ""
+		},
+		"Nightwave": {
+			"name": "ナイトウェイヴ",
+			"description": ""
+		},
+		"Baalzebul": {
+			"name": "バールゼブル",
+			"description": ""
+		},
+		"Pazuzu": {
+			"name": "パズズ",
+			"description": ""
+		},
+		"Hastur": {
+			"name": "ハスター",
+			"description": ""
+		},
+		"Barbatos": {
+			"name": "バルバトス",
+			"description": ""
+		},
+		"Balor": {
+			"name": "バロール",
+			"description": ""
+		},
+		"Pit Fiend": {
+			"name": "ピット・フィーンド",
+			"description": ""
+		},
+		"Fire Giant King": {
+			"name": "ファイアー・ジャイアントの王",
+			"description": ""
+		},
+		"Black Butterfly": {
+			"name": "ブラック・バタフライ",
+			"description": ""
+		},
+		"Pleroma": {
+			"name": "プレローマ",
+			"description": ""
+		},
+		"Hekatonkheires": {
+			"name": "ヘカトンケイル",
+			"description": ""
+		},
+		"Bezravnis": {
+			"name": "ベズラヴニス",
+			"description": ""
+		},
+		"Belial": {
+			"name": "ベリアル",
+			"description": ""
+		},
+		"Bokrug": {
+			"name": "ボクルグ",
+			"description": ""
+		},
+		"Rakshasa Maharaja": {
+			"name": "マハラジャ",
+			"description": ""
+		},
+		"Mammon": {
+			"name": "マモン",
+			"description": ""
+		},
+		"Mu Spore": {
+			"name": "ミュー・スポア",
+			"description": ""
+		},
+		"Mephistopheles": {
+			"name": "メフィストフェレス",
+			"description": ""
+		},
+		"Mogaru": {
+			"name": "モガル",
+			"description": ""
+		},
+		"Moloch": {
+			"name": "モロク",
+			"description": ""
+		},
+		"Yamaraj": {
+			"name": "ヤマラジ",
+			"description": ""
+		},
+		"Yarthoon": {
+			"name": "ヤルズーン",
+			"description": ""
+		},
+		"Lhaksharut": {
+			"name": "ラークシャラット",
+			"description": ""
+		},
+		"Ragathiel": {
+			"name": "ラガシエル",
+			"description": ""
+		},
+		"Rhan-Tegoth": {
+			"name": "ラン＝テゴス",
+			"description": ""
+		},
+		"Red Wyrm Ravener": {
+			"name": "レッド・ワーム・ラヴナー",
+			"description": ""
+		},
+		"Lotus Tree": {
+			"name": "ロータス・ツリー",
+			"description": ""
+		}
+	}
+}

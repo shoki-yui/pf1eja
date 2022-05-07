@@ -1,0 +1,1661 @@
+{
+	"label": "Bestiary - CR 0-1",
+	"entries": {
+		"Aphorite": {
+			"name": "Aphorite",
+			"description": ""
+		},
+		"Arachnid Robot": {
+			"name": "Arachnid Robot",
+			"description": ""
+		},
+		"Arctic Hare": {
+			"name": "Arctic Hare",
+			"description": ""
+		},
+		"Arctic Tern": {
+			"name": "Arctic Tern",
+			"description": ""
+		},
+		"Armadillo": {
+			"name": "Armadillo",
+			"description": ""
+		},
+		"Bacallia": {
+			"name": "Bacallia",
+			"description": ""
+		},
+		"Bathysphere": {
+			"name": "Bathysphere",
+			"description": ""
+		},
+		"Biloko": {
+			"name": "Biloko",
+			"description": ""
+		},
+		"Black Spot": {
+			"name": "Black Spot",
+			"description": ""
+		},
+		"Blackwisp Egret": {
+			"name": "Blackwisp Egret",
+			"description": ""
+		},
+		"Bramblelash": {
+			"name": "Bramblelash",
+			"description": ""
+		},
+		"Bugbear Echohusk": {
+			"name": "Bugbear Echohusk",
+			"description": ""
+		},
+		"Bulabar": {
+			"name": "Bulabar",
+			"description": ""
+		},
+		"Butterfly/Moth": {
+			"name": "Butterfly/Moth",
+			"description": ""
+		},
+		"Carrionstorm": {
+			"name": "Carrionstorm",
+			"description": ""
+		},
+		"Chon Chon": {
+			"name": "Chon Chon",
+			"description": ""
+		},
+		"Clawbat": {
+			"name": "Clawbat",
+			"description": ""
+		},
+		"Clockwork Songbird": {
+			"name": "Clockwork Songbird",
+			"description": ""
+		},
+		"Cockroach": {
+			"name": "Cockroach",
+			"description": ""
+		},
+		"Creeper Ivy": {
+			"name": "Creeper Ivy",
+			"description": ""
+		},
+		"Cytillesh Zombie": {
+			"name": "Cytillesh Zombie",
+			"description": ""
+		},
+		"Dallo": {
+			"name": "Dallo",
+			"description": ""
+		},
+		"Drain Spider": {
+			"name": "Drain Spider",
+			"description": ""
+		},
+		"Drochtac": {
+			"name": "Drochtac",
+			"description": ""
+		},
+		"Duskwalker": {
+			"name": "Duskwalker",
+			"description": ""
+		},
+		"Dwarf Caiman": {
+			"name": "Dwarf Caiman",
+			"description": ""
+		},
+		"Dweomer Cap": {
+			"name": "Dweomer Cap",
+			"description": ""
+		},
+		"Eaisge": {
+			"name": "Eaisge",
+			"description": ""
+		},
+		"Faerie Mount": {
+			"name": "Faerie Mount",
+			"description": ""
+		},
+		"Fire Salamander": {
+			"name": "Fire Salamander",
+			"description": ""
+		},
+		"Flaming Skull": {
+			"name": "Flaming Skull",
+			"description": ""
+		},
+		"Flowering Lattice": {
+			"name": "Flowering Lattice",
+			"description": ""
+		},
+		"Four-Armed Mudra Skeleton": {
+			"name": "Four-Armed Mudra Skeleton",
+			"description": ""
+		},
+		"Frost Fir": {
+			"name": "Frost Fir",
+			"description": ""
+		},
+		"Ganzi": {
+			"name": "Ganzi",
+			"description": ""
+		},
+		"Giant Botfly": {
+			"name": "Giant Botfly",
+			"description": ""
+		},
+		"Giant Cicada": {
+			"name": "Giant Cicada",
+			"description": ""
+		},
+		"Giant Isopod": {
+			"name": "Giant Isopod",
+			"description": ""
+		},
+		"Giant Tardigrade": {
+			"name": "Giant Tardigrade",
+			"description": ""
+		},
+		"Gishvit": {
+			"name": "Gishvit",
+			"description": ""
+		},
+		"Hollow Helm": {
+			"name": "Hollow Helm",
+			"description": ""
+		},
+		"Hook Fly Swarm": {
+			"name": "Hook Fly Swarm",
+			"description": ""
+		},
+		"Horned Lizard": {
+			"name": "Horned Lizard",
+			"description": ""
+		},
+		"Ioun Wyrd": {
+			"name": "Ioun Wyrd",
+			"description": ""
+		},
+		"Jackal": {
+			"name": "Jackal",
+			"description": ""
+		},
+		"Jerboa": {
+			"name": "Jerboa",
+			"description": ""
+		},
+		"Jigsaw Shark": {
+			"name": "Jigsaw Shark",
+			"description": ""
+		},
+		"Kakapo": {
+			"name": "Kakapo",
+			"description": ""
+		},
+		"Katroome": {
+			"name": "Katroome",
+			"description": ""
+		},
+		"Keulia": {
+			"name": "Keulia",
+			"description": ""
+		},
+		"Koala": {
+			"name": "Koala",
+			"description": ""
+		},
+		"Kuru": {
+			"name": "Kuru",
+			"description": ""
+		},
+		"Lamprey": {
+			"name": "Lamprey",
+			"description": ""
+		},
+		"Larva": {
+			"name": "Larva",
+			"description": ""
+		},
+		"Larval Chuul": {
+			"name": "Larval Chuul",
+			"description": ""
+		},
+		"Lashunta": {
+			"name": "Lashunta",
+			"description": ""
+		},
+		"Lemming": {
+			"name": "Lemming",
+			"description": ""
+		},
+		"Leopard Slug": {
+			"name": "Leopard Slug",
+			"description": ""
+		},
+		"Lich Newt": {
+			"name": "Lich Newt",
+			"description": ""
+		},
+		"Llama": {
+			"name": "Llama",
+			"description": ""
+		},
+		"Margay Cat": {
+			"name": "Margay Cat",
+			"description": ""
+		},
+		"Mechanical Efreeti": {
+			"name": "Mechanical Efreeti",
+			"description": ""
+		},
+		"Meerkat": {
+			"name": "Meerkat",
+			"description": ""
+		},
+		"Melancholic Ooze Swarm": {
+			"name": "Melancholic Ooze Swarm",
+			"description": ""
+		},
+		"Mole": {
+			"name": "Mole",
+			"description": ""
+		},
+		"Mummified Baboon": {
+			"name": "Mummified Baboon",
+			"description": ""
+		},
+		"Nukkefeen": {
+			"name": "Nukkefeen",
+			"description": ""
+		},
+		"Nupperibo": {
+			"name": "Nupperibo",
+			"description": ""
+		},
+		"Ochre Eurypterid": {
+			"name": "Ochre Eurypterid",
+			"description": ""
+		},
+		"Onwu Azu": {
+			"name": "Onwu Azu",
+			"description": ""
+		},
+		"Ostrich": {
+			"name": "Ostrich",
+			"description": ""
+		},
+		"Patchwork Insect Swarm": {
+			"name": "Patchwork Insect Swarm",
+			"description": ""
+		},
+		"Peacock": {
+			"name": "Peacock",
+			"description": ""
+		},
+		"Peafowl": {
+			"name": "Peafowl",
+			"description": ""
+		},
+		"Petrifern": {
+			"name": "Petrifern",
+			"description": ""
+		},
+		"Petromin": {
+			"name": "Petromin",
+			"description": ""
+		},
+		"Phlegmatic Ooze Swarm": {
+			"name": "Phlegmatic Ooze Swarm",
+			"description": ""
+		},
+		"Popoto": {
+			"name": "Popoto",
+			"description": ""
+		},
+		"Popoto Dolphin": {
+			"name": "Popoto Dolphin",
+			"description": ""
+		},
+		"Poppet, Small": {
+			"name": "Poppet, Small",
+			"description": ""
+		},
+		"Poppet, Tiny": {
+			"name": "Poppet, Tiny",
+			"description": ""
+		},
+		"Portunus": {
+			"name": "Portunus",
+			"description": ""
+		},
+		"Ptarmigan": {
+			"name": "Ptarmigan",
+			"description": ""
+		},
+		"Pufferfish": {
+			"name": "Pufferfish",
+			"description": ""
+		},
+		"Puffin": {
+			"name": "Puffin",
+			"description": ""
+		},
+		"Quillcat": {
+			"name": "Quillcat",
+			"description": ""
+		},
+		"Ravenous Tumbleweed": {
+			"name": "Ravenous Tumbleweed",
+			"description": ""
+		},
+		"Razor Fern": {
+			"name": "Razor Fern",
+			"description": ""
+		},
+		"Reborn Samsaran": {
+			"name": "Reborn Samsaran",
+			"description": ""
+		},
+		"Rhamphorhynchus": {
+			"name": "Rhamphorhynchus",
+			"description": ""
+		},
+		"Ringhorn": {
+			"name": "Ringhorn",
+			"description": ""
+		},
+		"Rock Tuatara": {
+			"name": "Rock Tuatara",
+			"description": ""
+		},
+		"Rune Guardian": {
+			"name": "Rune Guardian",
+			"description": ""
+		},
+		"Sanguine Ooze Swarm": {
+			"name": "Sanguine Ooze Swarm",
+			"description": ""
+		},
+		"Sawleg Locust": {
+			"name": "Sawleg Locust",
+			"description": ""
+		},
+		"Sea Crawler": {
+			"name": "Sea Crawler",
+			"description": ""
+		},
+		"Sea Snake": {
+			"name": "Sea Snake",
+			"description": ""
+		},
+		"Severed Head": {
+			"name": "Severed Head",
+			"description": ""
+		},
+		"Shimmerwing Dragonfly": {
+			"name": "Shimmerwing Dragonfly",
+			"description": ""
+		},
+		"Skapraun": {
+			"name": "Skapraun",
+			"description": ""
+		},
+		"Skeletal Mount": {
+			"name": "Skeletal Mount",
+			"description": ""
+		},
+		"Skittergoat": {
+			"name": "Skittergoat",
+			"description": ""
+		},
+		"Skull Swarm": {
+			"name": "Skull Swarm",
+			"description": ""
+		},
+		"Skvader": {
+			"name": "Skvader",
+			"description": ""
+		},
+		"Snark": {
+			"name": "Snark",
+			"description": ""
+		},
+		"Sorico": {
+			"name": "Sorico",
+			"description": ""
+		},
+		"Spiny Starfish": {
+			"name": "Spiny Starfish",
+			"description": ""
+		},
+		"Sunbaked Zombie": {
+			"name": "Sunbaked Zombie",
+			"description": ""
+		},
+		"Sunflower Leshy": {
+			"name": "Sunflower Leshy",
+			"description": ""
+		},
+		"Suture Vine": {
+			"name": "Suture Vine",
+			"description": ""
+		},
+		"Switchback Jackal": {
+			"name": "Switchback Jackal",
+			"description": ""
+		},
+		"Syrinx": {
+			"name": "Syrinx",
+			"description": ""
+		},
+		"Tarsier": {
+			"name": "Tarsier",
+			"description": ""
+		},
+		"Tauhoti": {
+			"name": "Tauhoti",
+			"description": ""
+		},
+		"Tiger Fish": {
+			"name": "Tiger Fish",
+			"description": ""
+		},
+		"Torble": {
+			"name": "Torble",
+			"description": ""
+		},
+		"Triaxian": {
+			"name": "Triaxian",
+			"description": ""
+		},
+		"Tullimonstrum": {
+			"name": "Tullimonstrum",
+			"description": ""
+		},
+		"Undead Ningyo": {
+			"name": "Undead Ningyo",
+			"description": ""
+		},
+		"Vampire Squid": {
+			"name": "Vampire Squid",
+			"description": ""
+		},
+		"Varisian Hagfish": {
+			"name": "Varisian Hagfish",
+			"description": ""
+		},
+		"Wallaby": {
+			"name": "Wallaby",
+			"description": ""
+		},
+		"Water Strider Swarm": {
+			"name": "Water Strider Swarm",
+			"description": ""
+		},
+		"Whisperfall Vulture": {
+			"name": "Whisperfall Vulture",
+			"description": ""
+		},
+		"Wolpertinger": {
+			"name": "Wolpertinger",
+			"description": ""
+		},
+		"Wood": {
+			"name": "Wood",
+			"description": ""
+		},
+		"Zhen Worm": {
+			"name": "Zhen Worm",
+			"description": ""
+		},
+		"Zhyen": {
+			"name": "Zhyen",
+			"description": ""
+		},
+		"Zombie Wolf": {
+			"name": "Zombie Wolf",
+			"description": ""
+		},
+		"Archaeopteryx": {
+			"name": "アーケオプテリクス",
+			"description": ""
+		},
+		"Aasimar": {
+			"name": "アアシマール",
+			"description": ""
+		},
+		"Iron Colossus": {
+			"name": "アイアン・コロッサス",
+			"description": ""
+		},
+		"Owl": {
+			"name": "アウル",
+			"description": ""
+		},
+		"Akata": {
+			"name": "アカータ",
+			"description": ""
+		},
+		"Akaname": {
+			"name": "アカナメ",
+			"description": ""
+		},
+		"Astomoi": {
+			"name": "アストモイ",
+			"description": ""
+		},
+		"Atomie": {
+			"name": "アトゥミー",
+			"description": ""
+		},
+		"Animate Hair": {
+			"name": "アニメイト・ヘアー",
+			"description": ""
+		},
+		"Anunnaki": {
+			"name": "アヌンナキ",
+			"description": ""
+		},
+		"Apkallu": {
+			"name": "アプカル",
+			"description": ""
+		},
+		"Apocalypse Locust": {
+			"name": "アポカリプス・ロウカスト",
+			"description": ""
+		},
+		"Amoeba Swarm": {
+			"name": "アメーバ・スウォーム",
+			"description": ""
+		},
+		"Argus": {
+			"name": "アルゴス",
+			"description": ""
+		},
+		"Alpluachra": {
+			"name": "アルプルアハラ",
+			"description": ""
+		},
+		"Almiraj": {
+			"name": "アルミラージ",
+			"description": ""
+		},
+		"Antelope": {
+			"name": "アンテロープ",
+			"description": ""
+		},
+		"Android": {
+			"name": "アンドロイド",
+			"description": ""
+		},
+		"Eagle": {
+			"name": "イーグル",
+			"description": ""
+		},
+		"Isitoq": {
+			"name": "イシトク",
+			"description": ""
+		},
+		"Yzobu": {
+			"name": "イゾーブ",
+			"description": ""
+		},
+		"Ifrit": {
+			"name": "イフリット",
+			"description": ""
+		},
+		"Irminsul": {
+			"name": "イルミンスール",
+			"description": ""
+		},
+		"Viper": {
+			"name": "ヴァイパー",
+			"description": ""
+		},
+		"Vanara": {
+			"name": "ヴァナラ",
+			"description": ""
+		},
+		"Vulture": {
+			"name": "ヴァルチャー",
+			"description": ""
+		},
+		"Weasel": {
+			"name": "ウィーゼル",
+			"description": ""
+		},
+		"Wizard's Shackle": {
+			"name": "ウィザーズ・シャックル",
+			"description": ""
+		},
+		"Vishkanya": {
+			"name": "ヴィシュカニャ",
+			"description": ""
+		},
+		"Witchcrow": {
+			"name": "ウィッチクロウ",
+			"description": ""
+		},
+		"Wyrwood": {
+			"name": "ウィルウッド",
+			"description": ""
+		},
+		"Vexgit": {
+			"name": "ヴェクスジット",
+			"description": ""
+		},
+		"Vegepygmy": {
+			"name": "ヴェジピグミー",
+			"description": ""
+		},
+		"Venomous Snake": {
+			"name": "ヴェノマス・スネーク",
+			"description": ""
+		},
+		"Udaeus": {
+			"name": "ウダイオス",
+			"description": ""
+		},
+		"Wood Colossus": {
+			"name": "ウッド・コロッサス",
+			"description": ""
+		},
+		"Wolf": {
+			"name": "ウルフ",
+			"description": ""
+		},
+		"Undine": {
+			"name": "ウンディーネ",
+			"description": ""
+		},
+		"Ectoplasmic Human": {
+			"name": "エクトプラズミック・ヒューマン",
+			"description": ""
+		},
+		"Echeneis": {
+			"name": "エケネイス",
+			"description": ""
+		},
+		"Etiainen": {
+			"name": "エティアイネン",
+			"description": ""
+		},
+		"Elk": {
+			"name": "エルク",
+			"description": ""
+		},
+		"Elohim": {
+			"name": "エロヒム",
+			"description": ""
+		},
+		"Orc": {
+			"name": "オーク",
+			"description": ""
+		},
+		"Octopus": {
+			"name": "オクトパス",
+			"description": ""
+		},
+		"Ostovite": {
+			"name": "オストヴァイト",
+			"description": ""
+		},
+		"Otter": {
+			"name": "オッター",
+			"description": ""
+		},
+		"Ophiotaurus": {
+			"name": "オピオタウロス",
+			"description": ""
+		},
+		"Orang-pendak": {
+			"name": "オランペンデク",
+			"description": ""
+		},
+		"Oread": {
+			"name": "オレイアス",
+			"description": ""
+		},
+		"Gar": {
+			"name": "ガー",
+			"description": ""
+		},
+		"Guardian Dragon": {
+			"name": "ガーディアン・ドラゴン",
+			"description": ""
+		},
+		"Carbuncle": {
+			"name": "カーバンクル",
+			"description": ""
+		},
+		"Kasatha": {
+			"name": "カサーサ",
+			"description": ""
+		},
+		"Gathlain": {
+			"name": "ガスレイン",
+			"description": ""
+		},
+		"Caligni": {
+			"name": "カリグニ",
+			"description": ""
+		},
+		"Kangaroo": {
+			"name": "カンガルー",
+			"description": ""
+		},
+		"Kitsune": {
+			"name": "キツネ",
+			"description": ""
+		},
+		"Cat": {
+			"name": "キャット",
+			"description": ""
+		},
+		"Catfolk": {
+			"name": "キャットフォーク",
+			"description": ""
+		},
+		"Camel": {
+			"name": "キャメル",
+			"description": ""
+		},
+		"Gillman": {
+			"name": "ギルマン",
+			"description": ""
+		},
+		"King Crab": {
+			"name": "キング・クラブ",
+			"description": ""
+		},
+		"Ghoul": {
+			"name": "グール",
+			"description": ""
+		},
+		"Ghoul Hound": {
+			"name": "グール・ハウンド",
+			"description": ""
+		},
+		"Graeae": {
+			"name": "グライアイ",
+			"description": ""
+		},
+		"Glaistig": {
+			"name": "グラシュティグ",
+			"description": ""
+		},
+		"Gluttongrass": {
+			"name": "グラトングラス",
+			"description": ""
+		},
+		"Greensting Scorpion": {
+			"name": "グリーンスティング・スコーピオン",
+			"description": ""
+		},
+		"Grioth": {
+			"name": "グリオス",
+			"description": ""
+		},
+		"Grig": {
+			"name": "グリッグ",
+			"description": ""
+		},
+		"Gryph": {
+			"name": "グリフ",
+			"description": ""
+		},
+		"Grippli": {
+			"name": "グリプリー",
+			"description": ""
+		},
+		"Grindylow": {
+			"name": "グリンディロー",
+			"description": ""
+		},
+		"Grimple": {
+			"name": "グリンプル",
+			"description": ""
+		},
+		"Great Horned Owl": {
+			"name": "グレート・ホーンド・アウル",
+			"description": ""
+		},
+		"Krenshar": {
+			"name": "クレンシャー",
+			"description": ""
+		},
+		"Grendel": {
+			"name": "グレンデル",
+			"description": ""
+		},
+		"Crawling Hand": {
+			"name": "クロウリング・ハンド",
+			"description": ""
+		},
+		"Clockwork Spy": {
+			"name": "クロックワーク・スパイ",
+			"description": ""
+		},
+		"Cave Scorpion": {
+			"name": "ケイヴ・スコーピオン",
+			"description": ""
+		},
+		"Celedon": {
+			"name": "ケレドン",
+			"description": ""
+		},
+		"Gourd Leshy": {
+			"name": "ゴーウド・レーシー",
+			"description": ""
+		},
+		"Ghost Scorpion": {
+			"name": "ゴースト・スコーピオン",
+			"description": ""
+		},
+		"Goat": {
+			"name": "ゴート",
+			"description": ""
+		},
+		"Coral Capuchin": {
+			"name": "コーラル・カプチン",
+			"description": ""
+		},
+		"Ghoran": {
+			"name": "ゴーラン",
+			"description": ""
+		},
+		"Coffin Anemone": {
+			"name": "コフィン・アネモネ",
+			"description": ""
+		},
+		"Goblin": {
+			"name": "ゴブリン",
+			"description": ""
+		},
+		"Goblin Snake": {
+			"name": "ゴブリン・スネーク",
+			"description": ""
+		},
+		"Goblin Dog": {
+			"name": "ゴブリン・ドッグ",
+			"description": ""
+		},
+		"Goblin Sneak": {
+			"name": "ゴブリンのコソ泥",
+			"description": ""
+		},
+		"Goblin Outrider": {
+			"name": "ゴブリンの先駆騎手",
+			"description": ""
+		},
+		"Kobold": {
+			"name": "コボルド",
+			"description": ""
+		},
+		"Kobold Monster Wrangler": {
+			"name": "コボルドの怪物使い",
+			"description": ""
+		},
+		"Kobold Scalecaster": {
+			"name": "コボルドの角鱗術者",
+			"description": ""
+		},
+		"Kobold Sniper": {
+			"name": "コボルドの狙撃兵",
+			"description": ""
+		},
+		"Kobold Bomber": {
+			"name": "コボルドの爆弾魔",
+			"description": ""
+		},
+		"Common Eurypterid": {
+			"name": "コモン・ユーリプテリス",
+			"description": ""
+		},
+		"Compsognathus": {
+			"name": "コンプソグナトゥス",
+			"description": ""
+		},
+		"Thylacine": {
+			"name": "サイラシン",
+			"description": ""
+		},
+		"Sagari": {
+			"name": "サガリ",
+			"description": ""
+		},
+		"Samsaran": {
+			"name": "サンサーラン",
+			"description": ""
+		},
+		"Seal": {
+			"name": "シール",
+			"description": ""
+		},
+		"Shen": {
+			"name": "シェン",
+			"description": ""
+		},
+		"Giant Amoeba": {
+			"name": "ジャイアント・アメーバ",
+			"description": ""
+		},
+		"Giant Weasel": {
+			"name": "ジャイアント・ウィーゼル",
+			"description": ""
+		},
+		"Giant Water Strider": {
+			"name": "ジャイアント・ウォーター・ストライダー",
+			"description": ""
+		},
+		"Giant Crab Spider": {
+			"name": "ジャイアント・クラブ・スパイダー",
+			"description": ""
+		},
+		"Giant Cockroach": {
+			"name": "ジャイアント・コックローチ",
+			"description": ""
+		},
+		"Exoskeleton Giant Cockroach": {
+			"name": "ジャイアント・コックローチのエクソスケルトン",
+			"description": ""
+		},
+		"Giant Solifugid": {
+			"name": "ジャイアント・サリフュージド",
+			"description": ""
+		},
+		"Giant Spider": {
+			"name": "ジャイアント・スパイダー",
+			"description": ""
+		},
+		"Giant Centipede": {
+			"name": "ジャイアント・センチピード",
+			"description": ""
+		},
+		"Giant Tick": {
+			"name": "ジャイアント・ティック",
+			"description": ""
+		},
+		"Giant Tortoise": {
+			"name": "ジャイアント・トータス",
+			"description": ""
+		},
+		"Giant Bee": {
+			"name": "ジャイアント・ビー",
+			"description": ""
+		},
+		"Giant Flea": {
+			"name": "ジャイアント・フリー",
+			"description": ""
+		},
+		"Giant Frog": {
+			"name": "ジャイアント・フロッグ",
+			"description": ""
+		},
+		"Giant Raven": {
+			"name": "ジャイアント・レイヴン",
+			"description": ""
+		},
+		"Jack-o'-Lantern": {
+			"name": "ジャック・オ・ランタン",
+			"description": ""
+		},
+		"Shabti": {
+			"name": "シャブティ",
+			"description": ""
+		},
+		"Xtabay": {
+			"name": "シュタバイ",
+			"description": ""
+		},
+		"Julunggali": {
+			"name": "ジュルンガリ",
+			"description": ""
+		},
+		"Sylph": {
+			"name": "シルフ",
+			"description": ""
+		},
+		"Jinkin": {
+			"name": "ジンキン",
+			"description": ""
+		},
+		"Svirfneblin": {
+			"name": "スヴァーフネブリン",
+			"description": ""
+		},
+		"Zoog": {
+			"name": "ズーグ",
+			"description": ""
+		},
+		"Sootwing Bat": {
+			"name": "スートウィング・バット",
+			"description": ""
+		},
+		"Pseudodragon": {
+			"name": "スードゥドラゴン",
+			"description": ""
+		},
+		"Scarlet Spider": {
+			"name": "スカーレット・スパイダー",
+			"description": ""
+		},
+		"Skulk": {
+			"name": "スカルク",
+			"description": ""
+		},
+		"Skunk": {
+			"name": "スカンク",
+			"description": ""
+		},
+		"Skinwalker": {
+			"name": "スキンウォーカー",
+			"description": ""
+		},
+		"Skincrawler": {
+			"name": "スキンクロウラー",
+			"description": ""
+		},
+		"Squid": {
+			"name": "スクウィッド",
+			"description": ""
+		},
+		"Squirrel": {
+			"name": "スクワール",
+			"description": ""
+		},
+		"Stirge": {
+			"name": "スタージ",
+			"description": ""
+		},
+		"Stag": {
+			"name": "スタッグ",
+			"description": ""
+		},
+		"Stingray": {
+			"name": "スティングレイ",
+			"description": ""
+		},
+		"Stone Colossus": {
+			"name": "ストーン・コロッサス",
+			"description": ""
+		},
+		"Strix": {
+			"name": "ストリックス",
+			"description": ""
+		},
+		"Snapping Turtle": {
+			"name": "スナッピング・タートル",
+			"description": ""
+		},
+		"Spider Swarm": {
+			"name": "スパイダー・スウォーム",
+			"description": ""
+		},
+		"Sphinx Colossus": {
+			"name": "スフィンクス・コロッサス",
+			"description": ""
+		},
+		"Sprite": {
+			"name": "スプライト",
+			"description": ""
+		},
+		"Thrush": {
+			"name": "スラッシュ",
+			"description": ""
+		},
+		"Suli": {
+			"name": "スリ",
+			"description": ""
+		},
+		"Sloth": {
+			"name": "スロース",
+			"description": ""
+		},
+		"Solar Pitri (Agnishvatta)": {
+			"name": "ソーラー・ピトリ",
+			"description": ""
+		},
+		"Dark Dancer": {
+			"name": "ダーク・ダンサー",
+			"description": ""
+		},
+		"Darkmantle": {
+			"name": "ダークマントル",
+			"description": ""
+		},
+		"Turtle": {
+			"name": "タートル",
+			"description": ""
+		},
+		"Danava": {
+			"name": "ダーナヴァ",
+			"description": ""
+		},
+		"Dire Corby": {
+			"name": "ダイア・コルビー",
+			"description": ""
+		},
+		"Dire Rat": {
+			"name": "ダイア・ラット",
+			"description": ""
+		},
+		"Tyrant Jelly": {
+			"name": "タイラント・ジェリー",
+			"description": ""
+		},
+		"Dhampir": {
+			"name": "ダンピール",
+			"description": ""
+		},
+		"Changeling": {
+			"name": "チェンジリング",
+			"description": ""
+		},
+		"Chicken": {
+			"name": "チキン",
+			"description": ""
+		},
+		"Chaneque": {
+			"name": "チャネック",
+			"description": ""
+		},
+		"Tuatara": {
+			"name": "ツアタラ",
+			"description": ""
+		},
+		"Deep One": {
+			"name": "ディープ・ワン",
+			"description": ""
+		},
+		"Deep One Hybrid": {
+			"name": "ディープ・ワン・ハイブリッド",
+			"description": ""
+		},
+		"Tiefling": {
+			"name": "ティーフリング",
+			"description": ""
+		},
+		"Dimorphodon": {
+			"name": "ディモルフォドン",
+			"description": ""
+		},
+		"Devastator": {
+			"name": "デヴァステーター",
+			"description": ""
+		},
+		"Death’s Head Jellyfish": {
+			"name": "デスズ・ヘッド・ジェリーフィッシュ",
+			"description": ""
+		},
+		"Tengu": {
+			"name": "テング",
+			"description": ""
+		},
+		"Tooth Fairy": {
+			"name": "トゥース・フェアリー",
+			"description": ""
+		},
+		"Duergar": {
+			"name": "ドゥエルガル",
+			"description": ""
+		},
+		"Duergar Anvil": {
+			"name": "ドゥエルガルの“鉄床”",
+			"description": ""
+		},
+		"Duergar Sergeant": {
+			"name": "ドゥエルガルの戦士長",
+			"description": ""
+		},
+		"Duergar Sharpshooter": {
+			"name": "ドゥエルガルの狙撃兵",
+			"description": ""
+		},
+		"Duergar Slaver": {
+			"name": "ドゥエルガルの奴隷商人",
+			"description": ""
+		},
+		"Duergar Bombardier": {
+			"name": "ドゥエルガルの爆撃手",
+			"description": ""
+		},
+		"Toad": {
+			"name": "トード",
+			"description": ""
+		},
+		"Dodo": {
+			"name": "ドードー",
+			"description": ""
+		},
+		"Dog": {
+			"name": "ドッグ",
+			"description": ""
+		},
+		"Dossenus": {
+			"name": "ドッセナス",
+			"description": ""
+		},
+		"Trilobite": {
+			"name": "トライロバイト",
+			"description": ""
+		},
+		"Drow": {
+			"name": "ドラウ",
+			"description": ""
+		},
+		"Drow Scout": {
+			"name": "ドラウの斥候",
+			"description": ""
+		},
+		"Drakainia": {
+			"name": "ドラカイニア",
+			"description": ""
+		},
+		"Trumpeter Swan": {
+			"name": "トランペーター・スワン",
+			"description": ""
+		},
+		"Dolphin": {
+			"name": "ドルフィン",
+			"description": ""
+		},
+		"Troodon": {
+			"name": "トロオドン",
+			"description": ""
+		},
+		"Troglodyte": {
+			"name": "トログロダイト",
+			"description": ""
+		},
+		"Donkey Rat": {
+			"name": "ドンキー・ラット",
+			"description": ""
+		},
+		"Naiad": {
+			"name": "ナイアス",
+			"description": ""
+		},
+		"Nagaji": {
+			"name": "ナガジ",
+			"description": ""
+		},
+		"Nixie": {
+			"name": "ニクシー",
+			"description": ""
+		},
+		"Ningyo": {
+			"name": "ニンギョ",
+			"description": ""
+		},
+		"Nymph Water Strider": {
+			"name": "ニンフ・ウォーター・ストライダー",
+			"description": ""
+		},
+		"Nuno": {
+			"name": "ヌーノ",
+			"description": ""
+		},
+		"Gnoll": {
+			"name": "ノール",
+			"description": ""
+		},
+		"Hyena": {
+			"name": "ハイエナ",
+			"description": ""
+		},
+		"House Centipede": {
+			"name": "ハウス・センチピード",
+			"description": ""
+		},
+		"Pugwampi": {
+			"name": "パグワンピ",
+			"description": ""
+		},
+		"Badger": {
+			"name": "バジャー",
+			"description": ""
+		},
+		"Bat": {
+			"name": "バット",
+			"description": ""
+		},
+		"Bat Plague Swarm": {
+			"name": "バット・プレイグ・スウォーム",
+			"description": ""
+		},
+		"Haniver": {
+			"name": "ハニヴァー",
+			"description": ""
+		},
+		"Baboon": {
+			"name": "バブーン",
+			"description": ""
+		},
+		"Hunter Urchin": {
+			"name": "ハンター・アーチン",
+			"description": ""
+		},
+		"Pig": {
+			"name": "ピッグ",
+			"description": ""
+		},
+		"Pickled Punk": {
+			"name": "ピックルド・パンク",
+			"description": ""
+		},
+		"Beheaded": {
+			"name": "ビヘッディド",
+			"description": ""
+		},
+		"Hippocampus": {
+			"name": "ヒポカンパス",
+			"description": ""
+		},
+		"Pyrausta": {
+			"name": "ピュラウスタ",
+			"description": ""
+		},
+		"Fire Beetle": {
+			"name": "ファイアー・ビートル",
+			"description": ""
+		},
+		"Faun": {
+			"name": "ファウヌス",
+			"description": ""
+		},
+		"Fuath": {
+			"name": "フーア",
+			"description": ""
+		},
+		"Festrog": {
+			"name": "フェストラーゴ",
+			"description": ""
+		},
+		"Fetchling": {
+			"name": "フェッチリング",
+			"description": ""
+		},
+		"Formian Worker": {
+			"name": "フォーミアン・ワーカー",
+			"description": ""
+		},
+		"Fox": {
+			"name": "フォックス",
+			"description": ""
+		},
+		"Fomorian Titan": {
+			"name": "フォモーリアン・ティタン",
+			"description": ""
+		},
+		"Flying Squirrel": {
+			"name": "フライング・スクワール",
+			"description": ""
+		},
+		"Flying Fox": {
+			"name": "フライング・フォックス",
+			"description": ""
+		},
+		"Brownie": {
+			"name": "ブラウニィ",
+			"description": ""
+		},
+		"Platypus": {
+			"name": "プラティパス",
+			"description": ""
+		},
+		"Flumph": {
+			"name": "フランフ",
+			"description": ""
+		},
+		"Blue-Ringed Octopus": {
+			"name": "ブルーリングド・オクトパス",
+			"description": ""
+		},
+		"Brain Mole": {
+			"name": "ブレイン・モウル",
+			"description": ""
+		},
+		"Fleshdreg": {
+			"name": "フレッシュドレッグ",
+			"description": ""
+		},
+		"Hedgehog": {
+			"name": "ヘッジホッグ",
+			"description": ""
+		},
+		"Petitioner": {
+			"name": "ペティショナー",
+			"description": ""
+		},
+		"Penguin": {
+			"name": "ペンギン",
+			"description": ""
+		},
+		"Poison Frog": {
+			"name": "ポイズン・フロッグ",
+			"description": ""
+		},
+		"Boilborn": {
+			"name": "ボイルボーン",
+			"description": ""
+		},
+		"Porcupine": {
+			"name": "ポーキュパイン",
+			"description": ""
+		},
+		"Hawk": {
+			"name": "ホーク",
+			"description": ""
+		},
+		"Horse": {
+			"name": "ホース",
+			"description": ""
+		},
+		"Horn Caterpillar": {
+			"name": "ホーン・キャタピラー",
+			"description": ""
+		},
+		"Bogwiggle": {
+			"name": "ボグウィグル",
+			"description": ""
+		},
+		"Pony": {
+			"name": "ポニー",
+			"description": ""
+		},
+		"Hobkins": {
+			"name": "ホブキンズ",
+			"description": ""
+		},
+		"Hobgoblin": {
+			"name": "ホブゴブリン",
+			"description": ""
+		},
+		"Homunculus": {
+			"name": "ホムンクルス",
+			"description": ""
+		},
+		"Merfolk": {
+			"name": "マーフォーク",
+			"description": ""
+		},
+		"Mite": {
+			"name": "マイト",
+			"description": ""
+		},
+		"Muckdweller": {
+			"name": "マックドウェラー",
+			"description": ""
+		},
+		"Mongrelman": {
+			"name": "マングラルマン",
+			"description": ""
+		},
+		"Manta Ray": {
+			"name": "マンタ・レイ",
+			"description": ""
+		},
+		"Munavri": {
+			"name": "ミュナヴリ",
+			"description": ""
+		},
+		"Myrmecoleon": {
+			"name": "ミルメコレオ",
+			"description": ""
+		},
+		"Mockingfey": {
+			"name": "モッキングフェイ",
+			"description": ""
+		},
+		"Monaciello": {
+			"name": "モナシエロ",
+			"description": ""
+		},
+		"Monkey": {
+			"name": "モンキー",
+			"description": ""
+		},
+		"Monkey Goblin": {
+			"name": "モンキー・ゴブリン",
+			"description": ""
+		},
+		"Riding Dog": {
+			"name": "ライディング・ドッグ",
+			"description": ""
+		},
+		"Raccoon": {
+			"name": "ラクーン",
+			"description": ""
+		},
+		"Rat": {
+			"name": "ラット",
+			"description": ""
+		},
+		"Rat Plague Swarm": {
+			"name": "ラット・プレイグ・スウォーム",
+			"description": ""
+		},
+		"Ratfolk": {
+			"name": "ラットフォーク",
+			"description": ""
+		},
+		"Ratfolk Tinkerer": {
+			"name": "ラットフォークの修理屋",
+			"description": ""
+		},
+		"Rabbit": {
+			"name": "ラビット",
+			"description": ""
+		},
+		"Ramidreju": {
+			"name": "ラミドレフ",
+			"description": ""
+		},
+		"Ram": {
+			"name": "ラム",
+			"description": ""
+		},
+		"Leaf Ray": {
+			"name": "リーフ・レイ",
+			"description": ""
+		},
+		"Leaf Leshy": {
+			"name": "リーフ・レーシー",
+			"description": ""
+		},
+		"Reefclaw": {
+			"name": "リーフクロウ",
+			"description": ""
+		},
+		"Lizard": {
+			"name": "リザード",
+			"description": ""
+		},
+		"Lizardfolk": {
+			"name": "リザードフォーク",
+			"description": ""
+		},
+		"Leanan Sidhe": {
+			"name": "リャナン・シー",
+			"description": ""
+		},
+		"Rougarou": {
+			"name": "ルーガルー",
+			"description": ""
+		},
+		"Raven": {
+			"name": "レイヴン",
+			"description": ""
+		},
+		"Red Panda": {
+			"name": "レッド・パンダ",
+			"description": ""
+		},
+		"Reptoid": {
+			"name": "レプトイド",
+			"description": ""
+		},
+		"Lemure": {
+			"name": "レムレー",
+			"description": ""
+		},
+		"Locathah": {
+			"name": "ロキャーサ",
+			"description": ""
+		},
+		"Wyvaran": {
+			"name": "ワイヴァラン",
+			"description": ""
+		},
+		"Wayang": {
+			"name": "ワヤン",
+			"description": ""
+		},
+		"Small Earth Elemental": {
+			"name": "小型アース・エレメンタル",
+			"description": ""
+		},
+		"Small Ice Elemental": {
+			"name": "小型アイス・エレメンタル",
+			"description": ""
+		},
+		"Small Water Elemental": {
+			"name": "小型ウォーター・エレメンタル",
+			"description": ""
+		},
+		"Small Air Elemental": {
+			"name": "小型エア・エレメンタル",
+			"description": ""
+		},
+		"Small Aether Elemental": {
+			"name": "小型エーテル・エレメンタル",
+			"description": ""
+		},
+		"Small Fire Elemental": {
+			"name": "小型ファイアー・エレメンタル",
+			"description": ""
+		},
+		"Small Magma Elemental": {
+			"name": "小型マグマ・エレメンタル",
+			"description": ""
+		},
+		"Small Mud Elemental": {
+			"name": "小型マッド・エレメンタル",
+			"description": ""
+		},
+		"Small Lightning Elemental": {
+			"name": "小型ライトニング・エレメンタル",
+			"description": ""
+		},
+		"Human Skeleton": {
+			"name": "人間のスケルトン",
+			"description": ""
+		},
+		"Human Zombie": {
+			"name": "人間のゾンビ",
+			"description": ""
+		}
+	}
+}
