@@ -427,7 +427,7 @@
   "PF1.CondTypeDaze": "幻惑",
   "PF1.CondTypeDazzle": "目が眩んだ",
   "PF1.CondTypeDeaf": "聴覚喪失",
-  "PF1.CondTypeDeathEffects": "Death Effects",
+  "PF1.CondTypeDeathEffects": "［即死］効果",
   "PF1.CondTypeDisease": "病気",
   "PF1.CondTypeEnergyDrain": "生命力吸収",
   "PF1.CondTypeFatigue": "疲労",
@@ -547,11 +547,15 @@
   "PF1.AmmoTypeBulletDragoon": "ブリット（騎銃火器）",
   "PF1.AmmoTypeDart": "ダーツ",
 
+ "PF1.SenseBSense": "非視覚的感知",
   "PF1.SenseBS": "擬似視覚",
   "PF1.SenseDV": "暗視",
   "PF1.SenseTS": "振動感知",
   "PF1.SenseTR": "トゥルー・シーイング",
   "PF1.SenseLL": "夜目",
+  "PF1.SenseSI": "シー・インヴィジビリティ",
+  "PF1.SenseSID": "暗闇を見通す",
+  "PF1.SenseSC": "鋭敏嗅覚",
 
   "PF1.FlyManeuverabilityClumsy": "劣悪",
   "PF1.FlyManeuverabilityPoor": "貧弱",
@@ -1204,6 +1208,8 @@
   "PF1.Defense": "防御",
   "PF1.Defenses": "防御",
   "PF1.Description": "説明",
+  "PF1.Descriptor": "補足説明",
+  "PF1.DescriptorPlural": "補足説明",
   "PF1.Details": "詳細",
   "PF1.Edit": "Edit",
   "PF1.Enchantments": "魔法",
@@ -1306,6 +1312,10 @@
   "PF1.SpellDetails": "呪文の詳細",
   "PF1.SpellBook": "呪文書",
   "PF1.SpellBookPlural": "呪文書",
+  "PF1.SpellBookPrimary": "Primary",
+  "PF1.SpellBookSecondary": "Secondary",
+  "PF1.SpellBookTertiary": "Tertiary",
+  "PF1.SpellBookSpelllike": "擬似呪文",
   "PF1.SpellLevel": "呪文レベル",
   "PF1.SpellSchool": "呪文の系統",
   "PF1.SpellComponents": "呪文の構成要素",
@@ -1336,6 +1346,7 @@
   "PF1.SavingThrow": "セーヴィング・スロー",
   "PF1.SavingThrowPlural": "セーヴィング・スロー",
   "PF1.SavingThrowEffect": "セービング・スロー効果",
+  "PF1.SavingThrowGoodFractionalBonus": "良好なセーヴィング・スローボーナス",
   "PF1.Misc": "その他",
   "PF1.MiscShort": "その他",
   "PF1.HitPoints": "ヒット・ポイント",
@@ -1448,6 +1459,7 @@
   "PF1.ActionType": "アクションの種類",
   "PF1.AttackRollBonus": "攻撃ロールボーナス",
   "PF1.AttackRollDice": "攻撃ロールダイス",
+  "PF1.BaseDice": "ロールダイス",
   "PF1.CriticalThreatRange": "クリティカル可能域",
   "PF1.CriticalMultiplier": "クリティカル倍率",
   "PF1.CriticalConfirmBonus": "クリティカル確定ボーナス",
@@ -1632,6 +1644,7 @@
   "PF1.Vision": "視界",
   "PF1.Held": "手に持っている",
   "PF1.GiveItem": "アイテムを渡す",
+  "PF1.SplitItem": "アイテムを分割",
   "PF1.HideFromToken": "トークンから隠す",
   "PF1.ACPArmor": "ACP（鎧）",
   "PF1.ACPShield": "ACP（盾）",
@@ -1667,7 +1680,7 @@
   "PF1.Settings": "設定",
   "PF1.SpellbookUsage": "呪文書の使用",
   "PF1.SpellSlotAbilityBonus": "呪文スロット能力値修正（特徴由来）",
-  "PF1.AlternativeSpellbookName": "呪文書の名前",
+  "PF1.SpellbookName": "呪文書の名前",
   "PF1.StaticSize": "Static Size",
   "PF1.DomainSlotValue": "領域スロット数",
   "PF1.DomainSlotValueDesc": "領域/系統の呪文は呪文レベルにいくつの「空き」スロットを提供しますか？",
@@ -1687,6 +1700,7 @@
   "PF1.NPCs": "NPC",
   "PF1.Options": "オプション",
   "PF1.Cancel": "キャンセル",
+  "PF1.Split": "分割",
 
   "PF1.Migration.Start": "PF1eシステムにバージョン {version} への移行を適用します。しばらくお待ち下さい。",
   "PF1.Migration.Ongoing": "移行は進行中です。終了するまでお待ちください。",
@@ -1713,8 +1727,16 @@
     }
   },
 
+  "PF1.Dialog": {
+    "SplitItem": {
+      "Title": "アイテムを分割：{0}",
+      "Desc": "分割したい個数を入力してください。"
+    }
+  },
+
   "PF1.Info": {
     "AddClassDialog": "Shiftキーを押しながらクラスをドラッグ＆ドロップするとこのダイアログの表示を飛ばせます。",
-    "AddClassDialog_Desc": "通常を押すとレベルアップウィンドウが開き、省略を押すと変更なしでクラスが追加されます。"
+    "AddClassDialog_Desc": "通常を押すとレベルアップウィンドウが開き、省略を押すと変更なしでクラスが追加されます。",
+    "NotFunctioning": "現在システム上ではこの機能を使用していません。"
   }
 }

@@ -46352,7 +46352,7 @@
 		{
 			"id": "Vigilante's Reflexes",
 			"name": "即時対応（不羈の技）",
-			"description": "<p><strong>即時対応（変則）／Vigilante's Reflexes：</strong></p><p>ヴィジランテはボーナス特技として@Compendium[pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}を得る。既に@Compendium[pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}を修得している場合、@Compendium[pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}を修得した時点で前提条件を満たしていた特技を1つ得る。8レベルと16レベルの時点で、ヴィジランテが1ラウンドに行える機会攻撃の攻撃回数の追加が1回増える。これはヴィジランテの【敏捷力】ボーナスに関係なく与えられる。</p>",
+			"description": "<p><strong>即時対応（変則）／Vigilante's Reflexes：</strong></p><p>ヴィジランテはボーナス特技として@Compendium[pf1.feats.h9nHYLxXvIXBTmup]{迎え討ち}を得る。既に@Compendium[pf1.feats.h9nHYLxXvIXBTmup]{迎え討ち}を修得している場合、@Compendium[pf1.feats.h9nHYLxXvIXBTmup]{迎え討ち}を修得した時点で前提条件を満たしていた特技を1つ得る。8レベルと16レベルの時点で、ヴィジランテが1ラウンドに行える機会攻撃の攻撃回数の追加が1回増える。これはヴィジランテの【敏捷力】ボーナスに関係なく与えられる。</p>",
 			"tags": [["不羈の技"]],
 			"classes": [
 				[
