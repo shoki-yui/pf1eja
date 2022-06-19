@@ -102,9 +102,9 @@
 		},
 		{
 			"id": "Gray Maiden Plate",
-			"name": "Gray Maiden Plate",
-			"description": "<p>The Gray Maidens’ distinctive armor is one of their most iconic identifiers. Gray Maiden plate is mechanically identical to full plate, and any effect that functions with full plate functions with Gray Maiden plate. Certain options for Gray Maidens function only when they wear Gray Maiden plate.</p>",
-			"identifiedName": "Gray Maiden Plate"
+			"name": "グレイ・メイデン・プレート",
+			"description": "<p>灰色の乙女の特徴的な鎧は、彼らの最も象徴的なアイデンティティの1つである。グレイ・メイデン・プレートは、機能的にはフルプレートと同様であり、フルプレートに機能する効果はすべてグレイ・メイデン・プレートにも機能する。灰色の乙女の特徴的な選択肢の中には、グレイ・メイデン・プレートを着用している時にのみ機能するものがある。 </p>",
+			"identifiedName": "グレイ・メイデン・プレート"
 		},
 		{
 			"id": "Half-Plate",
@@ -138,21 +138,21 @@
 		},
 		{
 			"id": "Hellknight Half-Plate",
-			"name": "Hellknight Half-Plate",
-			"description": "<p>The armor worn by a Hellknight signifer is a vestment of armored plates, chain, and dark fabric. It functions as half-plate, but it can be donned and removed as though it were medium armor. Any spellcaster who wears this armor is treated as if he were wearing Hellknight plate for the purposes of any feats and effects that require one to be wearing Hellknight plate. This armor includes a signifer mask, though signifer masks can be purchased separately.</p>",
-			"identifiedName": "Hellknight Half-Plate"
+			"name": "ヘルナイト・ハーフプレート",
+			"description": "<p>ヘルナイト・シグニファーが着用している鎧は、装甲板、鎖、暗色の布で構成された鎧である。これはハーフプレートとして機能するが、中装鎧であるかのように着用し取り外すことができる。この鎧を着用した術者はヘルナイト・プレートの着用を必要とする特技や効果の目的でヘルナイト・プレートを着用しているかのように扱われる。この鎧にはシグニファーの仮面が含まれているが、シグニファーの仮面は個別に購入できる。</p>",
+			"identifiedName": "ヘルナイト・ハーフプレート"
 		},
 		{
 			"id": "Hellknight Leather",
-			"name": "Hellknight Leather",
-			"description": "<p>There are instances where wearing full plate armor can jeopardize a Hellknight’s life. Primarily worn by Hellknight sailors, this studded leather armor includes heavy gloves and a helm of sculpted leather designed to look like a skull— either a human’s or that of some aquatic creature. Hellknight leather’s statistics are identical to those of studded leather, except it costs 5 gp more and weighs 5 pounds more.</p>",
-			"identifiedName": "Hellknight Leather"
+			"name": "ヘルナイト・レザー",
+			"description": "<p>フル・プレート・アーマーを着用してしまうとヘルナイトの命を危険にさらす可能性がある。ヘルナイトの船員が主に着用するこのスタデッド・レザー・アーマーには、重い手袋と、頭蓋骨に見えるように――人間または水棲クリーチャーの頭蓋骨のいずれか――デザインされた彫刻のついた革製の兜が含まれている。ヘルナイト・レザーのデータはスタデッド・レザーと同じだが、コストが5GP高く、重量が5ポンド重い。</p>",
+			"identifiedName": "ヘルナイト・レザー"
 		},
 		{
 			"id": "Hellknight Plate",
-			"name": "Hellknight Plate",
-			"description": "<p>These distinctive suits of armor are a special type of masterwork full plate that grant additional effects when worn by a character with levels in the Hellknight prestige class. Apart from its distinctive look (each order of Hellknights has its own style of armor), a suit of Hellknight plate functions the same as a suit of masterwork full plate.</p>",
-			"identifiedName": "Hellknight Plate"
+			"name": "ヘルナイト・プレート",
+			"description": "<p>この特徴的な鎧は、ヘルナイトの上級クラスのレベルを持つキャラクターが着用すると追加の効果を与える高品質のフル・プレートの特殊なものである。ヘルナイト・プレートは、その特徴的な外見を除いて（ヘルナイトの各騎士団には独自の様式がある）、高品質のフル・プレートと同様に機能する。</p>",
+			"identifiedName": "ヘルナイト・プレート"
 		},
 		{
 			"id": "Hide Armor",

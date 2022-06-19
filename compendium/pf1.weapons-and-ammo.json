@@ -918,15 +918,15 @@
 		},
 		{
 			"id": "Elven Leafblade",
-			"name": "Elven Leafblade",
-			"description": "<p><strong>Source</strong> <em>Adventurer's Guide pg. 114</em></p><h3 class=\"framing\"><img src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" title=\"PFS Legal\" style=\"margin:3px 3px 0px 3px;\">詳細</h3><p><strong>市価</strong> 40 gp <strong>重量</strong> 3 ポンド</p><p><strong>ダメージ</strong> 1d3 （小型）、 1d4 （中型）; <strong>クリティカル</strong> 18-20/x2; <strong>射程</strong> -; <strong>タイプ</strong> 刺突または斬撃; <strong>特殊</strong> 本文参照</p><p><strong>区分</strong> 軽い武器; <strong>習熟</strong> 特殊武器</p><h3 class=\"framing\">説明</h3><p>Elves have traditionally eschewed the use of larger weaponry, opting instead for lighter weapons that take advantage of their wielders' agility and poise. The elven curve blade is perhaps the bestknown weapon in this category, but the leafblade (often partnered with the substantially longer thornblade) embraces these fighting styles to an even greater extent. This short sword has a blade reminiscent of a long, narrow leaf and is suitable both for slashing swings and targeted thrusts. These weapons are designed to be wielded alongside elven thornblades. Attacks with an elven leafblade gain a +2 bonus on attack rolls made to confirm critical hits. </p>",
-			"identifiedName": "Elven Leafblade"
+			"name": "エルヴン・リーフブレード",
+			"description": "<p><strong>Source</strong> <em>Adventurer's Guide pg. 114</em></p><h3 class=\"framing\"><img src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" title=\"PFS Legal\" style=\"margin:3px 3px 0px 3px;\">詳細</h3><p><strong>市価</strong> 40 gp <strong>重量</strong> 3 ポンド</p><p><strong>ダメージ</strong> 1d3 （小型）、 1d4 （中型）; <strong>クリティカル</strong> 18-20/x2; <strong>射程</strong> -; <strong>タイプ</strong> 刺突または斬撃; <strong>特殊</strong> 本文参照</p><p><strong>区分</strong> 軽い武器; <strong>習熟</strong> 特殊武器</p><h3 class=\"framing\">説明</h3><p>エルフは伝統的に大きな武器を使わず、代わりに使用者の機敏さと平静を利用するより軽い武器を選んできた。この種の武器ではエルヴン・カーヴ・ブレードが最も有名だが、エルヴン・リーフブレード（多くの場合、エルヴン・ソーンブレードと組み合わせることが多い）は、この戦闘様式をさらに巧みに取り入れたものだ。この短剣は長く細い葉を連想させる刃を持ち、切り裂く一振りと的を絞った突きの両方に適している。この武器はエルヴン・ソーンブレードと一緒に使用するために設計されている。エルヴン・リーフブレードを用いた攻撃は、クリティカル・ヒットを確定するための攻撃ロールに＋2のボーナスを得る。</p>",
+			"identifiedName": "エルヴン・リーフブレード"
 		},
 		{
 			"id": "Elven Thornblade",
-			"name": "Elven Thornblade",
-			"description": "<p><strong>Source</strong> <em>Adventurer's Guide pg. 114</em></p><h3 class=\"framing\"><img src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" title=\"PFS Legal\" style=\"margin:3px 3px 0px 3px;\">詳細</h3><p><strong>市価</strong> 60 gp <strong>重量</strong> 4 ポンド</p><p><strong>ダメージ</strong> 1d4 （小型）、 1d6 （中型）; <strong>クリティカル</strong> 18-20/x2; <strong>射程</strong> -; <strong>タイプ</strong> 刺突または斬撃; <strong>特殊</strong> 本文参照</p><p><strong>区分</strong> 片手武器; <strong>習熟</strong> 特殊武器</p><h3 class=\"framing\">説明</h3><p>This blade is suited for thrusts and parries, making it especially capable of inflicting deep, penetrating wounds. A wielder with Weapon Finesse can apply her Dexterity modifier to attack rolls with an elven thornblade instead of her Strength modifier. An elven thornblade grants no additional benefit when wielded two-handed. In addition, attacks with an elven thornblade gain a +2 bonus on attack rolls made to confirm critical hits.</p>",
-			"identifiedName": "Elven Thornblade"
+			"name": "エルヴン・ソーンブレード",
+			"description": "<p><strong>Source</strong> <em>Adventurer's Guide pg. 114</em></p><h3 class=\"framing\"><img src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" title=\"PFS Legal\" style=\"margin:3px 3px 0px 3px;\">詳細</h3><p><strong>市価</strong> 60 gp <strong>重量</strong> 4 ポンド</p><p><strong>ダメージ</strong> 1d4 （小型）、 1d6 （中型）; <strong>クリティカル</strong> 18-20/x2; <strong>射程</strong> -; <strong>タイプ</strong> 刺突または斬撃; <strong>特殊</strong> 本文参照</p><p><strong>区分</strong> 片手武器; <strong>習熟</strong> 特殊武器</p><h3 class=\"framing\">説明</h3><p>この剣は突きや受け流しに適しており、特に深く突き刺す傷を負わせることができる。使用者が《武器の妙技》を修得しているなら、エルヴン・ソーンブレードを用いた攻撃ロールに【筋力】修正値の代わりに【敏捷力】修正値を適用できる。エルヴン・ソーンブレードは両手で使用しても追加の利益生えられない。加えて、エルヴン・ソーンブレードを用いた攻撃は、クリティカル・ヒットを確定するための攻撃ロールに＋2のボーナスを得る。</p>",
+			"identifiedName": "エルヴン・ソーンブレード"
 		},
 		{
 			"id": "Emei Piercer",

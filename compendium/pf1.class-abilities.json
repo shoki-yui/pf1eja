@@ -682,7 +682,7 @@
 		{
 			"id": "Admixture Subschool",
 			"name": "秘術系統：混合",
-			"description": "<h2>混合の系統 Admixture School</h2><p><strong>関連系統：</strong>力術。</p><p><strong>代替能力：</strong>下記系統能力を力術系統の@Compendium[pf1.class-abilities.OZ1vgybloYDVfWff]{力場のミサイル}と@Compendium[pf1.class-abilities.52vhE9asxPlXIr39]{精霊の壁}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.QqMg8O5rYRKoGtHW]{多才な力術}</li><li>@Compendium[pf1.class-abilities.Uo6HdLirmPk8haqz]{エレメンタル操作}</li></ul>",
+			"description": "<h2>混合の系統 Admixture School</h2><p><strong>関連系統：</strong>@Compendium[pf1.class-abilities.Sy1M5VOCitnDDNKw]{力術}</p><p><strong>代替能力：</strong>下記系統能力を@Compendium[pf1.class-abilities.Sy1M5VOCitnDDNKw]{力術}系統の@Compendium[pf1.class-abilities.OZ1vgybloYDVfWff]{力場のミサイル}と@Compendium[pf1.class-abilities.52vhE9asxPlXIr39]{精霊の壁}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.QqMg8O5rYRKoGtHW]{多才な力術}</li><li>@Compendium[pf1.class-abilities.Uo6HdLirmPk8haqz]{エレメンタル操作}</li></ul>",
 			"tags": [["秘術系統"]],
 			"classes": [
 				[
@@ -904,9 +904,9 @@
 		},
 		{
 			"id": "Agitating Cognizance",
-			"name": "Agitating Cognizance",
-			"description": "",
-			"tags": [],
+			"name": "認知力の煽惑（念術修養：リヴェスン）",
+			"description": "<p><strong>認知力の煽惑（超常）／Agitating Cognizance：</strong></p><p><strong>出典：Adventurer's Guide - リヴェスン</strong></p><p>@Compendium[pf1.class-abilities.mkQwquP0vmcgTaRz]{変態}による変化した姿を維持していない間（新しい姿となるために通常であれば必要となる24時間を含む）、君の心的蓄積の最大ポイント数は1増加する。 </p>",
+			"tags": [["念術修養"]],
 			"classes": [
 				[
 					"サイキック"
@@ -2704,9 +2704,9 @@
 		},
 		{
 			"id": "Aspexia's Mysticism",
-			"name": "Aspexia's Mysticism",
-			"description": "",
-			"tags": [],
+			"name": "アスペシアの神秘論（ローグの技）",
+			"description": "<p><strong>アスペシアの神秘論（変則）／Aspexia's Mysticism：</strong></p><p><strong>出典：Adventurer's Guide - 盗賊評議会</strong></p><p>ローグは初級の心霊技法を習熟している。ローグはボーナス特技として《念術感応》<sup>OA</sup>を得る。 </p>",
+			"tags": [["ローグの技"]],
 			"classes": [
 				[
 					"ローグ"
@@ -3534,7 +3534,7 @@
 		{
 			"id": "Banishment Subschool",
 			"name": "秘術系統：追放",
-			"description": "<h2>追放の系統 Banishment School</h2><p><strong>関連系統：</strong>防御術。</p><p><strong>代替能力：</strong>下記系統能力を防御術系統の@Compendium[pf1.class-abilities.qIFUwyCjea79rUri]{守護の守り}と@Compendium[pf1.class-abilities.EkxAlV7mWUQTMe3q]{エネルギー吸収}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.7QulGFMelZdF9pPl]{不安定な絆}</li><li>@Compendium[pf1.class-abilities.nBCKHaM5edwuFFnk]{追放のオーラ}</li></ul>",
+			"description": "<h2>追放の系統 Banishment School</h2><p><strong>関連系統：</strong>@Compendium[pf1.class-abilities.3j7RxplJSeXVt0X1]{防御術}</p><p><strong>代替能力：</strong>下記系統能力を@Compendium[pf1.class-abilities.3j7RxplJSeXVt0X1]{防御術}系統の@Compendium[pf1.class-abilities.qIFUwyCjea79rUri]{守護の守り}と@Compendium[pf1.class-abilities.EkxAlV7mWUQTMe3q]{エネルギー吸収}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.7QulGFMelZdF9pPl]{不安定な絆}</li><li>@Compendium[pf1.class-abilities.nBCKHaM5edwuFFnk]{追放のオーラ}</li></ul>",
 			"tags": [["秘術系統"]],
 			"classes": [
 				[
@@ -4176,9 +4176,9 @@
 		},
 		{
 			"id": "Better You Than me",
-			"name": "Better You Than me",
-			"description": "",
-			"tags": [],
+			"name": "俺よりあいつだ（騎士団：アスプ）",
+			"description": "<p><strong>俺よりあいつだ（変則）／Better You Than Me：</strong></p><p><strong>出典：Adventurer's Guide - アスピス財団</strong></p><p>15レベルの時点で、キャヴァリアーは割り込みアクションとして、自分に向けられた攻撃に対して隣接する味方を間に挟み、その攻撃に対する遮蔽を得ることができるようになる。攻撃はキャヴァリアーのみを目標としていなければならず、攻撃ロールの結果を確定する前にこの能力を使用するかどうかを選択しなければならない。この味方は@Compendium[pf1.conditions.07JPXUqIPshVnTCL]{怯え状態}かヒット・ダイスがキャヴァリアーのヒット・ダイスの半分以下かのいずれかでなければならず、味方はこの能力を無視するために反応セーヴ（DC＝10＋キャヴァリアー・レベルの半分＋【筋力】修正値または【魅力】修正値のどちらか高い方）を試みることができる。その攻撃が命中した場合、ダメージはキャヴァリアーとその味方との間で均等に分割される。味方のセーヴが出目1だった場合、味方は関連する効果（出血ダメージ、毒など）も含め、ダメージを全て受ける。味方はセーヴィング・スローを故意に失敗することもできるが、自発的に出目1をロールすることはできない。 </p>",
+			"tags": [["騎士団"]],
 			"classes": [
 				[
 					"キャヴァリアー"
@@ -5841,9 +5841,9 @@
 		},
 		{
 			"id": "Burden of the Beast",
-			"name": "Burden of the Beast",
-			"description": "",
-			"tags": [],
+			"name": "獣の負荷（呪術、霊：マンモス）",
+			"description": "<p><strong>獣の負荷（超常）／Burden of the Beast：</strong></p><p><strong>出典：Adventurer's Guide - マンモス諸侯族</strong></p><p>この能力は@Compendium[pf1.class-abilities.gnsoWNJatkJS2ioS]{石の霊}の@Compendium[pf1.class-abilities.17RNuCoXbBMVwpDQ]{加重}能力と同様に機能する。</p><p><strong>加重（超常）／Lodestone：</strong></p><p>シャーマンは30フィート以内にいるクリーチャー1体を重くし、動きを鈍くすることができる。クリーチャーは中荷重の荷物を運んでいるかのように扱われる。クリーチャーが既に中荷重の場合、代わりに重荷重として扱う。クリーチャーが既に重荷重の場合、アーマー・クラスへの最大敏捷度ボーナスは＋0に減少し、鎧による判定ペナルティ－9を受け、移動速度が5フィートに減少する。この効果はシャーマン・レベルに等しいラウンドだけ持続する。意志セーヴィング・スローに成功すればこの効果を無効化できる。この呪術の目標になったクリーチャーは、以後24時間の間この呪術の目標にならない。</p>",
+			"tags": [["呪術（シャーマン）"],["霊（シャーマン）"]],
 			"classes": [
 				[
 					"シャーマン"
@@ -6160,9 +6160,9 @@
 		},
 		{
 			"id": "Careful Stab",
-			"name": "Careful Stab",
-			"description": "",
-			"tags": [],
+			"name": "慎重な突き刺し（ローグの技）",
+			"description": "<p><strong>慎重な突き刺し（変則）／Careful Stab：</strong></p><p><strong>出典：Adventurer's Guide - 盗賊評議会</strong></p><p>この技を持つローグが精密さに基づくダメージでクリーチャーのHPを0未満に減少させた場合、そのクリーチャーのHPを－1のまま@Compendium[pf1.conditions.46ZlrP3X8yCLyMYG]{容態安定状態}にすることを選択できる。</p>",
+			"tags": [["ローグの技"]],
 			"classes": [
 				[
 					"ローグ"
@@ -7032,9 +7032,9 @@
 		},
 		{
 			"id": "Chronicler's Insight",
-			"name": "Chronicler's Insight",
-			"description": "",
-			"tags": [],
+			"name": "年代記編纂者の洞察力（インヴェスティゲーターの技）",
+			"description": "<p><strong>年代記編纂者の洞察力／Chronicler's Insight：</strong></p><p><strong>出典：Adventurer's Guide - パスファインダー協会</strong></p><p>インヴェスティゲーターは、標準アクションとしてパスファインダー年代記を熟読することで、1d4ラウンドの調査をしたかのようにその利益を提供できる。パスファインダー年代記を調査することで、インヴェスティゲーターは@Compendium[pf1.class-abilities.nKbyztRQCU5XMbbs]{閃き}を1回使用して【知力】修正値毎に1時間、その本の利益を適用することができる。そうするなら、持続時間の間、インヴェスティゲーターはその本に関連する@Compendium[pf1.skills.ki0QvL0K7u4YuK0O]{知識}技能に基づく追加の利益を得ることができる。インヴェスティゲーターは一度に1つだけこのような継続的な利益を保持でき、新しい利益を起動すると元の利益は終了する。 </p><ul><li><strong>次元界、自然、宗教、神秘学／Arcana, Nature, Planes, or Religion：</strong>@Compendium[pf1.class-abilities.3WsfpUeW7oe4GOuh]{調査打撃}を行うとき、インヴェスティゲーターの攻撃は関連する@Compendium[pf1.skills.ki0QvL0K7u4YuK0O]{知識}判定に基づいて、以下の特性を持つ武器であるかのようにダメージ減少を克服する。アダマンティン（神秘学）、混沌（次元界）、冷たい鉄（自然）、悪（次元界）、善（次元界）、秩序（次元界）、銀（宗教）。またインヴェスティゲーターは、関連する@Compendium[pf1.skills.ki0QvL0K7u4YuK0O]{知識}判定によって識別可能なクリーチャー（例えば@Compendium[pf1.skills.ki0QvL0K7u4YuK0O]{知識：次元界}による来訪者など）に対するセーヴィング・スローに＋1の洞察ボーナスを得る。 </li><li><strong>ダンジョン探検／Dungeoneering：</strong>インヴェスティゲーターは、急所攻撃に完全耐性を持つクリーチャーに対して、@Compendium[pf1.class-abilities.3WsfpUeW7oe4GOuh]{調査打撃}のダメージの半分を与えることができる。 </li><li><strong>工学／Engineering：</strong>鍵を開けるための@Compendium[pf1.skills.CCy1fajKKU3K02iQ]{装置無力化}判定あるいは隠された小部屋を見つけるための@Compendium[pf1.skills.YYmmxDgp0g3ltSUG]{知覚}判定に@Compendium[pf1.class-abilities.nKbyztRQCU5XMbbs]{閃き}を使用するとき、インヴェスティゲーターは判定にレベルの1／3に等しい状況ボーナスを得る。 </li><li><strong>地理／Geography：</strong>インヴェスティゲーターは部分遮蔽、完全遮蔽、良好な遮蔽から得るACと反応セーヴィング・スローへのボーナスを1だけ増加させる。 </li><li><strong>歴史／History：</strong>インヴェスティゲーターは@Compendium[pf1.class-abilities.nKbyztRQCU5XMbbs]{閃き}を費やすことなく、全ラウンド・アクションとして24時間以内に2回目の@Compendium[pf1.class-abilities.nVwveeNV71Bg7YnY]{調査戦闘}を使用して敵を調査することができる。@Compendium[pf1.class-abilities.nVwveeNV71Bg7YnY]{調査戦闘}のその後の使用は通常通り@Compendium[pf1.class-abilities.nKbyztRQCU5XMbbs]{閃き}を必要とする。 </li><li><strong>地域／Local：</strong>フェイントのための@Compendium[pf1.skills.pAB2PYkZO3lsmeaC]{はったり}判定、情報収集のための@Compendium[pf1.skills.OtfbHJhIQsNzmiTN]{交渉}判定、クリーチャーの態度を改善するための@Compendium[pf1.skills.ImjhcPmm02QSCbPg]{威圧}判定に@Compendium[pf1.class-abilities.nKbyztRQCU5XMbbs]{閃き}を使用するとき、インヴェスティゲーターは判定にレベルの1／3に等しい状況ボーナスを得る。 </li><li><strong>貴族／Nobility：</strong>嘘をつくための@Compendium[pf1.skills.pAB2PYkZO3lsmeaC]{はったり}判定、好意を要求するための@Compendium[pf1.skills.OtfbHJhIQsNzmiTN]{交渉}判定、士気をくじくための@Compendium[pf1.skills.ImjhcPmm02QSCbPg]{威圧}判定に@Compendium[pf1.class-abilities.nKbyztRQCU5XMbbs]{閃き}を使用するとき、インヴェスティゲーターは判定にレベルの1／3に等しい状況ボーナスを得る。 </li></ul>",
+			"tags": [["インヴェスティゲーターの技"]],
 			"classes": [
 				[
 					"インヴェスティゲーター"
@@ -7741,9 +7741,9 @@
 		},
 		{
 			"id": "Command the Meek",
-			"name": "Command the Meek",
-			"description": "",
-			"tags": [],
+			"name": "屈従の命令（騎士団：アスプ）",
+			"description": "<p><strong>屈従の命令（変則）／Command the Meek：</strong></p><p><strong>出典：Adventurer's Guide - アスピス財団</strong></p><p>8レベルの時点で、キャヴァリアーは自分がチームワーク特技からボーナスを得るかどうかを判断する目的において、@Compendium[pf1.conditions.07JPXUqIPshVnTCL]{怯え状態}のすべての味方が自分と同じチームワーク特技を持っているものとして扱う。味方は実際に特技を持っていない限り、これらの特技によるボーナスを得ることはない。キャヴァリアーがチームワーク特技にあるボーナスを得るには、味方の位置とアクションが記載された前提条件を満たしていなければならない。キャヴァリアーが@Compendium[pf1.class-abilities.YKyAQ2o5Yzox79B8]{戦術家}、@Compendium[pf1.class-abilities.ikVwT8b9zfj701k1]{上級戦術家}または@Compendium[pf1.class-abilities.mrJ61WiA6PuZgPTJ]{達人戦術家}を使用する場合、キャヴァリアーのヒット・ダイスの半分以下のクリーチャーと、能力を起動したときに@Compendium[pf1.conditions.07JPXUqIPshVnTCL]{怯え状態}のクリーチャーに対する持続時間は2倍になる。 </p>",
+			"tags": [["騎士団"]],
 			"classes": [
 				[
 					"キャヴァリアー"
@@ -8218,7 +8218,7 @@
 		{
 			"id": "Controller Subschool",
 			"name": "秘術系統：制御者",
-			"description": "<h2>制御者の系統 Controller School</h2><p><strong>関連系統：</strong>心術。</p><p><strong>代替能力：</strong>下記系統能力を心術系統の@Compendium[pf1.class-abilities.wnb7IxOCmhk4SXzR]{魅惑的な微笑み}と@Compendium[pf1.class-abilities.75Y2PY8Uha3o0fHE]{絶望のオーラ}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.WTa2ReRBiF6meIzM]{意志の力}</li><li>@Compendium[pf1.class-abilities.aVMtWqERshuxhmr6]{抵抗できない要求}</li></ul>",
+			"description": "<h2>制御者の系統 Controller School</h2><p><strong>関連系統：</strong>@Compendium[pf1.class-abilities.DtpcqOC89tTG3QkO]{心術}</p><p><strong>代替能力：</strong>下記系統能力を@Compendium[pf1.class-abilities.DtpcqOC89tTG3QkO]{心術}系統の@Compendium[pf1.class-abilities.wnb7IxOCmhk4SXzR]{魅惑的な微笑み}と@Compendium[pf1.class-abilities.75Y2PY8Uha3o0fHE]{絶望のオーラ}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.WTa2ReRBiF6meIzM]{意志の力}</li><li>@Compendium[pf1.class-abilities.aVMtWqERshuxhmr6]{抵抗できない要求}</li></ul>",
 			"tags": [["秘術系統"]],
 			"classes": [
 				[
@@ -8408,7 +8408,7 @@
 		{
 			"id": "Counterspell Subschool",
 			"name": "秘術系統：呪文相殺",
-			"description": "<h2>呪文相殺の系統 Counterspell School</h2><p><strong>関連系統：</strong>防御術。</p><p><strong>代替能力：</strong>下記系統能力を防御術系統の@Compendium[pf1.class-abilities.qIFUwyCjea79rUri]{守護の守り}と@Compendium[pf1.class-abilities.EkxAlV7mWUQTMe3q]{エネルギー吸収}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.ZgzF1CxwvRBQX8xN]{中断}</li><li>@Compendium[pf1.class-abilities.XuRBVEMC7oaHPR9V]{呪文相殺体得}</li></ul>",
+			"description": "<h2>呪文相殺の系統 Counterspell School</h2><p><strong>関連系統：</strong>@Compendium[pf1.class-abilities.3j7RxplJSeXVt0X1]{防御術}</p><p><strong>代替能力：</strong>下記系統能力を@Compendium[pf1.class-abilities.3j7RxplJSeXVt0X1]{防御術}系統の@Compendium[pf1.class-abilities.qIFUwyCjea79rUri]{守護の守り}と@Compendium[pf1.class-abilities.EkxAlV7mWUQTMe3q]{エネルギー吸収}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.ZgzF1CxwvRBQX8xN]{中断}</li><li>@Compendium[pf1.class-abilities.XuRBVEMC7oaHPR9V]{呪文相殺体得}</li></ul>",
 			"tags": [["秘術系統"]],
 			"classes": [
 				[
@@ -8507,7 +8507,7 @@
 		{
 			"id": "Creation Subschool",
 			"name": "秘術系統：創造",
-			"description": "<h2>創造の系統 Creation School</h2><p><strong>関連系統：</strong>召喚術。</p><p><strong>代替能力：</strong>下記系統能力を召喚術系統の@Compendium[pf1.class-abilities.biOw5dSbJGsGVFwN]{酸の矢}と@Compendium[pf1.class-abilities.cdre9IojG8R7LJLC]{次元またぎ}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.Ih0QO6eZ3XmrDkQS]{装具の創造}</li><li>@Compendium[pf1.class-abilities.HMmsaPUiNgB5Xa8u]{創造主の意志}</li></ul>",
+			"description": "<h2>創造の系統 Creation School</h2><p><strong>関連系統：</strong>@Compendium[pf1.class-abilities.1Mut8aiSxsfRO8Xd]{召喚術}</p><p><strong>代替能力：</strong>下記系統能力を@Compendium[pf1.class-abilities.1Mut8aiSxsfRO8Xd]{召喚術}系統の@Compendium[pf1.class-abilities.biOw5dSbJGsGVFwN]{酸の矢}と@Compendium[pf1.class-abilities.cdre9IojG8R7LJLC]{次元またぎ}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.Ih0QO6eZ3XmrDkQS]{装具の創造}</li><li>@Compendium[pf1.class-abilities.HMmsaPUiNgB5Xa8u]{創造主の意志}</li></ul>",
 			"tags": [["秘術系統"]],
 			"classes": [
 				[
@@ -9975,9 +9975,9 @@
 		},
 		{
 			"id": "Deception Subschool",
-			"name": "Deception Subschool",
-			"description": "",
-			"tags": [],
+			"name": "秘術系統：欺瞞",
+			"description": "<h2>欺瞞の系統 Deception School</h2><p><strong>出典：Adventurer's Guide - アスピス財団</strong></p><p><strong>関連系統：</strong>@Compendium[pf1.class-abilities.xKyCz5YIEJFBQICl]{幻術}</p><p><strong>代替能力：</strong>下記系統能力を@Compendium[pf1.class-abilities.xKyCz5YIEJFBQICl]{幻術}系統の@Compendium[pf1.class-abilities.xHg1RuRmKpSKbSsd]{盲目の光線}と@Compendium[pf1.class-abilities.pDaXowPKX4scZL0E]{幻術の延長}の能力と入れ替える。 </p><ul><li>@Compendium[pf1.class-abilities.TF9JLx9PwVnN5QPx]{欺瞞の身振り}</li><li>@Compendium[pf1.class-abilities.OWWDDPpcBLyZAXAr]{とらえがたき誤誘導}</li></ul>",
+			"tags": [["秘術系統"]],
 			"classes": [
 				[
 					"ウィザード"
@@ -9986,9 +9986,9 @@
 		},
 		{
 			"id": "Deceptive Flourish",
-			"name": "Deceptive Flourish",
-			"description": "",
-			"tags": [],
+			"name": "欺瞞の身振り（秘術系統：欺瞞）",
+			"description": "<p><strong>欺瞞の身振り（超常）／Deceptive Flourish：</strong></p><p><strong>出典：Adventurer's Guide - アスピス財団</strong></p><p>君は@Compendium[pf1.skills.pAB2PYkZO3lsmeaC]{はったり}と@Compendium[pf1.skills.lP3L1RXi9q4ha9Gu]{変装}の技能判定に＋2の強化ボーナスを得る。このボーナスはウィザード・レベル5毎に1ずつ増加し、20レベルの時点で最大の＋6となる。20レベルの時点で、君は@Compendium[pf1.spells.8nrt26t37v7koqr8]{ミスディレクション}（意志セーヴDC＝20＋【知力】修正値）または@Compendium[pf1.spells.awia42zci8nufpfl]{ノンディテクション}の利益を永続的に得る。君は回数無制限で、標準アクションとして、この呪文2つのどちらを発動するかを変更できる。また、君が@Compendium[pf1.spells.8nrt26t37v7koqr8]{ミスディレクション}を発動するたび、新しいクリーチャー1体または物体1つを第2の物体として選択できる。 </p>",
+			"tags": [["秘術系統"]],
 			"classes": [
 				[
 					"ウィザード"
@@ -10911,9 +10911,9 @@
 		},
 		{
 			"id": "Didactic Strike",
-			"name": "Didactic Strike",
-			"description": "",
-			"tags": [],
+			"name": "教訓打撃（インヴェスティゲーターの技）",
+			"description": "<p><strong>教訓打撃／Didactic Strike：</strong></p><p><strong>出典：Adventurer's Guide - パスファインダー協会</strong></p><p>インヴェスティゲーターが@Compendium[pf1.class-abilities.3WsfpUeW7oe4GOuh]{調査打撃}を起動する際、@Compendium[pf1.class-abilities.nVwveeNV71Bg7YnY]{調査戦闘}を終了して@Compendium[pf1.class-abilities.3WsfpUeW7oe4GOuh]{調査打撃}のダメージを与えないことを選択できる。そうすることで、インヴェスティゲーターは自分を見ることのできる30フィート以内の味方全てに目標の弱点を示すことができる。インヴェスティゲーターの次のターンの開始時まで、影響を受けた味方が命中させた最初の攻撃は、インヴェスティゲーターのレベルの1／3に等しい追加ダメージを与える。インヴェスティゲーターは割り込みアクションとしてこの効果を終了させることで、影響を受けた味方の最初の攻撃にインヴェスティゲーターの@Compendium[pf1.class-abilities.3WsfpUeW7oe4GOuh]{調査打撃}によるダメージを与えることができる。この追加ダメージは精密さに基づくダメージであり、急所攻撃に完全耐性を持つクリーチャーには影響しない。 </p>",
+			"tags": [["インヴェスティゲーターの技"]],
 			"classes": [
 				[
 					"インヴェスティゲーター"
@@ -14201,7 +14201,7 @@
 		{
 			"id": "Enhancement Subschool",
 			"name": "秘術系統：強化",
-			"description": "<h2>強化の系統 Enhancement School</h2><p><strong>関連系統：</strong>変成術。</p><p><strong>代替能力：</strong>下記系統能力を変成術系統の@Compendium[pf1.class-abilities.x48O0CAEs10yL68R]{念動の拳}と@Compendium[pf1.class-abilities.A3KJJHMNlAjUzcx6]{形態変化}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.u7r3RkiMNAhv9I2d]{増大}</li><li>@Compendium[pf1.class-abilities.qzCj0dGiKmIMw4wf]{自身の完成}</li></ul>",
+			"description": "<h2>強化の系統 Enhancement School</h2><p><strong>関連系統：</strong>@Compendium[pf1.class-abilities.vDbEHvI9kgPiz4Za]{変成術}</p><p><strong>代替能力：</strong>下記系統能力を@Compendium[pf1.class-abilities.vDbEHvI9kgPiz4Za]{変成術}系統の@Compendium[pf1.class-abilities.x48O0CAEs10yL68R]{念動の拳}と@Compendium[pf1.class-abilities.A3KJJHMNlAjUzcx6]{形態変化}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.u7r3RkiMNAhv9I2d]{増大}</li><li>@Compendium[pf1.class-abilities.qzCj0dGiKmIMw4wf]{自身の完成}</li></ul>",
 			"tags": [["秘術系統"]],
 			"classes": [
 				[
@@ -17646,7 +17646,7 @@
 		{
 			"id": "Foresight Subschool",
 			"name": "秘術系統：洞察",
-			"description": "<h2>洞察の系統 Foresight School</h2><p><strong>関連系統：</strong>占術。</p><p><strong>代替能力：</strong>下記系統能力を占術系統の@Compendium[pf1.class-abilities.mITkHIcXI1Sfax21]{占術士の幸運}と@Compendium[pf1.class-abilities.ID7tKA56K3gOoWBM]{念視の達人}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.kYewJH9317exDQ6q]{予知}</li><li>@Compendium[pf1.class-abilities.vQ6i4zS5T7z1UNOM]{予言}</li></ul>",
+			"description": "<h2>洞察の系統 Foresight School</h2><p><strong>関連系統：</strong>@Compendium[pf1.class-abilities.ctFPHquS2GydVoZV]{占術}</p><p><strong>代替能力：</strong>下記系統能力を@Compendium[pf1.class-abilities.ctFPHquS2GydVoZV]{占術}系統の@Compendium[pf1.class-abilities.mITkHIcXI1Sfax21]{占術士の幸運}と@Compendium[pf1.class-abilities.ID7tKA56K3gOoWBM]{念視の達人}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.kYewJH9317exDQ6q]{予知}</li><li>@Compendium[pf1.class-abilities.vQ6i4zS5T7z1UNOM]{予言}</li></ul>",
 			"tags": [["秘術系統"]],
 			"classes": [
 				[
@@ -17832,9 +17832,9 @@
 		},
 		{
 			"id": "Founders' Blessing",
-			"name": "Founders' Blessing",
-			"description": "",
-			"tags": [],
+			"name": "創設者の祝福（ローグの上級の技）",
+			"description": "<p><strong>創設者の祝福／Founders' Blessing：</strong></p><p><strong>出典：Adventurer's Guide - 盗賊評議会</strong></p><p>ローグは盗賊評議会の神秘的な遺産を呼び出すことができる。1日1回、自分がランクを割り振っていない技能を1つ選択できる。この神秘的な霊と交信するのに10分間を費やすと、霊はその技能にローグ・レベルに等しい幸運ボーナスを与え、訓練済みであるかのようにその技能を用いた判定を試みることができる。創設者の祝福は8時間の間継続する。 </p>",
+			"tags": [["ローグの上級の技"]],
 			"classes": [
 				[
 					"ローグ"
@@ -18318,7 +18318,7 @@
 		{
 			"id": "Generation Subschool",
 			"name": "秘術系統：生成",
-			"description": "<h2>生成の系統 Generation School</h2><p><strong>関連系統：</strong>力術。</p><p><strong>代替能力：</strong>下記系統能力を力術系統の@Compendium[pf1.class-abilities.mv9UJny1ud4EYKTj]{強き呪文}と@Compendium[pf1.class-abilities.OZ1vgybloYDVfWff]{力場のミサイル}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.ei3z5reJYduGyrrC]{長引く力術}</li><li>@Compendium[pf1.class-abilities.fP8eQtvrzz3zTseu]{風の従者}</li></ul>",
+			"description": "<h2>生成の系統 Generation School</h2><p><strong>関連系統：</strong>@Compendium[pf1.class-abilities.Sy1M5VOCitnDDNKw]{力術}</p><p><strong>代替能力：</strong>下記系統能力を@Compendium[pf1.class-abilities.Sy1M5VOCitnDDNKw]{力術}系統の@Compendium[pf1.class-abilities.mv9UJny1ud4EYKTj]{強き呪文}と@Compendium[pf1.class-abilities.OZ1vgybloYDVfWff]{力場のミサイル}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.ei3z5reJYduGyrrC]{長引く力術}</li><li>@Compendium[pf1.class-abilities.fP8eQtvrzz3zTseu]{風の従者}</li></ul>",
 			"tags": [["秘術系統"]],
 			"classes": [
 				[
@@ -19575,9 +19575,9 @@
 		},
 		{
 			"id": "Greater Spirit Channeling",
-			"name": "Greater Spirit Channeling",
-			"description": "",
-			"tags": [],
+			"name": "上級霊との交信（念術修養：リヴェスン）",
+			"description": "<p><strong>上級霊との交信（超常）／Greater Spirit Channeling：</strong></p><p><strong>出典：Adventurer's Guide - リヴェスン</strong></p><p>13レベルの時点で、君が浮遊霊に身体を解放する際、@Compendium[pf1.class-abilities.mkQwquP0vmcgTaRz]{変態}した姿である限り、浮遊霊の強化霊に記載されている能力も得る。 </p>",
+			"tags": [["念術修養"]],
 			"classes": [
 				[
 					"サイキック"
@@ -20030,9 +20030,9 @@
 		},
 		{
 			"id": "Hairpin Trick",
-			"name": "Hairpin Trick",
-			"description": "",
-			"tags": [],
+			"name": "ヘアピンでの技（ローグの技）",
+			"description": "<p><strong>ヘアピンでの技（変則）／Hairpin Trick：</strong></p><p><strong>出典：Adventurer's Guide - 盗賊評議会</strong></p><p>ローグは自身が見つけたものでなんとかすることに長けている。代用の道具を使用する場合@Compendium[pf1.skills.CCy1fajKKU3K02iQ]{装置無力化}でペナルティを受けず、道具がない場合でも－4のペナルティを受けて判定を試みることができる。代用ではない盗賊道具を全て高品質として扱い、高品質の盗賊道具から得られるボーナスは＋2から＋4へと倍増する。 </p>",
+			"tags": [["ローグの技"]],
 			"classes": [
 				[
 					"ローグ"
@@ -22173,9 +22173,9 @@
 		},
 		{
 			"id": "Indiscriminate",
-			"name": "Indiscriminate",
-			"description": "",
-			"tags": [],
+			"name": "無差別に士気をくじく（騎士団：アスプ）",
+			"description": "<p><strong>無差別に士気をくじく（変則）／Indiscriminate：</strong></p><p><strong>出典：Adventurer's Guide - アスピス財団</strong></p><p>2レベルの時点で、アスプ騎士団のキャヴァリアーが1体以上のクリーチャーの士気をくじくために@Compendium[pf1.skills.ImjhcPmm02QSCbPg]{威圧}を使用する際、フリー・アクションとして30フィート以内の同数の味方の士気をくじくことを試みることができる。@Compendium[pf1.conditions.07JPXUqIPshVnTCL]{怯え状態}の味方から30フィート以内にいる間、キャヴァリアーはセーヴィング・スローに＋1の士気ボーナスを得る。6レベルの時点と以降6レベル毎に、このボーナスは1ずつ増加する。キャヴァリアーは@Compendium[pf1.conditions.07JPXUqIPshVnTCL]{怯え状態}のクリーチャーに対して、機会攻撃を誘発することなく裏技の戦技を試みることができる。 </p>",
+			"tags": [["騎士団"]],
 			"classes": [
 				[
 					"キャヴァリアー"
@@ -24053,9 +24053,9 @@
 		},
 		{
 			"id": "Knockout Queen",
-			"name": "Knockout Queen",
-			"description": "",
-			"tags": [],
+			"name": "気絶の女王（ローグの技）",
+			"description": "<p><strong>気絶の女王（変則）／Knockout Queen：</strong></p><p><strong>出典：Adventurer's Guide - 盗賊評議会</strong></p><p>サブリユヌはドラウの毒を迅速に製造する秘法を伝えている。1日1回、ローグは1服分につき25GPを費やすことで、ドラウの毒を複数服分生成できる。作成する服用数に関係なく、この処理には30分の作業が必要である。ローグは3ローグ・レベル毎に1服分（最小1服分）しかこの毒を作ることはできない。この方法でドラウの毒を作成する場合、技能判定は必要ないが、作成した毒は24時間以内に使用しない限り効果を失う（このように効果を失うということは、疑いを持たない商人に利益を得ようとこの毒を売却すると、望ましくない影響と報復を受ける可能性があるということだ！）。 </p>",
+			"tags": [["ローグの技"]],
 			"classes": [
 				[
 					"ローグ"
@@ -24917,7 +24917,7 @@
 		{
 			"id": "Life Subschool",
 			"name": "秘術系統：生命",
-			"description": "<h2>生命の系統 Life School</h2><p><strong>関連系統：</strong>死霊術。</p><p><strong>代替能力：</strong>下記系統能力を死霊術系統の@Compendium[pf1.class-abilities.jI66IOBVloeSyeGz]{不死者を超える力}と@Compendium[pf1.class-abilities.1XDvZLP9UPjr1glZ]{死の接触}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.QR23m2NMKvwnLKh4]{治癒の恩恵}</li><li>@Compendium[pf1.class-abilities.YzrlG02loZdwCJwV]{精髄の分配}</li></ul>",
+			"description": "<h2>生命の系統 Life School</h2><p><strong>関連系統：</strong>@Compendium[pf1.class-abilities.ZuFI7iaKeWv3n5pA]{死霊術}</p><p><strong>代替能力：</strong>下記系統能力を@Compendium[pf1.class-abilities.ZuFI7iaKeWv3n5pA]{死霊術}系統の@Compendium[pf1.class-abilities.jI66IOBVloeSyeGz]{不死者を超える力}と@Compendium[pf1.class-abilities.1XDvZLP9UPjr1glZ]{死の接触}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.QR23m2NMKvwnLKh4]{治癒の恩恵}</li><li>@Compendium[pf1.class-abilities.YzrlG02loZdwCJwV]{精髄の分配}</li></ul>",
 			"tags": [["秘術系統"]],
 			"classes": [
 				[
@@ -26231,9 +26231,9 @@
 		},
 		{
 			"id": "Mammoth Hide",
-			"name": "Mammoth Hide",
-			"description": "",
-			"tags": [],
+			"name": "マンモスの革（呪術、霊：マンモス）",
+			"description": "<p><strong>マンモスの革（超常）／Mammoth's Hide：</strong></p><p><strong>出典：Adventurer's Guide - マンモス諸侯族</strong></p><p>シャーマンは同意する味方に接触し、その皮膚を厚くして、毛むくじゃらの太い毛を生やすことができる。クリーチャーは10分間の間、外皮に対する＋2の強化ボーナスと［氷雪］に対する抵抗5を得る。9レベルの時点で、強化ボーナスは＋3に、［氷雪］に対する抵抗は10に増加する。15レベルの時点で、この強化ボーナスは＋4に、［氷雪］に対する抵抗は15に増加する。シャーマンはこの能力を1日に3＋【魅力】ボーナスに等しい回数だけ使用できる。 </p>",
+			"tags": [["呪術（シャーマン）"],["霊（シャーマン）"]],
 			"classes": [
 				[
 					"シャーマン"
@@ -26242,9 +26242,9 @@
 		},
 		{
 			"id": "Mammoth Spirit",
-			"name": "Mammoth Spirit",
-			"description": "",
-			"tags": [],
+			"name": "霊：マンモス",
+			"description": "<h2>マンモス Mammoth Spirit</h2><p><strong>出典：Adventurer's Guide - マンモス諸侯族</strong></p><p>マンモスの守護霊を選択したシャーマンは、異常に背が高く、がっしりとしていて、太いぼさぼさの髪をしている。この守護霊の特殊能力を使うと、筋肉が波打ち、たわみ、身長は以前よりも更に大きくなったように見える。特に最も強力な能力を使ったときには、マンモスの守護霊のような映像が目に見えるオーラとして周囲に浮かび上がるように見えることがある。 </p><p><strong>霊魔法の呪文：</strong></p><ul><li>@Compendium[pf1.spells.jnlr9cuepka1l26e]{エンラージ・パースン}（1レベル）</li><li>@Compendium[pf1.spells.05i5rxwim12hwktu]{ブルズ・ストレンクス}（2レベル）</li><li>@Compendium[pf1.spells.8u1xa5javcxc6szk]{レイジ}（3レベル）</li><li>@Compendium[pf1.spells.knyako6zopc1chrv]{ストーンスキン}（4レベル）</li><li>@Compendium[pf1.spells.w88ddxpu89qcr5c0]{ビースト・シェイプIII}（5レベル）</li><li>@Compendium[pf1.spells.hzkaqaa8n6ygwmub]{タール・プール}（6レベル）</li><li>@Compendium[pf1.spells.jjmoi5qbwkbguzbn]{サモン・ネイチャーズ・アライVII}（7レベル）</li><li>@Compendium[pf1.spells.ukacuu0cvdjkqxwu]{フライトフル・アスペクト}（8レベル）</li><li>@Compendium[pf1.spells.0mt9mso6wdhfafpo]{ポーラー・ミッドナイト}（9レベル）</li></ul><p><strong>呪術：</strong>マンモスの守護霊を選択するシャーマンは以下の呪術から選択できる。 </p><ul><li>@Compendium[pf1.class-abilities.fTlAZE3Gh9COU5rM]{獣の負荷}</li><li>@Compendium[pf1.class-abilities.OE15Hyd0eKiASGYG]{マンモスの革}</li><li>@Compendium[pf1.class-abilities.nobSUj4dEl72p0xd]{霊の殺到}</li><li>@Compendium[pf1.class-abilities.JJqoLGcu8c5thD6D]{始原の話し手}</li><li>@Compendium[pf1.class-abilities.ewsbOhLHdfrWARvd]{雷の如き足}</li></ul><p><strong>霊獣：</strong>シャーマンの霊獣は、この種の通常の動物よりも原始的で先史時代に住んでいるように見える。霊獣は【筋力】に＋2の体得ボーナスを得る。真霊能力を用いてメガファウナの相棒として顕現すると、霊獣はこのボーナスを失う（133ページ参照）。 </p><p><strong>霊能力：</strong>マンモスの霊を自身の霊あるいは浮遊霊として選択したシャーマンは、以下の能力を得る。 </p><ul><li>@Compendium[pf1.class-abilities.BcEPgCcl1sBMrjoV]{強力なぶん殴り}</li></ul><p><strong>強化霊能力：</strong>マンモスの霊を自身の霊あるいは浮遊霊として選択したシャーマンは、その霊の上級版を使用できるようになったときに以下の能力を得る。 </p><ul><li><strong>獣の筋力（変則）／Strength of the Beast：</strong>シャーマンは【筋力】値に＋2の強化ボーナスを得る。このボーナスは以降6シャーマン・レベル毎に2ずつ増加する（霊は14レベルと20レベル、浮遊霊は18レベル）。 </li></ul><p><strong>真霊能力：</strong>マンモスの霊を自身の霊あるいは浮遊霊として選択したシャーマンは、その霊の真霊版を使用できるようになったときに以下の能力を得る。 </p><ul><li>@Compendium[pf1.class-abilities.Hfa9n565cXpJcmab]{メガファウナの相棒}</li></ul><p><strong>顕現：</strong>@Compendium[pf1.class-abilities.mSipe4l5BWXZivZQ]{顕現：マンモス}</p>",
+			"tags": [["霊（シャーマン）"]],
 			"classes": [
 				[
 					"シャーマン"
@@ -26253,9 +26253,9 @@
 		},
 		{
 			"id": "Mammoth Spirit Manifestation",
-			"name": "Mammoth Spirit Manifestation",
-			"description": "",
-			"tags": [],
+			"name": "顕現：マンモス（霊：マンモス）",
+			"description": "<p><strong>出典：Adventurer's Guide - マンモス諸侯族</strong></p><p>20レベルの時点で、シャーマンはメガファウナあるいはエレファントの見出しの一覧にある任意の動物に変身できるようになる。この能力は@Compendium[pf1.spells.br37848gchetel0q]{ビースト・シェイプIV}として機能するが、シャーマンは好きなだけ能力を起動および解除でき、持続時間は永続である。 </p>",
+			"tags": [["霊（シャーマン）"]],
 			"classes": [
 				[
 					"シャーマン"
@@ -26364,7 +26364,7 @@
 		{
 			"id": "Manipulator Subschool",
 			"name": "秘術系統：操縦者",
-			"description": "<h2>操縦者の系統 Manipulator School</h2><p><strong>関連系統：</strong>心術。</p><p><strong>代替能力：</strong>下記系統能力を心術系統の@Compendium[pf1.class-abilities.rO2rMMlGeDdyIxJv]{幻惑の接触}と@Compendium[pf1.class-abilities.75Y2PY8Uha3o0fHE]{絶望のオーラ}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.wa9VINqzFWWOnS6g]{魅力的な接触}</li><li>@Compendium[pf1.class-abilities.Lz9i4zNAH50umw3s]{感情形成}</li></ul>",
+			"description": "<h2>操縦者の系統 Manipulator School</h2><p><strong>関連系統：</strong>@Compendium[pf1.class-abilities.DtpcqOC89tTG3QkO]{心術}</p><p><strong>代替能力：</strong>下記系統能力を@Compendium[pf1.class-abilities.DtpcqOC89tTG3QkO]{心術}系統の@Compendium[pf1.class-abilities.rO2rMMlGeDdyIxJv]{幻惑の接触}と@Compendium[pf1.class-abilities.75Y2PY8Uha3o0fHE]{絶望のオーラ}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.wa9VINqzFWWOnS6g]{魅力的な接触}</li><li>@Compendium[pf1.class-abilities.Lz9i4zNAH50umw3s]{感情形成}</li></ul>",
 			"tags": [["秘術系統"]],
 			"classes": [
 				[
@@ -26908,9 +26908,9 @@
 		},
 		{
 			"id": "Megafauna Companion",
-			"name": "Megafauna Companion",
-			"description": "",
-			"tags": [],
+			"name": "メガファウナの相棒（霊：マンモス）",
+			"description": "<p><strong>メガファウナの相棒（超常）／Megafauna Companion：</strong></p><p><strong>出典：Adventurer's Guide - マンモス諸侯族</strong></p><p>シャーマンの霊獣は、シャーマン・レベルを有効ドルイド・レベルとしてメガファウナの動物の相棒に変身する。シャーマンはアルシノイテリウム<sup>B2</sup>、ウインタテリウム<sup>B5</sup>、エラスモテリウム<sup>B6</sup>、カリコテリウム<sup>B5</sup>、グリプトドン<sup>B2</sup>、デイノテリウム<sup>B6</sup>、バルキテリウム<sup>B3</sup>、ブロントテリウム<sup>B6</sup>、マストドン、メガテリウム<sup>B2</sup>、メガロセロス<sup>B2</sup>、その他の哺乳類のメガファウナ（ほとんどのダイア・アニマルを含む）のいずれかから選択しなければならない。メガファウナの動物の相棒は【知力】と@Compendium[pf1.class-abilities.gxNLi0faH5Jg4EHw]{霊獣}のクラス特徴から得られる特殊能力を保持するが、動物の相棒のデータと能力も持つ。動物の相棒を送還したり、失ったり、死亡したりした場合、通常の@Compendium[pf1.class-abilities.gxNLi0faH5Jg4EHw]{霊獣}と同じ方法で交換することができる。 </p>",
+			"tags": [["霊（シャーマン）"]],
 			"classes": [
 				[
 					"シャーマン"
@@ -27293,9 +27293,9 @@
 		},
 		{
 			"id": "Metmorphosis",
-			"name": "Metmorphosis",
-			"description": "",
-			"tags": [],
+			"name": "変態（念術修養：リヴェスン）",
+			"description": "<p><strong>変態（超常）／Metamorphosis：</strong></p><p><strong>出典：Adventurer's Guide - リヴェスン</strong></p><p>君は1時間瞑想することで、ゆっくりとした身体的な変態を引き起こすことができる。この変化は完了するまでに24時間かかり、この期間、君は新しい姿の利益を得られない。この能力は、君の種別や副種別を変更したり、新しい能力や肉体武器を与えたり、サイズ段階を変更したりすることはできないが、それ以外については、君の種別や副種別のクリーチャーが可能なあらゆる姿に変わることができる。この変化した姿でいる間、君は選択した1つの物理的能力値（【筋力】、【敏捷力】、【耐久力】）に＋1の強化ボーナスを得る。このボーナスは君のサイキック・レベル5毎に1ずつ増加する。君の姿と能力値へのボーナスは、君が新しい姿となるか、現在変更している姿が終了するまで持続する。変態を始めるために瞑想する時、君の@Compendium[pf1.class-abilities.tFy3rxyljSq56HSg]{心的蓄積}から1ポイントを消費することで、自身のサイズ段階を小型または中型に変更するか、@Compendium[pf1.spells.kouqz0pm1xl8xilm]{オルター・セルフ}呪文によって提供される新しい能力値1つを得るかのいずれかを選択することができる。そうするなら、変化した姿はレベル毎に1時間しか継続しない。 </p>",
+			"tags": [["念術修養"]],
 			"classes": [
 				[
 					"サイキック"
@@ -29619,9 +29619,9 @@
 		},
 		{
 			"id": "Order of the Asp",
-			"name": "Order of the Asp",
-			"description": "",
-			"tags": [],
+			"name": "騎士団：アスプ",
+			"description": "<h2>アスプ騎士団 Order of the Asp</h2><p><strong>出典：Adventurer's Guide - アスピス財団</strong></p><p>アスプ騎士団に属するキャヴァリアーは、冷酷な実利主義に従い、裏取引が指揮系統に昇格するための鍵となる、熾烈な組織に属している。彼らは残忍で自己中心的な指導者であり、部下の不幸を見て自信を得ることを好む。 </p><p><strong>布告：</strong>アスプ騎士団のキャヴァリアーは、自身と後援者の名声、富、権力を高めるように努めなければならない。自分の利益と効率を最大化するように努力しなければならない。そうすることで自身の目標が達成され、自分が並外れた存在に見えるような場合、雇われ人を犠牲にするように指示することさえしなければならない。 </p><p><strong>挑戦：</strong>アスプ騎士団のキャヴァリアーが挑戦を挑む際、目標が@Compendium[pf1.conditions.07JPXUqIPshVnTCL]{怯え状態}、@Compendium[pf1.conditions.WH3Hop5fUDUzVUVg]{絡みつかれた状態}、@Compendium[pf1.conditions.I1cKXhfBaFIrL9Ix]{過労状態}、挟撃、@Compendium[pf1.conditions.1fkE2juoZHXjU90M]{吐き気がする状態}、@Compendium[pf1.conditions.nku8mgRBNt0iXqzB]{疲労状態}、@Compendium[pf1.conditions.Av5KcblR1Wd68uWY]{伏せ状態}、@Compendium[pf1.conditions.6LpiJdKskDFD4zLC]{よろめき状態}、ACに対する【敏捷力】ボーナスを失っている状況のいずれかであるなら、挑戦の目標に対して行った攻撃ロールとダメージ・ロールに＋1の士気ボーナスを得る。このボーナスはキャヴァリアー・レベル4毎に1ずつ増加する。 </p><p><strong>技能：</strong>アスプ騎士団のキャヴァリアーはクラス技能の一覧に@Compendium[pf1.skills.zK0CbvpYLZhTN5Wn]{手先の早業}と@Compendium[pf1.skills.ki0QvL0K7u4YuK0O]{知識：地域}を加える。キャヴァリアーは判定が後援者または組織に関連している限り、@Compendium[pf1.skills.ki0QvL0K7u4YuK0O]{知識：地域}判定にキャヴァリアー・レベルの半分（最小＋1）に等しいボーナスを得る。また、@Compendium[pf1.skills.zK0CbvpYLZhTN5Wn]{手先の早業}使用時の防具による判定ペナルティをキャヴァリアー・レベルの半分（最小0）に等しい値だけ減少させる。 </p><p><strong>騎士団能力：</strong>アスプ騎士団のキャヴァリアーは以下の能力を得る。 </p><ul><li>@Compendium[pf1.class-abilities.xc0BkSmozyJyvvZz]{無差別に士気をくじく}（2レベル）</li><li>@Compendium[pf1.class-abilities.1UaKOr0pJtiV6wle]{屈従の命令}（8レベル）</li><li>@Compendium[pf1.class-abilities.56v3waDA0ML7XC2v]{俺よりあいつだ}（15レベル）</li></ul>",
+			"tags": [["騎士団"]],
 			"classes": [
 				[
 					"キャヴァリアー"
@@ -30735,7 +30735,7 @@
 		{
 			"id": "Phantasm Subschool",
 			"name": "秘術系統：幻影",
-			"description": "<h2>幻影の系統 Phantasm School</h2><p><strong>関連系統：</strong>幻術。</p><p><strong>代替能力：</strong>下記系統能力を幻術系統の@Compendium[pf1.class-abilities.xHg1RuRmKpSKbSsd]{盲目の光線}と@Compendium[pf1.class-abilities.W7nMOLi2kXGEKe72]{不可視の領域}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.2PdDTBiOuBlZ1YgE]{恐怖}</li><li>@Compendium[pf1.class-abilities.1aP0lmJYDqM5pMHY]{憑依のオーラ}</li></ul>",
+			"description": "<h2>幻影の系統 Phantasm School</h2><p><strong>関連系統：</strong>@Compendium[pf1.class-abilities.xKyCz5YIEJFBQICl]{幻術}</p><p><strong>代替能力：</strong>下記系統能力を@Compendium[pf1.class-abilities.xKyCz5YIEJFBQICl]{幻術}系統の@Compendium[pf1.class-abilities.xHg1RuRmKpSKbSsd]{盲目の光線}と@Compendium[pf1.class-abilities.W7nMOLi2kXGEKe72]{不可視の領域}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.2PdDTBiOuBlZ1YgE]{恐怖}</li><li>@Compendium[pf1.class-abilities.1aP0lmJYDqM5pMHY]{憑依のオーラ}</li></ul>",
 			"tags": [["秘術系統"]],
 			"classes": [
 				[
@@ -30800,9 +30800,9 @@
 		},
 		{
 			"id": "Phantom Stampede",
-			"name": "Phantom Stampede",
-			"description": "",
-			"tags": [],
+			"name": "霊の殺到（呪術、霊：マンモス）",
+			"description": "<p><strong>霊の殺到（超常）／Phantom Stampede：</strong></p><p><strong>出典：Adventurer's Guide - マンモス諸侯族</strong></p><p>シャーマンは幽霊のような獣の群れの主を招来し、クリーチャー1体を蹂躙する。この幽霊の獣は目標のクリーチャーにのみ影響を及ぼす。クリーチャーはこの能力からダメージを受けないが、突き飛ばし、蹴散らし、足払いの試みに対するCMDに－4のペナルティを受ける。目標はこの効果を無効化するためのセーヴィング・スローを行えない。この効果はシャーマン・レベルに等しいラウンドだけ持続する。クリーチャーは以降24時間の間、この呪術の目標にならない。 </p>",
+			"tags": [["呪術（シャーマン）"],["霊（シャーマン）"]],
 			"classes": [
 				[
 					"シャーマン"
@@ -31909,9 +31909,9 @@
 		},
 		{
 			"id": "Powerful Smash",
-			"name": "Powerful Smash",
-			"description": "",
-			"tags": [],
+			"name": "強力なぶん殴り（霊：マンモス）",
+			"description": "<p><strong>強力なぶん殴り（変則）／Powerful Smash：</strong></p><p><strong>出典：Adventurer's Guide - マンモス諸侯族</strong></p><p>標準アクションとして、シャーマンは@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}特技を持っているかのように、素手打撃で敵を攻撃できる。シャーマンがこの方法でクリーチャーに攻撃を命中させた場合、そのクリーチャーは頑健セーヴ（DC＝10＋シャーマン・レベルの半分＋【魅力】修正値）を行わねばならず、失敗すると1ラウンドの間@Compendium[pf1.conditions.woFU0s24URgixLm7]{幻惑状態}となる。シャーマンはこの能力を、1日に3＋【魅力】ボーナスに等しい回数だけ使用できる。 </p>",
+			"tags": [["霊（シャーマン）"]],
 			"classes": [
 				[
 					"シャーマン"
@@ -32198,9 +32198,9 @@
 		},
 		{
 			"id": "Primal Speaker",
-			"name": "Primal Speaker",
-			"description": "",
-			"tags": [],
+			"name": "始原の話し手（呪術、霊：マンモス）",
+			"description": "<p><strong>始原の話し手（変則）／Primal Speaker：</strong></p><p><strong>出典：Adventurer's Guide - マンモス諸侯族</strong></p><p>シャーマンは@Compendium[pf1.spells.ct9fhh8uawn8e4md]{スピーク・ウィズ・アニマルズ}の効果を受けているかのように、マンモスやその他のメガファウナやエレファントと話すことができる。5レベルの時点で、シャーマンは“動物を扱う”ためにおこなう@Compendium[pf1.skills.fXauAodbOBHBi7Mj]{動物使い}判定に、シャーマン・レベルの半分に等しいボーナスを得る。10レベルの時点で、シャーマンは30フィート以内にいるそのような動物1体に@Compendium[pf1.spells.pg7dbmuuaksxhp3v]{チャーム・アニマル}（意志・無効）を発動したかのように影響を及ぼすことができるようになる。セーヴィング・スローの成否に拘らず、目標は以降24時間の間、この呪術の目標にならない。 </p>",
+			"tags": [["呪術（シャーマン）"],["霊（シャーマン）"]],
 			"classes": [
 				[
 					"シャーマン"
@@ -35038,9 +35038,9 @@
 		},
 		{
 			"id": "Rivethun Discipline",
-			"name": "Rivethun Discipline",
-			"description": "",
-			"tags": [],
+			"name": "念術修養：リヴェスン",
+			"description": "<h2>リヴェスン Rivethun</h2><p><strong>出典：Adventurer's Guide - リヴェスン</strong></p><p>君は自身を苦しめる身体の側面を受け入れており、その側面が生涯運命づけた役割に必要性はないとしても、その側面が自分に与えてくれた見方を尊重している。 </p><p><strong>心的蓄積能力／Phrenic Pool Ability：</strong>【魅力】。 </p><p><strong>ボーナス呪文：</strong></p><ul><li>@Compendium[pf1.spells.r8bhei88g6h26fp0]{ハイトゥンド・アウェアネス}（1レベル）</li><li>@Compendium[pf1.spells.usdv1eqvibmxun6x]{ベアズ・エンデュアランス}（4レベル）</li><li>@Compendium[pf1.spells.isrnyw9biluqoo80]{オーラ・サイト}（6レベル）</li><li>@Compendium[pf1.spells.ev845glbl54em94v]{パーシステント・ヴィゴー}（8レベル）</li><li>@Compendium[pf1.spells.jbqo4o2b2tmdz7wv]{トゥルー・シーイング}（10レベル）</li><li>@Compendium[pf1.spells.37ubwx82nqaog3ib]{ソウト・シールドV}（12レベル）</li><li>@Compendium[pf1.spells.blvetbc929cfx4m8]{マインド・ブランク}（14レベル）</li><li>@Compendium[pf1.spells.mkrjbrp57yfdqrx0]{アイアン・ボディ}（16レベル）</li><li>@Compendium[pf1.spells.au6p72aztjhtokwr]{アカシック・フォーム}（18レベル）</li></ul><p><strong>修養能力／Discipline Powers：</strong>君の力は、鍛錬と問題を克服する精神の会得に関連している。 </p><ul><li>@Compendium[pf1.class-abilities.MR94FlKbi40LnCDQ]{認知力の煽惑}</li><li>@Compendium[pf1.class-abilities.mkQwquP0vmcgTaRz]{変態}</li><li>@Compendium[pf1.class-abilities.IJc1uV3AS2IPJ1wY]{霊との交信}</li><li>@Compendium[pf1.class-abilities.EJmvyrfWfi2q7Evl]{上級霊との交信}</li></ul>",
+			"tags": [["念術修養"]],
 			"classes": [
 				[
 					"サイキック"
@@ -35989,7 +35989,7 @@
 		{
 			"id": "Scryer Subschool",
 			"name": "秘術系統：念視者",
-			"description": "<h2>念視者の系統 Scryer School</h2><p><strong>関連系統：</strong>占術。</p><p><strong>代替能力：</strong>下記系統能力を占術系統の@Compendium[pf1.class-abilities.mITkHIcXI1Sfax21]{占術士の幸運}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.OLh9DNRqDf7yjSwM]{感覚送信}</li></ul>",
+			"description": "<h2>念視者の系統 Scryer School</h2><p><strong>関連系統：</strong>@Compendium[pf1.class-abilities.ctFPHquS2GydVoZV]{占術}</p><p><strong>代替能力：</strong>下記系統能力を@Compendium[pf1.class-abilities.ctFPHquS2GydVoZV]{占術}系統の@Compendium[pf1.class-abilities.mITkHIcXI1Sfax21]{占術士の幸運}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.OLh9DNRqDf7yjSwM]{感覚送信}</li></ul>",
 			"tags": [["秘術系統"]],
 			"classes": [
 				[
@@ -36847,7 +36847,7 @@
 		{
 			"id": "Shadow Subschool",
 			"name": "秘術系統：影",
-			"description": "<h2>影の系統 Shadow School</h2><p><strong>関連系統：</strong>幻術。</p><p><strong>代替能力：</strong>下記系統能力を幻術系統の@Compendium[pf1.class-abilities.xHg1RuRmKpSKbSsd]{盲目の光線}と@Compendium[pf1.class-abilities.W7nMOLi2kXGEKe72]{不可視の領域}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.IeX7of9cT8M7c0xy]{束縛の闇}</li><li>@Compendium[pf1.class-abilities.hbttw8IQ2kKnpOnB]{影歩き}</li></ul>",
+			"description": "<h2>影の系統 Shadow School</h2><p><strong>関連系統：</strong>@Compendium[pf1.class-abilities.xKyCz5YIEJFBQICl]{幻術}</p><p><strong>代替能力：</strong>下記系統能力を@Compendium[pf1.class-abilities.xKyCz5YIEJFBQICl]{幻術}系統の@Compendium[pf1.class-abilities.xHg1RuRmKpSKbSsd]{盲目の光線}と@Compendium[pf1.class-abilities.W7nMOLi2kXGEKe72]{不可視の領域}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.IeX7of9cT8M7c0xy]{束縛の闇}</li><li>@Compendium[pf1.class-abilities.hbttw8IQ2kKnpOnB]{影歩き}</li></ul>",
 			"tags": [["秘術系統"]],
 			"classes": [
 				[
@@ -37493,9 +37493,9 @@
 		},
 		{
 			"id": "Shrinewalk",
-			"name": "Shrinewalk",
-			"description": "",
-			"tags": [],
+			"name": "聖堂散歩（ローグの上級の技）",
+			"description": "<p><strong>聖堂散歩（擬呪）／Shrinewalk：</strong></p><p><strong>出典：Adventurer's Guide - 盗賊評議会</strong></p><p>盗賊評議会のエージェントは、ウエストクラウンの聖堂の間の神秘的な小道を歩くことができる。聖堂散歩をするローグは、壁や地面に独自の模様や刻印を刻むことで、都市部の範囲を指定するだけで自分の聖堂を作成できる。この模様は魔法ではなく、汚されたり消されたりすると、ローグは使用できなくなる（該当の模様の上にペンキを塗るなど、使用可能な状態を維持したまま、模様を隠すこともできる）。一度模様を配置すると、ローグは1日1回、聖堂に戻るために@Compendium[pf1.spells.r37k9siiazcdqkc7]{ワード・オヴ・リコール}を使用できる。ローグが維持できる聖堂は一度に1つだけである。新しい場所に新たに模様を刻むと、以前の聖堂は起動しなくなる。 </p>",
+			"tags": [["ローグの上級の技"]],
 			"classes": [
 				[
 					"ローグ"
@@ -37669,9 +37669,9 @@
 		},
 		{
 			"id": "Silencing Strike",
-			"name": "Silencing Strike",
-			"description": "",
-			"tags": [],
+			"name": "沈黙打撃（ローグの技）",
+			"description": "<p><strong>沈黙打撃*（超常）／Silencing Strike：</strong></p><p><strong>出典：Adventurer's Guide - 盗賊評議会</strong></p><p>ヘルナイトから盗んだ魔法を使用して、盗賊評議会のエージェントは敵を沈黙させることができる。クリーチャーがローグの急所攻撃からダメージを受けたとき、意志セーヴに成功しない限り（DC＝10＋ロール・レベルの半分＋ローグの【魅力】修正値）、1ラウンドの間、クリーチャーを魔法によって沈黙させることができる。沈黙打撃は1日にローグ・レベルの半分に等しい回数だけ使用できる。 </p>",
+			"tags": [["ローグの技"]],
 			"classes": [
 				[
 					"ローグ"
@@ -39471,9 +39471,9 @@
 		},
 		{
 			"id": "Spirit Channeling",
-			"name": "Spirit Channeling",
-			"description": "",
-			"tags": [],
+			"name": "霊との交信（念術修養：リヴェスン）",
+			"description": "<p><strong>霊との交信（超常）／Spirit Channeling：</strong></p><p><strong>出典：Adventurer's Guide - リヴェスン</strong></p><p>君の自己認識が拡大するにつれて、君はますます自身の周りの精神世界に順応するようになる。5レベルの時点で、@Compendium[pf1.class-abilities.mkQwquP0vmcgTaRz]{変態}を開始するための瞑想の一部として、君はシャーマン（Pathfinder RPG Advanced Class Guide 37ページ）のように身体を共有する浮遊霊を招き入れることができる。変化した姿を維持している限り、君は関連する1レベルの霊能力を得る。君の@Compendium[pf1.class-abilities.mkQwquP0vmcgTaRz]{変態}した姿は炎の霊なら鮮やかな赤い髪、骨の霊ならやせ細った姿など、宿っている霊のいくつかの側面を示す。 </p>",
+			"tags": [["念術修養"]],
 			"classes": [
 				[
 					"サイキック"
@@ -41063,9 +41063,9 @@
 		},
 		{
 			"id": "Subtle Misdirection",
-			"name": "Subtle Misdirection",
-			"description": "",
-			"tags": [],
+			"name": "とらえがたき誤誘導（秘術系統：欺瞞）",
+			"description": "<p><strong>とらえがたき誤誘導（擬呪）／Subtle Misdirection：</strong></p><p><strong>出典：Adventurer's Guide - アスピス財団</strong></p><p>標準アクションとして、重量が術者レベル毎に25ポンドまでのクリーチャー1体または物体1つに接触し、1分間持続する幻術の防護を与えることができる。防護を受けたクリーチャーに対する攻撃は20％の失敗確率を受ける。攻撃を1回無効にすると防護は終了する。防護を受けたアイテムの性質を検知または決定するための術者レベル判定、技能判定、セーヴィング・スローのDCは、1に加えて5術者レベル毎に1ずつ増加する。この能力は1日に3＋【知力】修正値に等しい回数だけ使用できる。 </p>",
+			"tags": [["秘術系統"]],
 			"classes": [
 				[
 					"ウィザード"
@@ -42407,7 +42407,7 @@
 		{
 			"id": "Team Player",
 			"name": "チーム・プレイ（不羈の技）",
-			"description": "<p><strong>チーム・プレイ（変則）／Team Player：</strong></p><p>ヴィジランテはボーナス特技として《速やかなる援護》APGを得る。前提条件は無視できる。加えて、ヴィジランテは標準アクションでこの特技を使用し、ヴィジランテに隣接する全ての仲間にこの効果を適用できる。10レベルの時点で、ヴィジランテはこの特技で即行アクションではなく移動アクションを用いて援護を行い、仲間1体に通常よりも高い＋2のボーナスを与えることができる。</p>",
+			"description": "<p><strong>チーム・プレイ（変則）／Team Player：</strong></p><p><strong>出典：Adventurer's Guide - ベルフラワー連絡網</strong></p><p>ヴィジランテはボーナス特技として《速やかなる援護》<sup>APG</sup>を得る。前提条件は無視できる。加えて、ヴィジランテは標準アクションでこの特技を使用し、ヴィジランテに隣接する全ての仲間にこの効果を適用できる。10レベルの時点で、ヴィジランテはこの特技で即行アクションではなく移動アクションを用いて援護を行い、仲間1体に通常よりも高い＋2のボーナスを与えることができる。</p>",
 			"tags": [["不羈の技"]],
 			"classes": [
 				[
@@ -42627,7 +42627,7 @@
 		{
 			"id": "Teleportation Subschool",
 			"name": "秘術系統：瞬間移動",
-			"description": "<h2>瞬間移動の系統 Teleportation School</h2><p><strong>関連系統：</strong>召喚術。</p><p><strong>代替能力：</strong>下記系統能力を召喚術系統の@Compendium[pf1.class-abilities.biOw5dSbJGsGVFwN]{酸の矢}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.Ox5Sq8qp4gBjQpyu]{転移}</li></ul>",
+			"description": "<h2>瞬間移動の系統 Teleportation School</h2><p><strong>関連系統：</strong>@Compendium[pf1.class-abilities.1Mut8aiSxsfRO8Xd]{召喚術}</p><p><strong>代替能力：</strong>下記系統能力を@Compendium[pf1.class-abilities.1Mut8aiSxsfRO8Xd]{召喚術}系統の@Compendium[pf1.class-abilities.biOw5dSbJGsGVFwN]{酸の矢}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.Ox5Sq8qp4gBjQpyu]{転移}</li></ul>",
 			"tags": [["秘術系統"]],
 			"classes": [
 				[
@@ -43146,9 +43146,9 @@
 		},
 		{
 			"id": "Thunder Foot",
-			"name": "Thunder Foot",
-			"description": "",
-			"tags": [],
+			"name": "雷の如き足（呪術、霊：マンモス）",
+			"description": "<p><strong>雷の如き足（変則）／Thunder Foot：</strong></p><p><strong>出典：Adventurer's Guide - マンモス諸侯族</strong></p><p>シャーマンの体は厚くなり、より筋肉質な体つきになる。 蹴散らしの戦技におけるCMBとCMDを計算する際、シャーマンはシャーマン・レベルを基本攻撃ボーナスとして扱う。 7レベルの時点で、シャーマンはボーナス特技として@Compendium[pf1.feats.go4xOiSUP8R1QJ5N]{蹴散らし強化}を得る。 11レベルの時点で、シャーマンはボーナス特技として@Compendium[pf1.feats.tkWfEP1fD7CZt8Kw]{上級蹴散らし}を得る。シャーマンはこれらの特技の前提条件を満たしている必要はない。 </p>",
+			"tags": [["呪術（シャーマン）"],["霊（シャーマン）"]],
 			"classes": [
 				[
 					"シャーマン"
@@ -45276,7 +45276,7 @@
 		{
 			"id": "Undead Subschool",
 			"name": "秘術系統：アンデッド",
-			"description": "<h2>アンデッドの系統 Undead School</h2><p><strong>関連系統：</strong>死霊術。</p><p><strong>代替能力：</strong>下記系統能力を死霊術系統の@Compendium[pf1.class-abilities.1XDvZLP9UPjr1glZ]{死の接触}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.dcCZW51UewXFLLGo]{強化}</li></ul>",
+			"description": "<h2>アンデッドの系統 Undead School</h2><p><strong>関連系統：</strong>@Compendium[pf1.class-abilities.ZuFI7iaKeWv3n5pA]{死霊術}</p><p><strong>代替能力：</strong>下記系統能力を@Compendium[pf1.class-abilities.ZuFI7iaKeWv3n5pA]{死霊術}系統の@Compendium[pf1.class-abilities.1XDvZLP9UPjr1glZ]{死の接触}の能力と入れ替える。</p><ul><li>@Compendium[pf1.class-abilities.dcCZW51UewXFLLGo]{強化}</li></ul>",
 			"tags": [["秘術系統"]],
 			"classes": [
 				[
