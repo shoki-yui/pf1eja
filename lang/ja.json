@@ -2,12 +2,10 @@
   "Pathfinder 1": "Pathfinder 1",
   "PF1.title": "パスファインダー 1",
   "PF1.description": "Foundry VTTでパスファインダー1のセッションを行うための包括的システム。",
-
   "PF1.ActorSheetPFCharacter": "キャラクター",
   "PF1.ActorSheetPFNPC": "NPC",
   "PF1.ActorSheetPFNPCLite": "NPC（簡易）",
   "PF1.ActorSheetPFNPCLoot": "戦利品",
-
   "SETTINGS.pf1DiagN": "斜め移動のルール",
   "SETTINGS.pf1DiagL": "このシステムのセッションでどの斜め移動のルールを使用するかを設定。",
   "SETTINGS.pf1InitTBN": "敏捷力によるイニシアチブの同値解決",
@@ -40,6 +38,8 @@
   "SETTINGS.pf1CoinWeightH": "何枚のコインで1ポンドになるか。",
   "SETTINGS.pf1SharedVisionModeN": "視界共有モード",
   "SETTINGS.pf1SharedVisionModeH": "プレイヤー間の視界共有をどのように扱うか。",
+  "SETTINGS.pf1characterVisionN": "プレイヤーキャラクターの視覚",
+  "SETTINGS.pf1characterVisionH": "プレイヤーキャラクターは本体設定のデフォルトのトークン設定に関わらず、トークンの視覚制限を有効にします。",
   "SETTINGS.pf1SharedVisionWithoutSelection": "選択されたトークンなし",
   "SETTINGS.pf1SharedVisionWithSelection": "常に",
   "SETTINGS.pf1AllowScriptChangesN": "スクリプトの変更を有効にする",
@@ -78,7 +78,8 @@
   "SETTINGS.pf1DisableAttackCardTargetsH": "選択対象を攻撃した時にチャットカードに表示しないようにします。",
   "SETTINGS.pf1ClearTargetsAfterAttackN": "攻撃後にターゲットを解除する",
   "SETTINGS.pf1ClearTargetsAfterAttackH": "攻撃ロール後にすべてのターゲットを解除します。",
-
+  "SETTINGS.pf1InitTiebreakerN": "イニシアチブ・タイブレーカー",
+  "SETTINGS.pf1InitTiebreakerH": "同値のイニシアチブを解消するために、イニシアチブの合計を100で割った値を追加します。",
   "SETTINGS.pf1HealthConfigName": "ヒット・ポイント設定",
   "SETTINGS.pf1HealthConfigLabel": "ヒット・ポイント設定",
   "SETTINGS.pf1HealthConfigHint": "アクターのヒット・ポイントの計算を設定。",
@@ -98,7 +99,6 @@
   "SETTINGS.pf1HealthConfigWoundsAndVigorPCHint": "プレイヤー・キャラクターに負傷と活力の選択ルールを適用する。",
   "SETTINGS.pf1HealthConfigWoundsAndVigorNPCName": "NPCの負傷と活力",
   "SETTINGS.pf1HealthConfigWoundsAndVigorNPCHint": "ノンプレイヤー・キャラクターに負傷と活力の選択ルールを適用する。",
-
   "SETTINGS.pf1HealthConfigWoundThresholdsPCName": "PCの負傷段階",
   "SETTINGS.pf1HealthConfigWoundsThresholdsPCHint": "プレイヤー・キャラクターに負傷段階のオプションルールを使用する。",
   "SETTINGS.pf1HealthConfigWoundThresholdsNPCName": "NPCの負傷段階",
@@ -110,33 +110,27 @@
   "SETTINGS.pf1HealthConfigWoundThresholdDisabled": "無効",
   "SETTINGS.pf1HealthConfigWoundThresholdNormal": "通常",
   "SETTINGS.pf1HealthConfigWoundThresholdGritty": "気骨",
-  
   "SETTINGS.pf1DragRulerWalk": "歩き",
   "SETTINGS.pf1DragRulerDash": "速歩",
   "SETTINGS.pf1DragRulerRun": "疾走",
   "SETTINGS.pf1DragRulerUseElevationName": "高度を使用して移動の種類を決定する",
   "SETTINGS.pf1DragRulerUseElevationHint": "トークンの高度から飛行移動や穴掘り移動を自動的に適用します。",
-
   "PF1.KEYBINDINGS": {
     "SkipConfirmPrompt": {
       "Name": "確認のプロンプトをスキップ"
     },
-
     "HideTokenTooltip": {
       "Name": "トークンツールチップを非表示",
       "Hint": "キーを押している間はツールチップを非表示にする。"
     },
-
     "HideTokenTooltipGMInfo": {
       "Name": "トークンツールチップをプレイヤー視点で表示"
     },
-
     "ForceShowItem": {
       "Name": "Force Show Item",
       "Hint": "Whether to show the item to chat when using a macro for it"
     }
   },
-
   "PF1.SpellComponentKeys": {
     "Verbal": "V",
     "Somatic": "S",
@@ -146,36 +140,27 @@
     "Focus": "F",
     "DivineFocus": "DF"
   },
-
   "PF1.OptionalAndVariantRules": "オプション&バリアントルール",
-
   "PF1.WoundThresholdOverride": "負傷段階の上書き変更",
-
   "PF1.WoundLevelHealthy": "無傷状態",
   "PF1.WoundLevelGrazed": "軽傷状態",
   "PF1.WoundLevelWounded": "中傷状態",
   "PF1.WoundLevelCritical": "重傷状態",
-  
   "SETTINGS.pf1UnitsN": "単位系",
   "SETTINGS.pf1UnitsL": "このワールドで使用される単位系",
-
   "SETTINGS.pf1ImperialUnits": "帝国単位 (feet, lbs)",
   "SETTINGS.pf1ImperialDistanceUnits": "帝国単位 (feet)",
   "SETTINGS.pf1ImperialWeightUnits": "帝国単位 (lbs)",
   "SETTINGS.pf1MetricUnits": "メートル法 (meters, kg)",
   "SETTINGS.pf1MetricDistanceUnits": "メートル法 (meters)",
   "SETTINGS.pf1MetricWeightUnits": "メートル法 (kg)",
-
   "SETTINGS.pf1DistanceUnitsN": "距離の単位系",
   "SETTINGS.pf1DistanceUnitsL": "距離に使用する単位系を上書きします",
-
   "SETTINGS.pf1WeightUnitsN": "重さの単位系",
   "SETTINGS.pf1WeightUnitsL": "重さに使用する単位系を上書きします",
-
   "TOKEN.VisionLowLight": "夜目",
   "TOKEN.VisionLowLightMultiplier": "夜目の倍率（薄暗い、明るい）",
   "TOKEN.VisionDarkvision": "暗視",
-
   "PF1.ExperienceConfigName": "経験点の設定",
   "PF1.ExperienceConfigLabel": "経験点を設定",
   "PF1.ExperienceConfigHint": "レベルアップの仕方を設定",
@@ -184,13 +169,11 @@
   "PF1.XPTrackFast": "速い",
   "PF1.XPTrackCustomFormula": "カスタム（式）",
   "PF1.XPTrackCustomFormulaHint": "例：'@level * 1000'",
-
   "PF1.AccessibilityConfigName": "アクセシビリティの設定",
   "PF1.AccessibilityConfigLabel": "アクセシビリティ",
   "PF1.AccessibilityConfigHint": "アクセシビリティの設定を変更する",
   "PF1.AccessibilityFontSize": "フォントサイズ",
   "PF1.AccessibilityFontSizeHint": "ゲームの特定の部分（攻撃チャットカードなど）でフォントサイズを変更します",
-
   "PF1.TooltipConfigName": "ツールチップの設定",
   "PF1.TooltipConfigLabel": "ツールチップ",
   "PF1.TooltipConfigHint": "ツールチップの設定を変更する",
@@ -204,7 +187,6 @@
   "PF1.TooltipConfigDisable": "ツールチップを無効にする",
   "PF1.TooltipConfigHideWithoutKey": "{key} キーを押している間のみ表示",
   "PF1.OnMouse": "On Mouse",
-
   "PF1.Sheet": {
     "PC": "Player Character (PC)",
     "NPC": "Nonplayer Character (NPC)",
@@ -213,7 +195,6 @@
     "Item": "Generic Item",
     "Container": "Container"
   },
-
   "PF1.TooltipWorldConfigName": "ワールドのツールチップの設定",
   "PF1.TooltipWorldConfigLabel": "ツールチップ（ワールド）",
   "PF1.TooltipWorldConfigHint": "ワールドのツールチップの設定を変更する",
@@ -232,7 +213,6 @@
   "PF1.TooltipWorldConfigHideActorName": "アクター名を非表示 (globally)",
   "PF1.TooltipWorldConfigHideActorName_Hint": "全てのプレイヤーからアクター名を非表示にする",
   "PF1.TooltipWorldConfigHideActorNameReplacement": "アクター名が非表示の時の表示名",
-
   "PF1.LevelUpForm_Title": "{className}のレベル・アップ",
   "PF1.LevelUpForm_Health": "ヒット・ポイント",
   "PF1.LevelUpForm_Health_Roll": "ロール",
@@ -294,12 +274,10 @@
       }
     }
   },
-
   "PF1.Submit": "送信",
   "PF1.Next": "次へ",
   "PF1.Previous": "前へ",
   "PF1.General": "一般",
-
   "PF1.Apply": "適用",
   "PF1.ApplyHalf": "半分適用",
   "PF1.ApplyDamage": "ダメージを適用",
@@ -310,22 +288,17 @@
   "PF1.ReduceBy": "減少値",
   "PF1.SwapSelected": "選択を反転",
   "PF1.ClearReduction": "減少値をクリア",
-
   "PF1.RollsForInitiative": "{0}のイニシアチブロール！",
-
   "PF1.Take10": "出目 10",
   "PF1.Take20": "出目 20",
-
   "PF1.Flags": "Flags",
   "PF1.FlagsInstructions": "PF1システムの挙動を微調整するためのキャラクターの能力や特性を設定する。",
   "PF1.FlagsTitle": "特性を設定",
   "PF1.FlagsSave": "特性を更新",
   "PF1.FlagsBoolean": "Boolean Flags",
   "PF1.FlagsDictionary": "Dictionary Flags",
-
   "PF1.AbilityDamage": "能力値ダメージ",
   "PF1.AbilityDrain": "能力値吸収",
-
   "PF1.PointBuyCalculator": "ポイント購入計算機",
   "PF1.PointBuyCalculatorWarning": "ポイント購入計算機はキャラクターの元の能力値を上書きします。",
   "PF1.PointBuyCalculatorSpent": "消費ポイント",
@@ -335,65 +308,75 @@
   "PF1.PointBuyCalculatorStandardFantasy": "標準的なファンタジー",
   "PF1.PointBuyCalculatorHighFantasy": "ハイ・ファンタジー",
   "PF1.PointBuyCalculatorEpicFantasy": "英雄的ファンタジー",
-
   "PF1.CreateItem": "アイテム生成",
   "PF1.EditItem": "アイテム編集",
   "PF1.DuplicateItem": "アイテム複製",
   "PF1.DeleteItem": "項目の削除",
   "PF1.DeleteItemTitle": "項目の削除：{0}",
-
+  "PF1.DeleteItemConfirmation": "本当にこの項目を削除しますか？",
+  "PF1.EditSkill": "技能を編集",
+  "PF1.DeleteSkill": "技能を削除",
+  "PF1.DeleteSkillTitle": "技能を削除：{0}",
+  "PF1.DeleteSkillConfirmation": "本当にこの技能を削除しますか？",
   "PF1.LinkTypeChildren": "子",
   "PF1.LinkTypeCharges": "チャージ",
   "PF1.LinkTypeClassAssociations": "関連クラス",
   "PF1.LinkTypeAmmunition": "矢弾",
-
   "PF1.LinkHelpChildren": "リンクされた子は親が削除された時にアクターから削除されます。",
   "PF1.LinkHelpCharges": "これによりリンクされたアイテムはチャージを共有します。全てのリンクを一つのマスターアイテムに繋いでください。",
   "PF1.LinkHelpClassAssociations": "これによりリンクされたアイテムは自動的に適切なクラスレベルでアクターに追加されます。",
   "PF1.LinkHelpAmmunition": "これによりリンクされたアイテムは自動的に攻撃する毎に一つ（または一チャージ）消費されます。",
-
   "PF1.HelpSellMultiplierN": "売却額の比率",
   "PF1.HelpSellMultiplier": "交易品以外の売却額の比率。交易品は常に満額で売れます。デフォルトは0.5。",
   "PF1.HelpDomainSpell": "この呪文は休息時に回復する呪文スロットを消費しない。",
-
   "PF1.AbilityStr": "筋力",
   "PF1.AbilityDex": "敏捷力",
   "PF1.AbilityCon": "耐久力",
   "PF1.AbilityInt": "知力",
   "PF1.AbilityWis": "判断力",
   "PF1.AbilityCha": "魅力",
-
   "PF1.AbilityStrMod": "筋力修正値",
   "PF1.AbilityDexMod": "敏捷力修正値",
   "PF1.AbilityConMod": "耐久力修正値",
   "PF1.AbilityIntMod": "知力修正値",
   "PF1.AbilityWisMod": "判断力修正値",
   "PF1.AbilityChaMod": "魅力修正値",
-
   "PF1.AbilityShortStr": "筋",
   "PF1.AbilityShortDex": "敏",
   "PF1.AbilityShortCon": "耐",
   "PF1.AbilityShortInt": "知",
   "PF1.AbilityShortWis": "判",
   "PF1.AbilityShortCha": "魅",
-
   "PF1.SavingThrowFort": "頑健",
   "PF1.SavingThrowRef": "反応",
   "PF1.SavingThrowWill": "意志",
-
   "PF1.ACNormal": "AC",
   "PF1.ACTouch": "接触",
   "PF1.ACFlatFooted": "立ちすくみ",
   "PF1.CMDFlatFooted": "立ちすくみ CMD",
-
   "PF1.ACTypeNormal": "反発",
   "PF1.ACTypeTouch": "回避",
   "PF1.ACTypeFlatFooted": "その他 立ちすくみ",
-
   "PF1.WeaponHoldTypeNormal": "通常",
   "PF1.WeaponHoldTypeTwoHanded": "両手",
   "PF1.WeaponHoldTypeOffhand": "利き手でない手",
-
+  "PF1.WeaponGroupAxes": "斧",
+  "PF1.WeaponGroupBladesHeavy": "大剣",
+  "PF1.WeaponGroupBladesLight": "小剣",
+  "PF1.WeaponGroupBows": "弓",
+  "PF1.WeaponGroupClose": "近距離武器",
+  "PF1.WeaponGroupCrossbows": "弩",
+  "PF1.WeaponGroupDouble": "双頭武器",
+  "PF1.WeaponGroupFirearms": "火器",
+  "PF1.WeaponGroupFlails": "フレイル",
+  "PF1.WeaponGroupHammers": "ハンマー",
+  "PF1.WeaponGroupMonk": "モンク",
+  "PF1.WeaponGroupNatural": "肉体武器",
+  "PF1.WeaponGroupPolearms": "ポールアーム",
+  "PF1.WeaponGroupSiegeEngines": "攻城兵器",
+  "PF1.WeaponGroupSpears": "槍",
+  "PF1.WeaponGroupThrown": "投擲武器",
+  "PF1.WeaponGroupTribal": "Tribal",
   "PF1.CondBleed": "出血",
   "PF1.CondBlind": "盲目",
   "PF1.CondConfused": "混乱",
@@ -420,7 +403,6 @@
   "PF1.CondDazed": "幻惑",
   "PF1.CondSleep": "睡眠",
   "PF1.CondCowering": "戦慄",
-
   "PF1.CondTypeBleed": "出血",
   "PF1.CondTypeBlind": "盲目",
   "PF1.CondTypeConfuse": "混乱",
@@ -439,16 +421,13 @@
   "PF1.CondTypePetrify": "石化",
   "PF1.CondTypeStun": "朦朧",
   "PF1.CondTypeSleep": "睡眠",
-
   "PF1.CostGP": "価格 (GP)",
-
   "PF1.ClassType": "クラスタイプ",
   "PF1.ClassTypeBase": "基本クラス",
   "PF1.ClassTypePrestige": "上級クラス",
   "PF1.ClassTypeNPC": "NPCクラス",
   "PF1.ClassTypeRacial": "種族HD",
   "PF1.ClassTypeMythic": "神話の道",
-
   "PF1.ActionMWAK": "近接武器攻撃",
   "PF1.ActionRWAK": "遠隔武器攻撃",
   "PF1.ActionMSAK": "近接呪文攻撃",
@@ -459,7 +438,6 @@
   "PF1.ActionSave": "セーヴィング・スロー",
   "PF1.ActionHeal": "回復",
   "PF1.ActionOther": "その他",
-
   "PF1.Alignment": "属性",
   "PF1.AlignmentLG": "秩序にして善",
   "PF1.AlignmentNG": "中立にして善",
@@ -479,10 +457,8 @@
   "PF1.AlignmentShortLE": "LE",
   "PF1.AlignmentShortNE": "NE",
   "PF1.AlignmentShortCE": "CE",
-
   "PF1.ChatReqMats": "必須項目",
   "PF1.ChatOtherFormula": "その他の式",
-
   "PF1.Currency": "通貨",
   "PF1.WeightlessCurrency": "重量のない通貨",
   "PF1.CurrencyPP": "PP",
@@ -497,7 +473,6 @@
   "PF1.CurrencyFailed": "通貨を送るのに失敗しました：",
   "PF1.CurrencyGMRequired": "処理を完了するにはGMが必要です",
   "PF1.CurrencyInsufficient": "通貨が不足しています",
-
   "PF1.DistPersonal": "自身",
   "PF1.DistTouch": "接触",
   "PF1.DistMelee": "近接",
@@ -507,14 +482,12 @@
   "PF1.DistLong": "長距離",
   "PF1.DistFt": "フィート",
   "PF1.DistMi": "マイル",
-
   "PF1.DistM": "メートル",
   "PF1.DistKM": "キロメートル",
   "PF1.DistFtShort": "ft",
   "PF1.DistMiShort": "mi",
   "PF1.DistMShort": "m",
   "PF1.DistKMShort": "km",
-
   "PF1.ItemContainerContentsWeight": "内容物の重量",
   "PF1.ItemContainerContentsValue": "内容物の価格",
   "PF1.ItemContainerContentsSellValue": "内容物の売却額",
@@ -531,14 +504,12 @@
   "PF1.ItemContainerTotalItemValue": "アイテムの合計額：{0} GP, {1} SP, {2} CP",
   "PF1.ItemContainerSellValue": "売却額：{0} GP, {1} SP, {2} CP",
   "PF1.ItemContainerTakeContents": "取り出す",
-
   "PF1.LootTypeGear": "装備品",
   "PF1.LootTypeAmmo": "矢弾",
   "PF1.LootTypeTradeGoods": "交易品",
   "PF1.LootTypeGearSingle": "装備品",
   "PF1.LootTypeAmmoSingle": "矢弾",
   "PF1.LootTypeTradeGoodsSingle": "交易品",
-
   "PF1.AmmoTypeArrow": "アロー",
   "PF1.AmmoTypeBolt": "ボルト（クロスボウ）",
   "PF1.AmmoTypeRepeatingBolt": "ボルト（リピーティング・クロスボウ）",
@@ -546,7 +517,6 @@
   "PF1.AmmoTypeBulletGun": "ブリット（火器）",
   "PF1.AmmoTypeBulletDragoon": "ブリット（騎銃火器）",
   "PF1.AmmoTypeDart": "ダーツ",
-
  "PF1.SenseBSense": "非視覚的感知",
   "PF1.SenseBS": "擬似視覚",
   "PF1.SenseDV": "暗視",
@@ -556,13 +526,11 @@
   "PF1.SenseSI": "シー・インヴィジビリティ",
   "PF1.SenseSID": "暗闇を見通す",
   "PF1.SenseSC": "鋭敏嗅覚",
-
   "PF1.FlyManeuverabilityClumsy": "劣悪",
   "PF1.FlyManeuverabilityPoor": "貧弱",
   "PF1.FlyManeuverabilityAverage": "標準",
   "PF1.FlyManeuverabilityGood": "良好",
   "PF1.FlyManeuverabilityPerfect": "完璧",
-
   "PF1.BuffTarAC": "AC",
   "PF1.BuffTarACGeneric": "一般",
   "PF1.BuffTarACArmor": "鎧",
@@ -594,10 +562,8 @@
   "PF1.BuffTarAllSpeeds": "全ての移動速度",
   "PF1.BuffTarMeleeAttack": "近接攻撃ロール",
   "PF1.BuffTarRangedAttack": "遠隔攻撃ロール",
-
   "PF1.BuffTarSpells": "呪文",
   "PF1.SpellBuffEffect": "効果",
-
   "PF1.SkillAcr": "軽業",
   "PF1.SkillApr": "鑑定",
   "PF1.SkillArt": "創作",
@@ -635,9 +601,7 @@
   "PF1.SkillSur": "生存",
   "PF1.SkillSwm": "水泳",
   "PF1.SkillUMD": "魔法装置使用",
-
   "PF1.AddSkill": "技能を追加",
-
   "PF1.TargetAlly": "味方",
   "PF1.TargetCreature": "クリーチャー",
   "PF1.TargetCylinder": "円筒形",
@@ -652,7 +616,6 @@
   "PF1.TargetSquare": "四角形",
   "PF1.TargetSpace": "空間",
   "PF1.TargetWall": "壁",
-
   "PF1.TimeInst": "瞬間",
   "PF1.TimeTurn": "ターン",
   "PF1.TimeTurnShort": "ターン",
@@ -666,20 +629,15 @@
   "PF1.TimeMonth": "ヶ月",
   "PF1.TimeYear": "年",
   "PF1.TimePerm": "永続",
-
   "PF1.TraitArmorProf": "鎧の習熟",
   "PF1.TraitWeaponProf": "武器の習熟",
-
   "PF1.SpellPrepAtWill": "回数無制限",
   "PF1.SpellPrepPrepared": "準備型",
   "PF1.SpellPrepSpontaneous": "任意発動型",
-
   "PF1.SpellsKnown": "呪文修得数",
-
   "PF1.Arcanist": "アーケイニスト",
   "PF1.RedMantisAssassin": "レッド・マンティス・アサシン",
   "PF1.Psychic": "念術魔法",
-
   "PF1.SpellComponentVerbal": "音声",
   "PF1.SpellComponentSomatic": "動作",
   "PF1.SpellComponentThought": "思考",
@@ -687,30 +645,24 @@
   "PF1.SpellComponentMaterial": "物質",
   "PF1.SpellComponentFocus": "焦点",
   "PF1.SpellComponentDivineFocus": "信仰",
-
   "PF1.SpellComponentDivineFocusAlone": "信",
   "PF1.SpellComponentDivineFocusMaterial": "物/信",
   "PF1.SpellComponentDivineFocusFocus": "焦/信",
-
   "PF1.AutoSpellClassLevelOffset": {
     "Formula": "クラスレベル修正",
     "InfoBox": "クラスレベルを変化させる上級クラスがある場合はここに追加してください。（例：@classes.mysticTheurge.level）"
   },
-
   "PF1.LearnMoreSpell": "呪文を1つ追加で習得できます",
   "PF1.LearnMoreSpells": "呪文を{quantity}つ追加で習得できます",
   "PF1.PrepareMoreSpell": "呪文を1つ準備できます",
   "PF1.PrepareMoreSpells": "呪文を{quantity}つ準備できます",
   "PF1.SpellScoreTooLow": "このレベルの呪文を使用するには能力値が足りません",
   "PF1.TooManySpells": "呪文の準備数が{quantity}つ多いです",
-
   "PF1.MeasureTemplateCone": "円錐",
   "PF1.MeasureTemplateCircle": "円",
   "PF1.MeasureTemplateRay": "直線",
   "PF1.MeasureTemplateRectangle": "長方形",
-
   "PF1.LoadingCompendiumBrowser": "辞典ブラウザをロード中…",
-
   "PF1.ItemTypeWeapon": "武器",
   "PF1.ItemTypeEquipment": "装備品",
   "PF1.ItemTypeLoot": "戦利品",
@@ -721,13 +673,11 @@
   "PF1.ItemTypeFeat": "特技",
   "PF1.ItemTypeAttack": "攻撃",
   "PF1.ItemTypeRace": "種族",
-
   "PF1.WeaponType": "武器の種類",
   "PF1.WeaponTypeSimple": "単純",
   "PF1.WeaponTypeMartial": "軍用",
   "PF1.WeaponTypeExotic": "特殊",
   "PF1.WeaponTypeSplash": "飛散",
-
   "PF1.WeaponPropBlocking": "防御",
   "PF1.WeaponPropBrace": "待機",
   "PF1.WeaponPropDeadly": "致死",
@@ -745,16 +695,13 @@
   "PF1.WeaponPropSunder": "武器破壊",
   "PF1.WeaponPropThrown": "投擲",
   "PF1.WeaponPropTrip": "足払い",
-
   "PF1.WeaponSubtype": "武器の副種別",
   "PF1.WeaponPropLight": "軽い",
   "PF1.WeaponPropOneHanded": "片手",
   "PF1.WeaponPropTwoHanded": "両手",
   "PF1.WeaponSubtypeRanged": "遠隔",
-
   "PF1.EquipTypeShield": "盾",
   "PF1.EquipTypeArmor": "鎧",
-
   "PF1.EquipTypeLight": "軽装鎧",
   "PF1.EquipTypeMedium": "中装鎧",
   "PF1.EquipTypeHeavy": "重装鎧",
@@ -765,7 +712,6 @@
   "PF1.EquipTypeOtherShield": "その他の盾",
   "PF1.EquipTypeClothing": "服",
   "PF1.EquipTypeWondrousItem": "その他の魔法のアイテム",
-
   "PF1.EquipSlotSlotless": "装備部位なし",
   "PF1.EquipSlotArmor": "鎧",
   "PF1.EquipSlotShield": "盾",
@@ -781,14 +727,13 @@
   "PF1.EquipSlotHands": "両手",
   "PF1.EquipSlotRing": "指輪",
   "PF1.EquipSlotFeet": "両足",
-
   "PF1.ConsumableTypePotion": "ポーション/オイル",
   "PF1.ConsumableTypePoison": "毒",
   "PF1.ConsumableTypeDrug": "麻薬",
   "PF1.ConsumableTypeScroll": "巻物",
   "PF1.ConsumableTypeWand": "ワンド",
+  "PF1.ConsumableTypeRod": "ロッド",
   "PF1.ConsumableTypeStaff": "スタッフ",
-
   "PF1.AttackTypeWeapon": "武器攻撃",
   "PF1.AttackTypeWeaponPlural": "武器攻撃",
   "PF1.AttackTypeNatural": "肉体攻撃",
@@ -797,13 +742,11 @@
   "PF1.AttackTypeAbilityPlural": "クラス能力",
   "PF1.AttackTypeRacial": "種族能力",
   "PF1.AttackTypeRacialPlural": "種族能力",
-
   "PF1.FeatTypeFeat": "特技",
   "PF1.FeatTypeClassFeat": "クラス特徴",
   "PF1.FeatTypeTraits": "特徴",
   "PF1.FeatTypeRacial": "種族特徴",
   "PF1.FeatTypeTemplate": "テンプレート",
-
   "PF1.ActivationTypePassive": "パッシブ",
   "PF1.ActivationTypeFree": "フリー・アクション",
   "PF1.ActivationTypeSwift": "即行アクション",
@@ -820,7 +763,6 @@
   "PF1.ActivationTypeAoO": "機会攻撃",
   "PF1.ActivationTypeReaction": "リアクション",
   "PF1.ActivationTypeAction": "アクション",
-
   "PF1.ActivationTypeFreePlural": "フリー・アクション",
   "PF1.ActivationTypeSwiftPlural": "即行アクション",
   "PF1.ActivationTypeImmediatePlural": "割り込みアクション",
@@ -833,12 +775,10 @@
   "PF1.ActivationTypeHourPlural": "時間",
   "PF1.ActivationTypeReactionPlural": "リアクション",
   "PF1.ActivationTypeActionPlural": "アクション",
-
   "PF1.LimitedUseSingle": "一回",
   "PF1.LimitedUseDay": "/日",
   "PF1.LimitedUseWeek": "/週",
   "PF1.LimitedUseCharges": "チャージ",
-
   "PF1.ActorSizeFine": "極小",
   "PF1.ActorSizeDiminutive": "微小",
   "PF1.ActorSizeTiny": "超小型",
@@ -848,7 +788,6 @@
   "PF1.ActorSizeHuge": "超大型",
   "PF1.ActorSizeGargantuan": "巨大",
   "PF1.ActorSizeColossal": "超巨大",
-
   "PF1.SpellSchoolAbjuration": "防御術",
   "PF1.SpellSchoolConjuration": "召喚術",
   "PF1.SpellSchoolDivination": "占術",
@@ -858,7 +797,6 @@
   "PF1.SpellSchoolNecromancy": "死霊術",
   "PF1.SpellSchoolTransmutation": "変成術",
   "PF1.SpellSchoolUniversal": "統合術",
-
   "PF1.SpellLevel0": "初級呪文/祈り",
   "PF1.SpellLevel1": "1レベル",
   "PF1.SpellLevel2": "2レベル",
@@ -869,44 +807,35 @@
   "PF1.SpellLevel7": "7レベル",
   "PF1.SpellLevel8": "8レベル",
   "PF1.SpellLevel9": "9レベル",
-
   "PF1.FavouredClassBonuses": "適性クラス・ボーナス",
   "PF1.FavouredClassHP": "ヒット・ポイント",
   "PF1.FavouredClassSkill": "技能",
   "PF1.FavouredClassAlt": "適性クラス・オプション",
-
   "PF1.FavouredClassBonus": {
     "Label": "適性クラス・ボーナス",
     "HP": "ヒット・ポイント",
     "Skill": "技能",
     "Alt": "適性クラス・オプション"
   },
-
   "PF1.Key_Control": "Control",
-
   "PF1.ArmorProfLight": "軽装鎧",
   "PF1.ArmorProfMedium": "中装鎧",
   "PF1.ArmorProfHeavy": "重装鎧",
   "PF1.ArmorProfShield": "盾",
   "PF1.ArmorProfTowerShield": "タワー・シールド",
-
   "PF1.WeaponProfSimple": "単純武器",
   "PF1.WeaponProfMartial": "軍用武器",
-
   "PF1.InventoryWeapons": "武器",
   "PF1.InventoryArmorEquipment": "鎧/装備",
   "PF1.InventoryConsumables": "消耗品",
   "PF1.InventoryContainers": "収納",
-
   "PF1.ChangeFlagLoseDexToAC": "ACへの【敏】を失う",
   "PF1.ChangeFlagDwarflikeEncumbrance": "ドワーフ的荷重",
   "PF1.ChangeFlagMediumArmorFullSpeed": "中装鎧で通常速度",
   "PF1.ChangeFlagHeavyArmorFullSpeed": "重装鎧で通常速度",
   "PF1.ChangeFlagNoDex": "No Dexterity",
   "PF1.ChangeFlagNoStr": "No Strength",
-
   "PF1.Undefined": "未定義",
-
   "PF1.ErrorGenericPermission": "あなたにはそのアクションを行う権限がありません",
   "PF1.ErrorNoActorPermission": "あなたにはこのアクターを操作する権限がありません",
   "PF1.ErrorNoActorPermissionAlt": "あなたにはこのアクターを操作する権限がありません '{0}'",
@@ -935,13 +864,10 @@
   "PF1.WarningCannotCreateChargeLink2": "Could not create a Charge type link between {0} and {1}, because {1} is already linked to {2}",
   "PF1.WarningNoCombatantFound": "戦闘参加者が見つかりませんでした",
   "PF1.NotificationCreatedAttack": "{0}の攻撃を生成",
-
   "PF1.Action_RollDefenses": "Roll Defenses",
-
   "PF1.Info_FirstClass": "{0}からドラッグ＆ドロップ\nまたは上の'＋'ボタンをクリック",
   "PF1.Info_FirstClass_Compendium": "クラス辞典",
   "PF1.Info_MissingClass": "あなたのキャタクターにはクラスが設定されていません。キャラクターシートの[概要]タブにある[クラス]サブタブに移動してください。",
-
   "PF1.CMDNotes": "戦技防御値メモ",
   "PF1.AttackNotes": "攻撃メモ",
   "PF1.EffectNotes": "効果メモ",
@@ -951,10 +877,8 @@
   "PF1.SaveNotes": "セーヴメモ",
   "PF1.CLNotes": "術者レベルメモ",
   "PF1.NonApplicable": "N/A",
-
   "PF1.SkillTypeAdventure": "冒険",
   "PF1.SkillTypeBackground": "背景",
-
   "PF1.ACP": "ACP",
   "PF1.ACPLong": "鎧による判定ペナルティ",
   "PF1.ACPTooltip": "鎧による判定ペナルティ",
@@ -963,7 +887,6 @@
   "PF1.RT": "RT",
   "PF1.RTTooltip": "習得時のみ",
   "PF1.SkillModTooltip": "技能修正",
-
   "PF1.BrowseSpells": "呪文閲覧",
   "PF1.BrowseItems": "アイテム閲覧",
   "PF1.BrowseBestiary": "怪物図鑑閲覧",
@@ -971,7 +894,6 @@
   "PF1.BrowseClasses": "クラス閲覧",
   "PF1.BrowseRaces": "種族閲覧",
   "PF1.BrowseBuffs": "バフ閲覧",
-
   "PF1.LanguageAboleth": "アボレス語",
   "PF1.LanguageAbyssal": "奈落語",
   "PF1.LanguageAklo": "アクロ語",
@@ -1023,7 +945,6 @@
   "PF1.LanguageTien": "ティエン語",
   "PF1.LanguageVarisian": "ヴァリシア語",
   "PF1.LanguageVudrani": "ヴードラ語",
-
   "PF1.CreatureTypeAberration": "異形",
   "PF1.CreatureTypeAnimal": "動物",
   "PF1.CreatureTypeConstruct": "人造",
@@ -1037,12 +958,10 @@
   "PF1.CreatureTypePlant": "植物",
   "PF1.CreatureTypeUndead": "アンデッド",
   "PF1.CreatureTypeVermin": "蟲",
-
   "PF1.Rest": "休息",
   "PF1.RestoreHealth": "ヒット・ポイントの回復",
   "PF1.RestoreDailyUses": "一日毎の使用回数回復",
   "PF1.LongTermCare": "長期的な看護",
-
   "PF1.BonusModifierUntyped": "無種別",
   "PF1.BonusModifierUntypedPerm": "無種別 (永続)",
   "PF1.BonusModifierBase": "基本",
@@ -1063,14 +982,12 @@
   "PF1.BonusModifierCircumstance": "状況",
   "PF1.BonusModifierAlchemical": "錬金術",
   "PF1.BonusModifierPenalty": "ペナルティ",
-  
   "PF1.AbilityTypeExtraordinary": "変則",
   "PF1.AbilityTypeSupernatural": "超常",
   "PF1.AbilityTypeSpell-Like": "疑似呪文",
   "PF1.AbilityTypeShortExtraordinary": "変則",
   "PF1.AbilityTypeShortSupernatural": "超常",
   "PF1.AbilityTypeShortSpell-Like": "疑呪",
-
   "PF1.RollSkillMacroName": "{0}: {1}をロール",
   "PF1.RollDefensesMacroName": "{0}: 防御をロール",
   "PF1.RollCMBMacroName": "{0}: 戦技ボーナスをロール,",
@@ -1078,7 +995,7 @@
   "PF1.RollConcentrationMacroName": "{0}: 精神集中({1})をロール",
   "PF1.RollBABMacroName": "{0}: 基本攻撃ボーナスをロール",
   "PF1.RollSaveMacroName": "{0}: {1}セーヴをロール",
-  
+  "PF1.DamageTypeUntyped": "未定義",
   "PF1.DamageTypeBludgeoning": "殴打",
   "PF1.DamageTypePiercing": "刺突",
   "PF1.DamageTypeSlashing": "斬撃",
@@ -1090,7 +1007,11 @@
   "PF1.DamageTypeForce": "力場",
   "PF1.DamageTypeNegative": "負のエネルギー",
   "PF1.DamageTypePositive": "正のエネルギー",
-
+  "PF1.DamageTypeCategory": {
+    "misc": "その他",
+    "physical": "物理",
+    "energy": "エネルギー"
+  },
   "PF1.SourceInfoSize": "サイズ",
   "PF1.SourceInfoBuffs": "バフ",
   "PF1.SourceInfoTemporaryBuffs": "一時的なバフ",
@@ -1106,10 +1027,8 @@
   "PF1.SourceInfoMiscFeatures": "その他の特性",
   "PF1.SourceInfoTemplate": "テンプレート",
   "PF1.SourceInfoRace": "種族",
-
   "PF1.SourceInfoSkillRank_ClassBase": "{className} (基本)",
   "PF1.SourceInfoSkillRank_ClassFC": "{className} (適性クラス)",
-
   "PF1.CreateItemForSpell": "{0}のアイテムを作成",
   "PF1.CreateItemWand": "ワンド",
   "PF1.CreateItemScroll": "巻物",
@@ -1117,40 +1036,32 @@
   "PF1.CreateItemWandOf": "{0}のワンド",
   "PF1.CreateItemScrollOf": "{0}の巻物",
   "PF1.CreateItemPotionOf": "{0}のポーション",
-
   "PF1.CombatInfo_Header": "戦闘",
   "PF1.CombatInfo_Round": "ラウンド{0}",
-
   "PF1.ScriptCalls": {
     "Name": "Script Calls",
     "NewName": "New Script Call",
-
     "Use": {
       "Name": "Use",
       "Info": "Called when the item has been 'used' (attack, drink potion, etc.). Has the extra variable `attacks`, which is an array containing the action's attack rolls, if any."
     },
-
     "Equip": {
       "Name": "Equip",
       "Info": "Called when the item has been equipped or unequipped. Has the extra variable `equipped`, which is either `true` or `false`."
     },
-
     "Toggle": {
       "Name": "Toggle",
       "Info": "Called when the item has been enabled or disabled. Has the extra variable `state`, which is either `true` or `false`."
     },
-
     "ChangeQuantity": {
       "Name": "Change Quantity",
       "Info": "Called when the quantity of the item has been changed. Has the extra variables `quantity.previous` and `quantity.new`, which are both numbers."
     },
-
     "ChangeLevel": {
       "Name": "Change Level",
       "Info": "Called when the level of the item has been changed. Has the extra variables `quantity.previous` and `quantity.new`, which are both numbers."
     }
   },
-
   "PF1.Abundant": "矢弾の弾数を無限にする",
   "PF1.AbundantDesc": "この弾薬を使用するときは、絶対に取り外さないでください。",
   "PF1.AddClass": "クラスを追加",
@@ -1193,12 +1104,12 @@
   "PF1.Conditionals": "条件付き修正",
   "PF1.ConImm": "状態異常への完全耐性",
   "PF1.ConRes": "状態異常への抵抗",
+  "PF1.Copy": "Copy複製",
   "PF1.Critical": "クリティカル",
   "PF1.CriticalConfirmation": "クリティカル確定",
   "PF1.Damage": "ダメージ",
   "PF1.DamageCritical": "クリティカルダメージ",
   "PF1.DamageRoll": "ダメージ・ロール",
-  "PF1.DamageType": "ダメージ・タイプ",
   "PF1.DamImm": "ダメージへの完全耐性",
   "PF1.DamRed": "ダメージ減少",
   "PF1.DamVuln": "ダメージへの脆弱性",
@@ -1273,6 +1184,7 @@
   "PF1.StatureLong": "伏せ",
   "PF1.StatureTall": "立ち",
   "PF1.Items": "アイテム",
+  "PF1.Skill": "技能",
   "PF1.Skills": "技能",
   "PF1.KnowledgeSkills": "知識技能",
   "PF1.SubSkills": "Specialties",
@@ -1294,6 +1206,7 @@
   "PF1.TempShort": "一時的",
   "PF1.TempHP": "一時的ヒット・ポイント",
   "PF1.Nonlethal": "非致傷",
+  "PF1.Precision": "精密性",
   "PF1.Initiative": "イニシアチブ",
   "PF1.Tiebreaker": "Tiebreaker",
   "PF1.MaxDexShort": "【敏】上限",
@@ -1307,6 +1220,7 @@
   "PF1.BuffName": "バフ名",
   "PF1.SkillName": "技能名",
   "PF1.AttackName": "攻撃名",
+  "PF1.ActionName": "アクション名",
   "PF1.CreateAttack": "攻撃生成",
   "PF1.Active": "アクティブ",
   "PF1.SpellDetails": "呪文の詳細",
@@ -1367,7 +1281,6 @@
   "PF1.CMDFFAbbr": "立ちすくみCMD",
   "PF1.CMD": "戦技防御値",
   "PF1.Untrained": "未習得",
-  "PF1.DeleteItemConfirmation": "本当にこの項目を削除しますか？",
   "PF1.UnsavedTinyMCE": "You have unsaved text in a field.<br>Would you like to save before closing?",
   "PF1.UsesItem": "{0}を使用",
   "PF1.OtherFormula": "その他の式",
@@ -1396,9 +1309,11 @@
   "PF1.WeaponSize": "武器サイズ",
   "PF1.WeaponProperties": "武器の特性",
   "PF1.EnhancementBonus": "強化ボーナス",
+  "PF1.EnhancementBonusOverride": "強化ボーナスの上書き",
   "PF1.BaseWeaponDamage": "武器ダメージ",
   "PF1.BaseWeaponCritical": "武器クリティカル",
   "PF1.SpellPreparationType": "Spell Preparation Type",
+  "PF1.Preparation": "Preparation",
   "PF1.CastsLeft": "残りの発動数",
   "PF1.CasterLevelOffset": "術者レベルへの修正",
   "PF1.CasterLevelCheck": "術者レベル判定",
@@ -1417,12 +1332,10 @@
   "PF1.SpellRangeShortMetric": "(7.5 m + 1.5 m/2 levels)",
   "PF1.SpellRangeMediumMetric": "(30 m + 3 m/level)",
   "PF1.SpellRangeLongMetric": "(120 m + 12 m/level)",
-
   "PF1.AuraStrength_Faint": "微弱",
   "PF1.AuraStrength_Moderate": "中程度",
   "PF1.AuraStrength_Strong": "強力",
   "PF1.AuraStrength_Overwhelming": "圧倒的",
-
   "PF1.Unknown": "Unknown",
   "PF1.ElementalSchool": "元素系統",
   "PF1.Bloodline": "血脈",
@@ -1478,6 +1391,8 @@
   "PF1.CritHealingBonusFormula": "クリティカル回復ボーナスの式",
   "PF1.NonCritHealingBonusFormula": "非クリティカル回復ボーナスの式",
   "PF1.DamageTypes": "ダメージ・タイプ",
+  "PF1.DamageType": "ダメージ・タイプ", 
+  "PF1.DamageModifiers": "ダメージ変更",
   "PF1.DamageBonus": "ダメージ・ボーナス",
   "PF1.ActivationCost": "発動コスト",
   "PF1.Duration": "持続時間",
@@ -1498,6 +1413,7 @@
   "PF1.CarryStrength": "運搬筋力",
   "PF1.CarryMultiplier": "運搬能力倍率",
   "PF1.Multiplier": "倍率",
+  "PF1.AbilityMultiplier": "Ability Multiplier",
   "PF1.CarryLightLoad": "軽荷重",
   "PF1.CarryMediumLoad": "中荷重",
   "PF1.CarryHeavyLoad": "重荷重",
@@ -1547,6 +1463,7 @@
   "PF1.EquipmentSubtype": "装備品の副種別",
   "PF1.ConsumableType": "消耗品の種類",
   "PF1.CreatureType": "クリーチャー種別",
+  "PF1.Override": "Override",
   "PF1.OverrideColor": "色を上書き",
   "PF1.CustomColor": "カスタム色",
   "PF1.OverrideTexture": "テクスチャを上書き",
@@ -1588,12 +1505,14 @@
   "PF1.Links": "リンク",
   "PF1.Confirm": "確定",
   "PF1.CROffset": "脅威度修正",
+  "PF1.Offsets": "Offsets",
   "PF1.Haste": "ヘイスト",
   "PF1.Manyshot": "束ね射ち",
   "PF1.RapidShot": "速射",
   "PF1.PointBlankShot": "近距離射撃",
   "PF1.UsesAmmo": "矢弾を使用",
   "PF1.Ammunition": "矢弾",
+  "PF1.AmmunitionSubtype": "矢弾の種類",
   "PF1.AmmunitionAbbr": "矢弾",
   "PF1.AmmoRemaining": "残弾数: {0}",
   "PF1.AmmoDepleted": "弾切れ！",
@@ -1643,6 +1562,7 @@
   "PF1.Default": "デフォルト",
   "PF1.Vision": "視界",
   "PF1.Held": "手に持っている",
+  "PF1.WeaponGroups": "武器グループ",
   "PF1.GiveItem": "アイテムを渡す",
   "PF1.SplitItem": "アイテムを分割",
   "PF1.HideFromToken": "トークンから隠す",
@@ -1682,6 +1602,10 @@
   "PF1.SpellSlotAbilityBonus": "呪文スロット能力値修正（特徴由来）",
   "PF1.SpellbookName": "呪文書の名前",
   "PF1.StaticSize": "Static Size",
+  "PF1.CustomVisionRules": {
+    "Label": "視覚ルールのカスタム",
+    "Description": "アクターの感覚を無視して、モジュールなどによる視覚ルールのカスタムを適切に適用できるようにします。"
+  },
   "PF1.DomainSlotValue": "領域スロット数",
   "PF1.DomainSlotValueDesc": "領域/系統の呪文は呪文レベルにいくつの「空き」スロットを提供しますか？",
   "PF1.DisableLightLowLightVision": "この光源に対して夜目を無効にする",
@@ -1701,14 +1625,17 @@
   "PF1.Options": "オプション",
   "PF1.Cancel": "キャンセル",
   "PF1.Split": "分割",
-
+  "PF1.ChooseAnAction": "アクションを選択",
+  "PF1.Drink": "Drink",
+  "PF1.Properties": "Properties",
   "PF1.Migration.Start": "PF1eシステムにバージョン {version} への移行を適用します。しばらくお待ち下さい。",
   "PF1.Migration.Ongoing": "移行は進行中です。終了するまでお待ちください。",
   "PF1.Migration.End": "PF1eシステムはバージョン {version} への移行に成功しました！",
-
   "PF1.DenyDexBonus": "Deny Dexterity bonus",
-
   "PF1.Application": {
+    "ActionChooser": {
+      "Title": "{actor} が {item} を使用"
+    },
     "ChangeTargetSelector": {
       "Title": "変更する対象の選択"
     },
@@ -1724,16 +1651,17 @@
       "GiveToAll": "分割せず付与",
       "TotalExperience": "合計経験点",
       "SplitExperience": "分割経験点"
+    },
+    "EntrySelector": {
+      "Title": "Entry Selector"
     }
   },
-
   "PF1.Dialog": {
     "SplitItem": {
       "Title": "アイテムを分割：{0}",
       "Desc": "分割したい個数を入力してください。"
     }
   },
-
   "PF1.Info": {
     "AddClassDialog": "Shiftキーを押しながらクラスをドラッグ＆ドロップするとこのダイアログの表示を飛ばせます。",
     "AddClassDialog_Desc": "通常を押すとレベルアップウィンドウが開き、省略を押すと変更なしでクラスが追加されます。",

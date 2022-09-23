@@ -2,7 +2,9 @@
 	"label": "種族",
     "mapping": {
 			"contextNotes": "data.contextNotes",
-			"subTypes": "data.subTypes"
+			"subTypes": "data.subTypes",
+			"languages_value": "data.languages.value",
+			"languages_custom": "data.languages.custom"
     },
 	"entries": [
 		{
@@ -100,7 +102,8 @@
 				[
 					"ダーク・フォーク"
 				]
-			]
+			],
+			"languages_value": ["common","dark"]
 		},
 		{
 			"id": "Catfolk",
@@ -110,7 +113,8 @@
 				[
 					"キャットフォーク"
 				]
-			]
+			],
+			"languages_custom": "キャットフォーク語"
 		},
 		{
 			"id": "Cecaelia",
@@ -657,7 +661,8 @@
 				[
 					"カサーサ"
 				]
-			]
+			],
+			"languages_custom": "カサーサ語"
 		},
 		{
 			"id": "Kitsune",
@@ -772,7 +777,10 @@
 				[
 					"爬虫類"
 				]
-			]
+			],
+			"languages_value": ["common","draconic"],
+			"languages_custom": " "
+			
 		},
 		{
 			"id": "Naiad",
@@ -834,7 +842,8 @@
 				[
 					"サスカッチ"
 				]
-			]
+			],
+			"languages_custom": "サスカッチ語"
 		},
 		{
 			"id": "Orc",
@@ -912,7 +921,8 @@
 				[
 					"変身生物"
 				]
-			]
+			],
+			"languages_custom": "レプトイド語"
 		},
 		{
 			"id": "Rougarou",
@@ -969,7 +979,8 @@
 				[
 					"サンサーラン"
 				]
-			]
+			],
+			"languages_custom": "サンサーラン語"
 		},
 		{
 			"id": "Shabti",
@@ -1044,7 +1055,8 @@
 				[
 					"ストリックス"
 				]
-			]
+			],
+			"languages_custom": "ストリックス語"
 		},
 		{
 			"id": "Suli",
@@ -1154,7 +1166,8 @@
 				[
 					"ヴァナラ"
 				]
-			]
+			],
+			"languages_custom": "ヴァナラ語"
 		},
 		{
 			"id": "Vine Leshy",
@@ -1181,7 +1194,8 @@
 				[
 					"ヴィシュカニャ"
 				]
-			]
+			],
+			"languages_custom": "ヴィシュカニャ語"
 		},
 		{
 			"id": "Wayang",
@@ -1203,7 +1217,8 @@
 				[
 					"ワヤン"
 				]
-			]
+			],
+			"languages_custom": "ワヤン語"
 		},
 		{
 			"id": "Wyrwood",
@@ -1218,7 +1233,8 @@
 		{
 			"id": "Yaddithian",
 			"name": "ヤディシアン",
-			"description": "<h2>ヤディシアンの種族特性</h2><ul><li><strong>＋2【耐久力】、＋2【知力】、－2【判断力】</strong></li><li><strong>遅い速度／Slow：</strong>ヤディシアンの地上速度は20フィート。</li><li><strong>暗視／Darkvision：</strong>ヤディシアンは60フィートまでの暗闇を見通せる。</li><li><strong>防御的能力／Defensive Abilities：</strong>ヤディシアンは［氷雪］に対する抵抗5と無呼吸を持つ。</li><li><strong>爪／Claws：</strong>ヤディシアンは2つの爪を持つ。爪はそれぞれ1d4ポイントのダメージを与える。</li><li><strong>頑丈／Rugose：</strong>ヤディシアンは＋1の外皮ボーナスを得る。</li><li><strong>広大な精神（変則）／Cosmic Mind：</strong>ヤディシアンは〈呪文学〉と〈知識〉の判定に＋2の種族ボーナスを得る。ヤディシアンが本来なら呪文書や使い魔に呪文を記録する呪文の使い手になると、代わりにその精神に呪文を記録する（ただし、新しい呪文を修得する際、通常の費用を支払わなければならない）。</li><li><strong>長命（変則）／Long-Lived：</strong>ヤディシアンは何千年者時を生きる。彼らは加齢による利益もペナルティも受けず、魔法による加齢効果に完全耐性を持つ。</li><li><strong>言語：</strong>ヤディシアンはヤディシアン語を開始時に会話できる。高い【知力】を持つヤディシアンは、ボーナス言語として任意の言語を選択できる。</li></ul>"
+			"description": "<h2>ヤディシアンの種族特性</h2><ul><li><strong>＋2【耐久力】、＋2【知力】、－2【判断力】</strong></li><li><strong>遅い速度／Slow：</strong>ヤディシアンの地上速度は20フィート。</li><li><strong>暗視／Darkvision：</strong>ヤディシアンは60フィートまでの暗闇を見通せる。</li><li><strong>防御的能力／Defensive Abilities：</strong>ヤディシアンは［氷雪］に対する抵抗5と無呼吸を持つ。</li><li><strong>爪／Claws：</strong>ヤディシアンは2つの爪を持つ。爪はそれぞれ1d4ポイントのダメージを与える。</li><li><strong>頑丈／Rugose：</strong>ヤディシアンは＋1の外皮ボーナスを得る。</li><li><strong>広大な精神（変則）／Cosmic Mind：</strong>ヤディシアンは〈呪文学〉と〈知識〉の判定に＋2の種族ボーナスを得る。ヤディシアンが本来なら呪文書や使い魔に呪文を記録する呪文の使い手になると、代わりにその精神に呪文を記録する（ただし、新しい呪文を修得する際、通常の費用を支払わなければならない）。</li><li><strong>長命（変則）／Long-Lived：</strong>ヤディシアンは何千年者時を生きる。彼らは加齢による利益もペナルティも受けず、魔法による加齢効果に完全耐性を持つ。</li><li><strong>言語：</strong>ヤディシアンはヤディシアン語を開始時に会話できる。高い【知力】を持つヤディシアンは、ボーナス言語として任意の言語を選択できる。</li></ul>",
+			"languages_custom": "ヤディシアン語"
 		}
 	]
 }
