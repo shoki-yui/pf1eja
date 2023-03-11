@@ -2178,7 +2178,7 @@
 			]
 		},
 		{
-			"id": "Arcane Hypothesis",
+			"id": "Arcane Apotheosis",
 			"name": "秘術の極み（血脈：秘術、ソーサラー）",
 			"description": "<p><strong>秘術の極み（変則）／Arcane Apotheosis：</strong></p><p>20レベルの時点で、君の体は秘術の力によって活性化される。君の持つすべての呪文修正特技について、その特技が呪文レベルを増加するものであっても、君は発動時間を増加させずに使用することができる。また、チャージを消費するタイプの魔法のアイテムを使用する際、自分の呪文スロットを使用して使用することもできる。呪文スロットを3レベル分消費する度に、チャージ消費型アイテムを1チャージ消費したのと同様に使用できる。</p>",
 			"tags": [["血脈（ソーサラー）"]],
@@ -5567,7 +5567,7 @@
 				{
 					"subTarget": "will",
 					"target": "savingThrows",
-					"text": "［恐怖］に対する意志セーヴに+[[floor((@classes.fighter.level + 2) / 4)]]ボーナス"
+					"text": "武勇：［恐怖］に対する意志セーヴに+[[floor((@classes.fighter.level + 2) / 4)]]ボーナス"
 				}
 			],
 			"tags": [],
@@ -9256,23 +9256,23 @@
 		},
 		{
 			"id": "Danger Sense",
-			"name": "危険感知（UC）",
-			"description": "<p><strong>危険感知（変則）／Danger Sense：</strong></p><p><strong>バーバリアン（アンチェインド）：</strong>3レベルの時点で、バーバリアンは罠を回避するための反応セーヴに＋1のボーナスと、罠による攻撃に対するアーマー・クラスに＋1の回避ボーナスを得る。加えて、バーバリアンは敵の不意討ちを避けるために行う@Compendium[pf1.skills.YYmmxDgp0g3ltSUG]{知覚}判定に＋1のボーナスを得る。これらのボーナスは以降3レベル毎に1ずつ増加する（18レベルの時点で最大の＋6）。この能力は特技やクラスの前提条件において@Compendium[pf1.class-abilities.BoEkMviJrW0PKmhj]{罠感知}として扱われ、@Compendium[pf1.class-abilities.BoEkMviJrW0PKmhj]{罠感知}を置き換えるアーキタイプのクラス特徴と置き換えることができる。バーバリアンが他のクラスで@Compendium[pf1.class-abilities.BoEkMviJrW0PKmhj]{罠感知}を獲得した場合、この能力で得られたボーナスは@Compendium[pf1.class-abilities.BoEkMviJrW0PKmhj]{罠感知}によるボーナスと累積する。</p><p><strong>ローグ（アンチェインド）：</strong>3レベルの時点で、ローグは罠を避けるための反応セーヴに＋1のボーナスと、罠による攻撃に対するアーマー・クラスに＋1の回避ボーナスを得る。加えて、ローグは敵から不意討ちされないようにするために行う@Compendium[pf1.skills.YYmmxDgp0g3ltSUG]{知覚}判定に＋1のボーナスを得る。これらのボーナスは以降ローグ・レベルが3上昇する毎に1ずつ増加する（18レベルの時点で最大の＋6）。この能力は特技やクラスの前提条件を満たす際、@Compendium[pf1.class-abilities.BoEkMviJrW0PKmhj]{罠感知}として扱われ、@Compendium[pf1.class-abilities.BoEkMviJrW0PKmhj]{罠感知}を置き換えるアーキタイプのクラス特徴で置き換えることができる。この能力から得られるボーナスは、（他のクラスから得られる）@Compendium[pf1.class-abilities.BoEkMviJrW0PKmhj]{罠感知}によるボーナスと累積する。</p>",
+			"name": "危険感知",
+			"description": "<p><strong>危険感知（変則）／Danger Sense：</strong></p><p><strong>バーバリアン（アンチェインド）：</strong>3レベルの時点で、バーバリアンは罠を回避するための反応セーヴに＋1のボーナスと、罠による攻撃に対するアーマー・クラスに＋1の回避ボーナスを得る。加えて、バーバリアンは敵の不意討ちを避けるために行う@Compendium[pf1.skills.YYmmxDgp0g3ltSUG]{知覚}判定に＋1のボーナスを得る。これらのボーナスは以降3レベル毎に1ずつ増加する（18レベルの時点で最大の＋6）。この能力は特技やクラスの前提条件において@Compendium[pf1.class-abilities.BoEkMviJrW0PKmhj]{罠感知}として扱われ、@Compendium[pf1.class-abilities.BoEkMviJrW0PKmhj]{罠感知}を置き換えるアーキタイプのクラス特徴と置き換えることができる。バーバリアンが他のクラスで@Compendium[pf1.class-abilities.BoEkMviJrW0PKmhj]{罠感知}を獲得した場合、この能力で得られたボーナスは@Compendium[pf1.class-abilities.BoEkMviJrW0PKmhj]{罠感知}によるボーナスと累積する。</p><p><strong>ローグ（アンチェインド）：</strong>3レベルの時点で、ローグは罠を避けるための反応セーヴに＋1のボーナスと、罠による攻撃に対するアーマー・クラスに＋1の回避ボーナスを得る。加えて、ローグは敵から不意討ちされないようにするために行う@Compendium[pf1.skills.YYmmxDgp0g3ltSUG]{知覚}判定に＋1のボーナスを得る。これらのボーナスは以降ローグ・レベルが3上昇する毎に1ずつ増加する（18レベルの時点で最大の＋6）。この能力は特技やクラスの前提条件を満たす際、@Compendium[pf1.class-abilities.BoEkMviJrW0PKmhj]{罠感知}として扱われ、@Compendium[pf1.class-abilities.BoEkMviJrW0PKmhj]{罠感知}を置き換えるアーキタイプのクラス特徴で置き換えることができる。この能力から得られるボーナスは、（他のクラスから得られる）@Compendium[pf1.class-abilities.BoEkMviJrW0PKmhj]{罠感知}によるボーナスと累積する。</p><p><strong>文脈メモの修正：</strong></p<p>文脈メモはローグ（アンチェインド）がデフォルトで設定されているので、<strong>@classes.rogueUnchained.level</strong> の箇所をバーバリアン（アンチェインド）の場合は <strong>@classes.barbarianUnchained.level</strong> に変更してください。</p>",
 			"contextNotes": [
 				{
 					"subTarget": "ref",
 					"target": "savingThrows",
-					"text": "罠を避けるための反応セーヴに+[[@classes.rogue.level < 3 ? 1 : (floor(@classes.rogue.level / 3))]]ボーナス"
+					"text": "危険感知：罠を避けるための反応セーヴに+[[@classes.rogueUnchained.level < 3 ? 1 : (floor(@classes.rogueUnchained.level / 3))]]ボーナス"
 				},
 				{
 					"subTarget": "skill.per",
 					"target": "skill",
-					"text": "敵から不意討ちされないようにするために行う知覚判定に+[[@classes.rogue.level < 3 ? 1 : (floor(@classes.rogue.level / 3))]]ボーナス"
+					"text": "危険感知：敵から不意討ちされないようにするために行う知覚判定に+[[@classes.rogueUnchained.level < 3 ? 1 : (floor(@classes.rogueUnchained.level / 3))]]ボーナス"
 				},
 				{
 					"subTarget": "ac",
 					"target": "misc",
-					"text": "罠による攻撃に対するアーマー・クラスに+[[@classes.rogue.level < 3 ? 1 : (floor(@classes.rogue.level / 3))]]回避ボーナス"
+					"text": "危険感知：罠による攻撃に対するアーマー・クラスに+[[@classes.rogueUnchained.level < 3 ? 1 : (floor(@classes.rogueUnchained.level / 3))]]回避ボーナス"
 				}
 			],
 			"tags": [],
@@ -14648,6 +14648,13 @@
 			"id": "Evasion (NIN)",
 			"name": "身かわし（上位忍術）",
 			"description": "<p><strong>身かわし（変則）／Evasion：</strong></p><p>この上位忍術を修得したニンジャは、魔法その他の特殊攻撃さえも見事な体捌きで避けることができる。ニンジャがある攻撃のダメージを半減させるための反応セーヴに成功した場合、代わりにニンジャは全くダメージを受けない。身かわしの能力による利益を受けることができるのは、ニンジャが鎧を着ていないかまたは軽装鎧を着ている場合であり、かつ無防備状態でない場合に限られる。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "ref",
+					"target": "savingThrows",
+					"text": "身かわし"
+				}
+			],
 			"tags": [["上位忍術"]],
 			"classes": [
 				[
@@ -14659,6 +14666,13 @@
 			"id": "Evasive",
 			"name": "飄々（不羈の技）",
 			"description": "<p><strong>飄々（変則）／Evasive：</strong></p><p>ヴィジランテを範囲攻撃で捉えるのは難しい。ヴィジランテは@Compendium[pf1.class-abilities.KQYCRLEdD4bGA5ak]{身かわし}能力を得る。12レベルの時点で、ヴィジランテは@Compendium[pf1.class-abilities.Cc2eFfhJYlClCGEH]{身かわし強化}の能力を得る。静殺者のヴィジランテだけがこの技を選択できる。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "ref",
+					"target": "savingThrows",
+					"text": "身かわし"
+				}
+			],
 			"tags": [["不羈の技"]],
 			"classes": [
 				[
@@ -21857,6 +21871,13 @@
 			"id": "Improved Evasion",
 			"name": "身かわし強化",
 			"description": "<p><strong>身かわし強化（変則）／Improved Evasion：</strong></p><p><strong>モンク／モンク（アンチェインド）：</strong>9レベルにおいて、モンクの身かわし能力は強化される。攻撃に対する反応セーヴが成功した場合にダメージを受けないのは同じだが、それに加えて、セーヴに失敗した場合でも半分のダメージしか受けない。無防備状態のモンクは身かわし強化の効果を受けることができない。</p><p><strong>レンジャー：</strong>クラス・レベル16の時点で、レンジャーの身かわしは強化される。この能力は身かわしと同様に働く。反応セーヴに成功することでダメージを半減できる攻撃の対象となった場合に、セーヴィング・スローに成功すればダメージを全く受けずにすむという点は変わらないが、セーヴィング・スローに失敗した場合にも半分のダメージを受けるだけですむようになる。無防備状態のレンジャーは、身かわし強化の利益を受けることはできない。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "ref",
+					"target": "savingThrows",
+					"text": "身かわし強化"
+				}
+			],
 			"tags": [],
 			"classes": [
 				[
@@ -21874,6 +21895,13 @@
 			"id": "Improved Evasion (Talent)",
 			"name": "身かわし強化（ローグの上級の技）",
 			"description": "<p><strong>身かわし強化（変則）／Improved Evasion：</strong></p><p>この能力は@Compendium[pf1.class-abilities.KQYCRLEdD4bGA5ak]{身かわし}と同様に働く。反応セーヴに成功することでダメージを半減できる攻撃の対象となった場合に、セーヴィング・スローに成功すればダメージを全く受けなくなるという点は変わらないが、セーヴィング・スローに失敗した場合にも半分のダメージを受けるだけですむようになる。無防備状態のローグは身かわし強化の利益を得ることはできない。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "ref",
+					"target": "savingThrows",
+					"text": "身かわし強化"
+				}
+			],
 			"tags": [["ローグの上級の技"]],
 			"classes": [
 				[
@@ -21885,6 +21913,13 @@
 			"id": "Improved Evasion (UC)",
 			"name": "身かわし強化（UC、ローグの上級の技）",
 			"description": "<p><strong>身かわし強化（変則）／Improved Evasion：</strong></p><p>この能力は@Compendium[pf1.class-abilities.KQYCRLEdD4bGA5ak]{身かわし}と同様に働く。反応セーヴに成功することでダメージを半減できる攻撃の対象となった場合に、セーヴィング・スローに成功すればダメージを全く受けなくなるという点は変わらないが、セーヴィング・スローに失敗した場合にも半分のダメージを受けるだけですむようになる。無防備状態のローグは身かわし強化の利益を得ることはできない。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "ref",
+					"target": "savingThrows",
+					"text": "身かわし強化"
+				}
+			],
 			"tags": [["ローグの上級の技 (UC)"]],
 			"classes": [
 				[
@@ -22002,7 +22037,7 @@
 				{
 					"subTarget": "ac",
 					"target": "misc",
-					"text": "挟撃されない"
+					"text": "直感回避強化：挟撃されない"
 				}
 			],
 			"tags": [],
@@ -24851,7 +24886,7 @@
 		{
 			"id": "Life Mystery",
 			"name": "神秘：生命",
-			"description": "<h2>生命 Life</h2><p><strong>クラス技能：</strong>生命の神秘を持つオラクルは@Compendium[pf1.skills.TXrxgrB2sQjppZFY]{生存}、@Compendium[pf1.skills.ki0QvL0K7u4YuK0O]{知識：自然}、@Compendium[pf1.skills.fXauAodbOBHBi7Mj]{動物使い}を自身のクラス技能リストに加える。</p><p><strong>ボーナス呪文：</strong></p><ul><li>@Compendium[pf1.spells.aa0w7tk852iqn3ni]{ディテクト・アンデッド}（2レベル）</li><li>@Compendium[pf1.spells.fxz69pwpqt9b6uss]{レッサー・レストレーション}（4レベル）</li><li>@Compendium[pf1.spells.6l904edkt8jv9jor]{ニュートラライズ・ポイズン}（6レベル）</li><li>@Compendium[pf1.spells.anya5qwdjhdfyk8u]{レストレーション}（8レベル）</li><li>@Compendium[pf1.spells.qiiis9ekgy3syu7j]{ブレス・オヴ・ライフ}（10レベル）</li><li>@Compendium[pf1.spells.4re1j2w8wkvsvnsi]{ヒール}（12レベル）</li><li>@Compendium[pf1.spells.igmb8lisqcnsxd2d]{グレーター・レストレーション}（14レベル）</li><li>@Compendium[pf1.spells.klcvk9ct1l7mhjwp]{マス・ヒール}（16レベル）</li><li>@Compendium[pf1.spells.mxqi375ya2rka7cp]{トゥルー・リザレクション}（18レベル）</li></ul><p><strong>啓示：</strong>生命の神秘を持つオラクルは以下の啓示から好きなものを選択することができる。</p><ul><li>@Compendium[pf1.class-abilities.vexBPEO6R53nBmsf]{安全な回復}</li><li>@Compendium[pf1.class-abilities.VCUMZaV149fUuJR6]{エネルギーの肉体}</li><li>@Compendium[pf1.class-abilities.rLeElGEgb27lewmP]{回復強化}</li><li>@Compendium[pf1.class-abilities.tRD2FQXN7sGOJGPm]{感冒の遅延}</li><li>@Compendium[pf1.class-abilities.iBM8TqG9BDpCjAj7]{精体促進}</li><li>@Compendium[pf1.class-abilities.ptPlQjS6GaMCohF0]{生命感知}</li><li><strong>生命共有（超常）／Life Link：</strong>標準アクションにより、君は自身と別のクリーチャーとの間に絆を作り出すことができる。毎ラウンド君のターンの開始時に、絆を結んだクリーチャーが傷つき最大ヒット・ポイントからヒット・ポイントが5以上減少していた場合、そのクリーチャーは5ヒット・ポイント治癒され君は5ポイントのダメージを受ける。君はオラクル・レベルにつき起動状態の絆を1つ持つことができる。この絆は結ばれたクリーチャーが死ぬか、君が死ぬか、君とそのクリーチャーとの距離が中距離を超えるか、君がこれを割り込みアクションで終了するか（君が複数の絆を起動していた場合、君は同じ割り込みアクションの一部で望む数を終了させることができる）するまで続く。</li><li>@Compendium[pf1.class-abilities.zHOV0GMi31u7zgOk]{戦闘の癒し手}</li><li>@Compendium[pf1.class-abilities.i66RXlViYbPPAKTu]{治療の手}</li><li>@Compendium[pf1.class-abilities.vXvF2dNAdD8B9lDY]{放出}</li></ul><p><strong>最終啓示：</strong>@Compendium[pf1.class-abilities.Ff8ywP5slBF38RXc]{最終啓示：生命}</p>",
+			"description": "<h2>生命 Life</h2><p><strong>クラス技能：</strong>生命の神秘を持つオラクルは@Compendium[pf1.skills.TXrxgrB2sQjppZFY]{生存}、@Compendium[pf1.skills.ki0QvL0K7u4YuK0O]{知識：自然}、@Compendium[pf1.skills.fXauAodbOBHBi7Mj]{動物使い}を自身のクラス技能リストに加える。</p><p><strong>ボーナス呪文：</strong></p><ul><li>@Compendium[pf1.spells.aa0w7tk852iqn3ni]{ディテクト・アンデッド}（2レベル）</li><li>@Compendium[pf1.spells.fxz69pwpqt9b6uss]{レッサー・レストレーション}（4レベル）</li><li>@Compendium[pf1.spells.6l904edkt8jv9jor]{ニュートラライズ・ポイズン}（6レベル）</li><li>@Compendium[pf1.spells.anya5qwdjhdfyk8u]{レストレーション}（8レベル）</li><li>@Compendium[pf1.spells.qiiis9ekgy3syu7j]{ブレス・オヴ・ライフ}（10レベル）</li><li>@Compendium[pf1.spells.4re1j2w8wkvsvnsi]{ヒール}（12レベル）</li><li>@Compendium[pf1.spells.igmb8lisqcnsxd2d]{グレーター・レストレーション}（14レベル）</li><li>@Compendium[pf1.spells.klcvk9ct1l7mhjwp]{マス・ヒール}（16レベル）</li><li>@Compendium[pf1.spells.mxqi375ya2rka7cp]{トゥルー・リザレクション}（18レベル）</li></ul><p><strong>啓示：</strong>生命の神秘を持つオラクルは以下の啓示から好きなものを選択することができる。</p><ul><li>@Compendium[pf1.class-abilities.vexBPEO6R53nBmsf]{安全な回復}</li><li>@Compendium[pf1.class-abilities.VCUMZaV149fUuJR6]{エネルギーの肉体}</li><li>@Compendium[pf1.class-abilities.rLeElGEgb27lewmP]{回復強化}</li><li>@Compendium[pf1.class-abilities.tRD2FQXN7sGOJGPm]{感冒の遅延}</li><li>@Compendium[pf1.class-abilities.iBM8TqG9BDpCjAj7]{精体促進}</li><li>@Compendium[pf1.class-abilities.ptPlQjS6GaMCohF0]{生命感知}</li><li>@Compendium[pf1.class-abilities.W8jSr6VXhheSuDU3]{生命共有}</li><li>@Compendium[pf1.class-abilities.zHOV0GMi31u7zgOk]{戦闘の癒し手}</li><li>@Compendium[pf1.class-abilities.i66RXlViYbPPAKTu]{治療の手}</li><li>@Compendium[pf1.class-abilities.vXvF2dNAdD8B9lDY]{放出}</li></ul><p><strong>最終啓示：</strong>@Compendium[pf1.class-abilities.Ff8ywP5slBF38RXc]{最終啓示：生命}</p>",
 			"tags": [["神秘"]],
 			"classes": [
 				[
@@ -27063,7 +27098,7 @@
 		{
 			"id": "Mercy",
 			"name": "慈悲",
-			"description": "<p><strong>慈悲（超常）／Mercy：</strong></p><p>3レベルになってからと以後3レベル毎に、パラディンは慈悲をひとつ選択することができる。ひとつの慈悲は、パラディンの@Compendium[pf1.class-abilities.WhE4j0Jc82npdMCP]{癒しの手}の能力にひとつの効果を加える。パラディンが@Compendium[pf1.class-abilities.WhE4j0Jc82npdMCP]{癒しの手}の能力を1体の対象に対して使用して傷を癒すたびに、対象はそのパラディンが有する全ての“慈悲”の効果も受ける。慈悲は呪い、病気または毒によってもたらされた状態を、その症状そのものを治療すること無く、一時的に取り除くことができる。そのような状態は、慈悲が症状そのものを取り除くのでない限り、1時間後に再び発現する。</p><p>3レベルの時点で、パラディンは以下の初級慈悲リストから、選択することができる。</p><ul><li><strong>疲労状態／Fatigued：</strong>対象を疲労状態でなくす。</li><li><strong>怯え状態／Shaken：</strong>対象を怯え状態でなくす。</li><li><strong>不調状態／Sickened：</strong>象を不調状態でなくす。</li></ul><p>6レベルの時点で、以下の慈悲リストが選択肢に加えられる。</p><ul><li><strong>幻惑状態／Dazed：</strong>対象を幻惑状態でなくす。</li><li><strong>病気／Diseased：</strong>パラディンの“癒しの手”能力はまた、パラディン・レベルを術者レベルとする@Compendium[pf1.spells.ocbjt6z7amc3yn8w]{リムーヴ・ディジーズ}として機能する。</li><li><strong>よろめき状態／Staggered：</strong>対象の実際のヒット・ポイントが0でないなら、よろめき状態でなくす。</li></ul><p>9レベルの時点で、以下の慈悲リストが選択肢に加えられる。</p><ul><li><strong>呪い／Cursed：</strong>パラディンの“癒しの手”能力はまた、パラディン・レベルを術者レベルとする@Compendium[pf1.spells.o87h8gjxevcbztgd]{リムーヴ・カース}として機能する。</li><li><strong>過労状態／Exhausted：</strong>対象を過労状態でなくす。パラディンは先に“疲労の慈悲”を持っていなければ、この慈悲を選択できない。</li><li><strong>恐れ状態／Frightened：</strong>対象を恐れ状態でなくす。パラディンは先に“怯えの慈悲”を持っていなければ、この慈悲を選択できない。</li><li><strong>吐き気がする状態／Nauseated：</strong>対象を吐き気がする状態でなくす。パラディンは先に“不調の慈悲”を持っていなければ、この慈悲を選択できない。</li><li><strong>毒／Poisoned：</strong>パラディンの“癒しの手”能力はまた、パラディン・レベルを術者レベルとする@Compendium[pf1.spells.6l904edkt8jv9jor]{ニュートラライズ・ポイズン}として機能する。</li></ul><p>12レベルの時点で、以下の慈悲リストが選択肢に加えられる。</p><ul><li><strong>盲目／Blinded：</strong>対象を盲目状態でなくす。</li><li><strong>聴覚喪失状態／Deafened：</strong>対象を聴覚喪失状態でなくす。</li><li><strong>麻痺状態／Paralyzed：</strong>対象を麻痺状態でなくす。</li><li><strong>朦朧状態／Stunned：</strong>対象を朦朧状態でなくす。</li></ul><p>これらの能力は累積する。例えば12レベル・パラディンの@Compendium[pf1.class-abilities.WhE4j0Jc82npdMCP]{癒しの手}は6d6ポイントのダメージを癒し、過労状態と疲労状態を取り除き、病気と毒を治療する。一度状態または呪文効果を選んだら、以後変更することはできない。</p>",
+			"description": "<p><strong>慈悲（超常）／Mercy：</strong></p><p>3レベルになってからと以後3レベル毎に、パラディンは慈悲をひとつ選択することができる。ひとつの慈悲は、パラディンの@Compendium[pf1.class-abilities.WhE4j0Jc82npdMCP]{癒しの手}の能力にひとつの効果を加える。パラディンが@Compendium[pf1.class-abilities.WhE4j0Jc82npdMCP]{癒しの手}の能力を1体の対象に対して使用して傷を癒すたびに、対象はそのパラディンが有する全ての“慈悲”の効果も受ける。慈悲は呪い、病気または毒によってもたらされた状態を、その症状そのものを治療すること無く、一時的に取り除くことができる。そのような状態は、慈悲が症状そのものを取り除くのでない限り、1時間後に再び発現する。</p><p>3レベルの時点で、パラディンは以下の初級慈悲リストから、選択することができる。</p><ul><li><strong>疲労状態／Fatigued：</strong>対象を疲労状態でなくす。</li><li><strong>怯え状態／Shaken：</strong>対象を怯え状態でなくす。</li><li><strong>不調状態／Sickened：</strong>対象を不調状態でなくす。</li></ul><p>6レベルの時点で、以下の慈悲リストが選択肢に加えられる。</p><ul><li><strong>幻惑状態／Dazed：</strong>対象を幻惑状態でなくす。</li><li><strong>病気／Diseased：</strong>パラディンの“癒しの手”能力はまた、パラディン・レベルを術者レベルとする@Compendium[pf1.spells.ocbjt6z7amc3yn8w]{リムーヴ・ディジーズ}として機能する。</li><li><strong>よろめき状態／Staggered：</strong>対象の実際のヒット・ポイントが0でないなら、よろめき状態でなくす。</li></ul><p>9レベルの時点で、以下の慈悲リストが選択肢に加えられる。</p><ul><li><strong>呪い／Cursed：</strong>パラディンの“癒しの手”能力はまた、パラディン・レベルを術者レベルとする@Compendium[pf1.spells.o87h8gjxevcbztgd]{リムーヴ・カース}として機能する。</li><li><strong>過労状態／Exhausted：</strong>対象を過労状態でなくす。パラディンは先に“疲労の慈悲”を持っていなければ、この慈悲を選択できない。</li><li><strong>恐れ状態／Frightened：</strong>対象を恐れ状態でなくす。パラディンは先に“怯えの慈悲”を持っていなければ、この慈悲を選択できない。</li><li><strong>吐き気がする状態／Nauseated：</strong>対象を吐き気がする状態でなくす。パラディンは先に“不調の慈悲”を持っていなければ、この慈悲を選択できない。</li><li><strong>毒／Poisoned：</strong>パラディンの“癒しの手”能力はまた、パラディン・レベルを術者レベルとする@Compendium[pf1.spells.6l904edkt8jv9jor]{ニュートラライズ・ポイズン}として機能する。</li></ul><p>12レベルの時点で、以下の慈悲リストが選択肢に加えられる。</p><ul><li><strong>盲目／Blinded：</strong>対象を盲目状態でなくす。</li><li><strong>聴覚喪失状態／Deafened：</strong>対象を聴覚喪失状態でなくす。</li><li><strong>麻痺状態／Paralyzed：</strong>対象を麻痺状態でなくす。</li><li><strong>朦朧状態／Stunned：</strong>対象を朦朧状態でなくす。</li></ul><p>これらの能力は累積する。例えば12レベル・パラディンの@Compendium[pf1.class-abilities.WhE4j0Jc82npdMCP]{癒しの手}は6d6ポイントのダメージを癒し、過労状態と疲労状態を取り除き、病気と毒を治療する。一度状態または呪文効果を選んだら、以後変更することはできない。</p>",
 			"tags": [],
 			"classes": [
 				[
@@ -28544,7 +28579,7 @@
 		{
 			"id": "Nature Mystery",
 			"name": "神秘：自然",
-			"description": "<h2>自然 Nature</h2><p><strong>クラス技能：</strong>自然の神秘を持つオラクルは@Compendium[pf1.skills.mKO8Q4uMiqpMySOZ]{騎乗}、@Compendium[pf1.skills.weCPHUuXi9sF5r4E]{水泳}、@Compendium[pf1.skills.TXrxgrB2sQjppZFY]{生存}、@Compendium[pf1.skills.ki0QvL0K7u4YuK0O]{知識：自然}、@Compendium[pf1.skills.xvua9V5Zggkc77Gt]{登攀}、@Compendium[pf1.skills.rR877UB1xVd3Z7z1]{飛行}を自身のクラス技能リストに加える。</p><p><strong>ボーナス呪文：</strong></p><ul><li>@Compendium[pf1.spells.pg7dbmuuaksxhp3v]{チャーム・アニマル}（2レベル）</li><li>@Compendium[pf1.spells.la7kuehewu85ybnt]{バークスキン}（4レベル）</li><li>@Compendium[pf1.spells.rrsefzpm3nhztvld]{スピーク・ウィズ・プランツ}（6レベル）</li><li>@Compendium[pf1.spells.0sssdtv0tkbns2r3]{グロウヴ・オヴ・レスピット}（8レベル）</li><li>@Compendium[pf1.spells.h9qiwo9kx8d1hqrn]{アウェイクン}（10レベル）</li><li>@Compendium[pf1.spells.wgm8mm1za909pwch]{ストーン・テル}（12レベル）</li><li>@Compendium[pf1.spells.f828mjoo5afszqnk]{クリーピング・ドゥーム}（14レベル）</li><li>@Compendium[pf1.spells.3ah9mmg0odateh8l]{アニマル・シェイプス}（16レベル）</li><li>@Compendium[pf1.spells.refg1teqkrdtxllg]{ワールド・ウェイヴ}（18レベル）</li></ul><p><strong>啓示：</strong>自然の神秘を持つオラクルは以下の啓示から好きなものを選択することができる。</p><ul><li>@Compendium[pf1.class-abilities.ehqS3YoFY4BJyMyt]{技巧の初期化}</li><li>@Compendium[pf1.class-abilities.uMoup6Tz8WoZX2Z9]{絆ある乗騎}</li><li>@Compendium[pf1.class-abilities.9AGnYVoroVWQQeh3]{自然の意気}</li><li>@Compendium[pf1.class-abilities.uixzVg5UNv8LEqXI]{自然の囁き}</li><li>@Compendium[pf1.class-abilities.60vrihl3qagCqY87]{自然の神託}</li><li><strong>スピーク・ウィズ・アニマルズ（変則）／Speak with Animals：</strong>動物の特定の種類（イーグル、フォックス、ドッグなど）を1つ選択する。君はその種類の動物と@Compendium[pf1.spells.ct9fhh8uawn8e4md]{スピーク・ウィズ・アニマルズ}の効果を受けているかのように会話する能力を得る。君はこの能力で君の持つ3オラクル・レベル毎に追加で1種類の動物と会話できる能力を得る。</li><li>@Compendium[pf1.class-abilities.dWmTFPAUcYqU9s1I]{生命濾過}</li><li>@Compendium[pf1.class-abilities.nNY4TLxN2PYwduB1]{動物の友人}</li><li>@Compendium[pf1.class-abilities.bAkzStFXhaihTb5u]{超越的絆}</li><li>@Compendium[pf1.class-abilities.4puFBgiy3BBNYCys]{腐食の接触}</li></ul><p><strong>最終啓示：</strong>@Compendium[pf1.class-abilities.Ucs7YX4327sL1QDN]{最終啓示：自然}</p>",
+			"description": "<h2>自然 Nature</h2><p><strong>クラス技能：</strong>自然の神秘を持つオラクルは@Compendium[pf1.skills.mKO8Q4uMiqpMySOZ]{騎乗}、@Compendium[pf1.skills.weCPHUuXi9sF5r4E]{水泳}、@Compendium[pf1.skills.TXrxgrB2sQjppZFY]{生存}、@Compendium[pf1.skills.ki0QvL0K7u4YuK0O]{知識：自然}、@Compendium[pf1.skills.xvua9V5Zggkc77Gt]{登攀}、@Compendium[pf1.skills.rR877UB1xVd3Z7z1]{飛行}を自身のクラス技能リストに加える。</p><p><strong>ボーナス呪文：</strong></p><ul><li>@Compendium[pf1.spells.pg7dbmuuaksxhp3v]{チャーム・アニマル}（2レベル）</li><li>@Compendium[pf1.spells.la7kuehewu85ybnt]{バークスキン}（4レベル）</li><li>@Compendium[pf1.spells.rrsefzpm3nhztvld]{スピーク・ウィズ・プランツ}（6レベル）</li><li>@Compendium[pf1.spells.0sssdtv0tkbns2r3]{グロウヴ・オヴ・レスピット}（8レベル）</li><li>@Compendium[pf1.spells.h9qiwo9kx8d1hqrn]{アウェイクン}（10レベル）</li><li>@Compendium[pf1.spells.wgm8mm1za909pwch]{ストーン・テル}（12レベル）</li><li>@Compendium[pf1.spells.f828mjoo5afszqnk]{クリーピング・ドゥーム}（14レベル）</li><li>@Compendium[pf1.spells.3ah9mmg0odateh8l]{アニマル・シェイプス}（16レベル）</li><li>@Compendium[pf1.spells.refg1teqkrdtxllg]{ワールド・ウェイヴ}（18レベル）</li></ul><p><strong>啓示：</strong>自然の神秘を持つオラクルは以下の啓示から好きなものを選択することができる。</p><ul><li>@Compendium[pf1.class-abilities.ehqS3YoFY4BJyMyt]{技巧の初期化}</li><li>@Compendium[pf1.class-abilities.uMoup6Tz8WoZX2Z9]{絆ある乗騎}</li><li>@Compendium[pf1.class-abilities.9AGnYVoroVWQQeh3]{自然の意気}</li><li>@Compendium[pf1.class-abilities.uixzVg5UNv8LEqXI]{自然の囁き}</li><li>@Compendium[pf1.class-abilities.60vrihl3qagCqY87]{自然の神託}</li><li>@Compendium[pf1.class-abilities.aUqHCnEdkjWK9aSu]{スピーク・ウィズ・アニマルズ}</li><li>@Compendium[pf1.class-abilities.dWmTFPAUcYqU9s1I]{生命濾過}</li><li>@Compendium[pf1.class-abilities.nNY4TLxN2PYwduB1]{動物の友人}</li><li>@Compendium[pf1.class-abilities.bAkzStFXhaihTb5u]{超越的絆}</li><li>@Compendium[pf1.class-abilities.4puFBgiy3BBNYCys]{腐食の接触}</li></ul><p><strong>最終啓示：</strong>@Compendium[pf1.class-abilities.Ucs7YX4327sL1QDN]{最終啓示：自然}</p>",
 			"tags": [["神秘"]],
 			"classes": [
 				[
@@ -31440,7 +31475,7 @@
 				{
 					"subTarget": "allSavingThrows",
 					"target": "savingThrows",
-					"text": "すべての毒に対するセーヴィング・スローに+[[2]]ボーナス"
+					"text": "毒に対する抵抗：すべての毒に対するセーヴィング・スローに+[[@classes.alchemist.level < 5 ? 2 : @classes.alchemist.level < 8 ? 4 : 6]]ボーナス"
 				}
 			],
 			"tags": [],
@@ -31454,6 +31489,13 @@
 			"id": "Poison Resistance (INV)",
 			"name": "毒に対する抵抗（インヴェスティゲーター）",
 			"description": "<p><strong>毒に対する抵抗（変則）／Poison Resistance：</strong></p><p>2レベルの時点で、インヴェスティゲーターは毒に対する全てのセーヴィング・スローに＋2のボーナスを得る。このボーナスは5レベルの時点で＋4に、8レベルの時点で＋6に増加する。11レベルの時点で、インヴェスティゲーターは毒に対して完全耐性を得る。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "allSavingThrows",
+					"target": "savingThrows",
+					"text": "毒に対する抵抗：すべての毒に対するセーヴィング・スローに+[[@classes.investigator.level < 5 ? 2 : @classes.investigator.level < 8 ? 4 : 6]]ボーナス"
+				}
+			],
 			"tags": [],
 			"classes": [
 				[
@@ -40489,7 +40531,7 @@
 		{
 			"id": "Stone Mystery",
 			"name": "神秘：石",
-			"description": "<h2>石 Stone</h2><p><strong>クラス技能：</strong>石の神秘を持つオラクルは@Compendium[pf1.skills.ImjhcPmm02QSCbPg]{威圧}、@Compendium[pf1.skills.W5GT9F3euC4aG9zP]{鑑定}、@Compendium[pf1.skills.TXrxgrB2sQjppZFY]{生存}、@Compendium[pf1.skills.xvua9V5Zggkc77Gt]{登攀}を自身のクラス技能リストに加える。</p><p><strong>ボーナス呪文：</strong></p><ul><li>@Compendium[pf1.spells.fv9mgob508qv99zz]{マジック・ストーン}（2レベル）</li><li>@Compendium[pf1.spells.gqtg9ruv8kkd0knf]{ストーン・コール}（4レベル）</li><li>@Compendium[pf1.spells.dkv9v4verb82fmpx]{メルド・イントゥ・ストーン}（6レベル）</li><li>@Compendium[pf1.spells.l83djt5019ujasjh]{ウォール・オヴ・ストーン}（8レベル）</li><li>@Compendium[pf1.spells.knyako6zopc1chrv]{ストーンスキン}（10レベル）</li><li>@Compendium[pf1.spells.wgm8mm1za909pwch]{ストーン・テル}（12レベル）</li><li>@Compendium[pf1.spells.g52zx1t1giteg5h1]{スタチュー}（14レベル）</li><li>@Compendium[pf1.spells.oeemcnfjod9zd7my]{リペル・メタル・オア・ストーン}（16レベル）</li><li>@Compendium[pf1.spells.o8jhvddxgunzx94i]{クラッシング・ロックス}（18レベル）</li></ul><p><strong>啓示：</strong>石の神秘を持つオラクルは以下の啓示から好きなものを選択することができる。</p><ul><li>@Compendium[pf1.class-abilities.pK6aiBQit85isQ9v]{石の安定性}</li><li>@Compendium[pf1.class-abilities.iHVO0z5RTRIYL7yU]{岩投げ}</li><li>@Compendium[pf1.class-abilities.wR1Bt84ZulSKzvj4]{打ち倒す一撃}</li><li>@Compendium[pf1.class-abilities.1oqvwOeH33hspGDx]{強力な小石}</li><li>@Compendium[pf1.class-abilities.JYrSnCCa1EunZ2pK]{酸の接触}</li><li>@Compendium[pf1.class-abilities.DpQMlDH18vRkDcex]{酸の皮膚}</li><li><strong>地潜り（超常）／Earth Glide：</strong>君は石や礫を、あるいは加工された石や金属以外で大地に類するものを、魚が水中を泳ぐのと同様に簡単に通過できる。もし［火炎］ダメージから守られているなら、君は溶岩にさえ潜れる。君は自身の基本移動速度で地面を潜れる。潜っている間、君はそれが空気であるかのように石の中で呼吸できる（息を止める必要はない）。君の穴掘りは隧道や穴をまったく残さず、僅かなさざ波も君の存在した痕跡も作らない。君がいる範囲への@Compendium[pf1.spells.ukuyfbufbglbzfco]{ムーヴ・アース}呪文は君を30フィート押し戻し、難易度15の頑健セーヴに成功しない限り1ラウンドの間朦朧状態になる。この能力の起動はフリー・アクションである。君は1日にオラクル・レベルにつき1分間潜れる。この持続時間は連続している必要はないが、1分間単位で消費しなければならない。君は最低7レベルなければこの啓示を選択できない。君は潜るときほかのクリーチャーたちを連れていけるが、同行者それぞれについて追加で移動時間を消費する。</li><li>@Compendium[pf1.class-abilities.HmxiCHeh7kJkwzqR]{水晶の視界}</li><li>@Compendium[pf1.class-abilities.vATa23CycXfo127L]{陶片の爆発}</li><li>@Compendium[pf1.class-abilities.iqNzKtzwCxJOCfIj]{鋼破りの皮膚}</li></ul><p><strong>最終啓示：</strong>@Compendium[pf1.class-abilities.dYO2tzLhlajU0gm0]{最終啓示：石}</p>",
+			"description": "<h2>石 Stone</h2><p><strong>クラス技能：</strong>石の神秘を持つオラクルは@Compendium[pf1.skills.ImjhcPmm02QSCbPg]{威圧}、@Compendium[pf1.skills.W5GT9F3euC4aG9zP]{鑑定}、@Compendium[pf1.skills.TXrxgrB2sQjppZFY]{生存}、@Compendium[pf1.skills.xvua9V5Zggkc77Gt]{登攀}を自身のクラス技能リストに加える。</p><p><strong>ボーナス呪文：</strong></p><ul><li>@Compendium[pf1.spells.fv9mgob508qv99zz]{マジック・ストーン}（2レベル）</li><li>@Compendium[pf1.spells.gqtg9ruv8kkd0knf]{ストーン・コール}（4レベル）</li><li>@Compendium[pf1.spells.dkv9v4verb82fmpx]{メルド・イントゥ・ストーン}（6レベル）</li><li>@Compendium[pf1.spells.l83djt5019ujasjh]{ウォール・オヴ・ストーン}（8レベル）</li><li>@Compendium[pf1.spells.knyako6zopc1chrv]{ストーンスキン}（10レベル）</li><li>@Compendium[pf1.spells.wgm8mm1za909pwch]{ストーン・テル}（12レベル）</li><li>@Compendium[pf1.spells.g52zx1t1giteg5h1]{スタチュー}（14レベル）</li><li>@Compendium[pf1.spells.oeemcnfjod9zd7my]{リペル・メタル・オア・ストーン}（16レベル）</li><li>@Compendium[pf1.spells.o8jhvddxgunzx94i]{クラッシング・ロックス}（18レベル）</li></ul><p><strong>啓示：</strong>石の神秘を持つオラクルは以下の啓示から好きなものを選択することができる。</p><ul><li>@Compendium[pf1.class-abilities.pK6aiBQit85isQ9v]{石の安定性}</li><li>@Compendium[pf1.class-abilities.iHVO0z5RTRIYL7yU]{岩投げ}</li><li>@Compendium[pf1.class-abilities.wR1Bt84ZulSKzvj4]{打ち倒す一撃}</li><li>@Compendium[pf1.class-abilities.1oqvwOeH33hspGDx]{強力な小石}</li><li>@Compendium[pf1.class-abilities.JYrSnCCa1EunZ2pK]{酸の接触}</li><li>@Compendium[pf1.class-abilities.DpQMlDH18vRkDcex]{酸の皮膚}</li><li>@Compendium[pf1.class-abilities.yQbAIzNiNo4nQyIo]{地潜り}</li><li>@Compendium[pf1.class-abilities.HmxiCHeh7kJkwzqR]{水晶の視界}</li><li>@Compendium[pf1.class-abilities.vATa23CycXfo127L]{陶片の爆発}</li><li>@Compendium[pf1.class-abilities.iqNzKtzwCxJOCfIj]{鋼破りの皮膚}</li></ul><p><strong>最終啓示：</strong>@Compendium[pf1.class-abilities.dYO2tzLhlajU0gm0]{最終啓示：石}</p>",
 			"tags": [["神秘"]],
 			"classes": [
 				[
@@ -43934,21 +43976,18 @@
 		{
 			"id": "Track",
 			"name": "追跡",
-			"description": "<p><strong>追跡（変則）／Track：</strong></p><p><strong>レンジャー：</strong>レンジャーは痕跡をたどるための@Compendium[pf1.skills.TXrxgrB2sQjppZFY]{生存}判定にクラス・レベルの半分に等しい値（最低1）を加える。</p><p><strong>インクィジター：</strong>2レベルの時点で、インクィジターは追跡あるいは痕跡を識別するために行う@Compendium[pf1.skills.TXrxgrB2sQjppZFY]{生存}判定にレベルの半分を加える。</p><p><strong>スレイヤー：</strong>スレイヤーは痕跡を追跡するために行う@Compendium[pf1.skills.TXrxgrB2sQjppZFY]{生存}技能判定に、自分のレベルの半分（最低1）を加える。</p><p><strong>ハンター：</strong>2レベルの時点で、ハンターは痕跡をたどるための@Compendium[pf1.skills.TXrxgrB2sQjppZFY]{生存}判定にクラス・レベルの半分に等しい値（最低1）を加える。</p>",
+			"description": "<p><strong>追跡（変則）／Track：</strong></p><p><strong>レンジャー：</strong>レンジャーは痕跡をたどるための@Compendium[pf1.skills.TXrxgrB2sQjppZFY]{生存}判定にクラス・レベルの半分に等しい値（最低1）を加える。</p><p><strong>スレイヤー：</strong>スレイヤーは痕跡を追跡するために行う@Compendium[pf1.skills.TXrxgrB2sQjppZFY]{生存}技能判定に、自分のレベルの半分（最低1）を加える。</p><p><strong>ハンター：</strong>2レベルの時点で、ハンターは痕跡をたどるための@Compendium[pf1.skills.TXrxgrB2sQjppZFY]{生存}判定にクラス・レベルの半分に等しい値（最低1）を加える。</p><p><strong>文脈メモの修正：</strong></p<p>文脈メモはレンジャーがデフォルトで設定されているので、<strong>@classes.ranger.level</strong>の箇所をスレイヤーの場合は <strong>@classes.slayer.level</strong> に変更し、ハンターの場合は <strong>@classes.hunter.level</strong> に変更してください。</p>",
 			"contextNotes": [
 				{
 					"subTarget": "skill.sur",
 					"target": "skill",
-					"text": "痕跡をたどるための生存判定に+[[min(1,floor(@classes.ranger.level/2))]]ボーナス"
+					"text": "追跡：痕跡をたどるための生存判定に+[[max(1,floor(@classes.ranger.level/2))]]ボーナス"
 				}
 			],
 			"tags": [],
 			"classes": [
 				[
 					"レンジャー"
-				],
-				[
-					"インクィジター"
 				],
 				[
 					"スレイヤー"
@@ -44140,17 +44179,17 @@
 		{
 			"id": "Trap Sense",
 			"name": "罠感知",
-			"description": "<p><strong>罠感知（変則）／Trap Sense：</strong></p><p>君は罠を避けるための反応セーヴに＋1のボーナスを、罠からの攻撃に対するアーマー・クラスに＋1の回避ボーナスを得る。以降、このボーナスは罠感知を取得したクラス・レベルが3上昇するごとに（つまり、6、9、12、15、18レベルで）＋1ずつ増えていく。複数のクラスで得た罠感知のボーナスは累積する。</p>",
+			"description": "<p><strong>罠感知（変則）／Trap Sense：</strong></p><p>君は罠を避けるための反応セーヴに＋1のボーナスを、罠からの攻撃に対するアーマー・クラスに＋1の回避ボーナスを得る。以降、このボーナスは罠感知を取得したクラス・レベルが3上昇するごとに（つまり、6、9、12、15、18レベルで）＋1ずつ増えていく。複数のクラスで得た罠感知のボーナスは累積する。</p><p><strong>文脈メモの修正：</strong></p<p>文脈メモはローグがデフォルトで設定されているので、<strong>@classes.rogue.level</strong> の箇所をバーバリアンの場合は <strong>@classes.barbarian.level</strong> に変更し、インヴェスティゲーターの場合は <strong>@classes.investigator.level</strong> に変更してください。</p>",
 			"contextNotes": [
 				{
 					"subTarget": "ref",
 					"target": "savingThrows",
-					"text": "罠を避けるための反応セーヴに+[[floor(@classes.rogue.level/3)]]ボーナス"
+					"text": "罠感知：罠を避けるための反応セーヴに+[[floor(@classes.rogue.level/3)]]ボーナス"
 				},
 				{
 					"subTarget": "ac",
 					"target": "misc",
-					"text": "罠からの攻撃に対するアーマー・クラスに+[[floor(@classes.rogue.level/3)]]回避ボーナス"
+					"text": "罠感知：罠からの攻撃に対するアーマー・クラスに+[[floor(@classes.rogue.level/3)]]回避ボーナス"
 				}
 			],
 			"tags": [],
@@ -44216,7 +44255,7 @@
 			"description": "<p><strong>罠探し／Trapfinding：</strong></p><p>ローグは@Compendium[pf1.skills.CCy1fajKKU3K02iQ]{装置無力化}技能判定と罠を探すための@Compendium[pf1.skills.YYmmxDgp0g3ltSUG]{知覚}技能判定にクラス・レベルの1/2（最低1）を加える。ローグは@Compendium[pf1.skills.CCy1fajKKU3K02iQ]{装置無力化}技能を用いて魔法的な罠を解除できる。</p>",
 			"contextNotes": [
 				{
-					"text": "罠を探すための知覚判定に+[[@classes.rogue.level < 4 ? 1 : (floor(@classes.rogue.level / 2))]]ボーナス",
+					"text": "罠探し：罠を探すための知覚判定に+[[@classes.rogue.level < 4 ? 1 : (floor(@classes.rogue.level / 2))]]ボーナス",
 					"target": "skill",
 					"subTarget": "skill.per"
 				}
@@ -44234,7 +44273,7 @@
 			"description": "<p><strong>罠探し／Trapfinding：</strong></p><p>インヴェスティゲーターは罠の在処を見つけるための@Compendium[pf1.skills.YYmmxDgp0g3ltSUG]{知覚}技能判定と、@Compendium[pf1.skills.CCy1fajKKU3K02iQ]{装置無力化}判定にレベルの半分（最低1）を加える。インヴェスティゲーターは@Compendium[pf1.skills.CCy1fajKKU3K02iQ]{装置無力化}を用いて魔法の罠を解除することができる。</p>",
 			"contextNotes": [
 				{
-					"text": "罠を探すための知覚判定に+[[@classes.investigator.level < 4 ? 1 : (floor(@classes.investigator.level / 2))]]ボーナス",
+					"text": "罠探し：罠を探すための知覚判定に+[[@classes.investigator.level < 4 ? 1 : (floor(@classes.investigator.level / 2))]]ボーナス",
 					"target": "skill",
 					"subTarget": "skill.per"
 				}
@@ -44252,7 +44291,7 @@
 			"description": "<p><strong>罠探し／Trapfinding：</strong></p><p>スレイヤーは@Compendium[pf1.skills.CCy1fajKKU3K02iQ]{装置無力化}をクラス技能として得る。スレイヤーは罠探しと罠感知のローグの能力を獲得する。この能力において、自分の有効ローグ・レベルとしてスレイヤー・レベルを用いる。</p>",
 			"contextNotes": [
 				{
-					"text": "罠を探すための知覚判定に+[[@classes.slayer.level < 4 ? 1 : (floor(@classes.slayer.level / 2))]]ボーナス",
+					"text": "罠探し：罠を探すための知覚判定に+[[@classes.slayer.level < 4 ? 1 : (floor(@classes.slayer.level / 2))]]ボーナス",
 					"target": "skill",
 					"subTarget": "skill.per"
 				}
@@ -44270,7 +44309,7 @@
 			"description": "<p><strong>罠探し／Trapfinding：</strong></p><p>ローグは@Compendium[pf1.skills.CCy1fajKKU3K02iQ]{装置無力化}判定と、罠を探すための@Compendium[pf1.skills.YYmmxDgp0g3ltSUG]{知覚}判定にクラス・レベルの半分（最低＋1）を加える。ローグは@Compendium[pf1.skills.CCy1fajKKU3K02iQ]{装置無力化}技能を用いて魔法の罠を解除できる。</p>",
 			"contextNotes": [
 				{
-					"text": "罠を探すための知覚判定に+[[@classes.rogueUnchained.level < 4 ? 1 : (floor(@classes.rogueUnchained.level / 2))]]ボーナス",
+					"text": "罠探し：罠を探すための知覚判定に+[[@classes.rogueUnchained.level < 4 ? 1 : (floor(@classes.rogueUnchained.level / 2))]]ボーナス",
 					"target": "skill",
 					"subTarget": "skill.per"
 				}
@@ -48921,6 +48960,123 @@
 			"classes": [
 				[
 					"モンク（アンチェインド）"
+				]
+			]
+		},
+		{
+			"id": "Sorcerer Bloodline",
+			"name": "血脈（ソーサラー）",
+			"description": "<p><strong>血脈／Bloodline：</strong></p><p>全てのソーサラーは呪文、ボーナス特技、追加クラス技能、そして様々な特殊能力を引き継ぐ魔力の源を持っている。この源は血の繋がりか、かつて肉親とクリーチャーの間で生じた特別な出来事によりもたらされている。例えば、あるソーサラーはドラゴンを遠い祖先に持っているし、あるソーサラーは祖父の代で悪魔とおぞましき契約を結んでいる。源の違いによらず、その影響はソーサラーのレベルに応じて顕れる。ソーサラーは最初のソーサラー・レベルを得る際に血脈がなんであるかを決定しなければならない。一度決定された血脈は変更することができない。</p><p>3レベル時と、以降の2レベル毎において、ソーサラーは血脈からもたらされる呪文を修得することができる。これらの呪文は表：ソーサラーの呪文修得数の数に加えて修得する。これらの呪文はレベル上昇時の入れ替えの対象とすることはできない。</p><p>7レベル時と、以降の6レベル毎において、ソーサラーは血脈ごとのリストに特定された特技をボーナス特技として得ることができる。ソーサラーはこれらのボーナス特技の前提条件を満たしている必要がある。</p>",
+			"tags": [["血脈（ソーサラー）"]],
+			"classes": [
+				[
+					"ソーサラー"
+				]
+			]
+		},
+		{
+			"id": "Safe Curing",
+			"name": "安全な回復（神秘：生命）",
+			"description": "<p><strong>安全な回復（超常）／Safe Curing：</strong></p><p>目標のヒット・ポイントへのダメージを回復する呪文を発動する時、君は呪文発動による機会攻撃を誘発しない。</p>",
+			"tags": [["神秘"]],
+			"classes": [
+				[
+					"オラクル"
+				]
+			]
+		},
+		{
+			"id": "Retribution Hex",
+			"name": "応報（上級呪術）",
+			"description": "<p><strong>応報（超常）／Retribution：</strong></p><p>ウィッチは応報の呪術を60フィート以内のクリーチャー1体にかけ、目標が近接攻撃でほかのクリーチャーにダメージを与えたときに肉体に大きな傷を開かせることができる。呪術をかけられたクリーチャーが近接攻撃でダメージを与えた場合、即座にそのダメージの半分のダメージを受ける（端数切り捨て）。このダメージはそのクリーチャーが持つあらゆる完全耐性、ダメージ減少、抵抗を無視する。この効果はウィッチの【知力】修正値に等しいラウンド持続する。意志セーヴによってこの効果を無効化できる。</p>",
+			"tags": [["上級呪術"]],
+			"classes": [
+				[
+					"ウィッチ"
+				]
+			]
+		},
+		{
+			"id": "Speak with Animals (ORA)",
+			"name": "スピーク・ウィズ・アニマルズ（神秘：自然）",
+			"description": "<p><strong>スピーク・ウィズ・アニマルズ（変則）／Speak with Animals：</strong></p><p>動物の特定の種類（イーグル、フォックス、ドッグなど）を1つ選択する。君はその種類の動物と@Compendium[pf1.spells.ct9fhh8uawn8e4md]{スピーク・ウィズ・アニマルズ}の効果を受けているかのように会話する能力を得る。君はこの能力で君の持つ3オラクル・レベル毎に追加で1種類の動物と会話できる能力を得る。</p>",
+			"tags": [["神秘"]],
+			"classes": [
+				[
+					"オラクル"
+				]
+			]
+		},
+		{
+			"id": "Life Link (ORA)",
+			"name": "生命共有（神秘：生命）",
+			"description": "<p><strong>生命共有（超常）／Life Link：</strong></p><p>標準アクションにより、君は自身と別のクリーチャーとの間に絆を作り出すことができる。毎ラウンド君のターンの開始時に、絆を結んだクリーチャーが傷つき最大ヒット・ポイントからヒット・ポイントが5以上減少していた場合、そのクリーチャーは5ヒット・ポイント治癒され君は5ポイントのダメージを受ける。君はオラクル・レベルにつき起動状態の絆を1つ持つことができる。この絆は結ばれたクリーチャーが死ぬか、君が死ぬか、君とそのクリーチャーとの距離が中距離を超えるか、君がこれを割り込みアクションで終了するか（君が複数の絆を起動していた場合、君は同じ割り込みアクションの一部で望む数を終了させることができる）するまで続く。</p>",
+			"tags": [["神秘"]],
+			"classes": [
+				[
+					"オラクル"
+				]
+			]
+		},
+		{
+			"id": "Track (INQ)",
+			"name": "追跡（インクィジター）",
+			"description": "<p><strong>追跡（変則）／Track：</strong></p><p>2レベルの時点で、インクィジターは追跡あるいは痕跡を識別するために行う〈生存〉判定にレベルの半分を加える。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "skill.sur",
+					"target": "skill",
+					"text": "追跡：痕跡をたどるための生存判定に+[[max(1,floor(@classes.inquisitor.level/2))]]ボーナス"
+				}
+			],
+			"tags": [],
+			"classes": [
+				[
+					"インクィジター"
+				]
+			]
+		},
+		{
+			"id": "Stone Stability (ORA)",
+			"name": "石の安定性（神秘：石）",
+			"description": "<p><strong>石の安定性（変則）／Stone Stability：</strong></p><p>君は地面に立っている間に突き飛ばしか足払いを試みられたとき戦技防御値に＋4のボーナスを得る。5レベルの時点で、君は@Compendium[pf1.feats.gTrGPxzN054GfpkM]{足払い強化}をボーナス特技として得る。10レベルの時点で、君は@Compendium[pf1.feats.lNyMFFQaOxxTOW7M]{上級足払い}をボーナス特技として得る。君はこれらの特技を得るに際し前提条件を満たしている必要はない。</p>",
+			"tags": [["神秘"]],
+			"classes": [
+				[
+					"オラクル"
+				]
+			]
+		},
+		{
+			"id": "Earth Glide (ORA)",
+			"name": "地潜り（神秘：石）",
+			"description": "<p><strong>地潜り（超常）／Earth Glide：</strong></p><p>君は石や礫を、あるいは加工された石や金属以外で大地に類するものを、魚が水中を泳ぐのと同様に簡単に通過できる。もし［火炎］ダメージから守られているなら、君は溶岩にさえ潜れる。君は自身の基本移動速度で地面を潜れる。潜っている間、君はそれが空気であるかのように石の中で呼吸できる（息を止める必要はない）。君の穴掘りは隧道や穴をまったく残さず、僅かなさざ波も君の存在した痕跡も作らない。君がいる範囲への@Compendium[pf1.spells.ukuyfbufbglbzfco]{ムーヴ・アース}呪文は君を30フィート押し戻し、難易度15の頑健セーヴに成功しない限り1ラウンドの間朦朧状態になる。この能力の起動はフリー・アクションである。君は1日にオラクル・レベルにつき1分間潜れる。この持続時間は連続している必要はないが、1分間単位で消費しなければならない。君は最低7レベルなければこの啓示を選択できない。君は潜るときほかのクリーチャーたちを連れていけるが、同行者それぞれについて追加で移動時間を消費する。</p>",
+			"tags": [["神秘"]],
+			"classes": [
+				[
+					"オラクル"
+				]
+			]
+		},
+		{
+			"id": "Strength Surge (Rage Power)",
+			"name": "筋力招来（激怒パワー）",
+			"description": "<p><strong>筋力招来（変則）／Strength Surge：</strong></p><p>バーバリアンは1回の【筋力】判定、戦技判定、あるいは敵が自身に対して戦技判定を試みた時の戦技防御値に、クラス・レベルの値を加えることができる。このパワーは1回の割り込みアクションとして使用する。このパワーは1回の激怒中に1回のみ使用できる。</p>",
+			"tags": [["激怒パワー"]],
+			"classes": [
+				[
+					"バーバリアン"
+				]
+			]
+		},
+		{
+			"id": "Aura",
+			"name": "オーラ（クレリック）",
+			"description": "<p><strong>オーラ（変則）／Aura：</strong></p><p>秩序、混沌、善、悪の神格を信仰するクレリックは、神格の属性に対応した特別に強力なオーラを発している（詳細は@Compendium[pf1.spells.tr7m97npkbgm4wp7]{ディテクト・イーヴル}の呪文を参照）。</p>",
+			"tags": [],
+			"classes": [
+				[
+					"クレリック"
 				]
 			]
 		}
