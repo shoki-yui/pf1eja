@@ -11,7 +11,7 @@
 
 以下のリンクをモッドとしてインストールしてください。
 
-* リンク： https://raw.githubusercontent.com/BrotherSharper/pf1eja/master/module.json
+* リンク： https://raw.githubusercontent.com/shoki-yui/pf1eja/master/module.json
 
 ### 内容
 Pathfinder1eシステム用の翻訳ファイルを追加し、日本語化するモッドです。
