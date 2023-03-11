@@ -12,7 +12,7 @@
 
 以下のリンクをモッドとしてインストールしてください。
 
-* リンク： https://raw.githubusercontent.com/shoki-yui/pf1eja/master/module.json
+* リンク： https://github.com/shoki-yui/pf1eja/releases/latest/download/module.json
 
 ### 内容
 Pathfinder1eシステム用の翻訳ファイルを追加し、日本語化するモッドです。
