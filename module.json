@@ -33,9 +33,9 @@
 	"type": "module"
 		  }
 	],
-	"url" : "https://github.com/BrotherSharper/pf1eja",
-	"download" : "https://github.com/BrotherSharper/pf1eja/archive/master.zip",
-	"manifest" : "https://raw.githubusercontent.com/BrotherSharper/pf1eja/master/module.json",
+	"url" : "https://github.com/shoki-yui/pf1eja",
+	"download" : "https://github.com/shoki-yui/pf1eja/archive/master.zip",
+	"manifest" : "https://raw.githubusercontent.com/shoki-yui/pf1eja/master/module.json",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "9"
 }
