@@ -1,6 +1,7 @@
-# PF1e用 日本語化モッド（私家版）
+# PF1e用 日本語化モッド（臨時更新版）
 
 * **製作者**: Brother Sharp (ディスコード：Brother Sharp#6921)
+* **臨時更新版製作者**: shoki
 * **翻訳ファイル提供者**: Chiikun (ツイッター：[chi](https://twitter.com/_chikun))
 * **辞典翻訳ファイル提供者**: shoki, yuu
 * **辞典翻訳参照元**： [PRD_J ウィキ](https://w.atwiki.jp/prdj/)
