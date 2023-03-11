@@ -1,8 +1,8 @@
 {
 	"label": "アイテム",
 	"mapping": {
-		"identifiedName": "data.identifiedName",
-		"inventoryItems": "data.inventoryItems"
+		"identifiedName": "system.identifiedName",
+		"inventoryItems": "system.inventoryItems"
 	},
 	"entries": [
 		{
@@ -38,7 +38,7 @@
 		{
 			"id": "Air Bladder",
 			"name": "息継ぎ袋",
-			"description": "<b>市価</b> 1sp; <b>重量</b> 0.5ポンド</p><pより長時間の潜水のために使用されるこの空気袋は、革の水筒に似ているが比較的気密性が高い。膨らませた場合、息継ぎ袋は中型クリーチャーを1ラウンド、小型クリーチャーを2ラウンドもたせるのに十分な空気を保持する。</p>",
+			"description": "<b>市価</b> 1sp; <b>重量</b> 0.5ポンド</p><p>より長時間の潜水のために使用されるこの空気袋は、革の水筒に似ているが比較的気密性が高い。膨らませた場合、息継ぎ袋は中型クリーチャーを1ラウンド、小型クリーチャーを2ラウンドもたせるのに十分な空気を保持する。</p>",
 			"identifiedName": "息継ぎ袋"
 		},
 		{

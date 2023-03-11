@@ -1,7 +1,7 @@
 {
 	"label": "鎧と盾",
 	"mapping": {
-		"identifiedName": "data.identifiedName"
+		"identifiedName": "system.identifiedName"
 	},
 	"entries": {
 		"Chain Coat": {

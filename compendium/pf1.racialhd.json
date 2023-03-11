@@ -1,7 +1,7 @@
 {
 	"label": "種族HD",
     "mapping": {
-			"useCustomTag": "data.useCustomTag"
+			"useCustomTag": "system.useCustomTag"
     },
 	"entries": [
 		{

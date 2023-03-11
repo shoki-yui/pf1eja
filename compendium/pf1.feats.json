@@ -1,14 +1,14 @@
 {
 	"label": "特技",
     "mapping": {
-		"changes": "data.changes",
-		"contextNotes": "data.contextNotes"
+		"changes": "system.changes",
+		"contextNotes": "system.contextNotes"
     },
 	"entries": [
 		{
 			"id": "Acrobatic",
 			"name": "軽業師",
-			"description": "<p><strong>《軽業師》 Acrobatic</strong></p><p>君は跳躍したり、飛び回る技術に秀でている。</p><p><strong>利益：</strong> すべての@Compendium[pf1.skills.HPsdXjjRtKNGFGRc]{軽業}及び@Compendium[pf1.skills.rR877UB1xVd3Z7z1]{飛行}判定に＋2のボーナスを得る。もしどちらかの技能ランクが10以上ならば、その技能へのボーナスは＋4になる。</p>"
+			"description": "<p><strong>《軽業師》 Acrobatic</strong></p><p>君は跳躍したり、飛び回る技術に秀でている。</p><p><strong>利益：</strong> すべての〈軽業〉及び〈飛行〉判定に＋2のボーナスを得る。もしどちらかの技能ランクが10以上ならば、その技能へのボーナスは＋4になる。</p>"
 		},
 		{
 			"id": "Acrobatic Steps",
@@ -23,7 +23,7 @@
 		{
 			"id": "Alertness",
 			"name": "鋭敏感覚",
-			"description": "<p><strong>《鋭敏感覚》 Alertness</strong></p><p>君は良く他の人が見落とすようなことにでも気づくことがある。</p><p><strong>利益：</strong>すべての@Compendium[pf1.skills.YYmmxDgp0g3ltSUG]{知覚}及び@Compendium[pf1.skills.R8HGxGCKayOl15AO]{真意看破}判定に＋2のボーナスを得る。もしどちらかの技能ランクが10以上ならば、その技能へのボーナスは＋4になる。</p>"
+			"description": "<p><strong>《鋭敏感覚》 Alertness</strong></p><p>君は良く他の人が見落とすようなことにでも気づくことがある。</p><p><strong>利益：</strong>すべての〈知覚〉及び〈真意看破〉判定に＋2のボーナスを得る。もしどちらかの技能ランクが10以上ならば、その技能へのボーナスは＋4になる。</p>"
 		},
 		{
 			"id": "Alignment Channel",
@@ -33,7 +33,7 @@
 		{
 			"id": "Animal Affinity",
 			"name": "動物の友",
-			"description": "<p><strong>《動物の友》 Animal Affinity</strong></p><p>君は動物や乗騎とうまくやっていく方法を心得ている。</p><p><strong>利益：</strong>すべての@Compendium[pf1.skills.fXauAodbOBHBi7Mj]{動物使い}及び@Compendium[pf1.skills.mKO8Q4uMiqpMySOZ]{騎乗}判定に＋2のボーナスを得る。もしどちらかの技能ランクが10以上ならば、その技能へのボーナスは＋4になる。</p>"
+			"description": "<p><strong>《動物の友》 Animal Affinity</strong></p><p>君は動物や乗騎とうまくやっていく方法を心得ている。</p><p><strong>利益：</strong>すべての〈動物使い〉及び〈騎乗〉判定に＋2のボーナスを得る。もしどちらかの技能ランクが10以上ならば、その技能へのボーナスは＋4になる。</p>"
 		},
 		{
 			"id": "Arcane Armor Mastery",
@@ -70,7 +70,7 @@
 		{
 			"id": "Athletic",
 			"name": "運動能力",
-			"description": "<p><strong>《運動能力》 Athletic</strong></p><p>君は生まれつき運動が得意である。</p><p><strong>利益：</strong>すべての@Compendium[pf1.skills.weCPHUuXi9sF5r4E]{水泳}及び@Compendium[pf1.skills.weCPHUuXi9sF5r4E]{水泳}判定に＋2のボーナスを得る。もしどちらかの技能ランクが10以上ならば、その技能へのボーナスは＋4になる。</p>"
+			"description": "<p><strong>《運動能力》 Athletic</strong></p><p>君は生まれつき運動が得意である。</p><p><strong>利益：</strong>すべての〈登攀〉及び〈水泳〉判定に＋2のボーナスを得る。もしどちらかの技能ランクが10以上ならば、その技能へのボーナスは＋4になる。</p>"
 		},
 		{
 			"id": "Augment Summoning",
@@ -80,7 +80,7 @@
 		{
 			"id": "Bleeding Critical",
 			"name": "出血化クリティカル",
-			"description": "<p><strong>《出血化クリティカル》（戦闘、クリティカル） Bleeding Critical</strong></p><p>君のクリティカル・ヒットによって相手はおびただしい量の血を流し始める。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>斬撃、あるいは刺突武器によってクリティカル・ヒットを放った時、クリティカルの対象は通常のクリティカル・ダメージを受けるのみならず、2d6ポイントの出血ダメージ（“状態”を参照）を毎ラウンド自分のターンに受ける。出血は難易度15の@Compendium[pf1.skills.RtBGttkocvTbySjd]{治療}技能判定か、なんらかの魔法による治癒によって止まる。この特技による効果は累積する。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
+			"description": "<p><strong>《出血化クリティカル》（戦闘、クリティカル） Bleeding Critical</strong></p><p>君のクリティカル・ヒットによって相手はおびただしい量の血を流し始める。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>斬撃、あるいは刺突武器によってクリティカル・ヒットを放った時、クリティカルの対象は通常のクリティカル・ダメージを受けるのみならず、2d6ポイントの出血ダメージ（“状態”を参照）を毎ラウンド自分のターンに受ける。出血は難易度15の〈治療〉技能判定か、なんらかの魔法による治癒によって止まる。この特技による効果は累積する。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
 			"contextNotes": [
 				{
 					"subTarget": "effect",
@@ -91,7 +91,7 @@
 		{
 			"id": "Blind-Fight",
 			"name": "無視界戦闘",
-			"description": "<p><strong>《無視界戦闘》（戦闘） Blind-Fight</strong></p><p>君ははっきりとは見えない相手と戦うことに秀でている。</p><p><strong>利益：</strong>近接戦闘で視認困難（“戦闘”を参照）のために失敗するたびに、実際に命中したかどうかを調べるための失敗確率の％ロールを1回だけ再ロールできる。</p><p>不可視状態の攻撃側は近接戦闘で君を攻撃する際にボーナスを得ることはない。つまり、君はアーマー・クラスへの【敏捷力】ボーナスを失うことはなく、攻撃側は通常の＋2のボーナスを得られない。ただし遠隔攻撃の場合には、攻撃者が不可視状態であることによるボーナスが適用される。</p><p>君は目が見えない時に全力で移動するための@Compendium[pf1.skills.HPsdXjjRtKNGFGRc]{軽業}判定を行う必要がない。</p><p><strong>通常：</strong>不可視状態の攻撃者が君に命中させるための攻撃ロールに通常通り修正値が足され、君はアーマー・クラスへの【敏捷力】ボーナスを失う。暗闇や視界の悪さによる移動速度の低下も通常通り適用される。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.pmAO1Sni8xx71pLF]{無視界戦闘}はブリンク呪文の対象になっているキャラクターに対しては役にたたない。</p>",
+			"description": "<p><strong>《無視界戦闘》（戦闘） Blind-Fight</strong></p><p>君ははっきりとは見えない相手と戦うことに秀でている。</p><p><strong>利益：</strong>近接戦闘で視認困難（“戦闘”を参照）のために失敗するたびに、実際に命中したかどうかを調べるための失敗確率の％ロールを1回だけ再ロールできる。</p><p>不可視状態の攻撃側は近接戦闘で君を攻撃する際にボーナスを得ることはない。つまり、君はアーマー・クラスへの【敏捷力】ボーナスを失うことはなく、攻撃側は通常の＋2のボーナスを得られない。ただし遠隔攻撃の場合には、攻撃者が不可視状態であることによるボーナスが適用される。</p><p>君は目が見えない時に全力で移動するための〈軽業〉判定を行う必要がない。</p><p><strong>通常：</strong>不可視状態の攻撃者が君に命中させるための攻撃ロールに通常通り修正値が足され、君はアーマー・クラスへの【敏捷力】ボーナスを失う。暗闇や視界の悪さによる移動速度の低下も通常通り適用される。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.pmAO1Sni8xx71pLF]{無視界戦闘}はブリンク呪文の対象になっているキャラクターに対しては役にたたない。</p>",
 			"contextNotes": [
 				{
 					"subTarget": "attack",
@@ -223,7 +223,7 @@
 		{
 			"id": "Dazzling Display",
 			"name": "威圧演舞",
-			"description": "<p><strong>《威圧演舞》（戦闘） Dazzling Display</strong></p><p>君が得意とする武器を扱う様は敵を恐怖に陥れる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器熟練}、武器への習熟。</p><p><strong>利益：</strong>@Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器熟練}を持っている武器を装備している時、全ラウンド・アクションで敵をうろたえさせる力強い演舞を行うことができる。@Compendium[pf1.skills.ImjhcPmm02QSCbPg]{威圧}技能の成功によって演舞を見ることができる30フィート以内のすべての敵の“士気をくじく”ことができる。</p>"
+			"description": "<p><strong>《威圧演舞》（戦闘） Dazzling Display</strong></p><p>君が得意とする武器を扱う様は敵を恐怖に陥れる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器熟練}、武器への習熟。</p><p><strong>利益：</strong>@Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器熟練}を持っている武器を装備している時、全ラウンド・アクションで敵をうろたえさせる力強い演舞を行うことができる。〈威圧〉技能の成功によって演舞を見ることができる30フィート以内のすべての敵の“士気をくじく”ことができる。</p>"
 		},
 		{
 			"id": "Deadly Aim",
@@ -250,7 +250,7 @@
 		{
 			"id": "Deceitful",
 			"name": "欺きの名人",
-			"description": "<p><strong>《欺きの名人》 Deceitful</strong></p><p>君は言葉によるものであれ変装であれ、相手を欺くことが得意だ。</p><p><strong>利益：</strong>すべての@Compendium[pf1.skills.pAB2PYkZO3lsmeaC]{はったり}及び@Compendium[pf1.skills.lP3L1RXi9q4ha9Gu]{変装}判定に＋2のボーナスを得る。もしどちらかの技能ランクが10以上ならば、その技能へのボーナスは＋4になる。</p>"
+			"description": "<p><strong>《欺きの名人》 Deceitful</strong></p><p>君は言葉によるものであれ変装であれ、相手を欺くことが得意だ。</p><p><strong>利益：</strong>すべての〈はったり〉及び〈変装〉判定に＋2のボーナスを得る。もしどちらかの技能ランクが10以上ならば、その技能へのボーナスは＋4になる。</p>"
 		},
 		{
 			"id": "Defensive Combat Training",
@@ -271,7 +271,7 @@
 		{
 			"id": "Deft Hands",
 			"name": "器用な指先",
-			"description": "<p><strong>《器用な指先》 Deft Hands</strong></p><p>君の手先は非常に器用である。</p><p><strong>利益：</strong>すべての@Compendium[pf1.skills.CCy1fajKKU3K02iQ]{装置無力化}及び@Compendium[pf1.skills.zK0CbvpYLZhTN5Wn]{手先の早業}判定に＋2のボーナスを得る。もしどちらかの技能ランクが10以上ならば、その技能へのボーナスは＋4になる。</p>"
+			"description": "<p><strong>《器用な指先》 Deft Hands</strong></p><p>君の手先は非常に器用である。</p><p><strong>利益：</strong>すべての〈装置無力化〉及び〈手先の早業〉判定に＋2のボーナスを得る。もしどちらかの技能ランクが10以上ならば、その技能へのボーナスは＋4になる。</p>"
 		},
 		{
 			"id": "Diehard",
@@ -312,7 +312,7 @@
 		{
 			"id": "Endurance",
 			"name": "持久力",
-			"description": "<p><strong>《持久力》 Endurance</strong></p><p>例え過酷な環境と長時間にわたる仕事であっても、君を疲労させることはそうそうない。</p><p><strong>利益：</strong>君は以下の判定に＋4のボーナスを得る：非致傷ダメージに抵抗する際の@Compendium[pf1.skills.weCPHUuXi9sF5r4E]{水泳}判定、疾走を続けるための【耐久力】判定、強行軍による非致傷ダメージを受けないための【耐久力】判定、息を止める際の【耐久力】判定、飢えや渇きによる非致傷ダメージを受けないための【耐久力】判定、熱気や冷気環境から非致傷ダメージを受けないための頑健セーヴ、および、窒息によるダメージに抵抗するための頑健セーヴ。</p><p>また、軽装鎧や中装鎧を着て眠っても疲労状態にならない。</p><p><strong>通常：</strong>中装以上の鎧を着て眠ったキャラクターは、翌日疲労状態になる。</p>"
+			"description": "<p><strong>《持久力》 Endurance</strong></p><p>例え過酷な環境と長時間にわたる仕事であっても、君を疲労させることはそうそうない。</p><p><strong>利益：</strong>君は以下の判定に＋4のボーナスを得る：非致傷ダメージに抵抗する際の〈水泳〉判定、疾走を続けるための【耐久力】判定、強行軍による非致傷ダメージを受けないための【耐久力】判定、息を止める際の【耐久力】判定、飢えや渇きによる非致傷ダメージを受けないための【耐久力】判定、熱気や冷気環境から非致傷ダメージを受けないための頑健セーヴ、および、窒息によるダメージに抵抗するための頑健セーヴ。</p><p>また、軽装鎧や中装鎧を着て眠っても疲労状態にならない。</p><p><strong>通常：</strong>中装以上の鎧を着て眠ったキャラクターは、翌日疲労状態になる。</p>"
 		},
 		{
 			"id": "Enlarge Spell",
@@ -585,7 +585,7 @@
 		{
 			"id": "Improved Feint",
 			"name": "フェイント強化",
-			"description": "<p><strong>《フェイント強化》（戦闘） Improved Feint</strong></p><p>君は戦闘において相手をだますことに長けている。</p><p><strong>前提条件：</strong>【知】13、@Compendium[pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}。</p><p><strong>利益：</strong>君はフェイントのための@Compendium[pf1.skills.pAB2PYkZO3lsmeaC]{はったり}判定を移動アクションで行える。</p><p><strong>通常：</strong>フェイントは標準アクションである。</p>"
+			"description": "<p><strong>《フェイント強化》（戦闘） Improved Feint</strong></p><p>君は戦闘において相手をだますことに長けている。</p><p><strong>前提条件：</strong>【知】13、@Compendium[pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}。</p><p><strong>利益：</strong>君はフェイントのための〈はったり〉判定を移動アクションで行える。</p><p><strong>通常：</strong>フェイントは標準アクションである。</p>"
 		},
 		{
 			"id": "Improved Grapple",
@@ -707,7 +707,7 @@
 		{
 			"id": "Intimidating Prowess",
 			"name": "腕力による威圧",
-			"description": "<p><strong>《腕力による威圧》（戦闘） Intimidating Prowess</strong></p><p>君の肉体的な強さは他者にとっては威圧的なまでである。</p><p><strong>利益：</strong>@Compendium[pf1.skills.ImjhcPmm02QSCbPg]{威圧}判定に、【魅力】修正値だけでなく、【筋力】修正値を足す。</p>"
+			"description": "<p><strong>《腕力による威圧》（戦闘） Intimidating Prowess</strong></p><p>君の肉体的な強さは他者にとっては威圧的なまでである。</p><p><strong>利益：</strong>〈威圧〉判定に、【魅力】修正値だけでなく、【筋力】修正値を足す。</p>"
 		},
 		{
 			"id": "Iron Will",
@@ -737,7 +737,7 @@
 		{
 			"id": "Magical Aptitude",
 			"name": "魔法の才",
-			"description": "<p><strong>《魔法の才》 Magical Aptitude</strong></p><p>君は呪文と魔法の品物に親和性を持つ。</p><p><strong>利益：</strong>すべての@Compendium[pf1.skills.uLZI2uWz0uB8UgBc]{呪文学}及び@Compendium[pf1.skills.WR5lekzyLT6T2CFH]{魔法装置使用}判定に＋2のボーナスを得る。もしどちらかの技能ランクが10以上ならば、その技能へのボーナスは＋4になる。</p>"
+			"description": "<p><strong>《魔法の才》 Magical Aptitude</strong></p><p>君は呪文と魔法の品物に親和性を持つ。</p><p><strong>利益：</strong>すべての〈呪文学〉及び〈魔法装置使用〉判定に＋2のボーナスを得る。もしどちらかの技能ランクが10以上ならば、その技能へのボーナスは＋4になる。</p>"
 		},
 		{
 			"id": "Manyshot",
@@ -752,7 +752,7 @@
 		{
 			"id": "Master Craftsman",
 			"name": "名匠",
-			"description": "<p><strong>《名匠》 Master Craftsman</strong></p><p>君の卓越した工芸の技を用いれば、単純なものではあるものの魔法の品を作ることができる。</p><p><strong>前提条件：</strong>@Compendium[pf1.skills.L6LEhHRrn53cMuhE]{製作}または@Compendium[pf1.skills.O7Utk8xKbHYDP7Ot]{職能}5ランク以上。</p><p><strong>利益：</strong>ランクを5ランク以上持っている@Compendium[pf1.skills.L6LEhHRrn53cMuhE]{製作}または@Compendium[pf1.skills.O7Utk8xKbHYDP7Ot]{職能}を1つ選択する。選択した技能の判定に＋2のボーナスを得る。さらに、@Compendium[pf1.feats.4hNO4OAWYF5vXphH]{魔法の武器防具作成}と@Compendium[pf1.feats.tD76K8QGco9scT0r]{その他の魔法のアイテム作成}の前提条件を考える際に、選択した技能のランクを術者レベルと扱ってよい。君はこれらの特技を使って魔法のアイテムを作ることができ、その場合選択した技能のランクを術者レベルに代替する。魔法のアイテムを作るための判定は（@Compendium[pf1.skills.uLZI2uWz0uB8UgBc]{呪文学}ではなく）選択した技能で判定する。なお、呪文などその他の前提条件を満たしていないことによる判定難易度の上昇は通常通り起こる（詳細は魔法のアイテムの作成を参照）。この特技を使って呪文解放型や呪文起動型のアイテムを作ることはできない。</p><p><strong>通常：</strong>呪文使いのみが@Compendium[pf1.feats.4hNO4OAWYF5vXphH]{魔法の武器防具作成}と@Compendium[pf1.feats.tD76K8QGco9scT0r]{その他の魔法のアイテム作成}の前提条件を満たす。</p>"
+			"description": "<p><strong>《名匠》 Master Craftsman</strong></p><p>君の卓越した工芸の技を用いれば、単純なものではあるものの魔法の品を作ることができる。</p><p><strong>前提条件：</strong>〈製作〉または〈職能〉5ランク以上。</p><p><strong>利益：</strong>ランクを5ランク以上持っている〈製作〉または〈職能〉を1つ選択する。選択した技能の判定に＋2のボーナスを得る。さらに、@Compendium[pf1.feats.4hNO4OAWYF5vXphH]{魔法の武器防具作成}と@Compendium[pf1.feats.tD76K8QGco9scT0r]{その他の魔法のアイテム作成}の前提条件を考える際に、選択した技能のランクを術者レベルと扱ってよい。君はこれらの特技を使って魔法のアイテムを作ることができ、その場合選択した技能のランクを術者レベルに代替する。魔法のアイテムを作るための判定は〈呪文学〉ではなく）選択した技能で判定する。なお、呪文などその他の前提条件を満たしていないことによる判定難易度の上昇は通常通り起こる（詳細は魔法のアイテムの作成を参照）。この特技を使って呪文解放型や呪文起動型のアイテムを作ることはできない。</p><p><strong>通常：</strong>呪文使いのみが@Compendium[pf1.feats.4hNO4OAWYF5vXphH]{魔法の武器防具作成}と@Compendium[pf1.feats.tD76K8QGco9scT0r]{その他の魔法のアイテム作成}の前提条件を満たす。</p>"
 		},
 		{
 			"id": "Maximize Spell",
@@ -772,12 +772,12 @@
 		{
 			"id": "Mounted Archery",
 			"name": "騎射",
-			"description": "<p><strong>《騎射》（戦闘） Mounted Archery</strong></p><p>君は騎乗中に遠隔攻撃をすることに優れている。</p><p><strong>前提条件：</strong>@Compendium[pf1.skills.mKO8Q4uMiqpMySOZ]{騎乗}1ランク、@Compendium[pf1.feats.0spsP9ylE3goD3jc]{騎乗戦闘}。</p><p><strong>利益：</strong>馬上にいて遠隔武器を使う際に君が被るペナルティは半分になる。乗騎が2回移動を行う場合－4ではなく－2、乗騎が疾走しているなら－8ではなく－4となる。</p>"
+			"description": "<p><strong>《騎射》（戦闘） Mounted Archery</strong></p><p>君は騎乗中に遠隔攻撃をすることに優れている。</p><p><strong>前提条件：</strong>〈騎乗〉1ランク、@Compendium[pf1.feats.0spsP9ylE3goD3jc]{騎乗戦闘}。</p><p><strong>利益：</strong>馬上にいて遠隔武器を使う際に君が被るペナルティは半分になる。乗騎が2回移動を行う場合－4ではなく－2、乗騎が疾走しているなら－8ではなく－4となる。</p>"
 		},
 		{
 			"id": "Mounted Combat",
 			"name": "騎乗戦闘",
-			"description": "<p><strong>《騎乗戦闘》（戦闘） Mounted Combat</strong></p><p>君は戦いの中で馬を操ることの達人だ。</p><p><strong>前提条件：</strong>@Compendium[pf1.skills.mKO8Q4uMiqpMySOZ]{騎乗}1ランク。</p><p><strong>利益：</strong>1ラウンドに1回、戦闘で君の乗騎が命中を受けた時に、その命中を無効化するために割り込みアクションとして@Compendium[pf1.skills.mKO8Q4uMiqpMySOZ]{騎乗}判定を行うことができる。@Compendium[pf1.skills.mKO8Q4uMiqpMySOZ]{騎乗}判定の結果が攻撃ロールより高ければ、命中は無効となる。</p>"
+			"description": "<p><strong>《騎乗戦闘》（戦闘） Mounted Combat</strong></p><p>君は戦いの中で馬を操ることの達人だ。</p><p><strong>前提条件：</strong>〈騎乗〉1ランク。</p><p><strong>利益：</strong>1ラウンドに1回、戦闘で君の乗騎が命中を受けた時に、その命中を無効化するために割り込みアクションとして〈騎乗〉判定を行うことができる。〈騎乗〉判定の結果が攻撃ロールより高ければ、命中は無効となる。</p>"
 		},
 		{
 			"id": "Natural Spell",
@@ -797,7 +797,7 @@
 		{
 			"id": "Persuasive",
 			"name": "説得力",
-			"description": "<p><strong>《説得力》 Persuasive</strong></p><p>君は相手の考えをぐらつかせたり、うまく脅して考えを変えさたりするのが得意だ。</p><p><strong>利益：</strong>すべての@Compendium[pf1.skills.OtfbHJhIQsNzmiTN]{交渉}及び@Compendium[pf1.skills.ImjhcPmm02QSCbPg]{威圧}判定に＋2のボーナスを得る。もしどちらかの技能ランクが10以上ならば、その技能へのボーナスは＋4になる。</p>"
+			"description": "<p><strong>《説得力》 Persuasive</strong></p><p>君は相手の考えをぐらつかせたり、うまく脅して考えを変えさたりするのが得意だ。</p><p><strong>利益：</strong>すべての〈交渉〉及び〈威圧〉判定に＋2のボーナスを得る。もしどちらかの技能ランクが10以上ならば、その技能へのボーナスは＋4になる。</p>"
 		},
 		{
 			"id": "Pinpoint Targeting",
@@ -830,7 +830,7 @@
 		{
 			"id": "Quick Draw",
 			"name": "早抜き",
-			"description": "<p><strong>《早抜き》（戦闘） Quick Draw</strong></p><p>君は素早く武器を抜くことができる。</p><p><strong>前提条件：</strong>基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>移動アクションではなく、フリー・アクションで武器を抜くことができる。また、隠しておいた武器（@Compendium[pf1.skills.zK0CbvpYLZhTN5Wn]{手先の早業}を参照）を移動アクションとして抜くことができる。</p><p>この特技を選択したキャラクターは、（弓を使っているキャラクターのように）自分の完全な攻撃回数を用いて武器を投擲できる。</p><p>錬金術アイテム、ポーション、巻物、そしてワンドをこの特技を使って素早く準備することはできない。</p><p><strong>通常：</strong>この特技を持っていない場合、武器を抜くのは移動アクションか、もし基本攻撃ボーナスが＋1以上であれば移動に伴うフリー・アクションである。この特技無しでは、隠した武器を引き抜くのは標準アクションである。</p>"
+			"description": "<p><strong>《早抜き》（戦闘） Quick Draw</strong></p><p>君は素早く武器を抜くことができる。</p><p><strong>前提条件：</strong>基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>移動アクションではなく、フリー・アクションで武器を抜くことができる。また、隠しておいた武器（〈手先の早業〉を参照）を移動アクションとして抜くことができる。</p><p>この特技を選択したキャラクターは、（弓を使っているキャラクターのように）自分の完全な攻撃回数を用いて武器を投擲できる。</p><p>錬金術アイテム、ポーション、巻物、そしてワンドをこの特技を使って素早く準備することはできない。</p><p><strong>通常：</strong>この特技を持っていない場合、武器を抜くのは移動アクションか、もし基本攻撃ボーナスが＋1以上であれば移動に伴うフリー・アクションである。この特技無しでは、隠した武器を引き抜くのは標準アクションである。</p>"
 		},
 		{
 			"id": "Quicken Spell",
@@ -850,12 +850,12 @@
 		{
 			"id": "Ride-By Attack",
 			"name": "駆け抜け攻撃",
-			"description": "<p><strong>《駆け抜け攻撃》（戦闘） Ride-By Attack</strong></p><p>馬に乗って突撃している時、君は動いた後敵を攻撃し、さらに動き続けることができる。</p><p><strong>前提条件：</strong>@Compendium[pf1.skills.mKO8Q4uMiqpMySOZ]{騎乗}1ランク、@Compendium[pf1.feats.0spsP9ylE3goD3jc]{騎乗戦闘}。</p><p><strong>利益：</strong>騎乗して突撃アクションを行う時、通常の突撃の場合と同様に移動・攻撃し、その後再び移動できる（突撃の直線上をそのまま移動する）。ただし、そのラウンドにおける移動距離の合計は、乗騎の移動速度の2倍以内でなければならない。君や乗騎は、攻撃する敵からの機会攻撃を誘発しない。</p>"
+			"description": "<p><strong>《駆け抜け攻撃》（戦闘） Ride-By Attack</strong></p><p>馬に乗って突撃している時、君は動いた後敵を攻撃し、さらに動き続けることができる。</p><p><strong>前提条件：</strong>〈騎乗〉1ランク、@Compendium[pf1.feats.0spsP9ylE3goD3jc]{騎乗戦闘}。</p><p><strong>利益：</strong>騎乗して突撃アクションを行う時、通常の突撃の場合と同様に移動・攻撃し、その後再び移動できる（突撃の直線上をそのまま移動する）。ただし、そのラウンドにおける移動距離の合計は、乗騎の移動速度の2倍以内でなければならない。君や乗騎は、攻撃する敵からの機会攻撃を誘発しない。</p>"
 		},
 		{
 			"id": "Run",
 			"name": "疾走",
-			"description": "<p><strong>《疾走》 Run</strong></p><p>君は軽快な足を持っている。</p><p><strong>利益：</strong>君が疾走する時、軽装鎧か中装鎧を着ている時か、鎧を着ていない時、もしくは運んでいる重量が中荷重以下の時には、移動速度の5倍で移動できる。また重装鎧を着ているか、重荷重の時には、移動速度の4倍で移動できる。助走を付けてから跳躍を行う時（@Compendium[pf1.skills.HPsdXjjRtKNGFGRc]{軽業}を参照）、@Compendium[pf1.skills.HPsdXjjRtKNGFGRc]{軽業}判定に＋4のボーナスを得る。また、疾走している時にもアーマー・クラスへの【敏捷力】ボーナスを失わない。</p><p><strong>通常：</strong>君が疾走する時、軽装鎧か中装鎧を着ている時か、鎧を着ていない時、もしくは運んでいる重量が中荷重以下の時には、移動速度の4倍で移動できる。また重装鎧を着ているか、重荷重の時には、移動速度の3倍で移動できる。疾走している時にはアーマー・クラスへの【敏捷力】ボーナスを失う。</p>",
+			"description": "<p><strong>《疾走》 Run</strong></p><p>君は軽快な足を持っている。</p><p><strong>利益：</strong>君が疾走する時、軽装鎧か中装鎧を着ている時か、鎧を着ていない時、もしくは運んでいる重量が中荷重以下の時には、移動速度の5倍で移動できる。また重装鎧を着ているか、重荷重の時には、移動速度の4倍で移動できる。助走を付けてから跳躍を行う時（〈軽業〉を参照）、〈軽業〉判定に＋4のボーナスを得る。また、疾走している時にもアーマー・クラスへの【敏捷力】ボーナスを失わない。</p><p><strong>通常：</strong>君が疾走する時、軽装鎧か中装鎧を着ている時か、鎧を着ていない時、もしくは運んでいる重量が中荷重以下の時には、移動速度の4倍で移動できる。また重装鎧を着ているか、重荷重の時には、移動速度の3倍で移動できる。疾走している時にはアーマー・クラスへの【敏捷力】ボーナスを失う。</p>",
 			"contextNotes": [
 				{
 					"subTarget": "skill.acr",
@@ -881,7 +881,7 @@
 		{
 			"id": "Self-Sufficient",
 			"name": "自力生存",
-			"description": "<p><strong>《自力生存》 Self-Sufficient</strong></p><p>君は自然の中でどうやっていくかと、傷を適切に処置する方法を知っている。</p><p><strong>利益：</strong>すべての@Compendium[pf1.skills.RtBGttkocvTbySjd]{治療}及び@Compendium[pf1.skills.TXrxgrB2sQjppZFY]{生存}判定に＋2のボーナスを得る。もしどちらかの技能ランクが10以上ならば、その技能へのボーナスは＋4になる。</p>"
+			"description": "<p><strong>《自力生存》 Self-Sufficient</strong></p><p>君は自然の中でどうやっていくかと、傷を適切に処置する方法を知っている。</p><p><strong>利益：</strong>すべての〈治療〉及び〈生存〉判定に＋2のボーナスを得る。もしどちらかの技能ランクが10以上ならば、その技能へのボーナスは＋4になる。</p>"
 		},
 		{
 			"id": "Shatter Defenses",
@@ -901,7 +901,7 @@
 		{
 			"id": "Shield Proficiency",
 			"name": "盾習熟",
-			"description": "<p><strong>《盾習熟》（戦闘） Shield Proficiency</strong></p><p>君は盾を適切に扱う方法を知っている。</p><p><strong>利益：</strong>タワー・シールド以外の盾を使う場合、盾の防具による判定ペナルティは【筋力】と【敏捷力】を基準とする技能判定にしかつかない。</p><p><strong>通常：</strong>習熟していない盾を使う場合、君は盾の防具による判定ペナルティを攻撃ロールと、移動に関するすべての技能判定（@Compendium[pf1.skills.mKO8Q4uMiqpMySOZ]{騎乗}を含む）に被る。</p><p><strong>特殊：</strong>バーバリアン、バード、クレリック、ドルイド、ファイター、パラディン、レンジャーは@Compendium[pf1.feats.WZj7zDvuelEoeXWX]{盾習熟}をボーナス特技として持っているため、改めて選択する必要はない。</p>"
+			"description": "<p><strong>《盾習熟》（戦闘） Shield Proficiency</strong></p><p>君は盾を適切に扱う方法を知っている。</p><p><strong>利益：</strong>タワー・シールド以外の盾を使う場合、盾の防具による判定ペナルティは【筋力】と【敏捷力】を基準とする技能判定にしかつかない。</p><p><strong>通常：</strong>習熟していない盾を使う場合、君は盾の防具による判定ペナルティを攻撃ロールと、移動に関するすべての技能判定（〈騎乗〉を含む）に被る。</p><p><strong>特殊：</strong>バーバリアン、バード、クレリック、ドルイド、ファイター、パラディン、レンジャーは@Compendium[pf1.feats.WZj7zDvuelEoeXWX]{盾習熟}をボーナス特技として持っているため、改めて選択する必要はない。</p>"
 		},
 		{
 			"id": "Shield Slam",
@@ -967,7 +967,7 @@
 		{
 			"id": "Spirited Charge",
 			"name": "猛突撃",
-			"description": "<p><strong>《猛突撃》（戦闘） Spirited Charge</strong></p><p>君の騎乗突撃はとてつもない威力を持つ。</p><p><strong>前提条件：</strong>@Compendium[pf1.skills.mKO8Q4uMiqpMySOZ]{騎乗}1ランク、@Compendium[pf1.feats.0spsP9ylE3goD3jc]{騎乗戦闘}、@Compendium[pf1.feats.liPAO5urMI9chctT]{駆け抜け攻撃}。</p><p><strong>利益：</strong>騎乗時に突撃を行った場合、近接武器によるダメージが2倍になる（ランスでの場合3倍）。</p>"
+			"description": "<p><strong>《猛突撃》（戦闘） Spirited Charge</strong></p><p>君の騎乗突撃はとてつもない威力を持つ。</p><p><strong>前提条件：</strong>〈騎乗〉1ランク、@Compendium[pf1.feats.0spsP9ylE3goD3jc]{騎乗戦闘}、@Compendium[pf1.feats.liPAO5urMI9chctT]{駆け抜け攻撃}。</p><p><strong>利益：</strong>騎乗時に突撃を行った場合、近接武器によるダメージが2倍になる（ランスでの場合3倍）。</p>"
 		},
 		{
 			"id": "Spring Attack",
@@ -993,7 +993,7 @@
 		{
 			"id": "Stealthy",
 			"name": "忍びの技",
-			"description": "<p><strong>《忍びの技》 Stealthy</strong></p><p>君は縄抜けと注意を引かずに行動することが得意である。</p><p><strong>利益：</strong>すべての@Compendium[pf1.skills.AOQsMtvLY4V3wFEL]{脱出術}及び@Compendium[pf1.skills.T6nefKotIb5vKE9h]{隠密}判定に＋2のボーナスを得る。もしどちらかの技能ランクが10以上ならば、その技能へのボーナスは＋4になる。</p>"
+			"description": "<p><strong>《忍びの技》 Stealthy</strong></p><p>君は縄抜けと注意を引かずに行動することが得意である。</p><p><strong>利益：</strong>すべての〈脱出術〉及び〈隠密〉判定に＋2のボーナスを得る。もしどちらかの技能ランクが10以上ならば、その技能へのボーナスは＋4になる。</p>"
 		},
 		{
 			"id": "Step Up",
@@ -1050,12 +1050,12 @@
 		{
 			"id": "Tower Shield Proficiency",
 			"name": "タワー・シールド習熟",
-			"description": "<p><strong>《タワー・シールド習熟》（戦闘） Tower Shield Proficiency</strong></p><p>君はタワー・シールドを適切に使うトレーニングを受けた。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.WZj7zDvuelEoeXWX]{盾習熟}。</p><p><strong>利益：</strong>タワー・シールドを使う場合、盾の防具による判定ペナルティは【筋力】と【敏捷力】を基準とする技能判定にしかつかない。</p><p><strong>通常：</strong>習熟していない盾を使う場合、君は盾の防具による判定ペナルティを攻撃ロールと、移動に関するすべての技能判定（@Compendium[pf1.skills.mKO8Q4uMiqpMySOZ]{騎乗}を含む）に被る。</p><p><strong>特殊：</strong>ファイターは@Compendium[pf1.feats.PxwM4Uf4mcYs3Auq]{タワー・シールド習熟}をボーナス特技として持っているため、改めて選択する必要はない。</p>"
+			"description": "<p><strong>《タワー・シールド習熟》（戦闘） Tower Shield Proficiency</strong></p><p>君はタワー・シールドを適切に使うトレーニングを受けた。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.WZj7zDvuelEoeXWX]{盾習熟}。</p><p><strong>利益：</strong>タワー・シールドを使う場合、盾の防具による判定ペナルティは【筋力】と【敏捷力】を基準とする技能判定にしかつかない。</p><p><strong>通常：</strong>習熟していない盾を使う場合、君は盾の防具による判定ペナルティを攻撃ロールと、移動に関するすべての技能判定（〈騎乗〉を含む）に被る。</p><p><strong>特殊：</strong>ファイターは@Compendium[pf1.feats.PxwM4Uf4mcYs3Auq]{タワー・シールド習熟}をボーナス特技として持っているため、改めて選択する必要はない。</p>"
 		},
 		{
 			"id": "Trample",
 			"name": "騎乗蹂躙",
-			"description": "<p><strong>《騎乗蹂躙》（戦闘） Trample</strong></p><p>騎乗している時、君は敵を馬で引き倒し、さらに踏みつけることができる。</p><p><strong>前提条件：</strong>@Compendium[pf1.skills.mKO8Q4uMiqpMySOZ]{騎乗}1ランク、@Compendium[pf1.feats.0spsP9ylE3goD3jc]{騎乗戦闘}。</p><p><strong>利益：</strong>騎乗時に敵に蹴散らしを行う際、相手は君を避けようとすることができない。敵を打ち倒した場合、君の乗騎はその敵に1回の蹄攻撃を行うことができる。これには、伏せ状態の対象に対する攻撃ロールに通常付く＋4のボーナスが付く。</p>"
+			"description": "<p><strong>《騎乗蹂躙》（戦闘） Trample</strong></p><p>騎乗している時、君は敵を馬で引き倒し、さらに踏みつけることができる。</p><p><strong>前提条件：</strong>〈騎乗〉1ランク、@Compendium[pf1.feats.0spsP9ylE3goD3jc]{騎乗戦闘}。</p><p><strong>利益：</strong>騎乗時に敵に蹴散らしを行う際、相手は君を避けようとすることができない。敵を打ち倒した場合、君の乗騎はその敵に1回の蹄攻撃を行うことができる。これには、伏せ状態の対象に対する攻撃ロールに通常付く＋4のボーナスが付く。</p>"
 		},
 		{
 			"id": "Turn Undead",
@@ -1080,7 +1080,7 @@
 		{
 			"id": "Unseat",
 			"name": "突き落とし",
-			"description": "<p><strong>《突き落とし》（戦闘） Unseat</strong></p><p>君は敵を落馬させることを得意とする。</p><p><strong>前提条件：</strong>【筋】13、@Compendium[pf1.skills.mKO8Q4uMiqpMySOZ]{騎乗}1ランク、@Compendium[pf1.feats.0spsP9ylE3goD3jc]{騎乗戦闘}、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、@Compendium[pf1.feats.dn2KgHFQRbuoNRx0]{突き飛ばし強化}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>ランスを持ち騎乗した状態で目標に突撃を行う際に、君は通常通り攻撃を行う。もしその攻撃が命中したなら、それは通常通りダメージを与えるだけでなく、君は即座にアクションを消費することなく突き飛ばしを試みることができる。突き飛ばしが成功した場合、相手は馬から落ち、君と反対側で馬に隣接したマスで伏せ状態になる。</p>"
+			"description": "<p><strong>《突き落とし》（戦闘） Unseat</strong></p><p>君は敵を落馬させることを得意とする。</p><p><strong>前提条件：</strong>【筋】13、〈騎乗〉1ランク、@Compendium[pf1.feats.0spsP9ylE3goD3jc]{騎乗戦闘}、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、@Compendium[pf1.feats.dn2KgHFQRbuoNRx0]{突き飛ばし強化}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>ランスを持ち騎乗した状態で目標に突撃を行う際に、君は通常通り攻撃を行う。もしその攻撃が命中したなら、それは通常通りダメージを与えるだけでなく、君は即座にアクションを消費することなく突き飛ばしを試みることができる。突き飛ばしが成功した場合、相手は馬から落ち、君と反対側で馬に隣接したマスで伏せ状態になる。</p>"
 		},
 		{
 			"id": "Vital Strike",
@@ -1116,6 +1116,21 @@
 			"id": "Wind Stance",
 			"name": "風の如き脚",
 			"description": "<p><strong>《風の如き脚》（戦闘） Wind Stance</strong></p><p>君の捕らえがたい動きは敵が君の位置を見極めることを難しくする。</p><p><strong>前提条件：</strong>【敏】15、@Compendium[pf1.feats.JreaiTHdyWFNj3Tb]{回避}、基本攻撃ボーナス＋6。</p><p><strong>利益：</strong>君がこのターンに10フィート以上動いたなら、君は遠隔攻撃に対して1ラウンドの間20％の視認困難を得る。</p>"
+		},
+		{
+			"id": "Improved Steal",
+			"name": "盗み取り強化",
+			"description": "<p><strong>《盗み取り強化》（戦闘） Improved Steal</strong></p><p>君は道具を敵から盗み取るためのコツを心得ている。</p><p><strong>前提条件：</strong>【知】13、@UUID[Compendium.pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}。</p><p><strong>利益：</strong>君は“盗み取り”戦技を使用する際に機会攻撃を誘発しない。加えて敵からアイテムを盗み取る際の戦技判定に＋2ボーナスを得る。君はまた、相手が君からアイテムを盗み取ろうとする際に戦技防御に＋2ボーナスを得る。</p><p><strong>通常：</strong>君は“盗み取り”戦技を試みる際、機会攻撃を誘発する。</p>",
+			"contextNotes": [
+				{
+					"subTarget": "cmb",
+					"text": "盗み取り強化：盗み取りの戦技判定に＋[[2]]ボーナス"
+				},
+				{
+					"subTarget": "cmd",
+					"text": "盗み取り強化：盗み取り戦技に対する戦技防御値に＋[[2]]ボーナス"
+				}
+			]
 		}
 	]
 }

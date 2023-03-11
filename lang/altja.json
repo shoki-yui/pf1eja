@@ -34,13 +34,21 @@
         "Level8": "8レベル",
         "Level9": "9レベル",
          "Chat": {
-            "AttackChatCard": "Alternative (from pf1-alt-sheet)",
             "addAttackChatCardTemplateN": "攻撃のチャットカードのスタイルに Alternative を追加する",
             "addAttackChatCardTemplateH": "Pathfinder 1eのシステム設定で手動で選択する必要があります。"
         },
         "Spells": {
             "CannotCast": "このレベルの呪文を唱えることはできません：",
-            "CannotCastAbilityScore": "能力値が不足しています"
+            "CannotCastAbilityScore": "能力値が不足しています",
+            "NoSpellsLeft": "呪文が残っていません",
+            "NeededConcentration": "精神集中判定の難易度",
+            "Defensive": "防御的発動",
+            "VigorousMotion": "激しい揺れ",
+            "ViolentMotion": "非常に激しい揺れ",
+            "ExtremeMotion": "極めて激しい揺れ",
+            "ViolentWeather1": "みぞれや雨を伴う風の中にいる",
+            "ViolentWeather2": "砂礫が舞う風の中にいる",
+            "AlwaysSucceeds": "必ず成功する"
         },
         "Skill": {
             "AlwaysShow": "AS",

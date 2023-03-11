@@ -1,10 +1,10 @@
 {
 	"label": "種族",
     "mapping": {
-			"contextNotes": "data.contextNotes",
-			"subTypes": "data.subTypes",
-			"languages_value": "data.languages.value",
-			"languages_custom": "data.languages.custom"
+			"contextNotes": "system.contextNotes",
+			"subTypes": "system.subTypes",
+			"languages_value": "system.languages.value",
+			"languages_custom": "system.languages.custom"
     },
 	"entries": [
 		{

@@ -1,7 +1,7 @@
 {
 	"label": "一般的なバフ",
 	"mapping": {
-			"contextNotes": "data.contextNotes"
+			"contextNotes": "system.contextNotes"
 	},
 	"entries": [
 		{

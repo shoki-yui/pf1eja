@@ -1,7 +1,7 @@
 {
 	"label": "モンスターテンプレート",
     "mapping": {
-			"changes": "data.changes"
+			"changes": "system.changes"
     },
 	"entries": {
 		"Aerial": {
