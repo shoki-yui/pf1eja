@@ -6,7 +6,7 @@
 * **辞典翻訳ファイル提供者**: shoki, yuu
 * **辞典翻訳参照元**： [PRD_J ウィキ](https://w.atwiki.jp/prdj/)
 * **対応pf1eバージョン**: 0.51+
-* **modバージョン**: 1.9
+* **modバージョン**: 2.0
 
 ### インストール方法
 
@@ -24,6 +24,15 @@ Pathfinder1eシステム用の翻訳ファイルを追加し、日本語化す�
 
 ![インストール方法](https://i.imgur.com/4zYL873.jpg)
 
+設定の **Pathfinder Token Pack: Bestiariesの画像を使用する** にチェックを入れると、Bestiary MODの画像をPathfinder Token Pack: Bestiariesのものに置き換えることができます。  
+この機能を使用するにはPathfinder Token Pack: Bestiariesを購入しインストールしておく必要があります。
+
+Pathfinder Token Pack: Bestiaries https://foundryvtt.com/packages/pf2e-tokens-bestiaries  
+Bestiary MOD https://gitlab.com/foundryvtt_pathfinder1e/pf1-bestiary
+
+### スクリプト引用元
+Pathfinder 1 - Traduction FR (Babele)
+https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele
 
 ### 本体の日本語化
 FVTT本体の日本語化はこちらからどうぞ
