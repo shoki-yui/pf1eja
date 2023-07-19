@@ -2,9 +2,7 @@
 	"label": "クラス特徴",
     "mapping": {
 		"changes": "system.changes",
-		"contextNotes": "system.contextNotes",
-		"tags": "system.tags",
-		"classes": "system.associations.classes"
+		"contextNotes": "system.contextNotes"
     },
 	"entries": [
 		{

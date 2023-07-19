@@ -10,19 +10,26 @@ class Converters {
   usePf2eTokensBestiaries = false;
 
   actions(value, translations) {
-    if (!translations) {
+    if (!value || !translations) {
       return value;
     }
 
     value.forEach((type, index) => {
       const data = translations[index];
 
-      value[index].duration.value = data.duration;
       value[index].effectNotes = data.effectNotes;
-      value[index].save.description = data.save;
       value[index].spellArea = data.spellArea;
       value[index].spellEffect = data.spellEffect;
-      value[index].target.value = data.target;
+      
+      if (value[index].duration?.value) {
+        value[index].duration.value = data.duration;
+      }
+      if (value[index].save?.description) {
+        value[index].save.description = data.save;
+      }
+      if (value[index].target?.value) {
+        value[index].target.value = data.target;
+      }
     });
 
     return value;

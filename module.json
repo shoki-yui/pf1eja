@@ -2,7 +2,7 @@
 	"id": "pf1eja",
 	"title": "日本語化（PF1）",
 	"description": "FVTT用パスファインダー1eシステムの翻訳ファイルおよびBabele用の辞典翻訳ファイルを組み込むモッド。",
-	"version": "2.0",
+	"version": "2.1",
 	"compatibility": {
 		"minimum": "10",
 		"verified": "10"
@@ -38,6 +38,6 @@
 		}
 	],
 	"url" : "https://github.com/shoki-yui/pf1eja",
-	"download" : "https://github.com/shoki-yui/pf1eja/releases/download/2.0/pf1eja.zip",
+	"download" : "https://github.com/shoki-yui/pf1eja/releases/download/2.1/pf1eja.zip",
 	"manifest" : "https://github.com/shoki-yui/pf1eja/releases/latest/download/module.json"
 }
