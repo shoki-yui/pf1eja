@@ -9,7 +9,7 @@
 import converters from './converters.js';
 
 Hooks.on('init', () => {
-  game.settings.register('pf1eja-prdj', 'autoRegisterBabel', {
+  game.settings.register('pf1eja', 'autoRegisterBabel', {
     name: 'PF1eの辞典を日本語化する',
     hint: 'Babele MODの機能で辞典が日本語になります。（デフォルトはオン）',
     scope: 'world',
@@ -25,7 +25,7 @@ Hooks.on('init', () => {
     },
   });
 
-  game.settings.register('pf1eja-prdj', 'usePf2eTokensBestiaries', {
+  game.settings.register('pf1eja', 'usePf2eTokensBestiaries', {
     name: 'Pathfinder Token Pack: Bestiariesの画像を使用する',
     hint: 'Bestiary辞典の画像をPathfinder Token Pack: Bestiariesに置き換えます。Pathfinder Token Pack: Bestiariesを購入しインストールしないと使えません。（デフォルトはオフ）',
     scope: 'world',
@@ -35,14 +35,14 @@ Hooks.on('init', () => {
     onChange: () => window.location.reload(),
   });
 
-  converters.usePf2eTokensBestiaries = game.settings.get('pf1eja-prdj', 'usePf2eTokensBestiaries');
+  converters.usePf2eTokensBestiaries = game.settings.get('pf1eja', 'usePf2eTokensBestiaries');
 
   Babele.get().registerConverters({
     'actions': (value, translations) => converters.actions(value, translations),
     'pf2TokensBestiaries': (value, translations) => converters.pf2TokensBestiaries(value, translations),
   });
 
-  if (game.settings.get('pf1eja-prdj', 'autoRegisterBabel')) {
+  if (game.settings.get('pf1eja', 'autoRegisterBabel')) {
     autoRegisterBabel();
   }
 });
@@ -50,7 +50,7 @@ Hooks.on('init', () => {
 function autoRegisterBabel() {
   if (typeof Babele !== 'undefined') {
     Babele.get().register({
-      module: 'pf1eja-prdj',
+      module: 'pf1eja',
       lang: 'ja',
       dir: 'compendium',
     });
