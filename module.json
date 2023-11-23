@@ -1,13 +1,13 @@
 {
 	"id": "pf1eja",
-	"title": "日本語化（PF1）",
-	"description": "FVTT用パスファインダー1eシステムの翻訳ファイルおよびBabele用の辞典翻訳ファイルを組み込むモッド。",
-	"version": "2.1",
+	"title": "日本語化（Pathfinder RPG e1）",
+	"description": "FVTT用パスファインダーRPG1eシステムの翻訳ファイルおよびBabele用の辞典翻訳ファイルを組み込むMOD",
+	"version": "3.0",
 	"compatibility": {
 		"minimum": "10",
 		"verified": "10"
 	},
-	"author": "Brother Sharp, Chiikun, Shoki, Yuu",
+	"author": "Brother Sharp, Chiikun, shoki, Yuu",
 	"languages": [
 		{
 			"lang": "ja",
@@ -38,6 +38,6 @@
 		}
 	],
 	"url" : "https://github.com/shoki-yui/pf1eja",
-	"download" : "https://github.com/shoki-yui/pf1eja/releases/download/2.1/pf1eja.zip",
+	"download" : "https://github.com/shoki-yui/pf1eja/releases/download/3.0/pf1eja-3.0.zip",
 	"manifest" : "https://github.com/shoki-yui/pf1eja/releases/latest/download/module.json"
 }
