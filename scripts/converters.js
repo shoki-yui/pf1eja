@@ -18,7 +18,7 @@ class Converters {
       const data = translations[index];
 
       value[index].effectNotes = data.effectNotes;
-      value[index].spellArea = data.spellArea;
+      value[index].area = data.area;
       value[index].spellEffect = data.spellEffect;
       
       if (value[index].duration?.value) {

@@ -1,7 +1,6 @@
 {
 	"label": "特技",
     "mapping": {
-		"changes": "system.changes",
 		"contextNotes": "system.contextNotes"
     },
 	"entries": [
@@ -148,7 +147,7 @@
 			"contextNotes": [
 				{
 					"subTarget": "concentration",
-					"text": "戦闘発動：防御的発動時、および組みつき状態で呪文や擬似呪文能力を発動するための精神集中判定に＋[[4]]のボーナス"
+					"text": "戦闘発動：防御的発動時、および組みつき状態で呪文や擬似呪文能力を発動するための精神集中判定に＋[[4]]ボーナス"
 				}
 			]
 		},
@@ -196,18 +195,7 @@
 		{
 			"id": "Critical Focus",
 			"name": "クリティカル熟練",
-			"description": "<p><strong>《クリティカル熟練》（戦闘） Critical Focus</strong></p><p>君は苦痛を与える術に長けている。</p><p><strong>前提条件：</strong>基本攻撃ボーナス＋9。</p><p><strong>利益：</strong>クリティカル・ヒットを確定させるためのクリティカル・ロールに＋4の状況ボーナスを得る。</p>",
-			"changes":[
-				{
-					"formula":"4",
-					"operator":"add",
-					"subTarget":"critConfirm",
-					"modifier":"circumstance",
-					"priority":0,
-					"value":0
-				}
-			],
-			"contextNotes": []
+			"description": "<p><strong>《クリティカル熟練》（戦闘） Critical Focus</strong></p><p>君は苦痛を与える術に長けている。</p><p><strong>前提条件：</strong>基本攻撃ボーナス＋9。</p><p><strong>利益：</strong>クリティカル・ヒットを確定させるためのクリティカル・ロールに＋4の状況ボーナスを得る。</p>"
 		},
 		{
 			"id": "Critical Mastery",

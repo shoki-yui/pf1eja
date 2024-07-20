@@ -1,8 +1,5 @@
 {
-	"label": "武器と弾薬",
-	"mapping": {
-		"identifiedName": "system.identifiedName"
-	},
+	"label": "武器と矢弾",
 	"entries": [
 		{
 			"id": "Aasen Mortar",

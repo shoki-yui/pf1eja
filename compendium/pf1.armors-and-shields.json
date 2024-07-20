@@ -1,57 +1,54 @@
 {
 	"label": "鎧と盾",
-	"mapping": {
-		"identifiedName": "system.identifiedName"
-	},
 	"entries": {
 		"Chain Coat": {
 			"name": "Chain Coat",
-			"description": "<p>This relatively simple armor consists of heavy chains that wrap around your body and limbs. While it weighs more and provides less protection than other medium armors, it is also less of a hindrance. In addition, if you are wielding a spiked chain, you can affix it to one hand. This functions as a locked gauntlet, and if you are proficient with spiked chains, you can treat the spiked chain as a one-handed weapon while it is attached. You can affix a spiked chain to each hand this way, but you can’t wear locked gauntlets while wearing a chain coat, and you can’t attach any weapon to a chain coat except spiked chains.</p>",
+			"description": "",
 			"identifiedName": "Chain Coat"
 		},
 		"Dancing Scarves": {
 			"name": "Dancing Scarves",
-			"description": "<p>This set of colorful scarves, is made of heavy silk and reinforced with leather straps. As you move, they flutter and flow, obscuring your shape and protecting against enemy attacks. Varisian dancing scarves provide no benefit while you are standing still. Whenever you move at least 10 feet during your turn, you gain a +2 armor bonus to AC until the beginning of your next turn. Varisian dancing scarves add their enhancement bonus to this armor bonus instead of providing a constant benefit; other magical enhancements (such as&nbsp;light fortification) apply whether or not you are moving. In addition, Varisian dancing scarves provide a +2 circumstance bonus on Bluff checks made to feint in combat.</p>",
+			"description": "",
 			"identifiedName": "Dancing Scarves"
 		},
 		"Dwarven War-Shield": {
 			"name": "Dwarven War-Shield",
-			"description": "<p>This shield’s sides are cut into jagged angles and honed to razor sharpness. Dwarven skirmishers often wield these shields in pairs, savagely hacking opponents to pieces, while some dwarven scoundrels enjoy the shields’ imposing appearance and ease of use. If you have the Two-Weapon Fighting feat and are wielding two dwarven war-shields, increase the higher of the two shield bonuses by 1. You lose this benefit for 1 round when you make a shield bash with one or both dwarven war-shields (unless you have the Improved Shield Bash feat or a similar benefit). A hand holding a dwarven warshield can’t be used for anything else. A dwarven war-shield gains no benefit from shield spikes.</p>",
+			"description": "",
 			"identifiedName": "Dwarven War-Shield"
 		},
 		"Fortress Plate": {
 			"name": "Fortress Plate",
-			"description": "<p>This dwarf-forged armor features layers of overlapping plates molded to deflect projectiles—especially those from firearms. Whenever you are the target of a ranged weapon attack that would ignore your armor bonus to AC, you add half the fortress plate’s armor bonus (including enhancement bonuses) to your AC against that attack. This benefit does not apply to energy attacks or magical touch attacks such as rays. Because the armor is designed with dwarves in mind, If you have the dwarf’s weapon familiarity racial trait, you increase this projectile-only bonus by 1. Fortress plate is incredibly bulky, and its armor category can’t be reduced by any effect (including by special materials, such as mithral). Fortress plate includes gauntlets and a helm.</p>",
+			"description": "",
 			"identifiedName": "Fortress Plate"
 		},
 		"Ice Coat": {
 			"name": "Ice Coat",
-			"description": "<p>Used by the Erutaki human tribes and snowcaster elves native to the arctic tundra of the Crown of the World, this heavy parka is treated as an armored coatUE. It provides the benefits of a cold-weather outfit, and it can be donned or removed as a move action. In addition, the fluffy white fur of the parka blends into arctic landscapes, providing a +2 circumstance bonus on Stealth checks in snowy environments.</p>",
+			"description": "",
 			"identifiedName": "Ice Coat"
 		},
 		"Poisoner's Buckler": {
 			"name": "Poisoner's Buckler",
-			"description": "<p>Half-drow make these bucklers to allow for quick application of exactly the right poison in the middle of combat. This mithral buckler is painted black with three deep grooves running over the surface, each fitted with a slot that can hold a vial of poison. As a move action, the user can swipe a weapon over the surface of the buckler, coating it with a single dose of poison. The buckler can hold 3 doses of poison. If the wearer does not have the poison use ability, she faces the standard risk of poisoning herself</p>",
+			"description": "",
 			"identifiedName": "Poisoner's Buckler"
 		},
 		"Reinforced Tunic": {
 			"name": "Reinforced Tunic",
-			"description": "<p>Sometimes called a leine, this belted tunic has thick cords woven through it that cover vital areas. A reinforced tunic’s armor bonus is increased by 2 against attack rolls made to confirm critical hits against the wearer.</p>",
+			"description": "",
 			"identifiedName": "Reinforced Tunic"
 		},
 		"Spider-Silk Bodysuit": {
 			"name": "Spider-Silk Bodysuit",
-			"description": "<p>This exotic form-fitting garment is woven entirely from alchemically treated silk harvested from giant spiders or other arachnid creatures. If you have the drow’s weapon familiarity racial trait, you treat the spider-silk bodysuit’s maximum Dexterity bonus as 2 higher.</p>",
+			"description": "",
 			"identifiedName": "Spider-Silk Bodysuit"
 		},
 		"Steel Snarlshield": {
 			"name": "Steel Snarlshield",
-			"description": "<p><span id=\"ctl00_MainContent_DataListTypes_ctl00_LabelName\" style=\"margin-top: 0px;\">The snarlshield is a heavy shield that features a dozen rods protruding from its surface. When used as a weapon to bash an opponent, a snarlshield has the disarm quality.</span></p>",
+			"description": "",
 			"identifiedName": "Steel Snarlshield"
 		},
 		"Wooden Snarlshield": {
 			"name": "Wooden Snarlshield",
-			"description": "<p>The snarlshield is a heavy shield that features a dozen rods protruding from its surface. When used as a weapon to bash an opponent, a snarlshield has the disarm quality.</p>",
+			"description": "",
 			"identifiedName": "Wooden Snarlshield"
 		},
 		"Armored Kilt": {
