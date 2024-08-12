@@ -1,0 +1,7661 @@
+{
+	"label": "Bestiaries 1-3",
+	"entries": {
+		"Aasimar (cleric 1)": {
+			"name": "アアシマール (cleric 1)",
+			"pages":{
+				"Aasimar (cleric 1)":{
+					"name":"アアシマール (cleric 1)"
+				}
+			}
+		},
+		"Aboleth (CR 7)": {
+			"name": "アボレス (CR 7)",
+			"pages":{
+				"Aboleth (CR 7)":{
+					"name":"アボレス (CR 7)"
+				}
+			}
+		},
+		"Accuser (CR 3)": {
+			"name": "アキューザー・デヴィル (CR 3)",
+			"pages":{
+				"Accuser (CR 3)":{
+					"name":"アキューザー・デヴィル (CR 3)"
+				}
+			}
+		},
+		"Achaierai (CR 5)": {
+			"name": "アケイライ (CR 5)",
+			"pages":{
+				"Achaierai (CR 5)":{
+					"name":"アケイライ (CR 5)"
+				}
+			}
+		},
+		"Adamantine Golem (CR 19)": {
+			"name": "アダマンティン・ゴーレム (CR 19)",
+			"pages":{
+				"Adamantine Golem (CR 19)":{
+					"name":"アダマンティン・ゴーレム (CR 19)"
+				}
+			}
+		},
+		"Adaro (CR 3)": {
+			"name": "アダロ (CR 3)",
+			"pages":{
+				"Adaro (CR 3)":{
+					"name":"アダロ (CR 3)"
+				}
+			}
+		},
+		"Adherer (CR 3)": {
+			"name": "アドヒラー (CR 3)",
+			"pages":{
+				"Adherer (CR 3)":{
+					"name":"アドヒラー (CR 3)"
+				}
+			}
+		},
+		"Adhukait (CR 7)": {
+			"name": "アズカイト (CR 7)",
+			"pages":{
+				"Adhukait (CR 7)":{
+					"name":"アズカイト (CR 7)"
+				}
+			}
+		},
+		"Adlet (CR 10)": {
+			"name": "アドレット (CR 10)",
+			"pages":{
+				"Adlet (CR 10)":{
+					"name":"アドレット (CR 10)"
+				}
+			}
+		},
+		"Adult Black Dragon (CR 11)": {
+			"name": "アダルト・ブラック・ドラゴン (CR 11)",
+			"pages":{
+				"Adult Black Dragon (CR 11)":{
+					"name":"アダルト・ブラック・ドラゴン (CR 11)"
+				}
+			}
+		},
+		"Adult Blue Dragon (CR 13)": {
+			"name": "アダルト・ブルー・ドラゴン (CR 13)",
+			"pages":{
+				"Adult Blue Dragon (CR 13)":{
+					"name":"アダルト・ブルー・ドラゴン (CR 13)"
+				}
+			}
+		},
+		"Adult Brass Dragon (CR 11)": {
+			"name": "アダルト・ブラス・ドラゴン (CR 11)",
+			"pages":{
+				"Adult Brass Dragon (CR 11)":{
+					"name":"アダルト・ブラス・ドラゴン (CR 11)"
+				}
+			}
+		},
+		"Adult Brine Dragon (CR 11)": {
+			"name": "アダルト・ブライン・ドラゴン (CR 11)",
+			"pages":{
+				"Adult Brine Dragon (CR 11)":{
+					"name":"アダルト・ブライン・ドラゴン (CR 11)"
+				}
+			}
+		},
+		"Adult Bronze Dragon (CR 13)": {
+			"name": "アダルト・ブロンズ・ドラゴン (CR 13)",
+			"pages":{
+				"Adult Bronze Dragon (CR 13)":{
+					"name":"アダルト・ブロンズ・ドラゴン (CR 13)"
+				}
+			}
+		},
+		"Adult Cloud Dragon (CR 13)": {
+			"name": "アダルト・クラウド・ドラゴン (CR 13)",
+			"pages":{
+				"Adult Cloud Dragon (CR 13)":{
+					"name":"アダルト・クラウド・ドラゴン (CR 13)"
+				}
+			}
+		},
+		"Adult Copper Dragon (CR 12)": {
+			"name": "アダルト・カッパー・ドラゴン (CR 12)",
+			"pages":{
+				"Adult Copper Dragon (CR 12)":{
+					"name":"アダルト・カッパー・ドラゴン (CR 12)"
+				}
+			}
+		},
+		"Adult Crystal Dragon (CR 10)": {
+			"name": "アダルト・クリスタル・ドラゴン (CR 10)",
+			"pages":{
+				"Adult Crystal Dragon (CR 10)":{
+					"name":"アダルト・クリスタル・ドラゴン (CR 10)"
+				}
+			}
+		},
+		"Adult Forest Dragon (CR 14)": {
+			"name": "アダルト・フォレスト・ドラゴン (CR 14)",
+			"pages":{
+				"Adult Forest Dragon (CR 14)":{
+					"name":"アダルト・フォレスト・ドラゴン (CR 14)"
+				}
+			}
+		},
+		"Adult Gold Dragon (CR 15)": {
+			"name": "アダルト・ゴールド・ドラゴン (CR 15)",
+			"pages":{
+				"Adult Gold Dragon (CR 15)":{
+					"name":"アダルト・ゴールド・ドラゴン (CR 15)"
+				}
+			}
+		},
+		"Adult Green Dragon (CR 12)": {
+			"name": "アダルト・グリーン・ドラゴン (CR 12)",
+			"pages":{
+				"Adult Green Dragon (CR 12)":{
+					"name":"アダルト・グリーン・ドラゴン (CR 12)"
+				}
+			}
+		},
+		"Adult Magma Dragon (CR 12)": {
+			"name": "アダルト・マグマ・ドラゴン (CR 12)",
+			"pages":{
+				"Adult Magma Dragon (CR 12)":{
+					"name":"アダルト・マグマ・ドラゴン (CR 12)"
+				}
+			}
+		},
+		"Adult Red Dragon (CR 14)": {
+			"name": "アダルト・レッド・ドラゴン (CR 14)",
+			"pages":{
+				"Adult Red Dragon (CR 14)":{
+					"name":"アダルト・レッド・ドラゴン (CR 14)"
+				}
+			}
+		},
+		"Adult Sea Dragon (CR 12)": {
+			"name": "アダルト・シー・ドラゴン (CR 12)",
+			"pages":{
+				"Adult Sea Dragon (CR 12)":{
+					"name":"アダルト・シー・ドラゴン (CR 12)"
+				}
+			}
+		},
+		"Adult Silver Dragon (CR 14)": {
+			"name": "アダルト・シルヴァー・ドラゴン (CR 14)",
+			"pages":{
+				"Adult Silver Dragon (CR 14)":{
+					"name":"アダルト・シルヴァー・ドラゴン (CR 14)"
+				}
+			}
+		},
+		"Adult Sky Dragon (CR 13)": {
+			"name": "アダルト・スカイ・ドラゴン (CR 13)",
+			"pages":{
+				"Adult Sky Dragon (CR 13)":{
+					"name":"アダルト・スカイ・ドラゴン (CR 13)"
+				}
+			}
+		},
+		"Adult Sovereign Dragon (CR 15)": {
+			"name": "アダルト・ソヴリン・ドラゴン (CR 15)",
+			"pages":{
+				"Adult Sovereign Dragon (CR 15)":{
+					"name":"アダルト・ソヴリン・ドラゴン (CR 15)"
+				}
+			}
+		},
+		"Adult Umbral Dragon (CR 14)": {
+			"name": "アダルト・アンブラル・ドラゴン (CR 14)",
+			"pages":{
+				"Adult Umbral Dragon (CR 14)":{
+					"name":"アダルト・アンブラル・ドラゴン (CR 14)"
+				}
+			}
+		},
+		"Adult Underworld Dragon (CR 11)": {
+			"name": "アダルト・アンダーワールド・ドラゴン (CR 11)",
+			"pages":{
+				"Adult Underworld Dragon (CR 11)":{
+					"name":"アダルト・アンダーワールド・ドラゴン (CR 11)"
+				}
+			}
+		},
+		"Adult White Dragon (CR 10)": {
+			"name": "アダルト・ホワイト・ドラゴン (CR 10)",
+			"pages":{
+				"Adult White Dragon (CR 10)":{
+					"name":"アダルト・ホワイト・ドラゴン (CR 10)"
+				}
+			}
+		},
+		"Aghash (CR 4)": {
+			"name": "アガシ (CR 4)",
+			"pages":{
+				"Aghash (CR 4)":{
+					"name":"アガシ (CR 4)"
+				}
+			}
+		},
+		"Aghasura (CR 11)": {
+			"name": "アガースラ (CR 11)",
+			"pages":{
+				"Aghasura (CR 11)":{
+					"name":"アガースラ (CR 11)"
+				}
+			}
+		},
+		"Ahuizotl (CR 6)": {
+			"name": "アウィソトル (CR 6)",
+			"pages":{
+				"Ahuizotl (CR 6)":{
+					"name":"アウィソトル (CR 6)"
+				}
+			}
+		},
+		"Air Mephit (CR 3)": {
+			"name": "エア・メフィット (CR 3)",
+			"pages":{
+				"Air Mephit (CR 3)":{
+					"name":"エア・メフィット (CR 3)"
+				}
+			}
+		},
+		"Akata (CR 1)": {
+			"name": "アカータ (CR 1)",
+			"pages":{
+				"Akata (CR 1)":{
+					"name":"アカータ (CR 1)"
+				}
+			}
+		},
+		"Akhana (CR 12)": {
+			"name": "アクァナ (CR 12)",
+			"pages":{
+				"Akhana (CR 12)":{
+					"name":"アクァナ (CR 12)"
+				}
+			}
+		},
+		"Akhlut (CR 13)": {
+			"name": "アクルト (CR 13)",
+			"pages":{
+				"Akhlut (CR 13)":{
+					"name":"アクルト (CR 13)"
+				}
+			}
+		},
+		"Akvan (CR 20)": {
+			"name": "アクヴァン (CR 20)",
+			"pages":{
+				"Akvan (CR 20)":{
+					"name":"アクヴァン (CR 20)"
+				}
+			}
+		},
+		"Albino Cave Solifugid (CR 4)": {
+			"name": "アルバイノ・ケイヴ・サリフュージド (CR 4)",
+			"pages":{
+				"Albino Cave Solifugid (CR 4)":{
+					"name":"アルバイノ・ケイヴ・サリフュージド (CR 4)"
+				}
+			}
+		},
+		"Alchemical Golem (CR 9)": {
+			"name": "アルケミカル・ゴーレム (CR 9)",
+			"pages":{
+				"Alchemical Golem (CR 9)":{
+					"name":"アルケミカル・ゴーレム (CR 9)"
+				}
+			}
+		},
+		"Allip (CR 3)": {
+			"name": "アリップ (CR 3)",
+			"pages":{
+				"Allip (CR 3)":{
+					"name":"アリップ (CR 3)"
+				}
+			}
+		},
+		"Allosaurus (CR 7)": {
+			"name": "アロサウルス (CR 7)",
+			"pages":{
+				"Allosaurus (CR 7)":{
+					"name":"アロサウルス (CR 7)"
+				}
+			}
+		},
+		"Alraune (CR 13)": {
+			"name": "アルラウネ (CR 13)",
+			"pages":{
+				"Alraune (CR 13)":{
+					"name":"アルラウネ (CR 13)"
+				}
+			}
+		},
+		"Amoeba Swarm (CR 1)": {
+			"name": "アメーバ・スウォーム (CR 1)",
+			"pages":{
+				"Amoeba Swarm (CR 1)":{
+					"name":"アメーバ・スウォーム (CR 1)"
+				}
+			}
+		},
+		"Amoeba, Giant (CR 1)": {
+			"name": "ジャイアント・アメーバ (CR 1)",
+			"pages":{
+				"Amoeba, Giant (CR 1)":{
+					"name":"ジャイアント・アメーバ (CR 1)"
+				}
+			}
+		},
+		"Amphisbaena (CR 4)": {
+			"name": "アンフィスバエナ (CR 4)",
+			"pages":{
+				"Amphisbaena (CR 4)":{
+					"name":"アンフィスバエナ (CR 4)"
+				}
+			}
+		},
+		"Ancient Black Dragon (CR 16)": {
+			"name": "エインシャント・ブラック・ドラゴン (CR 16)",
+			"pages":{
+				"Ancient Black Dragon (CR 16)":{
+					"name":"エインシャント・ブラック・ドラゴン (CR 16)"
+				}
+			}
+		},
+		"Ancient Blue Dragon (CR 18)": {
+			"name": "エインシャント・ブルー・ドラゴン (CR 18)",
+			"pages":{
+				"Ancient Blue Dragon (CR 18)":{
+					"name":"エインシャント・ブルー・ドラゴン (CR 18)"
+				}
+			}
+		},
+		"Ancient Brass Dragon (CR 16)": {
+			"name": "エインシャント・ブラス・ドラゴン (CR 16)",
+			"pages":{
+				"Ancient Brass Dragon (CR 16)":{
+					"name":"エインシャント・ブラス・ドラゴン (CR 16)"
+				}
+			}
+		},
+		"Ancient Brine Dragon (CR 16)": {
+			"name": "エインシャント・ブライン・ドラゴン (CR 16)",
+			"pages":{
+				"Ancient Brine Dragon (CR 16)":{
+					"name":"エインシャント・ブライン・ドラゴン (CR 16)"
+				}
+			}
+		},
+		"Ancient Bronze Dragon (CR 18)": {
+			"name": "エインシャント・ブロンズ・ドラゴン (CR 18)",
+			"pages":{
+				"Ancient Bronze Dragon (CR 18)":{
+					"name":"エインシャント・ブロンズ・ドラゴン (CR 18)"
+				}
+			}
+		},
+		"Ancient Cloud Dragon (CR 18)": {
+			"name": "エインシャント・クラウド・ドラゴン (CR 18)",
+			"pages":{
+				"Ancient Cloud Dragon (CR 18)":{
+					"name":"エインシャント・クラウド・ドラゴン (CR 18)"
+				}
+			}
+		},
+		"Ancient Copper Dragon (CR 17)": {
+			"name": "エインシャント・カッパー・ドラゴン (CR 17)",
+			"pages":{
+				"Ancient Copper Dragon (CR 17)":{
+					"name":"エインシャント・カッパー・ドラゴン (CR 17)"
+				}
+			}
+		},
+		"Ancient Crystal Dragon (CR 15)": {
+			"name": "エインシャント・クリスタル・ドラゴン (CR 15)",
+			"pages":{
+				"Ancient Crystal Dragon (CR 15)":{
+					"name":"エインシャント・クリスタル・ドラゴン (CR 15)"
+				}
+			}
+		},
+		"Ancient Forest Dragon (CR 19)": {
+			"name": "エインシャント・フォレスト・ドラゴン (CR 19)",
+			"pages":{
+				"Ancient Forest Dragon (CR 19)":{
+					"name":"エインシャント・フォレスト・ドラゴン (CR 19)"
+				}
+			}
+		},
+		"Ancient Gold Dragon (CR 20)": {
+			"name": "エインシャント・ゴールド・ドラゴン (CR 20)",
+			"pages":{
+				"Ancient Gold Dragon (CR 20)":{
+					"name":"エインシャント・ゴールド・ドラゴン (CR 20)"
+				}
+			}
+		},
+		"Ancient Green Dragon (CR 17)": {
+			"name": "エインシャント・グリーン・ドラゴン (CR 17)",
+			"pages":{
+				"Ancient Green Dragon (CR 17)":{
+					"name":"エインシャント・グリーン・ドラゴン (CR 17)"
+				}
+			}
+		},
+		"Ancient Magma Dragon (CR 17)": {
+			"name": "エインシャント・マグマ・ドラゴン (CR 17)",
+			"pages":{
+				"Ancient Magma Dragon (CR 17)":{
+					"name":"エインシャント・マグマ・ドラゴン (CR 17)"
+				}
+			}
+		},
+		"Ancient Red Dragon (CR 19)": {
+			"name": "エインシャント・レッド・ドラゴン (CR 19)",
+			"pages":{
+				"Ancient Red Dragon (CR 19)":{
+					"name":"エインシャント・レッド・ドラゴン (CR 19)"
+				}
+			}
+		},
+		"Ancient Sea Dragon (CR 17)": {
+			"name": "エインシャント・シー・ドラゴン (CR 17)",
+			"pages":{
+				"Ancient Sea Dragon (CR 17)":{
+					"name":"エインシャント・シー・ドラゴン (CR 17)"
+				}
+			}
+		},
+		"Ancient Silver Dragon (CR 19)": {
+			"name": "エインシャント・シルヴァー・ドラゴン (CR 19)",
+			"pages":{
+				"Ancient Silver Dragon (CR 19)":{
+					"name":"エインシャント・シルヴァー・ドラゴン (CR 19)"
+				}
+			}
+		},
+		"Ancient Sky Dragon (CR 18)": {
+			"name": "エインシャント・スカイ・ドラゴン (CR 18)",
+			"pages":{
+				"Ancient Sky Dragon (CR 18)":{
+					"name":"エインシャント・スカイ・ドラゴン (CR 18)"
+				}
+			}
+		},
+		"Ancient Sovereign Dragon (CR 20)": {
+			"name": "エインシャント・ソヴリン・ドラゴン (CR 20)",
+			"pages":{
+				"Ancient Sovereign Dragon (CR 20)":{
+					"name":"エインシャント・ソヴリン・ドラゴン (CR 20)"
+				}
+			}
+		},
+		"Ancient Umbral Dragon (CR 19)": {
+			"name": "エインシャント・アンブラル・ドラゴン (CR 19)",
+			"pages":{
+				"Ancient Umbral Dragon (CR 19)":{
+					"name":"エインシャント・アンブラル・ドラゴン (CR 19)"
+				}
+			}
+		},
+		"Ancient Underworld Dragon (CR 16)": {
+			"name": "エインシャント・アンダーワールド・ドラゴン (CR 16)",
+			"pages":{
+				"Ancient Underworld Dragon (CR 16)":{
+					"name":"エインシャント・アンダーワールド・ドラゴン (CR 16)"
+				}
+			}
+		},
+		"Ancient White Dragon (CR 15)": {
+			"name": "エインシャント・ホワイト・ドラゴン (CR 15)",
+			"pages":{
+				"Ancient White Dragon (CR 15)":{
+					"name":"エインシャント・ホワイト・ドラゴン (CR 15)"
+				}
+			}
+		},
+		"Androsphinx (CR 9)": {
+			"name": "アンドロスフィンクス (CR 9)",
+			"pages":{
+				"Androsphinx (CR 9)":{
+					"name":"アンドロスフィンクス (CR 9)"
+				}
+			}
+		},
+		"Animate Dream (CR 8)": {
+			"name": "アニメイト・ドリーム (CR 8)",
+			"pages":{
+				"Animate Dream (CR 8)":{
+					"name":"アニメイト・ドリーム (CR 8)"
+				}
+			}
+		},
+		"Animated Object (CR 3)": {
+			"name": "アニメイテッド・オブジェクト (CR 3)",
+			"pages":{
+				"Animated Object (CR 3)":{
+					"name":"アニメイテッド・オブジェクト (CR 3)"
+				}
+			}
+		},
+		"Ankheg (CR 3)": {
+			"name": "アンケグ (CR 3)",
+			"pages":{
+				"Ankheg (CR 3)":{
+					"name":"アンケグ (CR 3)"
+				}
+			}
+		},
+		"Ankylosaurus (CR 6)": {
+			"name": "アンキロサウルス (CR 6)",
+			"pages":{
+				"Ankylosaurus (CR 6)":{
+					"name":"アンキロサウルス (CR 6)"
+				}
+			}
+		},
+		"Annis Hag (CR 6)": {
+			"name": "アニス・ハグ (CR 6)",
+			"pages":{
+				"Annis Hag (CR 6)":{
+					"name":"アニス・ハグ (CR 6)"
+				}
+			}
+		},
+		"Antelope (CR 0.5)": {
+			"name": "アンテロープ (CR 0.5)",
+			"pages":{
+				"Antelope (CR 0.5)":{
+					"name":"アンテロープ (CR 0.5)"
+				}
+			}
+		},
+		"Aranea (CR 4)": {
+			"name": "アレイニア (CR 4)",
+			"pages":{
+				"Aranea (CR 4)":{
+					"name":"アレイニア (CR 4)"
+				}
+			}
+		},
+		"Arbiter (CR 2)": {
+			"name": "アービター (CR 2)",
+			"pages":{
+				"Arbiter (CR 2)":{
+					"name":"アービター (CR 2)"
+				}
+			}
+		},
+		"Archelon (CR 5)": {
+			"name": "アルケロン (CR 5)",
+			"pages":{
+				"Archelon (CR 5)":{
+					"name":"アルケロン (CR 5)"
+				}
+			}
+		},
+		"Army Ant Swarm (CR 5)": {
+			"name": "アーミィ・アント・スウォーム (CR 5)",
+			"pages":{
+				"Army Ant Swarm (CR 5)":{
+					"name":"アーミィ・アント・スウォーム (CR 5)"
+				}
+			}
+		},
+		"Arsinoitherium (CR 7)": {
+			"name": "アルシノイテリウム (CR 7)",
+			"pages":{
+				"Arsinoitherium (CR 7)":{
+					"name":"アルシノイテリウム (CR 7)"
+				}
+			}
+		},
+		"Ascomoid (CR 5)": {
+			"name": "アスコモイド (CR 5)",
+			"pages":{
+				"Ascomoid (CR 5)":{
+					"name":"アスコモイド (CR 5)"
+				}
+			}
+		},
+		"Ash Giant (CR 11)": {
+			"name": "アッシュ・ジャイアント (CR 11)",
+			"pages":{
+				"Ash Giant (CR 11)":{
+					"name":"アッシュ・ジャイアント (CR 11)"
+				}
+			}
+		},
+		"Assassin Vine (CR 3)": {
+			"name": "アサシン・ヴァイン (CR 3)",
+			"pages":{
+				"Assassin Vine (CR 3)":{
+					"name":"アサシン・ヴァイン (CR 3)"
+				}
+			}
+		},
+		"Astradaemon (CR 16)": {
+			"name": "アストラダイモン (CR 16)",
+			"pages":{
+				"Astradaemon (CR 16)":{
+					"name":"アストラダイモン (CR 16)"
+				}
+			}
+		},
+		"Astral Deva (CR 14)": {
+			"name": "アストラル・デーヴァ (CR 14)",
+			"pages":{
+				"Astral Deva (CR 14)":{
+					"name":"アストラル・デーヴァ (CR 14)"
+				}
+			}
+		},
+		"Asurendra (CR 20)": {
+			"name": "アスレンドラ (CR 20)",
+			"pages":{
+				"Asurendra (CR 20)":{
+					"name":"アスレンドラ (CR 20)"
+				}
+			}
+		},
+		"Athach (CR 12)": {
+			"name": "アハッハ (CR 12)",
+			"pages":{
+				"Athach (CR 12)":{
+					"name":"アハッハ (CR 12)"
+				}
+			}
+		},
+		"Atomie (CR 1)": {
+			"name": "アトゥミー (CR 1)",
+			"pages":{
+				"Atomie (CR 1)":{
+					"name":"アトゥミー (CR 1)"
+				}
+			}
+		},
+		"Attic Whisperer (CR 4)": {
+			"name": "アティック・ウィスパラー (CR 4)",
+			"pages":{
+				"Attic Whisperer (CR 4)":{
+					"name":"アティック・ウィスパラー (CR 4)"
+				}
+			}
+		},
+		"Augnagar (CR 14)": {
+			"name": "オグナガー (CR 14)",
+			"pages":{
+				"Augnagar (CR 14)":{
+					"name":"オグナガー (CR 14)"
+				}
+			}
+		},
+		"Augur Kyton (CR 2)": {
+			"name": "アウグル (CR 2)",
+			"pages":{
+				"Augur Kyton (CR 2)":{
+					"name":"アウグル (CR 2)"
+				}
+			}
+		},
+		"Aurochs (CR 2)": {
+			"name": "オーロックス (CR 2)",
+			"pages":{
+				"Aurochs (CR 2)":{
+					"name":"オーロックス (CR 2)"
+				}
+			}
+		},
+		"Aurumvorax (CR 9)": {
+			"name": "アラムヴォラクス (CR 9)",
+			"pages":{
+				"Aurumvorax (CR 9)":{
+					"name":"アラムヴォラクス (CR 9)"
+				}
+			}
+		},
+		"Avoral (CR 9)": {
+			"name": "アヴォラル (CR 9)",
+			"pages":{
+				"Avoral (CR 9)":{
+					"name":"アヴォラル (CR 9)"
+				}
+			}
+		},
+		"Awakened Demilich (necromancer 11)": {
+			"name": "アウェイクンド・デミリッチ (necromancer 11)",
+			"pages":{
+				"Awakened Demilich (necromancer 11)":{
+					"name":"アウェイクンド・デミリッチ (necromancer 11)"
+				}
+			}
+		},
+		"Axe Beak (CR 2)": {
+			"name": "アックス・ビーク (CR 2)",
+			"pages":{
+				"Axe Beak (CR 2)":{
+					"name":"アックス・ビーク (CR 2)"
+				}
+			}
+		},
+		"Axiomite (CR 8)": {
+			"name": "アクシアマイト (CR 8)",
+			"pages":{
+				"Axiomite (CR 8)":{
+					"name":"アクシアマイト (CR 8)"
+				}
+			}
+		},
+		"Azer (CR 2)": {
+			"name": "エイザー (CR 2)",
+			"pages":{
+				"Azer (CR 2)":{
+					"name":"エイザー (CR 2)"
+				}
+			}
+		},
+		"Azruverda (CR 13)": {
+			"name": "アズルヴェルダ (CR 13)",
+			"pages":{
+				"Azruverda (CR 13)":{
+					"name":"アズルヴェルダ (CR 13)"
+				}
+			}
+		},
+		"Babau (CR 6)": {
+			"name": "ババウ (CR 6)",
+			"pages":{
+				"Babau (CR 6)":{
+					"name":"ババウ (CR 6)"
+				}
+			}
+		},
+		"Baboon (CR 0.5)": {
+			"name": "バブーン (CR 0.5)",
+			"pages":{
+				"Baboon (CR 0.5)":{
+					"name":"バブーン (CR 0.5)"
+				}
+			}
+		},
+		"Badger (CR 0.5)": {
+			"name": "バジャー (CR 0.5)",
+			"pages":{
+				"Badger (CR 0.5)":{
+					"name":"バジャー (CR 0.5)"
+				}
+			}
+		},
+		"Badger, Dire (CR 2)": {
+			"name": "ダイア・バジャー (CR 2)",
+			"pages":{
+				"Badger, Dire (CR 2)":{
+					"name":"ダイア・バジャー (CR 2)"
+				}
+			}
+		},
+		"Baku (CR 8)": {
+			"name": "バク (CR 8)",
+			"pages":{
+				"Baku (CR 8)":{
+					"name":"バク (CR 8)"
+				}
+			}
+		},
+		"Balor (CR 20)": {
+			"name": "バロール (CR 20)",
+			"pages":{
+				"Balor (CR 20)":{
+					"name":"バロール (CR 20)"
+				}
+			}
+		},
+		"Baluchitherium (CR 8)": {
+			"name": "バルキテリウム (CR 8)",
+			"pages":{
+				"Baluchitherium (CR 8)":{
+					"name":"バルキテリウム (CR 8)"
+				}
+			}
+		},
+		"Bandersnatch (CR 17)": {
+			"name": "バンダースナッチ (CR 17)",
+			"pages":{
+				"Bandersnatch (CR 17)":{
+					"name":"バンダースナッチ (CR 17)"
+				}
+			}
+		},
+		"Banshee (CR 13)": {
+			"name": "バンシー (CR 13)",
+			"pages":{
+				"Banshee (CR 13)":{
+					"name":"バンシー (CR 13)"
+				}
+			}
+		},
+		"Barbed Devil (CR 11)": {
+			"name": "バーブド・デヴィル (CR 11)",
+			"pages":{
+				"Barbed Devil (CR 11)":{
+					"name":"バーブド・デヴィル (CR 11)"
+				}
+			}
+		},
+		"Baregara (CR 12)": {
+			"name": "バレガラ (CR 12)",
+			"pages":{
+				"Baregara (CR 12)":{
+					"name":"バレガラ (CR 12)"
+				}
+			}
+		},
+		"Barghest (CR 4)": {
+			"name": "バーゲスト (CR 4)",
+			"pages":{
+				"Barghest (CR 4)":{
+					"name":"バーゲスト (CR 4)"
+				}
+			}
+		},
+		"Basidirond (CR 5)": {
+			"name": "バシディランド (CR 5)",
+			"pages":{
+				"Basidirond (CR 5)":{
+					"name":"バシディランド (CR 5)"
+				}
+			}
+		},
+		"Basilisk (CR 5)": {
+			"name": "バジリスク (CR 5)",
+			"pages":{
+				"Basilisk (CR 5)":{
+					"name":"バジリスク (CR 5)"
+				}
+			}
+		},
+		"Basilosaurus (CR 12)": {
+			"name": "バシロサウルス (CR 12)",
+			"pages":{
+				"Basilosaurus (CR 12)":{
+					"name":"バシロサウルス (CR 12)"
+				}
+			}
+		},
+		"Bat (CR 0.13)": {
+			"name": "バット (CR 0.13)",
+			"pages":{
+				"Bat (CR 0.13)":{
+					"name":"バット (CR 0.13)"
+				}
+			}
+		},
+		"Bat Swarm (CR 2)": {
+			"name": "バット・スウォーム (CR 2)",
+			"pages":{
+				"Bat Swarm (CR 2)":{
+					"name":"バット・スウォーム (CR 2)"
+				}
+			}
+		},
+		"Baykok (CR 9)": {
+			"name": "ベイコク (CR 9)",
+			"pages":{
+				"Baykok (CR 9)":{
+					"name":"ベイコク (CR 9)"
+				}
+			}
+		},
+		"Bebilith (CR 10)": {
+			"name": "ベビリス (CR 10)",
+			"pages":{
+				"Bebilith (CR 10)":{
+					"name":"ベビリス (CR 10)"
+				}
+			}
+		},
+		"Behemoth Hippopotamus (CR 10)": {
+			"name": "ベヒモス・ヒポポタマス (CR 10)",
+			"pages":{
+				"Behemoth Hippopotamus (CR 10)":{
+					"name":"ベヒモス・ヒポポタマス (CR 10)"
+				}
+			}
+		},
+		"Behir (CR 8)": {
+			"name": "ビーヒア (CR 8)",
+			"pages":{
+				"Behir (CR 8)":{
+					"name":"ビーヒア (CR 8)"
+				}
+			}
+		},
+		"Belier Devil (CR 16)": {
+			"name": "ベリエ・デヴィル (CR 16)",
+			"pages":{
+				"Belier Devil (CR 16)":{
+					"name":"ベリエ・デヴィル (CR 16)"
+				}
+			}
+		},
+		"Belker (CR 6)": {
+			"name": "ベルカー (CR 6)",
+			"pages":{
+				"Belker (CR 6)":{
+					"name":"ベルカー (CR 6)"
+				}
+			}
+		},
+		"Berbalang (CR 6)": {
+			"name": "バーバラン (CR 6)",
+			"pages":{
+				"Berbalang (CR 6)":{
+					"name":"バーバラン (CR 6)"
+				}
+			}
+		},
+		"Bhuta (CR 11)": {
+			"name": "ブータ (CR 11)",
+			"pages":{
+				"Bhuta (CR 11)":{
+					"name":"ブータ (CR 11)"
+				}
+			}
+		},
+		"Bison (CR 4)": {
+			"name": "バイソン (CR 4)",
+			"pages":{
+				"Bison (CR 4)":{
+					"name":"バイソン (CR 4)"
+				}
+			}
+		},
+		"Black Pudding (CR 7)": {
+			"name": "ブラック・プディング (CR 7)",
+			"pages":{
+				"Black Pudding (CR 7)":{
+					"name":"ブラック・プディング (CR 7)"
+				}
+			}
+		},
+		"Black Scorpion (CR 15)": {
+			"name": "ブラック・スコーピオン (CR 15)",
+			"pages":{
+				"Black Scorpion (CR 15)":{
+					"name":"ブラック・スコーピオン (CR 15)"
+				}
+			}
+		},
+		"Blindheim (CR 2)": {
+			"name": "ブラインドハイム (CR 2)",
+			"pages":{
+				"Blindheim (CR 2)":{
+					"name":"ブラインドハイム (CR 2)"
+				}
+			}
+		},
+		"Blink Dog (CR 2)": {
+			"name": "ブリンク・ドッグ (CR 2)",
+			"pages":{
+				"Blink Dog (CR 2)":{
+					"name":"ブリンク・ドッグ (CR 2)"
+				}
+			}
+		},
+		"Boar (CR 2)": {
+			"name": "ボア (CR 2)",
+			"pages":{
+				"Boar (CR 2)":{
+					"name":"ボア (CR 2)"
+				}
+			}
+		},
+		"Bodak (CR 8)": {
+			"name": "ボダック (CR 8)",
+			"pages":{
+				"Bodak (CR 8)":{
+					"name":"ボダック (CR 8)"
+				}
+			}
+		},
+		"Bogeyman (CR 10)": {
+			"name": "ブギーマン (CR 10)",
+			"pages":{
+				"Bogeyman (CR 10)":{
+					"name":"ブギーマン (CR 10)"
+				}
+			}
+		},
+		"Boggard (CR 2)": {
+			"name": "ボガード (CR 2)",
+			"pages":{
+				"Boggard (CR 2)":{
+					"name":"ボガード (CR 2)"
+				}
+			}
+		},
+		"Bone Devil (CR 9)": {
+			"name": "ボーン・デヴィル (CR 9)",
+			"pages":{
+				"Bone Devil (CR 9)":{
+					"name":"ボーン・デヴィル (CR 9)"
+				}
+			}
+		},
+		"Bone Golem (CR 8)": {
+			"name": "ボーン・ゴーレム (CR 8)",
+			"pages":{
+				"Bone Golem (CR 8)":{
+					"name":"ボーン・ゴーレム (CR 8)"
+				}
+			}
+		},
+		"Brachiosaurus (CR 10)": {
+			"name": "ブラキオサウルス (CR 10)",
+			"pages":{
+				"Brachiosaurus (CR 10)":{
+					"name":"ブラキオサウルス (CR 10)"
+				}
+			}
+		},
+		"Brain Ooze (CR 7)": {
+			"name": "ブレイン・ウーズ (CR 7)",
+			"pages":{
+				"Brain Ooze (CR 7)":{
+					"name":"ブレイン・ウーズ (CR 7)"
+				}
+			}
+		},
+		"Bralani Azata (CR 6)": {
+			"name": "ブララニ (CR 6)",
+			"pages":{
+				"Bralani Azata (CR 6)":{
+					"name":"ブララニ (CR 6)"
+				}
+			}
+		},
+		"Brass Golem (CR 14)": {
+			"name": "ブラス・ゴーレム (CR 14)",
+			"pages":{
+				"Brass Golem (CR 14)":{
+					"name":"ブラス・ゴーレム (CR 14)"
+				}
+			}
+		},
+		"Brijidine (CR 17)": {
+			"name": "ブリジディーン (CR 17)",
+			"pages":{
+				"Brijidine (CR 17)":{
+					"name":"ブリジディーン (CR 17)"
+				}
+			}
+		},
+		"Brownie (CR 1)": {
+			"name": "ブラウニィ (CR 1)",
+			"pages":{
+				"Brownie (CR 1)":{
+					"name":"ブラウニィ (CR 1)"
+				}
+			}
+		},
+		"Bugbear (CR 2)": {
+			"name": "バグベア (CR 2)",
+			"pages":{
+				"Bugbear (CR 2)":{
+					"name":"バグベア (CR 2)"
+				}
+			}
+		},
+		"Bulette (CR 7)": {
+			"name": "ブレイ (CR 7)",
+			"pages":{
+				"Bulette (CR 7)":{
+					"name":"ブレイ (CR 7)"
+				}
+			}
+		},
+		"Bunyip (CR 3)": {
+			"name": "バニップ (CR 3)",
+			"pages":{
+				"Bunyip (CR 3)":{
+					"name":"バニップ (CR 3)"
+				}
+			}
+		},
+		"Bythos (CR 16)": {
+			"name": "ビューソス (CR 16)",
+			"pages":{
+				"Bythos (CR 16)":{
+					"name":"ビューソス (CR 16)"
+				}
+			}
+		},
+		"Cacodaemon (CR 2)": {
+			"name": "カコダイモン (CR 2)",
+			"pages":{
+				"Cacodaemon (CR 2)":{
+					"name":"カコダイモン (CR 2)"
+				}
+			}
+		},
+		"Cairn Linnorm (CR 18)": {
+			"name": "ケルン・リノーム (CR 18)",
+			"pages":{
+				"Cairn Linnorm (CR 18)":{
+					"name":"ケルン・リノーム (CR 18)"
+				}
+			}
+		},
+		"Camel (CR 1)": {
+			"name": "キャメル (CR 1)",
+			"pages":{
+				"Camel (CR 1)":{
+					"name":"キャメル (CR 1)"
+				}
+			}
+		},
+		"Cannon Golem (CR 15)": {
+			"name": "キャノン・ゴーレム (CR 15)",
+			"pages":{
+				"Cannon Golem (CR 15)":{
+					"name":"キャノン・ゴーレム (CR 15)"
+				}
+			}
+		},
+		"Carbuncle (CR 1)": {
+			"name": "カーバンクル (CR 1)",
+			"pages":{
+				"Carbuncle (CR 1)":{
+					"name":"カーバンクル (CR 1)"
+				}
+			}
+		},
+		"Carnivorous Blob (CR 13)": {
+			"name": "カーニヴァラス・ブラブ (CR 13)",
+			"pages":{
+				"Carnivorous Blob (CR 13)":{
+					"name":"カーニヴァラス・ブラブ (CR 13)"
+				}
+			}
+		},
+		"Carnivorous Crystal (CR 11)": {
+			"name": "カーニヴァラス・クリスタル (CR 11)",
+			"pages":{
+				"Carnivorous Crystal (CR 11)":{
+					"name":"カーニヴァラス・クリスタル (CR 11)"
+				}
+			}
+		},
+		"Carrion Golem (CR 4)": {
+			"name": "キャリオン・ゴーレム (CR 4)",
+			"pages":{
+				"Carrion Golem (CR 4)":{
+					"name":"キャリオン・ゴーレム (CR 4)"
+				}
+			}
+		},
+		"Caryatid Column (CR 3)": {
+			"name": "カリアティード・カラム (CR 3)",
+			"pages":{
+				"Caryatid Column (CR 3)":{
+					"name":"カリアティード・カラム (CR 3)"
+				}
+			}
+		},
+		"Cassisian (CR 2)": {
+			"name": "カッシシアン (CR 2)",
+			"pages":{
+				"Cassisian (CR 2)":{
+					"name":"カッシシアン (CR 2)"
+				}
+			}
+		},
+		"Cat  (CR 0.25)": {
+			"name": "キャット (CR 0.25)",
+			"pages":{
+				"Cat  (CR 0.25)":{
+					"name":"キャット (CR 0.25)"
+				}
+			}
+		},
+		"Cat Lord (ranger 10)": {
+			"name": "キャット・ロード (ranger 10)",
+			"pages":{
+				"Cat Lord (ranger 10)":{
+					"name":"キャット・ロード (ranger 10)"
+				}
+			}
+		},
+		"Catfolk (ranger 1)": {
+			"name": "キャットフォーク (ranger 1)",
+			"pages":{
+				"Catfolk (ranger 1)":{
+					"name":"キャットフォーク (ranger 1)"
+				}
+			}
+		},
+		"Catoblepas (CR 12)": {
+			"name": "カトブレパス (CR 12)",
+			"pages":{
+				"Catoblepas (CR 12)":{
+					"name":"カトブレパス (CR 12)"
+				}
+			}
+		},
+		"Cauchemar (CR 11)": {
+			"name": "コシュマール (CR 11)",
+			"pages":{
+				"Cauchemar (CR 11)":{
+					"name":"コシュマール (CR 11)"
+				}
+			}
+		},
+		"Caulborn (CR 7)": {
+			"name": "コールボーン (CR 7)",
+			"pages":{
+				"Caulborn (CR 7)":{
+					"name":"コールボーン (CR 7)"
+				}
+			}
+		},
+		"Cave Fisher (CR 2)": {
+			"name": "ケイヴ・フィッシャー (CR 2)",
+			"pages":{
+				"Cave Fisher (CR 2)":{
+					"name":"ケイヴ・フィッシャー (CR 2)"
+				}
+			}
+		},
+		"Cave Giant (CR 6)": {
+			"name": "ケイヴ・ジャイアント (CR 6)",
+			"pages":{
+				"Cave Giant (CR 6)":{
+					"name":"ケイヴ・ジャイアント (CR 6)"
+				}
+			}
+		},
+		"Cave Scorpion (CR 1)": {
+			"name": "ケイヴ・スコーピオン (CR 1)",
+			"pages":{
+				"Cave Scorpion (CR 1)":{
+					"name":"ケイヴ・スコーピオン (CR 1)"
+				}
+			}
+		},
+		"Cecaelia (CR 5)": {
+			"name": "シセイリア (CR 5)",
+			"pages":{
+				"Cecaelia (CR 5)":{
+					"name":"シセイリア (CR 5)"
+				}
+			}
+		},
+		"Centaur (CR 3)": {
+			"name": "ケンタウロス (CR 3)",
+			"pages":{
+				"Centaur (CR 3)":{
+					"name":"ケンタウロス (CR 3)"
+				}
+			}
+		},
+		"Centipede Swarm (CR 4)": {
+			"name": "センチピード・スウォーム (CR 4)",
+			"pages":{
+				"Centipede Swarm (CR 4)":{
+					"name":"センチピード・スウォーム (CR 4)"
+				}
+			}
+		},
+		"Ceratioidi (CR 3)": {
+			"name": "セラティオイディ (CR 3)",
+			"pages":{
+				"Ceratioidi (CR 3)":{
+					"name":"セラティオイディ (CR 3)"
+				}
+			}
+		},
+		"Cerberi (CR 6)": {
+			"name": "ケルベロス (CR 6)",
+			"pages":{
+				"Cerberi (CR 6)":{
+					"name":"ケルベロス (CR 6)"
+				}
+			}
+		},
+		"Cerebric Fungus (CR 3)": {
+			"name": "セレブリック・ファンガス (CR 3)",
+			"pages":{
+				"Cerebric Fungus (CR 3)":{
+					"name":"セレブリック・ファンガス (CR 3)"
+				}
+			}
+		},
+		"Cetaceal (CR 15)": {
+			"name": "シタシール (CR 15)",
+			"pages":{
+				"Cetaceal (CR 15)":{
+					"name":"シタシール (CR 15)"
+				}
+			}
+		},
+		"Ceustodaemon (CR 6)": {
+			"name": "クゥストダイモン (CR 6)",
+			"pages":{
+				"Ceustodaemon (CR 6)":{
+					"name":"クゥストダイモン (CR 6)"
+				}
+			}
+		},
+		"Chaos Beast (CR 7)": {
+			"name": "ケイオス・ビースト (CR 7)",
+			"pages":{
+				"Chaos Beast (CR 7)":{
+					"name":"ケイオス・ビースト (CR 7)"
+				}
+			}
+		},
+		"Charda (CR 7)": {
+			"name": "カーダ (CR 7)",
+			"pages":{
+				"Charda (CR 7)":{
+					"name":"カーダ (CR 7)"
+				}
+			}
+		},
+		"Charybdis (CR 13)": {
+			"name": "カリビュディス (CR 13)",
+			"pages":{
+				"Charybdis (CR 13)":{
+					"name":"カリビュディス (CR 13)"
+				}
+			}
+		},
+		"Cheetah (CR 2)": {
+			"name": "チーター (CR 2)",
+			"pages":{
+				"Cheetah (CR 2)":{
+					"name":"チーター (CR 2)"
+				}
+			}
+		},
+		"Chernobue (CR 12)": {
+			"name": "チェアノブー (CR 12)",
+			"pages":{
+				"Chernobue (CR 12)":{
+					"name":"チェアノブー (CR 12)"
+				}
+			}
+		},
+		"Chimera (CR 7)": {
+			"name": "キマイラ (CR 7)",
+			"pages":{
+				"Chimera (CR 7)":{
+					"name":"キマイラ (CR 7)"
+				}
+			}
+		},
+		"Choker (CR 2)": {
+			"name": "チョーカー (CR 2)",
+			"pages":{
+				"Choker (CR 2)":{
+					"name":"チョーカー (CR 2)"
+				}
+			}
+		},
+		"Chupacabra (CR 3)": {
+			"name": "チュパカブラ (CR 3)",
+			"pages":{
+				"Chupacabra (CR 3)":{
+					"name":"チュパカブラ (CR 3)"
+				}
+			}
+		},
+		"Chuul (CR 7)": {
+			"name": "チュール (CR 7)",
+			"pages":{
+				"Chuul (CR 7)":{
+					"name":"チュール (CR 7)"
+				}
+			}
+		},
+		"Clay Golem (CR 10)": {
+			"name": "クレイ・ゴーレム (CR 10)",
+			"pages":{
+				"Clay Golem (CR 10)":{
+					"name":"クレイ・ゴーレム (CR 10)"
+				}
+			}
+		},
+		"Cloaker (CR 5)": {
+			"name": "クローカー (CR 5)",
+			"pages":{
+				"Cloaker (CR 5)":{
+					"name":"クローカー (CR 5)"
+				}
+			}
+		},
+		"Clockwork Golem (CR 12)": {
+			"name": "クロックワーク・ゴーレム (CR 12)",
+			"pages":{
+				"Clockwork Golem (CR 12)":{
+					"name":"クロックワーク・ゴーレム (CR 12)"
+				}
+			}
+		},
+		"Clockwork Goliath (CR 19)": {
+			"name": "クロックワーク・ゴライアス (CR 19)",
+			"pages":{
+				"Clockwork Goliath (CR 19)":{
+					"name":"クロックワーク・ゴライアス (CR 19)"
+				}
+			}
+		},
+		"Clockwork Leviathan (CR 12)": {
+			"name": "クロックワーク・リヴァイアサン (CR 12)",
+			"pages":{
+				"Clockwork Leviathan (CR 12)":{
+					"name":"クロックワーク・リヴァイアサン (CR 12)"
+				}
+			}
+		},
+		"Clockwork Servant (CR 2)": {
+			"name": "クロックワーク・サーヴァント (CR 2)",
+			"pages":{
+				"Clockwork Servant (CR 2)":{
+					"name":"クロックワーク・サーヴァント (CR 2)"
+				}
+			}
+		},
+		"Clockwork Soldier (CR 6)": {
+			"name": "クロックワーク・ソルジャー (CR 6)",
+			"pages":{
+				"Clockwork Soldier (CR 6)":{
+					"name":"クロックワーク・ソルジャー (CR 6)"
+				}
+			}
+		},
+		"Clockwork Spy (CR 0.5)": {
+			"name": "クロックワーク・スパイ (CR 0.5)",
+			"pages":{
+				"Clockwork Spy (CR 0.5)":{
+					"name":"クロックワーク・スパイ (CR 0.5)"
+				}
+			}
+		},
+		"Cloud Giant (CR 11)": {
+			"name": "クラウド・ジャイアント (CR 11)",
+			"pages":{
+				"Cloud Giant (CR 11)":{
+					"name":"クラウド・ジャイアント (CR 11)"
+				}
+			}
+		},
+		"Cockatrice (CR 3)": {
+			"name": "コッカトリス (CR 3)",
+			"pages":{
+				"Cockatrice (CR 3)":{
+					"name":"コッカトリス (CR 3)"
+				}
+			}
+		},
+		"Cockroach Swarm (CR 2)": {
+			"name": "コックローチ・スウォーム (CR 2)",
+			"pages":{
+				"Cockroach Swarm (CR 2)":{
+					"name":"コックローチ・スウォーム (CR 2)"
+				}
+			}
+		},
+		"Cold Rider (CR 8)": {
+			"name": "コールド・ライダー (CR 8)",
+			"pages":{
+				"Cold Rider (CR 8)":{
+					"name":"コールド・ライダー (CR 8)"
+				}
+			}
+		},
+		"Coloxus (CR 12)": {
+			"name": "コロクス (CR 12)",
+			"pages":{
+				"Coloxus (CR 12)":{
+					"name":"コロクス (CR 12)"
+				}
+			}
+		},
+		"Compsognathus (CR 0.5)": {
+			"name": "コンプソグナトゥス (CR 0.5)",
+			"pages":{
+				"Compsognathus (CR 0.5)":{
+					"name":"コンプソグナトゥス (CR 0.5)"
+				}
+			}
+		},
+		"Constrictor Snake (CR 2)": {
+			"name": "コンストリクター・スネーク (CR 2)",
+			"pages":{
+				"Constrictor Snake (CR 2)":{
+					"name":"コンストリクター・スネーク (CR 2)"
+				}
+			}
+		},
+		"Contract Devil (CR 10)": {
+			"name": "コントラクト・デヴィル (CR 10)",
+			"pages":{
+				"Contract Devil (CR 10)":{
+					"name":"コントラクト・デヴィル (CR 10)"
+				}
+			}
+		},
+		"Couatl (CR 10)": {
+			"name": "コアトル (CR 10)",
+			"pages":{
+				"Couatl (CR 10)":{
+					"name":"コアトル (CR 10)"
+				}
+			}
+		},
+		"Crab Swarm (CR 4)": {
+			"name": "クラブ・スウォーム (CR 4)",
+			"pages":{
+				"Crab Swarm (CR 4)":{
+					"name":"クラブ・スウォーム (CR 4)"
+				}
+			}
+		},
+		"Crag Linnorm (CR 14)": {
+			"name": "クラッグ・リノーム (CR 14)",
+			"pages":{
+				"Crag Linnorm (CR 14)":{
+					"name":"クラッグ・リノーム (CR 14)"
+				}
+			}
+		},
+		"Crawling Hand (CR 0.5)": {
+			"name": "クロウリング・ハンド (CR 0.5)",
+			"pages":{
+				"Crawling Hand (CR 0.5)":{
+					"name":"クロウリング・ハンド (CR 0.5)"
+				}
+			}
+		},
+		"Criosphinx (CR 7)": {
+			"name": "クリオスフィンクス (CR 7)",
+			"pages":{
+				"Criosphinx (CR 7)":{
+					"name":"クリオスフィンクス (CR 7)"
+				}
+			}
+		},
+		"Crocodile (CR 2)": {
+			"name": "クロコダイル (CR 2)",
+			"pages":{
+				"Crocodile (CR 2)":{
+					"name":"クロコダイル (CR 2)"
+				}
+			}
+		},
+		"Crucidaemon (CR 15)": {
+			"name": "クルシダイモン (CR 15)",
+			"pages":{
+				"Crucidaemon (CR 15)":{
+					"name":"クルシダイモン (CR 15)"
+				}
+			}
+		},
+		"Crypt Thing (CR 5)": {
+			"name": "クリプト・シング (CR 5)",
+			"pages":{
+				"Crypt Thing (CR 5)":{
+					"name":"クリプト・シング (CR 5)"
+				}
+			}
+		},
+		"Crysmal (CR 3)": {
+			"name": "クリスマル (CR 3)",
+			"pages":{
+				"Crysmal (CR 3)":{
+					"name":"クリスマル (CR 3)"
+				}
+			}
+		},
+		"Cyclops (CR 5)": {
+			"name": "サイクロプス (CR 5)",
+			"pages":{
+				"Cyclops (CR 5)":{
+					"name":"サイクロプス (CR 5)"
+				}
+			}
+		},
+		"Cythnigot (CR 2)": {
+			"name": "シスニゴット (CR 2)",
+			"pages":{
+				"Cythnigot (CR 2)":{
+					"name":"シスニゴット (CR 2)"
+				}
+			}
+		},
+		"D'ziriak (CR 3)": {
+			"name": "ディ・ジーリアク (CR 3)",
+			"pages":{
+				"D'ziriak (CR 3)":{
+					"name":"ディ・ジーリアク (CR 3)"
+				}
+			}
+		},
+		"Dandasuka (CR 5)": {
+			"name": "ダンダスカ (CR 5)",
+			"pages":{
+				"Dandasuka (CR 5)":{
+					"name":"ダンダスカ (CR 5)"
+				}
+			}
+		},
+		"Dark Creeper (CR 2)": {
+			"name": "ダーク・クリーパー (CR 2)",
+			"pages":{
+				"Dark Creeper (CR 2)":{
+					"name":"ダーク・クリーパー (CR 2)"
+				}
+			}
+		},
+		"Dark Naga (CR 8)": {
+			"name": "ダーク・ナーガ (CR 8)",
+			"pages":{
+				"Dark Naga (CR 8)":{
+					"name":"ダーク・ナーガ (CR 8)"
+				}
+			}
+		},
+		"Dark Slayer (CR 3)": {
+			"name": "ダーク・スレイヤー (CR 3)",
+			"pages":{
+				"Dark Slayer (CR 3)":{
+					"name":"ダーク・スレイヤー (CR 3)"
+				}
+			}
+		},
+		"Dark Stalker (CR 4)": {
+			"name": "ダーク・ストーカー (CR 4)",
+			"pages":{
+				"Dark Stalker (CR 4)":{
+					"name":"ダーク・ストーカー (CR 4)"
+				}
+			}
+		},
+		"Darkmantle (CR 1)": {
+			"name": "ダークマントル (CR 1)",
+			"pages":{
+				"Darkmantle (CR 1)":{
+					"name":"ダークマントル (CR 1)"
+				}
+			}
+		},
+		"Deadfall Scorpion (CR 8)": {
+			"name": "デッドフォール・スコーピオン (CR 8)",
+			"pages":{
+				"Deadfall Scorpion (CR 8)":{
+					"name":"デッドフォール・スコーピオン (CR 8)"
+				}
+			}
+		},
+		"Death Worm (CR 6)": {
+			"name": "デス・ワーム (CR 6)",
+			"pages":{
+				"Death Worm (CR 6)":{
+					"name":"デス・ワーム (CR 6)"
+				}
+			}
+		},
+		"Death's Head Jellyfish (CR 1)": {
+			"name": "デスズ・ヘッド・ジェリーフィッシュ (CR 1)",
+			"pages":{
+				"Death's Head Jellyfish (CR 1)":{
+					"name":"デスズ・ヘッド・ジェリーフィッシュ (CR 1)"
+				}
+			}
+		},
+		"Deathtrap Ooze (CR 8)": {
+			"name": "デストラップ・ウーズ (CR 8)",
+			"pages":{
+				"Deathtrap Ooze (CR 8)":{
+					"name":"デストラップ・ウーズ (CR 8)"
+				}
+			}
+		},
+		"Deathweb (CR 6)": {
+			"name": "デスウェブ (CR 6)",
+			"pages":{
+				"Deathweb (CR 6)":{
+					"name":"デスウェブ (CR 6)"
+				}
+			}
+		},
+		"Decapus (CR 4)": {
+			"name": "デカパス (CR 4)",
+			"pages":{
+				"Decapus (CR 4)":{
+					"name":"デカパス (CR 4)"
+				}
+			}
+		},
+		"Deep Sea Serpent (CR 19)": {
+			"name": "ディープ・シー・サーペント (CR 19)",
+			"pages":{
+				"Deep Sea Serpent (CR 19)":{
+					"name":"ディープ・シー・サーペント (CR 19)"
+				}
+			}
+		},
+		"Deinonychus (CR 3)": {
+			"name": "ディノニクス (CR 3)",
+			"pages":{
+				"Deinonychus (CR 3)":{
+					"name":"ディノニクス (CR 3)"
+				}
+			}
+		},
+		"Demilich (CR 14)": {
+			"name": "デミリッチ (CR 14)",
+			"pages":{
+				"Demilich (CR 14)":{
+					"name":"デミリッチ (CR 14)"
+				}
+			}
+		},
+		"Denizen of Leng (CR 8)": {
+			"name": "デナズン・オヴ・レン (CR 8)",
+			"pages":{
+				"Denizen of Leng (CR 8)":{
+					"name":"デナズン・オヴ・レン (CR 8)"
+				}
+			}
+		},
+		"Derghodaemon (CR 12)": {
+			"name": "ダルゴダイモン (CR 12)",
+			"pages":{
+				"Derghodaemon (CR 12)":{
+					"name":"ダルゴダイモン (CR 12)"
+				}
+			}
+		},
+		"Derhii (CR 5)": {
+			"name": "デルヒ (CR 5)",
+			"pages":{
+				"Derhii (CR 5)":{
+					"name":"デルヒ (CR 5)"
+				}
+			}
+		},
+		"Derro (CR 3)": {
+			"name": "デロ (CR 3)",
+			"pages":{
+				"Derro (CR 3)":{
+					"name":"デロ (CR 3)"
+				}
+			}
+		},
+		"Desert Drake (CR 8)": {
+			"name": "デザート・ドレイク (CR 8)",
+			"pages":{
+				"Desert Drake (CR 8)":{
+					"name":"デザート・ドレイク (CR 8)"
+				}
+			}
+		},
+		"Desert Giant (CR 9)": {
+			"name": "デザート・ジャイアント (CR 9)",
+			"pages":{
+				"Desert Giant (CR 9)":{
+					"name":"デザート・ジャイアント (CR 9)"
+				}
+			}
+		},
+		"Destrachan (CR 8)": {
+			"name": "デストラカン (CR 8)",
+			"pages":{
+				"Destrachan (CR 8)":{
+					"name":"デストラカン (CR 8)"
+				}
+			}
+		},
+		"Devil, Handmaiden (CR 14)": {
+			"name": "ハンドメイデン・デヴィル (CR 14)",
+			"pages":{
+				"Devil, Handmaiden (CR 14)":{
+					"name":"ハンドメイデン・デヴィル (CR 14)"
+				}
+			}
+		},
+		"Devilfish (CR 4)": {
+			"name": "デヴィルフィッシュ (CR 4)",
+			"pages":{
+				"Devilfish (CR 4)":{
+					"name":"デヴィルフィッシュ (CR 4)"
+				}
+			}
+		},
+		"Devourer (CR 11)": {
+			"name": "ディヴァウラー (CR 11)",
+			"pages":{
+				"Devourer (CR 11)":{
+					"name":"ディヴァウラー (CR 11)"
+				}
+			}
+		},
+		"Dhampir (fighter 1)": {
+			"name": "ダンピール (fighter 1)",
+			"pages":{
+				"Dhampir (fighter 1)":{
+					"name":"ダンピール (fighter 1)"
+				}
+			}
+		},
+		"Dimetrodon (CR 3)": {
+			"name": "ディメトロドン (CR 3)",
+			"pages":{
+				"Dimetrodon (CR 3)":{
+					"name":"ディメトロドン (CR 3)"
+				}
+			}
+		},
+		"Dire Ape (CR 3)": {
+			"name": "ダイア・エイプ (CR 3)",
+			"pages":{
+				"Dire Ape (CR 3)":{
+					"name":"ダイア・エイプ (CR 3)"
+				}
+			}
+		},
+		"Dire Bat (CR 2)": {
+			"name": "ダイア・バット (CR 2)",
+			"pages":{
+				"Dire Bat (CR 2)":{
+					"name":"ダイア・バット (CR 2)"
+				}
+			}
+		},
+		"Dire Bear (CR 7)": {
+			"name": "ダイア・ベア (CR 7)",
+			"pages":{
+				"Dire Bear (CR 7)":{
+					"name":"ダイア・ベア (CR 7)"
+				}
+			}
+		},
+		"Dire Boar (CR 4)": {
+			"name": "ダイア・ボア (CR 4)",
+			"pages":{
+				"Dire Boar (CR 4)":{
+					"name":"ダイア・ボア (CR 4)"
+				}
+			}
+		},
+		"Dire Corby (CR 1)": {
+			"name": "ダイア・コルビー (CR 1)",
+			"pages":{
+				"Dire Corby (CR 1)":{
+					"name":"ダイア・コルビー (CR 1)"
+				}
+			}
+		},
+		"Dire Crocodile (CR 9)": {
+			"name": "ダイア・クロコダイル (CR 9)",
+			"pages":{
+				"Dire Crocodile (CR 9)":{
+					"name":"ダイア・クロコダイル (CR 9)"
+				}
+			}
+		},
+		"Dire Hyena (CR 3)": {
+			"name": "ダイア・ハイエナ (CR 3)",
+			"pages":{
+				"Dire Hyena (CR 3)":{
+					"name":"ダイア・ハイエナ (CR 3)"
+				}
+			}
+		},
+		"Dire Lion (CR 5)": {
+			"name": "ダイア・ライオン (CR 5)",
+			"pages":{
+				"Dire Lion (CR 5)":{
+					"name":"ダイア・ライオン (CR 5)"
+				}
+			}
+		},
+		"Dire Rat (CR 0.33)": {
+			"name": "ダイア・ラット (CR 0.33)",
+			"pages":{
+				"Dire Rat (CR 0.33)":{
+					"name":"ダイア・ラット (CR 0.33)"
+				}
+			}
+		},
+		"Dire Shark (Megalodon) (CR 9)": {
+			"name": "ダイア・シャーク（メガロドン） (CR 9)",
+			"pages":{
+				"Dire Shark (Megalodon) (CR 9)":{
+					"name":"ダイア・シャーク（メガロドン） (CR 9)"
+				}
+			}
+		},
+		"Dire Tiger (CR 8)": {
+			"name": "ダイア・タイガー (CR 8)",
+			"pages":{
+				"Dire Tiger (CR 8)":{
+					"name":"ダイア・タイガー (CR 8)"
+				}
+			}
+		},
+		"Dire Wolf (CR 3)": {
+			"name": "ダイア・ウルフ (CR 3)",
+			"pages":{
+				"Dire Wolf (CR 3)":{
+					"name":"ダイア・ウルフ (CR 3)"
+				}
+			}
+		},
+		"Dire Wolverine (CR 4)": {
+			"name": "ダイア・ウルヴァリン (CR 4)",
+			"pages":{
+				"Dire Wolverine (CR 4)":{
+					"name":"ダイア・ウルヴァリン (CR 4)"
+				}
+			}
+		},
+		"Disenchanter (CR 3)": {
+			"name": "ディセンチャンター (CR 3)",
+			"pages":{
+				"Disenchanter (CR 3)":{
+					"name":"ディセンチャンター (CR 3)"
+				}
+			}
+		},
+		"Djinni (CR 5)": {
+			"name": "ジン (CR 5)",
+			"pages":{
+				"Djinni (CR 5)":{
+					"name":"ジン (CR 5)"
+				}
+			}
+		},
+		"Dog (CR 0.33)": {
+			"name": "ドッグ (CR 0.33)",
+			"pages":{
+				"Dog (CR 0.33)":{
+					"name":"ドッグ (CR 0.33)"
+				}
+			}
+		},
+		"Dolphin (CR 0.5)": {
+			"name": "ドルフィン (CR 0.5)",
+			"pages":{
+				"Dolphin (CR 0.5)":{
+					"name":"ドルフィン (CR 0.5)"
+				}
+			}
+		},
+		"Doppelganger (CR 3)": {
+			"name": "ドッペルゲンガー (CR 3)",
+			"pages":{
+				"Doppelganger (CR 3)":{
+					"name":"ドッペルゲンガー (CR 3)"
+				}
+			}
+		},
+		"Doru (CR 2)": {
+			"name": "ドル (CR 2)",
+			"pages":{
+				"Doru (CR 2)":{
+					"name":"ドル (CR 2)"
+				}
+			}
+		},
+		"Dracolisk (CR 7)": {
+			"name": "ドラコリスク (CR 7)",
+			"pages":{
+				"Dracolisk (CR 7)":{
+					"name":"ドラコリスク (CR 7)"
+				}
+			}
+		},
+		"Draconal (CR 20)": {
+			"name": "ドラコナル (CR 20)",
+			"pages":{
+				"Draconal (CR 20)":{
+					"name":"ドラコナル (CR 20)"
+				}
+			}
+		},
+		"Dragon Horse (CR 9)": {
+			"name": "ドラゴン・ホース (CR 9)",
+			"pages":{
+				"Dragon Horse (CR 9)":{
+					"name":"ドラゴン・ホース (CR 9)"
+				}
+			}
+		},
+		"Dragon Turtle (CR 9)": {
+			"name": "ドラゴン・タートル (CR 9)",
+			"pages":{
+				"Dragon Turtle (CR 9)":{
+					"name":"ドラゴン・タートル (CR 9)"
+				}
+			}
+		},
+		"Dragonne (CR 7)": {
+			"name": "ドラゴンヌ (CR 7)",
+			"pages":{
+				"Dragonne (CR 7)":{
+					"name":"ドラゴンヌ (CR 7)"
+				}
+			}
+		},
+		"Draugr (CR 2)": {
+			"name": "ドラウグル (CR 2)",
+			"pages":{
+				"Draugr (CR 2)":{
+					"name":"ドラウグル (CR 2)"
+				}
+			}
+		},
+		"Dretch (CR 2)": {
+			"name": "ドレッチ (CR 2)",
+			"pages":{
+				"Dretch (CR 2)":{
+					"name":"ドレッチ (CR 2)"
+				}
+			}
+		},
+		"Drider (CR 7)": {
+			"name": "ドライダー (CR 7)",
+			"pages":{
+				"Drider (CR 7)":{
+					"name":"ドライダー (CR 7)"
+				}
+			}
+		},
+		"Drow (warrior 1)": {
+			"name": "ドラウ (warrior 1)",
+			"pages":{
+				"Drow (warrior 1)":{
+					"name":"ドラウ (warrior 1)"
+				}
+			}
+		},
+		"Drow Noble (cleric 3)": {
+			"name": "ドラウの貴族 (cleric 3)",
+			"pages":{
+				"Drow Noble (cleric 3)":{
+					"name":"ドラウの貴族 (cleric 3)"
+				}
+			}
+		},
+		"Dryad (CR 3)": {
+			"name": "ドライアド (CR 3)",
+			"pages":{
+				"Dryad (CR 3)":{
+					"name":"ドライアド (CR 3)"
+				}
+			}
+		},
+		"Duergar (warrior 1)": {
+			"name": "ドゥエルガル (warrior 1)",
+			"pages":{
+				"Duergar (warrior 1)":{
+					"name":"ドゥエルガル (warrior 1)"
+				}
+			}
+		},
+		"Dullahan (CR 7)": {
+			"name": "デュラハン (CR 7)",
+			"pages":{
+				"Dullahan (CR 7)":{
+					"name":"デュラハン (CR 7)"
+				}
+			}
+		},
+		"Dust Digger (CR 4)": {
+			"name": "ダスト・ディガー (CR 4)",
+			"pages":{
+				"Dust Digger (CR 4)":{
+					"name":"ダスト・ディガー (CR 4)"
+				}
+			}
+		},
+		"Dust Mephit (CR 3)": {
+			"name": "ダスト・メフィット (CR 3)",
+			"pages":{
+				"Dust Mephit (CR 3)":{
+					"name":"ダスト・メフィット (CR 3)"
+				}
+			}
+		},
+		"Dybbuk (CR 15)": {
+			"name": "ディビューク (CR 15)",
+			"pages":{
+				"Dybbuk (CR 15)":{
+					"name":"ディビューク (CR 15)"
+				}
+			}
+		},
+		"Eagle (CR 0.5)": {
+			"name": "イーグル (CR 0.5)",
+			"pages":{
+				"Eagle (CR 0.5)":{
+					"name":"イーグル (CR 0.5)"
+				}
+			}
+		},
+		"Earth Mephit (CR 3)": {
+			"name": "アース・メフィット (CR 3)",
+			"pages":{
+				"Earth Mephit (CR 3)":{
+					"name":"アース・メフィット (CR 3)"
+				}
+			}
+		},
+		"Ecorche (CR 16)": {
+			"name": "エコルシェ (CR 16)",
+			"pages":{
+				"Ecorche (CR 16)":{
+					"name":"エコルシェ (CR 16)"
+				}
+			}
+		},
+		"Efreeti (CR 8)": {
+			"name": "イフリート (CR 8)",
+			"pages":{
+				"Efreeti (CR 8)":{
+					"name":"イフリート (CR 8)"
+				}
+			}
+		},
+		"Elasmosaurus (CR 7)": {
+			"name": "エラスモサウルス (CR 7)",
+			"pages":{
+				"Elasmosaurus (CR 7)":{
+					"name":"エラスモサウルス (CR 7)"
+				}
+			}
+		},
+		"Elder Air Elemental (CR 11)": {
+			"name": "エルダー・エア・エレメンタル (CR 11)",
+			"pages":{
+				"Elder Air Elemental (CR 11)":{
+					"name":"エルダー・エア・エレメンタル (CR 11)"
+				}
+			}
+		},
+		"Elder Earth Elemental (CR 11)": {
+			"name": "エルダー・アース・エレメンタル (CR 11)",
+			"pages":{
+				"Elder Earth Elemental (CR 11)":{
+					"name":"エルダー・アース・エレメンタル (CR 11)"
+				}
+			}
+		},
+		"Elder Fire Elemental (CR 11)": {
+			"name": "エルダー・ファイアー・エレメンタル (CR 11)",
+			"pages":{
+				"Elder Fire Elemental (CR 11)":{
+					"name":"エルダー・ファイアー・エレメンタル (CR 11)"
+				}
+			}
+		},
+		"Elder Ice Elemental (CR 11)": {
+			"name": "エルダー・アイス・エレメンタル (CR 11)",
+			"pages":{
+				"Elder Ice Elemental (CR 11)":{
+					"name":"エルダー・アイス・エレメンタル (CR 11)"
+				}
+			}
+		},
+		"Elder Lightning Elemental (CR 11)": {
+			"name": "エルダー・ライトニング・エレメンタル (CR 11)",
+			"pages":{
+				"Elder Lightning Elemental (CR 11)":{
+					"name":"エルダー・ライトニング・エレメンタル (CR 11)"
+				}
+			}
+		},
+		"Elder Magma Elemental (CR 11)": {
+			"name": "エルダー・マグマ・エレメンタル (CR 11)",
+			"pages":{
+				"Elder Magma Elemental (CR 11)":{
+					"name":"エルダー・マグマ・エレメンタル (CR 11)"
+				}
+			}
+		},
+		"Elder Mud Elemental (CR 11)": {
+			"name": "エルダー・マッド・エレメンタル (CR 11)",
+			"pages":{
+				"Elder Mud Elemental (CR 11)":{
+					"name":"エルダー・マッド・エレメンタル (CR 11)"
+				}
+			}
+		},
+		"Elder Water Elemental (CR 11)": {
+			"name": "エルダー・ウォーター・エレメンタル (CR 11)",
+			"pages":{
+				"Elder Water Elemental (CR 11)":{
+					"name":"エルダー・ウォーター・エレメンタル (CR 11)"
+				}
+			}
+		},
+		"Electric Eel (CR 2)": {
+			"name": "エレクトリック・イール (CR 2)",
+			"pages":{
+				"Electric Eel (CR 2)":{
+					"name":"エレクトリック・イール (CR 2)"
+				}
+			}
+		},
+		"Elephant (CR 7)": {
+			"name": "エレファント (CR 7)",
+			"pages":{
+				"Elephant (CR 7)":{
+					"name":"エレファント (CR 7)"
+				}
+			}
+		},
+		"Elk (CR 1)": {
+			"name": "エルク (CR 1)",
+			"pages":{
+				"Elk (CR 1)":{
+					"name":"エルク (CR 1)"
+				}
+			}
+		},
+		"Elysian Titan (CR 21)": {
+			"name": "エリシアン・ティタン (CR 21)",
+			"pages":{
+				"Elysian Titan (CR 21)":{
+					"name":"エリシアン・ティタン (CR 21)"
+				}
+			}
+		},
+		"Emperor Cobra (CR 5)": {
+			"name": "エンペラー・コブラ (CR 5)",
+			"pages":{
+				"Emperor Cobra (CR 5)":{
+					"name":"エンペラー・コブラ (CR 5)"
+				}
+			}
+		},
+		"Eremite Kyton (CR 20)": {
+			"name": "エレマイト (CR 20)",
+			"pages":{
+				"Eremite Kyton (CR 20)":{
+					"name":"エレマイト (CR 20)"
+				}
+			}
+		},
+		"Erinyes Devil (CR 8)": {
+			"name": "エリニュス (CR 8)",
+			"pages":{
+				"Erinyes Devil (CR 8)":{
+					"name":"エリニュス (CR 8)"
+				}
+			}
+		},
+		"Ettercap (CR 3)": {
+			"name": "エターキャップ (CR 3)",
+			"pages":{
+				"Ettercap (CR 3)":{
+					"name":"エターキャップ (CR 3)"
+				}
+			}
+		},
+		"Ettin (CR 6)": {
+			"name": "エティン (CR 6)",
+			"pages":{
+				"Ettin (CR 6)":{
+					"name":"エティン (CR 6)"
+				}
+			}
+		},
+		"Faceless Stalker (CR 4)": {
+			"name": "フェイスレス・ストーカー (CR 4)",
+			"pages":{
+				"Faceless Stalker (CR 4)":{
+					"name":"フェイスレス・ストーカー (CR 4)"
+				}
+			}
+		},
+		"Faerie Dragon (CR 2)": {
+			"name": "フェアリー・ドラゴン (CR 2)",
+			"pages":{
+				"Faerie Dragon (CR 2)":{
+					"name":"フェアリー・ドラゴン (CR 2)"
+				}
+			}
+		},
+		"Faun (CR 1)": {
+			"name": "ファウヌス (CR 1)",
+			"pages":{
+				"Faun (CR 1)":{
+					"name":"ファウヌス (CR 1)"
+				}
+			}
+		},
+		"Festrog (CR 1)": {
+			"name": "フェストラーゴ (CR 1)",
+			"pages":{
+				"Festrog (CR 1)":{
+					"name":"フェストラーゴ (CR 1)"
+				}
+			}
+		},
+		"Fetchling (rogue 1)": {
+			"name": "フェッチリング (rogue 1)",
+			"pages":{
+				"Fetchling (rogue 1)":{
+					"name":"フェッチリング (rogue 1)"
+				}
+			}
+		},
+		"Fey Giant Toad (CR 3)": {
+			"name": "フェイ・ジャイアント・トード (CR 3)",
+			"pages":{
+				"Fey Giant Toad (CR 3)":{
+					"name":"フェイ・ジャイアント・トード (CR 3)"
+				}
+			}
+		},
+		"Fire Beetle (CR 0.33)": {
+			"name": "ファイアー・ビートル (CR 0.33)",
+			"pages":{
+				"Fire Beetle (CR 0.33)":{
+					"name":"ファイアー・ビートル (CR 0.33)"
+				}
+			}
+		},
+		"Fire Giant (CR 10)": {
+			"name": "ファイアー・ジャイアント (CR 10)",
+			"pages":{
+				"Fire Giant (CR 10)":{
+					"name":"ファイアー・ジャイアント (CR 10)"
+				}
+			}
+		},
+		"Fire Mephit (CR 3)": {
+			"name": "ファイアー・メフィット (CR 3)",
+			"pages":{
+				"Fire Mephit (CR 3)":{
+					"name":"ファイアー・メフィット (CR 3)"
+				}
+			}
+		},
+		"Fire Yai (CR 15)": {
+			"name": "ファイアー・ヤイ (CR 15)",
+			"pages":{
+				"Fire Yai (CR 15)":{
+					"name":"ファイアー・ヤイ (CR 15)"
+				}
+			}
+		},
+		"Fjord Linnorm (CR 16)": {
+			"name": "フィヨルド・リノーム (CR 16)",
+			"pages":{
+				"Fjord Linnorm (CR 16)":{
+					"name":"フィヨルド・リノーム (CR 16)"
+				}
+			}
+		},
+		"Flail Snail (CR 4)": {
+			"name": "フレイル・スネイル (CR 4)",
+			"pages":{
+				"Flail Snail (CR 4)":{
+					"name":"フレイル・スネイル (CR 4)"
+				}
+			}
+		},
+		"Flame Drake (CR 5)": {
+			"name": "フレイム・ドレイク (CR 5)",
+			"pages":{
+				"Flame Drake (CR 5)":{
+					"name":"フレイム・ドレイク (CR 5)"
+				}
+			}
+		},
+		"Flesh Golem (CR 7)": {
+			"name": "フレッシュ・ゴーレム (CR 7)",
+			"pages":{
+				"Flesh Golem (CR 7)":{
+					"name":"フレッシュ・ゴーレム (CR 7)"
+				}
+			}
+		},
+		"Flumph (CR 1)": {
+			"name": "フランフ (CR 1)",
+			"pages":{
+				"Flumph (CR 1)":{
+					"name":"フランフ (CR 1)"
+				}
+			}
+		},
+		"Flying Squirrel (CR 0.33)": {
+			"name": "フライング・スクワール (CR 0.33)",
+			"pages":{
+				"Flying Squirrel (CR 0.33)":{
+					"name":"フライング・スクワール (CR 0.33)"
+				}
+			}
+		},
+		"Foo Dog (CR 2)": {
+			"name": "フー・ドッグ (CR 2)",
+			"pages":{
+				"Foo Dog (CR 2)":{
+					"name":"フー・ドッグ (CR 2)"
+				}
+			}
+		},
+		"Foo Lion (CR 4)": {
+			"name": "フー・ライオン (CR 4)",
+			"pages":{
+				"Foo Lion (CR 4)":{
+					"name":"フー・ライオン (CR 4)"
+				}
+			}
+		},
+		"Forest Drake (CR 4)": {
+			"name": "フォレスト・ドレイク (CR 4)",
+			"pages":{
+				"Forest Drake (CR 4)":{
+					"name":"フォレスト・ドレイク (CR 4)"
+				}
+			}
+		},
+		"Forlarren (CR 2)": {
+			"name": "フォーラーレン (CR 2)",
+			"pages":{
+				"Forlarren (CR 2)":{
+					"name":"フォーラーレン (CR 2)"
+				}
+			}
+		},
+		"Fossil Golem (CR 12)": {
+			"name": "フォッシル・ゴーレム (CR 12)",
+			"pages":{
+				"Fossil Golem (CR 12)":{
+					"name":"フォッシル・ゴーレム (CR 12)"
+				}
+			}
+		},
+		"Fox (CR 0.25)": {
+			"name": "フォックス (CR 0.25)",
+			"pages":{
+				"Fox (CR 0.25)":{
+					"name":"フォックス (CR 0.25)"
+				}
+			}
+		},
+		"Freshwater Merrow (CR 3)": {
+			"name": "フレッシュウォーター・メロウ (CR 3)",
+			"pages":{
+				"Freshwater Merrow (CR 3)":{
+					"name":"フレッシュウォーター・メロウ (CR 3)"
+				}
+			}
+		},
+		"Froghemoth (CR 13)": {
+			"name": "フロフェモス (CR 13)",
+			"pages":{
+				"Froghemoth (CR 13)":{
+					"name":"フロフェモス (CR 13)"
+				}
+			}
+		},
+		"Frost Drake (CR 7)": {
+			"name": "フロスト・ドレイク (CR 7)",
+			"pages":{
+				"Frost Drake (CR 7)":{
+					"name":"フロスト・ドレイク (CR 7)"
+				}
+			}
+		},
+		"Frost Giant (CR 9)": {
+			"name": "フロスト・ジャイアント (CR 9)",
+			"pages":{
+				"Frost Giant (CR 9)":{
+					"name":"フロスト・ジャイアント (CR 9)"
+				}
+			}
+		},
+		"Frost Wight (CR 4)": {
+			"name": "フロスト・ワイト (CR 4)",
+			"pages":{
+				"Frost Wight (CR 4)":{
+					"name":"フロスト・ワイト (CR 4)"
+				}
+			}
+		},
+		"Frost Worm (CR 12)": {
+			"name": "フロスト・ワーム (CR 12)",
+			"pages":{
+				"Frost Worm (CR 12)":{
+					"name":"フロスト・ワーム (CR 12)"
+				}
+			}
+		},
+		"Fuath (CR 1)": {
+			"name": "フーア (CR 1)",
+			"pages":{
+				"Fuath (CR 1)":{
+					"name":"フーア (CR 1)"
+				}
+			}
+		},
+		"Fungal Crawler (CR 3)": {
+			"name": "ファングル・クロウラー (CR 3)",
+			"pages":{
+				"Fungal Crawler (CR 3)":{
+					"name":"ファングル・クロウラー (CR 3)"
+				}
+			}
+		},
+		"Fungus Leshy (CR 2)": {
+			"name": "ファンガス・レーシー (CR 2)",
+			"pages":{
+				"Fungus Leshy (CR 2)":{
+					"name":"ファンガス・レーシー (CR 2)"
+				}
+			}
+		},
+		"Gar (CR 1)": {
+			"name": "ガー (CR 1)",
+			"pages":{
+				"Gar (CR 1)":{
+					"name":"ガー (CR 1)"
+				}
+			}
+		},
+		"Garden Ooze (CR 2)": {
+			"name": "ガーデン・ウーズ (CR 2)",
+			"pages":{
+				"Garden Ooze (CR 2)":{
+					"name":"ガーデン・ウーズ (CR 2)"
+				}
+			}
+		},
+		"Gargoyle (CR 4)": {
+			"name": "ガーゴイル (CR 4)",
+			"pages":{
+				"Gargoyle (CR 4)":{
+					"name":"ガーゴイル (CR 4)"
+				}
+			}
+		},
+		"Garuda (CR 9)": {
+			"name": "ガルーダ (CR 9)",
+			"pages":{
+				"Garuda (CR 9)":{
+					"name":"ガルーダ (CR 9)"
+				}
+			}
+		},
+		"Gelatinous Cube (CR 3)": {
+			"name": "ゼラチナス・キューブ (CR 3)",
+			"pages":{
+				"Gelatinous Cube (CR 3)":{
+					"name":"ゼラチナス・キューブ (CR 3)"
+				}
+			}
+		},
+		"Ghaele Azata (CR 13)": {
+			"name": "ガエル (CR 13)",
+			"pages":{
+				"Ghaele Azata (CR 13)":{
+					"name":"ガエル (CR 13)"
+				}
+			}
+		},
+		"Ghawwas (CR 10)": {
+			"name": "ガウワス (CR 10)",
+			"pages":{
+				"Ghawwas (CR 10)":{
+					"name":"ガウワス (CR 10)"
+				}
+			}
+		},
+		"Ghorazagh (CR 13)": {
+			"name": "ゴラザグ (CR 13)",
+			"pages":{
+				"Ghorazagh (CR 13)":{
+					"name":"ゴラザグ (CR 13)"
+				}
+			}
+		},
+		"Ghost (aristocrat 7)": {
+			"name": "ゴースト (aristocrat 7)",
+			"pages":{
+				"Ghost (aristocrat 7)":{
+					"name":"ゴースト (aristocrat 7)"
+				}
+			}
+		},
+		"Ghost Scorpion (CR 0.5)": {
+			"name": "ゴースト・スコーピオン (CR 0.5)",
+			"pages":{
+				"Ghost Scorpion (CR 0.5)":{
+					"name":"ゴースト・スコーピオン (CR 0.5)"
+				}
+			}
+		},
+		"Ghoul (CR 1)": {
+			"name": "グール (CR 1)",
+			"pages":{
+				"Ghoul (CR 1)":{
+					"name":"グール (CR 1)"
+				}
+			}
+		},
+		"Ghul (CR 5)": {
+			"name": "グル (CR 5)",
+			"pages":{
+				"Ghul (CR 5)":{
+					"name":"グル (CR 5)"
+				}
+			}
+		},
+		"Giant Adult Ant Lion (CR 6)": {
+			"name": "ジャイアント・アダルト・アント・ライオン (CR 6)",
+			"pages":{
+				"Giant Adult Ant Lion (CR 6)":{
+					"name":"ジャイアント・アダルト・アント・ライオン (CR 6)"
+				}
+			}
+		},
+		"Giant Anaconda (CR 10)": {
+			"name": "ジャイアント・アナコンダ (CR 10)",
+			"pages":{
+				"Giant Anaconda (CR 10)":{
+					"name":"ジャイアント・アナコンダ (CR 10)"
+				}
+			}
+		},
+		"Giant Ant (CR 2)": {
+			"name": "ジャイアント・アント (CR 2)",
+			"pages":{
+				"Giant Ant (CR 2)":{
+					"name":"ジャイアント・アント (CR 2)"
+				}
+			}
+		},
+		"Giant Ant Lion (CR 5)": {
+			"name": "ジャイアント・アント・ライオン (CR 5)",
+			"pages":{
+				"Giant Ant Lion (CR 5)":{
+					"name":"ジャイアント・アント・ライオン (CR 5)"
+				}
+			}
+		},
+		"Giant Bee (CR 1)": {
+			"name": "ジャイアント・ビー (CR 1)",
+			"pages":{
+				"Giant Bee (CR 1)":{
+					"name":"ジャイアント・ビー (CR 1)"
+				}
+			}
+		},
+		"Giant Black Widow Spider (CR 3)": {
+			"name": "ジャイアント・ブラック・ウィドウ・スパイダー (CR 3)",
+			"pages":{
+				"Giant Black Widow Spider (CR 3)":{
+					"name":"ジャイアント・ブラック・ウィドウ・スパイダー (CR 3)"
+				}
+			}
+		},
+		"Giant Centipede (CR 0.5)": {
+			"name": "ジャイアント・センチピード (CR 0.5)",
+			"pages":{
+				"Giant Centipede (CR 0.5)":{
+					"name":"ジャイアント・センチピード (CR 0.5)"
+				}
+			}
+		},
+		"Giant Chameleon (CR 3)": {
+			"name": "ジャイアント・カメレオン (CR 3)",
+			"pages":{
+				"Giant Chameleon (CR 3)":{
+					"name":"ジャイアント・カメレオン (CR 3)"
+				}
+			}
+		},
+		"Giant Cockroach (CR 0.5)": {
+			"name": "ジャイアント・コックローチ (CR 0.5)",
+			"pages":{
+				"Giant Cockroach (CR 0.5)":{
+					"name":"ジャイアント・コックローチ (CR 0.5)"
+				}
+			}
+		},
+		"Giant Crab (CR 2)": {
+			"name": "ジャイアント・クラブ (CR 2)",
+			"pages":{
+				"Giant Crab (CR 2)":{
+					"name":"ジャイアント・クラブ (CR 2)"
+				}
+			}
+		},
+		"Giant Crab Spider (CR 0.5)": {
+			"name": "ジャイアント・クラブ・スパイダー (CR 0.5)",
+			"pages":{
+				"Giant Crab Spider (CR 0.5)":{
+					"name":"ジャイアント・クラブ・スパイダー (CR 0.5)"
+				}
+			}
+		},
+		"Giant Crawling Hand (CR 5)": {
+			"name": "ジャイアント・クロウリング・ハンド (CR 5)",
+			"pages":{
+				"Giant Crawling Hand (CR 5)":{
+					"name":"ジャイアント・クロウリング・ハンド (CR 5)"
+				}
+			}
+		},
+		"Giant Dragonfly (CR 4)": {
+			"name": "ジャイアント・ドラゴンフライ (CR 4)",
+			"pages":{
+				"Giant Dragonfly (CR 4)":{
+					"name":"ジャイアント・ドラゴンフライ (CR 4)"
+				}
+			}
+		},
+		"Giant Dragonfly Nymph (CR 3)": {
+			"name": "ジャイアント・ドラゴンフライ・ニンフ (CR 3)",
+			"pages":{
+				"Giant Dragonfly Nymph (CR 3)":{
+					"name":"ジャイアント・ドラゴンフライ・ニンフ (CR 3)"
+				}
+			}
+		},
+		"Giant Eagle (CR 3)": {
+			"name": "ジャイアント・イーグル (CR 3)",
+			"pages":{
+				"Giant Eagle (CR 3)":{
+					"name":"ジャイアント・イーグル (CR 3)"
+				}
+			}
+		},
+		"Giant Fly (CR 1)": {
+			"name": "ジャイアント・フライ (CR 1)",
+			"pages":{
+				"Giant Fly (CR 1)":{
+					"name":"ジャイアント・フライ (CR 1)"
+				}
+			}
+		},
+		"Giant Flytrap (CR 10)": {
+			"name": "ジャイアント・フライトラップ (CR 10)",
+			"pages":{
+				"Giant Flytrap (CR 10)":{
+					"name":"ジャイアント・フライトラップ (CR 10)"
+				}
+			}
+		},
+		"Giant Frilled Lizard (CR 5)": {
+			"name": "ジャイアント・フリルド・リザード (CR 5)",
+			"pages":{
+				"Giant Frilled Lizard (CR 5)":{
+					"name":"ジャイアント・フリルド・リザード (CR 5)"
+				}
+			}
+		},
+		"Giant Frog (CR 1)": {
+			"name": "ジャイアント・フロッグ (CR 1)",
+			"pages":{
+				"Giant Frog (CR 1)":{
+					"name":"ジャイアント・フロッグ (CR 1)"
+				}
+			}
+		},
+		"Giant Gar (CR 6)": {
+			"name": "ジャイアント・ガー (CR 6)",
+			"pages":{
+				"Giant Gar (CR 6)":{
+					"name":"ジャイアント・ガー (CR 6)"
+				}
+			}
+		},
+		"Giant Gecko (CR 1)": {
+			"name": "ジャイアント・ゲッコウ (CR 1)",
+			"pages":{
+				"Giant Gecko (CR 1)":{
+					"name":"ジャイアント・ゲッコウ (CR 1)"
+				}
+			}
+		},
+		"Giant Jellyfish (CR 7)": {
+			"name": "ジャイアント・ジェリーフィッシュ (CR 7)",
+			"pages":{
+				"Giant Jellyfish (CR 7)":{
+					"name":"ジャイアント・ジェリーフィッシュ (CR 7)"
+				}
+			}
+		},
+		"Giant Leech (CR 2)": {
+			"name": "ジャイアント・リーチ (CR 2)",
+			"pages":{
+				"Giant Leech (CR 2)":{
+					"name":"ジャイアント・リーチ (CR 2)"
+				}
+			}
+		},
+		"Giant Maggot (CR 0.5)": {
+			"name": "ジャイアント・マゴット (CR 0.5)",
+			"pages":{
+				"Giant Maggot (CR 0.5)":{
+					"name":"ジャイアント・マゴット (CR 0.5)"
+				}
+			}
+		},
+		"Giant Mantis (CR 3)": {
+			"name": "ジャイアント・マンティス (CR 3)",
+			"pages":{
+				"Giant Mantis (CR 3)":{
+					"name":"ジャイアント・マンティス (CR 3)"
+				}
+			}
+		},
+		"Giant Moray Eel (CR 5)": {
+			"name": "ジャイアント・モーレイ・イール (CR 5)",
+			"pages":{
+				"Giant Moray Eel (CR 5)":{
+					"name":"ジャイアント・モーレイ・イール (CR 5)"
+				}
+			}
+		},
+		"Giant Mosquito (CR 6)": {
+			"name": "ジャイアント・モスキート (CR 6)",
+			"pages":{
+				"Giant Mosquito (CR 6)":{
+					"name":"ジャイアント・モスキート (CR 6)"
+				}
+			}
+		},
+		"Giant Octopus (CR 8)": {
+			"name": "ジャイアント・オクトパス (CR 8)",
+			"pages":{
+				"Giant Octopus (CR 8)":{
+					"name":"ジャイアント・オクトパス (CR 8)"
+				}
+			}
+		},
+		"Giant Owl (CR 5)": {
+			"name": "ジャイアント・アウル (CR 5)",
+			"pages":{
+				"Giant Owl (CR 5)":{
+					"name":"ジャイアント・アウル (CR 5)"
+				}
+			}
+		},
+		"Giant Porcupine (CR 2)": {
+			"name": "ジャイアント・ポーキュパイン (CR 2)",
+			"pages":{
+				"Giant Porcupine (CR 2)":{
+					"name":"ジャイアント・ポーキュパイン (CR 2)"
+				}
+			}
+		},
+		"Giant Queen Bee (CR 5)": {
+			"name": "ジャイアント・クイーン・ビー (CR 5)",
+			"pages":{
+				"Giant Queen Bee (CR 5)":{
+					"name":"ジャイアント・クイーン・ビー (CR 5)"
+				}
+			}
+		},
+		"Giant Rot Grub (CR 3)": {
+			"name": "ジャイアント・ロット・グラブ (CR 3)",
+			"pages":{
+				"Giant Rot Grub (CR 3)":{
+					"name":"ジャイアント・ロット・グラブ (CR 3)"
+				}
+			}
+		},
+		"Giant Scorpion (CR 3)": {
+			"name": "ジャイアント・スコーピオン (CR 3)",
+			"pages":{
+				"Giant Scorpion (CR 3)":{
+					"name":"ジャイアント・スコーピオン (CR 3)"
+				}
+			}
+		},
+		"Giant Sea Anemone (CR 2)": {
+			"name": "ジャイアント・シー・アネモネ (CR 2)",
+			"pages":{
+				"Giant Sea Anemone (CR 2)":{
+					"name":"ジャイアント・シー・アネモネ (CR 2)"
+				}
+			}
+		},
+		"Giant Skunk (CR 3)": {
+			"name": "ジャイアント・スカンク (CR 3)",
+			"pages":{
+				"Giant Skunk (CR 3)":{
+					"name":"ジャイアント・スカンク (CR 3)"
+				}
+			}
+		},
+		"Giant Slug (CR 8)": {
+			"name": "ジャイアント・スラグ (CR 8)",
+			"pages":{
+				"Giant Slug (CR 8)":{
+					"name":"ジャイアント・スラグ (CR 8)"
+				}
+			}
+		},
+		"Giant Snapping Turtle (CR 9)": {
+			"name": "ジャイアント・スナッピング・タートル (CR 9)",
+			"pages":{
+				"Giant Snapping Turtle (CR 9)":{
+					"name":"ジャイアント・スナッピング・タートル (CR 9)"
+				}
+			}
+		},
+		"Giant Solifugid (CR 1)": {
+			"name": "ジャイアント・サリフュージド (CR 1)",
+			"pages":{
+				"Giant Solifugid (CR 1)":{
+					"name":"ジャイアント・サリフュージド (CR 1)"
+				}
+			}
+		},
+		"Giant Spider (CR 1)": {
+			"name": "ジャイアント・スパイダー (CR 1)",
+			"pages":{
+				"Giant Spider (CR 1)":{
+					"name":"ジャイアント・スパイダー (CR 1)"
+				}
+			}
+		},
+		"Giant Squid (CR 9)": {
+			"name": "ジャイアント・スクウィッド (CR 9)",
+			"pages":{
+				"Giant Squid (CR 9)":{
+					"name":"ジャイアント・スクウィッド (CR 9)"
+				}
+			}
+		},
+		"Giant Stag Beetle (CR 4)": {
+			"name": "ジャイアント・スタッグ・ビートル (CR 4)",
+			"pages":{
+				"Giant Stag Beetle (CR 4)":{
+					"name":"ジャイアント・スタッグ・ビートル (CR 4)"
+				}
+			}
+		},
+		"Giant Tarantula (CR 8)": {
+			"name": "ジャイアント・タランチュラ (CR 8)",
+			"pages":{
+				"Giant Tarantula (CR 8)":{
+					"name":"ジャイアント・タランチュラ (CR 8)"
+				}
+			}
+		},
+		"Giant Tick (CR 1)": {
+			"name": "ジャイアント・ティック (CR 1)",
+			"pages":{
+				"Giant Tick (CR 1)":{
+					"name":"ジャイアント・ティック (CR 1)"
+				}
+			}
+		},
+		"Giant Toad (CR 2)": {
+			"name": "ジャイアント・トード (CR 2)",
+			"pages":{
+				"Giant Toad (CR 2)":{
+					"name":"ジャイアント・トード (CR 2)"
+				}
+			}
+		},
+		"Giant Vulture (CR 4)": {
+			"name": "ジャイアント・ヴァルチャー (CR 4)",
+			"pages":{
+				"Giant Vulture (CR 4)":{
+					"name":"ジャイアント・ヴァルチャー (CR 4)"
+				}
+			}
+		},
+		"Giant Wasp (CR 3)": {
+			"name": "ジャイアント・ワスプ (CR 3)",
+			"pages":{
+				"Giant Wasp (CR 3)":{
+					"name":"ジャイアント・ワスプ (CR 3)"
+				}
+			}
+		},
+		"Giant Whiptail Centipede (CR 3)": {
+			"name": "ジャイアント・ウィップテイル・センチピード (CR 3)",
+			"pages":{
+				"Giant Whiptail Centipede (CR 3)":{
+					"name":"ジャイアント・ウィップテイル・センチピード (CR 3)"
+				}
+			}
+		},
+		"Gibbering Mouther (CR 5)": {
+			"name": "ジバリング・マウザー (CR 5)",
+			"pages":{
+				"Gibbering Mouther (CR 5)":{
+					"name":"ジバリング・マウザー (CR 5)"
+				}
+			}
+		},
+		"Girallon (CR 6)": {
+			"name": "ギラロン (CR 6)",
+			"pages":{
+				"Girallon (CR 6)":{
+					"name":"ギラロン (CR 6)"
+				}
+			}
+		},
+		"Girtablilu (CR 8)": {
+			"name": "ギルタブルル (CR 8)",
+			"pages":{
+				"Girtablilu (CR 8)":{
+					"name":"ギルタブルル (CR 8)"
+				}
+			}
+		},
+		"Glabrezu (CR 13)": {
+			"name": "グラブレズゥ (CR 13)",
+			"pages":{
+				"Glabrezu (CR 13)":{
+					"name":"グラブレズゥ (CR 13)"
+				}
+			}
+		},
+		"Glacier Toad (CR 6)": {
+			"name": "グレイシャー・トード (CR 6)",
+			"pages":{
+				"Glacier Toad (CR 6)":{
+					"name":"グレイシャー・トード (CR 6)"
+				}
+			}
+		},
+		"Glass Golem (CR 8)": {
+			"name": "グラス・ゴーレム (CR 8)",
+			"pages":{
+				"Glass Golem (CR 8)":{
+					"name":"グラス・ゴーレム (CR 8)"
+				}
+			}
+		},
+		"Globster (CR 5)": {
+			"name": "グロブスター (CR 5)",
+			"pages":{
+				"Globster (CR 5)":{
+					"name":"グロブスター (CR 5)"
+				}
+			}
+		},
+		"Gloomwing (CR 4)": {
+			"name": "グルームウィング (CR 4)",
+			"pages":{
+				"Gloomwing (CR 4)":{
+					"name":"グルームウィング (CR 4)"
+				}
+			}
+		},
+		"Gnoll (CR 1)": {
+			"name": "ノール (CR 1)",
+			"pages":{
+				"Gnoll (CR 1)":{
+					"name":"ノール (CR 1)"
+				}
+			}
+		},
+		"Goat (CR 0.33)": {
+			"name": "ゴート (CR 0.33)",
+			"pages":{
+				"Goat (CR 0.33)":{
+					"name":"ゴート (CR 0.33)"
+				}
+			}
+		},
+		"Goblin (warrior 1)": {
+			"name": "ゴブリン (warrior 1)",
+			"pages":{
+				"Goblin (warrior 1)":{
+					"name":"ゴブリン (warrior 1)"
+				}
+			}
+		},
+		"Goblin Dog (CR 1)": {
+			"name": "ゴブリン・ドッグ (CR 1)",
+			"pages":{
+				"Goblin Dog (CR 1)":{
+					"name":"ゴブリン・ドッグ (CR 1)"
+				}
+			}
+		},
+		"Goblin Snake (CR 1)": {
+			"name": "ゴブリン・スネーク (CR 1)",
+			"pages":{
+				"Goblin Snake (CR 1)":{
+					"name":"ゴブリン・スネーク (CR 1)"
+				}
+			}
+		},
+		"Goliath Stag Beetle (CR 8)": {
+			"name": "ゴライアス・スタッグ・ビートル (CR 8)",
+			"pages":{
+				"Goliath Stag Beetle (CR 8)":{
+					"name":"ゴライアス・スタッグ・ビートル (CR 8)"
+				}
+			}
+		},
+		"Gorgon (CR 8)": {
+			"name": "ゴルゴン (CR 8)",
+			"pages":{
+				"Gorgon (CR 8)":{
+					"name":"ゴルゴン (CR 8)"
+				}
+			}
+		},
+		"Gorilla (CR 2)": {
+			"name": "ゴリラ (CR 2)",
+			"pages":{
+				"Gorilla (CR 2)":{
+					"name":"ゴリラ (CR 2)"
+				}
+			}
+		},
+		"Gorynych (CR 15)": {
+			"name": "ゴリニッチ (CR 15)",
+			"pages":{
+				"Gorynych (CR 15)":{
+					"name":"ゴリニッチ (CR 15)"
+				}
+			}
+		},
+		"Gourd Leshy (CR 1)": {
+			"name": "ゴーウド・レーシー (CR 1)",
+			"pages":{
+				"Gourd Leshy (CR 1)":{
+					"name":"ゴーウド・レーシー (CR 1)"
+				}
+			}
+		},
+		"Graveknight (fighter 10)": {
+			"name": "グレイヴナイト (fighter 10)",
+			"pages":{
+				"Graveknight (fighter 10)":{
+					"name":"グレイヴナイト (fighter 10)"
+				}
+			}
+		},
+		"Graven Guardian (CR 5)": {
+			"name": "グレイヴン・ガーディアン (CR 5)",
+			"pages":{
+				"Graven Guardian (CR 5)":{
+					"name":"グレイヴン・ガーディアン (CR 5)"
+				}
+			}
+		},
+		"Gray Ooze (CR 4)": {
+			"name": "グレイ・ウーズ (CR 4)",
+			"pages":{
+				"Gray Ooze (CR 4)":{
+					"name":"グレイ・ウーズ (CR 4)"
+				}
+			}
+		},
+		"Gray Render (CR 8)": {
+			"name": "グレイ・レンダー (CR 8)",
+			"pages":{
+				"Gray Render (CR 8)":{
+					"name":"グレイ・レンダー (CR 8)"
+				}
+			}
+		},
+		"Great Cyclops (CR 12)": {
+			"name": "グレート・サイクロプス (CR 12)",
+			"pages":{
+				"Great Cyclops (CR 12)":{
+					"name":"グレート・サイクロプス (CR 12)"
+				}
+			}
+		},
+		"Great Horned Owl (CR 0.5)": {
+			"name": "グレート・ホーンド・アウル (CR 0.5)",
+			"pages":{
+				"Great Horned Owl (CR 0.5)":{
+					"name":"グレート・ホーンド・アウル (CR 0.5)"
+				}
+			}
+		},
+		"Great White Whale (CR 14)": {
+			"name": "グレート・ホワイト・ホエール (CR 14)",
+			"pages":{
+				"Great White Whale (CR 14)":{
+					"name":"グレート・ホワイト・ホエール (CR 14)"
+				}
+			}
+		},
+		"Greater Air Elemental (CR 9)": {
+			"name": "グレーター・エア・エレメンタル (CR 9)",
+			"pages":{
+				"Greater Air Elemental (CR 9)":{
+					"name":"グレーター・エア・エレメンタル (CR 9)"
+				}
+			}
+		},
+		"Greater Barghest (CR 7)": {
+			"name": "グレーター・バーゲスト (CR 7)",
+			"pages":{
+				"Greater Barghest (CR 7)":{
+					"name":"グレーター・バーゲスト (CR 7)"
+				}
+			}
+		},
+		"Greater Earth Elemental (CR 9)": {
+			"name": "グレーター・アース・エレメンタル (CR 9)",
+			"pages":{
+				"Greater Earth Elemental (CR 9)":{
+					"name":"グレーター・アース・エレメンタル (CR 9)"
+				}
+			}
+		},
+		"Greater Fire Elemental (CR 9)": {
+			"name": "グレーター・ファイアー・エレメンタル (CR 9)",
+			"pages":{
+				"Greater Fire Elemental (CR 9)":{
+					"name":"グレーター・ファイアー・エレメンタル (CR 9)"
+				}
+			}
+		},
+		"Greater Ice Elemental (CR 9)": {
+			"name": "グレーター・アイス・エレメンタル (CR 9)",
+			"pages":{
+				"Greater Ice Elemental (CR 9)":{
+					"name":"グレーター・アイス・エレメンタル (CR 9)"
+				}
+			}
+		},
+		"Greater Lightning Elemental (CR 9)": {
+			"name": "グレーター・ライトニング・エレメンタル (CR 9)",
+			"pages":{
+				"Greater Lightning Elemental (CR 9)":{
+					"name":"グレーター・ライトニング・エレメンタル (CR 9)"
+				}
+			}
+		},
+		"Greater Magma Elemental (CR 9)": {
+			"name": "グレーター・マグマ・エレメンタル (CR 9)",
+			"pages":{
+				"Greater Magma Elemental (CR 9)":{
+					"name":"グレーター・マグマ・エレメンタル (CR 9)"
+				}
+			}
+		},
+		"Greater Mud Elemental (CR 9)": {
+			"name": "グレーター・マッド・エレメンタル (CR 9)",
+			"pages":{
+				"Greater Mud Elemental (CR 9)":{
+					"name":"グレーター・マッド・エレメンタル (CR 9)"
+				}
+			}
+		},
+		"Greater Shadow (CR 8)": {
+			"name": "強大なるシャドウ (CR 8)",
+			"pages":{
+				"Greater Shadow (CR 8)":{
+					"name":"強大なるシャドウ (CR 8)"
+				}
+			}
+		},
+		"Greater Water Elemental (CR 9)": {
+			"name": "グレーター・ウォーター・エレメンタル (CR 9)",
+			"pages":{
+				"Greater Water Elemental (CR 9)":{
+					"name":"グレーター・ウォーター・エレメンタル (CR 9)"
+				}
+			}
+		},
+		"Green Hag (CR 5)": {
+			"name": "グリーン・ハグ (CR 5)",
+			"pages":{
+				"Green Hag (CR 5)":{
+					"name":"グリーン・ハグ (CR 5)"
+				}
+			}
+		},
+		"Grick (CR 3)": {
+			"name": "グリック (CR 3)",
+			"pages":{
+				"Grick (CR 3)":{
+					"name":"グリック (CR 3)"
+				}
+			}
+		},
+		"Griffon (CR 4)": {
+			"name": "グリフィン (CR 4)",
+			"pages":{
+				"Griffon (CR 4)":{
+					"name":"グリフィン (CR 4)"
+				}
+			}
+		},
+		"Grig (CR 1)": {
+			"name": "グリッグ (CR 1)",
+			"pages":{
+				"Grig (CR 1)":{
+					"name":"グリッグ (CR 1)"
+				}
+			}
+		},
+		"Grindylow (CR 0.5)": {
+			"name": "グリンディロー (CR 0.5)",
+			"pages":{
+				"Grindylow (CR 0.5)":{
+					"name":"グリンディロー (CR 0.5)"
+				}
+			}
+		},
+		"Grippli (ranger 1)": {
+			"name": "グリプリー (ranger 1)",
+			"pages":{
+				"Grippli (ranger 1)":{
+					"name":"グリプリー (ranger 1)"
+				}
+			}
+		},
+		"Grizzly Bear (CR 4)": {
+			"name": "グリズリー・ベア (CR 4)",
+			"pages":{
+				"Grizzly Bear (CR 4)":{
+					"name":"グリズリー・ベア (CR 4)"
+				}
+			}
+		},
+		"Grodair (CR 5)": {
+			"name": "グロデール (CR 5)",
+			"pages":{
+				"Grodair (CR 5)":{
+					"name":"グロデール (CR 5)"
+				}
+			}
+		},
+		"Grootslang (CR 16)": {
+			"name": "グローツラング (CR 16)",
+			"pages":{
+				"Grootslang (CR 16)":{
+					"name":"グローツラング (CR 16)"
+				}
+			}
+		},
+		"Gryph (CR 1)": {
+			"name": "グリフ (CR 1)",
+			"pages":{
+				"Gryph (CR 1)":{
+					"name":"グリフ (CR 1)"
+				}
+			}
+		},
+		"Guardian Naga (CR 10)": {
+			"name": "ガーディアン・ナーガ (CR 10)",
+			"pages":{
+				"Guardian Naga (CR 10)":{
+					"name":"ガーディアン・ナーガ (CR 10)"
+				}
+			}
+		},
+		"Guecubu (CR 8)": {
+			"name": "ゲクブ (CR 8)",
+			"pages":{
+				"Guecubu (CR 8)":{
+					"name":"ゲクブ (CR 8)"
+				}
+			}
+		},
+		"Gug (CR 10)": {
+			"name": "ガグ (CR 10)",
+			"pages":{
+				"Gug (CR 10)":{
+					"name":"ガグ (CR 10)"
+				}
+			}
+		},
+		"Gylptodon (CR 6)": {
+			"name": "グリプトドン (CR 6)",
+			"pages":{
+				"Gylptodon (CR 6)":{
+					"name":"グリプトドン (CR 6)"
+				}
+			}
+		},
+		"Gynosphinx (CR 8)": {
+			"name": "ギュノスフィンクス (CR 8)",
+			"pages":{
+				"Gynosphinx (CR 8)":{
+					"name":"ギュノスフィンクス (CR 8)"
+				}
+			}
+		},
+		"Half-Celestial Unicorn (CR 4)": {
+			"name": "ハーフセレスチャル・ユニコーン (CR 4)",
+			"pages":{
+				"Half-Celestial Unicorn (CR 4)":{
+					"name":"ハーフセレスチャル・ユニコーン (CR 4)"
+				}
+			}
+		},
+		"Half-Fiend Minotaur (CR 6)": {
+			"name": "ハーフフィーンド・ミノタウロス (CR 6)",
+			"pages":{
+				"Half-Fiend Minotaur (CR 6)":{
+					"name":"ハーフフィーンド・ミノタウロス (CR 6)"
+				}
+			}
+		},
+		"Handmaiden Devil (CR 14)": {
+			"name": "ハンドメイデン・デヴィル (CR 14)",
+			"pages":{
+				"Handmaiden Devil (CR 14)":{
+					"name":"ハンドメイデン・デヴィル (CR 14)"
+				}
+			}
+		},
+		"Hangman Tree (CR 7)": {
+			"name": "ハングマン・ツリー (CR 7)",
+			"pages":{
+				"Hangman Tree (CR 7)":{
+					"name":"ハングマン・ツリー (CR 7)"
+				}
+			}
+		},
+		"Harbinger Archon (CR 2)": {
+			"name": "ハービンジャー・アルコン (CR 2)",
+			"pages":{
+				"Harbinger Archon (CR 2)":{
+					"name":"ハービンジャー・アルコン (CR 2)"
+				}
+			}
+		},
+		"Harpy (CR 4)": {
+			"name": "ハーピー (CR 4)",
+			"pages":{
+				"Harpy (CR 4)":{
+					"name":"ハーピー (CR 4)"
+				}
+			}
+		},
+		"Hawk (CR 0.33)": {
+			"name": "ホーク (CR 0.33)",
+			"pages":{
+				"Hawk (CR 0.33)":{
+					"name":"ホーク (CR 0.33)"
+				}
+			}
+		},
+		"Hekatonkheires (CR 24)": {
+			"name": "ヘカトンケイル (CR 24)",
+			"pages":{
+				"Hekatonkheires (CR 24)":{
+					"name":"ヘカトンケイル (CR 24)"
+				}
+			}
+		},
+		"Hell Hound (CR 3)": {
+			"name": "ヘル・ハウンド (CR 3)",
+			"pages":{
+				"Hell Hound (CR 3)":{
+					"name":"ヘル・ハウンド (CR 3)"
+				}
+			}
+		},
+		"Hellcat (CR 7)": {
+			"name": "ヘルキャット (CR 7)",
+			"pages":{
+				"Hellcat (CR 7)":{
+					"name":"ヘルキャット (CR 7)"
+				}
+			}
+		},
+		"Hellwasp Swarm (CR 8)": {
+			"name": "ヘルワスプ・スウォーム (CR 8)",
+			"pages":{
+				"Hellwasp Swarm (CR 8)":{
+					"name":"ヘルワスプ・スウォーム (CR 8)"
+				}
+			}
+		},
+		"Hezrou (CR 11)": {
+			"name": "ヘズロウ (CR 11)",
+			"pages":{
+				"Hezrou (CR 11)":{
+					"name":"ヘズロウ (CR 11)"
+				}
+			}
+		},
+		"Hieracosphinx (CR 5)": {
+			"name": "ヒエラコスフィンクス (CR 5)",
+			"pages":{
+				"Hieracosphinx (CR 5)":{
+					"name":"ヒエラコスフィンクス (CR 5)"
+				}
+			}
+		},
+		"Hill Giant (CR 7)": {
+			"name": "ヒル・ジャイアント (CR 7)",
+			"pages":{
+				"Hill Giant (CR 7)":{
+					"name":"ヒル・ジャイアント (CR 7)"
+				}
+			}
+		},
+		"Hippocampus (CR 1)": {
+			"name": "ヒポカンパス (CR 1)",
+			"pages":{
+				"Hippocampus (CR 1)":{
+					"name":"ヒポカンパス (CR 1)"
+				}
+			}
+		},
+		"Hippogriff (CR 2)": {
+			"name": "ヒポグリフ (CR 2)",
+			"pages":{
+				"Hippogriff (CR 2)":{
+					"name":"ヒポグリフ (CR 2)"
+				}
+			}
+		},
+		"Hippopotamus (CR 5)": {
+			"name": "ヒポポタマス (CR 5)",
+			"pages":{
+				"Hippopotamus (CR 5)":{
+					"name":"ヒポポタマス (CR 5)"
+				}
+			}
+		},
+		"Hobgoblin (fighter 1)": {
+			"name": "ホブゴブリン (fighter 1)",
+			"pages":{
+				"Hobgoblin (fighter 1)":{
+					"name":"ホブゴブリン (fighter 1)"
+				}
+			}
+		},
+		"Hodag (CR 6)": {
+			"name": "ホーダッグ (CR 6)",
+			"pages":{
+				"Hodag (CR 6)":{
+					"name":"ホーダッグ (CR 6)"
+				}
+			}
+		},
+		"Hollow Serpent (CR 16)": {
+			"name": "ホロウ・サーペント (CR 16)",
+			"pages":{
+				"Hollow Serpent (CR 16)":{
+					"name":"ホロウ・サーペント (CR 16)"
+				}
+			}
+		},
+		"Homunculus (CR 1)": {
+			"name": "ホムンクルス (CR 1)",
+			"pages":{
+				"Homunculus (CR 1)":{
+					"name":"ホムンクルス (CR 1)"
+				}
+			}
+		},
+		"Horned Devil (CR 16)": {
+			"name": "ホーンド・デヴィル (CR 16)",
+			"pages":{
+				"Horned Devil (CR 16)":{
+					"name":"ホーンド・デヴィル (CR 16)"
+				}
+			}
+		},
+		"Horse (CR 1)": {
+			"name": "ホース (CR 1)",
+			"pages":{
+				"Horse (CR 1)":{
+					"name":"ホース (CR 1)"
+				}
+			}
+		},
+		"Hound Archon (CR 4)": {
+			"name": "ハウンド・アルコン (CR 4)",
+			"pages":{
+				"Hound Archon (CR 4)":{
+					"name":"ハウンド・アルコン (CR 4)"
+				}
+			}
+		},
+		"Hound of Tindalos (CR 7)": {
+			"name": "ハウンド・オヴ・ティンダロス (CR 7)",
+			"pages":{
+				"Hound of Tindalos (CR 7)":{
+					"name":"ハウンド・オヴ・ティンダロス (CR 7)"
+				}
+			}
+		},
+		"Howler (CR 3)": {
+			"name": "ハウラー (CR 3)",
+			"pages":{
+				"Howler (CR 3)":{
+					"name":"ハウラー (CR 3)"
+				}
+			}
+		},
+		"Huecuva (CR 2)": {
+			"name": "ヒューキューヴァ (CR 2)",
+			"pages":{
+				"Huecuva (CR 2)":{
+					"name":"ヒューキューヴァ (CR 2)"
+				}
+			}
+		},
+		"Huge Air Elemental (CR 7)": {
+			"name": "超大型エア・エレメンタル (CR 7)",
+			"pages":{
+				"Huge Air Elemental (CR 7)":{
+					"name":"超大型エア・エレメンタル (CR 7)"
+				}
+			}
+		},
+		"Huge Earth Elemental (CR 7)": {
+			"name": "超大型アース・エレメンタル (CR 7)",
+			"pages":{
+				"Huge Earth Elemental (CR 7)":{
+					"name":"超大型アース・エレメンタル (CR 7)"
+				}
+			}
+		},
+		"Huge Fire Elemental (CR 7)": {
+			"name": "超大型ファイアー・エレメンタル (CR 7)",
+			"pages":{
+				"Huge Fire Elemental (CR 7)":{
+					"name":"超大型ファイアー・エレメンタル (CR 7)"
+				}
+			}
+		},
+		"Huge Ice Elemental (CR 7)": {
+			"name": "超大型アイス・エレメンタル (CR 7)",
+			"pages":{
+				"Huge Ice Elemental (CR 7)":{
+					"name":"超大型アイス・エレメンタル (CR 7)"
+				}
+			}
+		},
+		"Huge Lightning Elemental (CR 7)": {
+			"name": "超大型ライトニング・エレメンタル (CR 7)",
+			"pages":{
+				"Huge Lightning Elemental (CR 7)":{
+					"name":"超大型ライトニング・エレメンタル (CR 7)"
+				}
+			}
+		},
+		"Huge Magma Elemental (CR 7)": {
+			"name": "超大型マグマ・エレメンタル (CR 7)",
+			"pages":{
+				"Huge Magma Elemental (CR 7)":{
+					"name":"超大型マグマ・エレメンタル (CR 7)"
+				}
+			}
+		},
+		"Huge Mud Elemental (CR 7)": {
+			"name": "超大型マッド・エレメンタル (CR 7)",
+			"pages":{
+				"Huge Mud Elemental (CR 7)":{
+					"name":"超大型マッド・エレメンタル (CR 7)"
+				}
+			}
+		},
+		"Huge Water Elemental (CR 7)": {
+			"name": "超大型ウォーター・エレメンタル (CR 7)",
+			"pages":{
+				"Huge Water Elemental (CR 7)":{
+					"name":"超大型ウォーター・エレメンタル (CR 7)"
+				}
+			}
+		},
+		"Human Juju Zombie (rogue 2)": {
+			"name": "人間のジュジュ・ゾンビ (rogue 2)",
+			"pages":{
+				"Human Juju Zombie (rogue 2)":{
+					"name":"人間のジュジュ・ゾンビ (rogue 2)"
+				}
+			}
+		},
+		"Human Skeleton (CR 0.33)": {
+			"name": "人間のスケルトン (CR 0.33)",
+			"pages":{
+				"Human Skeleton (CR 0.33)":{
+					"name":"人間のスケルトン (CR 0.33)"
+				}
+			}
+		},
+		"Human Zombie (CR 0.5)": {
+			"name": "人間のゾンビ (CR 0.5)",
+			"pages":{
+				"Human Zombie (CR 0.5)":{
+					"name":"人間のゾンビ (CR 0.5)"
+				}
+			}
+		},
+		"Humbaba (CR 19)": {
+			"name": "フンババ (CR 19)",
+			"pages":{
+				"Humbaba (CR 19)":{
+					"name":"フンババ (CR 19)"
+				}
+			}
+		},
+		"Hungry Fog (CR 6)": {
+			"name": "ハングリー・フォッグ (CR 6)",
+			"pages":{
+				"Hungry Fog (CR 6)":{
+					"name":"ハングリー・フォッグ (CR 6)"
+				}
+			}
+		},
+		"Hydra (CR 4)": {
+			"name": "ヒュドラ (CR 4)",
+			"pages":{
+				"Hydra (CR 4)":{
+					"name":"ヒュドラ (CR 4)"
+				}
+			}
+		},
+		"Hydrodaemon (CR 8)": {
+			"name": "ハイドロダイモン (CR 8)",
+			"pages":{
+				"Hydrodaemon (CR 8)":{
+					"name":"ハイドロダイモン (CR 8)"
+				}
+			}
+		},
+		"Hyena (CR 1)": {
+			"name": "ハイエナ (CR 1)",
+			"pages":{
+				"Hyena (CR 1)":{
+					"name":"ハイエナ (CR 1)"
+				}
+			}
+		},
+		"Iathavos (CR 20)": {
+			"name": "アイアタヴォス (CR 20)",
+			"pages":{
+				"Iathavos (CR 20)":{
+					"name":"アイアタヴォス (CR 20)"
+				}
+			}
+		},
+		"Ice Devil (CR 13)": {
+			"name": "アイス・デヴィル (CR 13)",
+			"pages":{
+				"Ice Devil (CR 13)":{
+					"name":"アイス・デヴィル (CR 13)"
+				}
+			}
+		},
+		"Ice Golem (CR 5)": {
+			"name": "アイス・ゴーレム (CR 5)",
+			"pages":{
+				"Ice Golem (CR 5)":{
+					"name":"アイス・ゴーレム (CR 5)"
+				}
+			}
+		},
+		"Ice Linnorm (CR 17)": {
+			"name": "アイス・リノーム (CR 17)",
+			"pages":{
+				"Ice Linnorm (CR 17)":{
+					"name":"アイス・リノーム (CR 17)"
+				}
+			}
+		},
+		"Ice Mephit (CR 3)": {
+			"name": "アイス・メフィット (CR 3)",
+			"pages":{
+				"Ice Mephit (CR 3)":{
+					"name":"アイス・メフィット (CR 3)"
+				}
+			}
+		},
+		"Ice Troll (CR 4)": {
+			"name": "アイス・トロル (CR 4)",
+			"pages":{
+				"Ice Troll (CR 4)":{
+					"name":"アイス・トロル (CR 4)"
+				}
+			}
+		},
+		"Ice Yai (CR 14)": {
+			"name": "アイス・ヤイ (CR 14)",
+			"pages":{
+				"Ice Yai (CR 14)":{
+					"name":"アイス・ヤイ (CR 14)"
+				}
+			}
+		},
+		"Ifrit (sorcerer 1)": {
+			"name": "イフリット (sorcerer 1)",
+			"pages":{
+				"Ifrit (sorcerer 1)":{
+					"name":"イフリット (sorcerer 1)"
+				}
+			}
+		},
+		"Iguanodon (CR 6)": {
+			"name": "イグアノドン (CR 6)",
+			"pages":{
+				"Iguanodon (CR 6)":{
+					"name":"イグアノドン (CR 6)"
+				}
+			}
+		},
+		"Iku-Turso (CR 8)": {
+			"name": "イクトゥルソ (CR 8)",
+			"pages":{
+				"Iku-Turso (CR 8)":{
+					"name":"イクトゥルソ (CR 8)"
+				}
+			}
+		},
+		"Imentesh (CR 10)": {
+			"name": "イメンテッシュ (CR 10)",
+			"pages":{
+				"Imentesh (CR 10)":{
+					"name":"イメンテッシュ (CR 10)"
+				}
+			}
+		},
+		"Immolation Devil (CR 19)": {
+			"name": "イモレーション・デヴィル (CR 19)",
+			"pages":{
+				"Immolation Devil (CR 19)":{
+					"name":"イモレーション・デヴィル (CR 19)"
+				}
+			}
+		},
+		"Imp (CR 2)": {
+			"name": "インプ (CR 2)",
+			"pages":{
+				"Imp (CR 2)":{
+					"name":"インプ (CR 2)"
+				}
+			}
+		},
+		"Incubus (CR 6)": {
+			"name": "インキュバス (CR 6)",
+			"pages":{
+				"Incubus (CR 6)":{
+					"name":"インキュバス (CR 6)"
+				}
+			}
+		},
+		"Intellect Devourer (CR 8)": {
+			"name": "インテレクト・ディヴァウラー (CR 8)",
+			"pages":{
+				"Intellect Devourer (CR 8)":{
+					"name":"インテレクト・ディヴァウラー (CR 8)"
+				}
+			}
+		},
+		"Interlocutor Kyton (CR 12)": {
+			"name": "インターラキター (CR 12)",
+			"pages":{
+				"Interlocutor Kyton (CR 12)":{
+					"name":"インターラキター (CR 12)"
+				}
+			}
+		},
+		"Invisible Stalker (CR 7)": {
+			"name": "インヴィジブル・ストーカー (CR 7)",
+			"pages":{
+				"Invisible Stalker (CR 7)":{
+					"name":"インヴィジブル・ストーカー (CR 7)"
+				}
+			}
+		},
+		"Iron Cobra (CR 2)": {
+			"name": "アイアン・コブラ (CR 2)",
+			"pages":{
+				"Iron Cobra (CR 2)":{
+					"name":"アイアン・コブラ (CR 2)"
+				}
+			}
+		},
+		"Iron Golem (CR 13)": {
+			"name": "アイアン・ゴーレム (CR 13)",
+			"pages":{
+				"Iron Golem (CR 13)":{
+					"name":"アイアン・ゴーレム (CR 13)"
+				}
+			}
+		},
+		"Jabberwock (CR 23)": {
+			"name": "ジャバウォック (CR 23)",
+			"pages":{
+				"Jabberwock (CR 23)":{
+					"name":"ジャバウォック (CR 23)"
+				}
+			}
+		},
+		"Jackalwere (CR 2)": {
+			"name": "ジャッカルワー (CR 2)",
+			"pages":{
+				"Jackalwere (CR 2)":{
+					"name":"ジャッカルワー (CR 2)"
+				}
+			}
+		},
+		"Janni Genie (CR 4)": {
+			"name": "ジャーン (CR 4)",
+			"pages":{
+				"Janni Genie (CR 4)":{
+					"name":"ジャーン (CR 4)"
+				}
+			}
+		},
+		"Jellyfish Swarm (CR 6)": {
+			"name": "ジェリーフィッシュ・スウォーム (CR 6)",
+			"pages":{
+				"Jellyfish Swarm (CR 6)":{
+					"name":"ジェリーフィッシュ・スウォーム (CR 6)"
+				}
+			}
+		},
+		"Jiang-Shi (monk 5)": {
+			"name": "キョンシー (monk 5)",
+			"pages":{
+				"Jiang-Shi (monk 5)":{
+					"name":"キョンシー (monk 5)"
+				}
+			}
+		},
+		"Jinkin (CR 1)": {
+			"name": "ジンキン (CR 1)",
+			"pages":{
+				"Jinkin (CR 1)":{
+					"name":"ジンキン (CR 1)"
+				}
+			}
+		},
+		"Jinushigami (CR 20)": {
+			"name": "ジヌシガミ (CR 20)",
+			"pages":{
+				"Jinushigami (CR 20)":{
+					"name":"ジヌシガミ (CR 20)"
+				}
+			}
+		},
+		"Jorogumo (CR 12)": {
+			"name": "ジョロウグモ (CR 12)",
+			"pages":{
+				"Jorogumo (CR 12)":{
+					"name":"ジョロウグモ (CR 12)"
+				}
+			}
+		},
+		"Jotund Troll (CR 15)": {
+			"name": "ヨツン・トロル (CR 15)",
+			"pages":{
+				"Jotund Troll (CR 15)":{
+					"name":"ヨツン・トロル (CR 15)"
+				}
+			}
+		},
+		"Jubjub Bird (CR 15)": {
+			"name": "ジャブジャブ・バード (CR 15)",
+			"pages":{
+				"Jubjub Bird (CR 15)":{
+					"name":"ジャブジャブ・バード (CR 15)"
+				}
+			}
+		},
+		"Jungle Giant (CR 10)": {
+			"name": "ジャングル・ジャイアント (CR 10)",
+			"pages":{
+				"Jungle Giant (CR 10)":{
+					"name":"ジャングル・ジャイアント (CR 10)"
+				}
+			}
+		},
+		"Jyoti (CR 9)": {
+			"name": "ジョティ (CR 9)",
+			"pages":{
+				"Jyoti (CR 9)":{
+					"name":"ジョティ (CR 9)"
+				}
+			}
+		},
+		"Kalavakus (CR 10)": {
+			"name": "カラヴァカス (CR 10)",
+			"pages":{
+				"Kalavakus (CR 10)":{
+					"name":"カラヴァカス (CR 10)"
+				}
+			}
+		},
+		"Kamadan (CR 4)": {
+			"name": "カマダン (CR 4)",
+			"pages":{
+				"Kamadan (CR 4)":{
+					"name":"カマダン (CR 4)"
+				}
+			}
+		},
+		"Kangaroo (CR 0.5)": {
+			"name": "カンガルー (CR 0.5)",
+			"pages":{
+				"Kangaroo (CR 0.5)":{
+					"name":"カンガルー (CR 0.5)"
+				}
+			}
+		},
+		"Kappa (CR 2)": {
+			"name": "カッパ (CR 2)",
+			"pages":{
+				"Kappa (CR 2)":{
+					"name":"カッパ (CR 2)"
+				}
+			}
+		},
+		"Kech (CR 3)": {
+			"name": "ケッチ (CR 3)",
+			"pages":{
+				"Kech (CR 3)":{
+					"name":"ケッチ (CR 3)"
+				}
+			}
+		},
+		"Keketar (CR 17)": {
+			"name": "ケケター (CR 17)",
+			"pages":{
+				"Keketar (CR 17)":{
+					"name":"ケケター (CR 17)"
+				}
+			}
+		},
+		"Kelpie (CR 4)": {
+			"name": "ケルピー (CR 4)",
+			"pages":{
+				"Kelpie (CR 4)":{
+					"name":"ケルピー (CR 4)"
+				}
+			}
+		},
+		"Kirin (CR 7)": {
+			"name": "キリン (CR 7)",
+			"pages":{
+				"Kirin (CR 7)":{
+					"name":"キリン (CR 7)"
+				}
+			}
+		},
+		"Kobold (warrior 1)": {
+			"name": "コボルド (warrior 1)",
+			"pages":{
+				"Kobold (warrior 1)":{
+					"name":"コボルド (warrior 1)"
+				}
+			}
+		},
+		"Kodama (CR 5)": {
+			"name": "コダマ (CR 5)",
+			"pages":{
+				"Kodama (CR 5)":{
+					"name":"コダマ (CR 5)"
+				}
+			}
+		},
+		"Kolyarut (CR 12)": {
+			"name": "コリャルート (CR 12)",
+			"pages":{
+				"Kolyarut (CR 12)":{
+					"name":"コリャルート (CR 12)"
+				}
+			}
+		},
+		"Kongamato (CR 15)": {
+			"name": "コンガマトー (CR 15)",
+			"pages":{
+				"Kongamato (CR 15)":{
+					"name":"コンガマトー (CR 15)"
+				}
+			}
+		},
+		"Korred (CR 4)": {
+			"name": "コレド (CR 4)",
+			"pages":{
+				"Korred (CR 4)":{
+					"name":"コレド (CR 4)"
+				}
+			}
+		},
+		"Kraken (CR 18)": {
+			"name": "クラーケン (CR 18)",
+			"pages":{
+				"Kraken (CR 18)":{
+					"name":"クラーケン (CR 18)"
+				}
+			}
+		},
+		"Krenshar (CR 1)": {
+			"name": "クレンシャー (CR 1)",
+			"pages":{
+				"Krenshar (CR 1)":{
+					"name":"クレンシャー (CR 1)"
+				}
+			}
+		},
+		"Kuwa (CR 4)": {
+			"name": "クワ (CR 4)",
+			"pages":{
+				"Kuwa (CR 4)":{
+					"name":"クワ (CR 4)"
+				}
+			}
+		},
+		"Kyton (CR 6)": {
+			"name": "キュトン (CR 6)",
+			"pages":{
+				"Kyton (CR 6)":{
+					"name":"キュトン (CR 6)"
+				}
+			}
+		},
+		"Lamia (CR 6)": {
+			"name": "ラミア (CR 6)",
+			"pages":{
+				"Lamia (CR 6)":{
+					"name":"ラミア (CR 6)"
+				}
+			}
+		},
+		"Lamia Matriarch (CR 8)": {
+			"name": "ラミア・メイトリアーク (CR 8)",
+			"pages":{
+				"Lamia Matriarch (CR 8)":{
+					"name":"ラミア・メイトリアーク (CR 8)"
+				}
+			}
+		},
+		"Lammasu (CR 8)": {
+			"name": "ラマッス (CR 8)",
+			"pages":{
+				"Lammasu (CR 8)":{
+					"name":"ラマッス (CR 8)"
+				}
+			}
+		},
+		"Lantern Archon (CR 2)": {
+			"name": "ランタン・アルコン (CR 2)",
+			"pages":{
+				"Lantern Archon (CR 2)":{
+					"name":"ランタン・アルコン (CR 2)"
+				}
+			}
+		},
+		"Large Air Elemental (CR 5)": {
+			"name": "大型エア・エレメンタル (CR 5)",
+			"pages":{
+				"Large Air Elemental (CR 5)":{
+					"name":"大型エア・エレメンタル (CR 5)"
+				}
+			}
+		},
+		"Large Earth Elemental (CR 5)": {
+			"name": "大型アース・エレメンタル (CR 5)",
+			"pages":{
+				"Large Earth Elemental (CR 5)":{
+					"name":"大型アース・エレメンタル (CR 5)"
+				}
+			}
+		},
+		"Large Fire Elemental (CR 5)": {
+			"name": "大型ファイアー・エレメンタル (CR 5)",
+			"pages":{
+				"Large Fire Elemental (CR 5)":{
+					"name":"大型ファイアー・エレメンタル (CR 5)"
+				}
+			}
+		},
+		"Large Ice Elemental (CR 5)": {
+			"name": "大型アイス・エレメンタル (CR 5)",
+			"pages":{
+				"Large Ice Elemental (CR 5)":{
+					"name":"大型アイス・エレメンタル (CR 5)"
+				}
+			}
+		},
+		"Large Lightning Elemental (CR 5)": {
+			"name": "大型ライトニング・エレメンタル (CR 5)",
+			"pages":{
+				"Large Lightning Elemental (CR 5)":{
+					"name":"大型ライトニング・エレメンタル (CR 5)"
+				}
+			}
+		},
+		"Large Magma Elemental (CR 5)": {
+			"name": "大型マグマ・エレメンタル (CR 5)",
+			"pages":{
+				"Large Magma Elemental (CR 5)":{
+					"name":"大型マグマ・エレメンタル (CR 5)"
+				}
+			}
+		},
+		"Large Mud Elemental (CR 5)": {
+			"name": "大型マッド・エレメンタル (CR 5)",
+			"pages":{
+				"Large Mud Elemental (CR 5)":{
+					"name":"大型マッド・エレメンタル (CR 5)"
+				}
+			}
+		},
+		"Large Spriggan (CR 3)": {
+			"name": "スプリガン（大型サイズ） (CR 3)",
+			"pages":{
+				"Large Spriggan (CR 3)":{
+					"name":"スプリガン（大型サイズ） (CR 3)"
+				}
+			}
+		},
+		"Large Water Elemental (CR 5)": {
+			"name": "大型ウォーター・エレメンタル (CR 5)",
+			"pages":{
+				"Large Water Elemental (CR 5)":{
+					"name":"大型ウォーター・エレメンタル (CR 5)"
+				}
+			}
+		},
+		"Leaf Leshy (CR 0.5)": {
+			"name": "リーフ・レーシー (CR 0.5)",
+			"pages":{
+				"Leaf Leshy (CR 0.5)":{
+					"name":"リーフ・レーシー (CR 0.5)"
+				}
+			}
+		},
+		"Leech Swarm (CR 4)": {
+			"name": "リーチ・スウォーム (CR 4)",
+			"pages":{
+				"Leech Swarm (CR 4)":{
+					"name":"リーチ・スウォーム (CR 4)"
+				}
+			}
+		},
+		"Legion Archon (CR 7)": {
+			"name": "リージョン・アルコン (CR 7)",
+			"pages":{
+				"Legion Archon (CR 7)":{
+					"name":"リージョン・アルコン (CR 7)"
+				}
+			}
+		},
+		"Lemure (CR 1)": {
+			"name": "レムレー (CR 1)",
+			"pages":{
+				"Lemure (CR 1)":{
+					"name":"レムレー (CR 1)"
+				}
+			}
+		},
+		"Leng Spider (CR 14)": {
+			"name": "レン・スパイダー (CR 14)",
+			"pages":{
+				"Leng Spider (CR 14)":{
+					"name":"レン・スパイダー (CR 14)"
+				}
+			}
+		},
+		"Leonal (CR 12)": {
+			"name": "レオナル (CR 12)",
+			"pages":{
+				"Leonal (CR 12)":{
+					"name":"レオナル (CR 12)"
+				}
+			}
+		},
+		"Leopard (CR 2)": {
+			"name": "レパード (CR 2)",
+			"pages":{
+				"Leopard (CR 2)":{
+					"name":"レパード (CR 2)"
+				}
+			}
+		},
+		"Leprechaun (CR 2)": {
+			"name": "レプラコーン (CR 2)",
+			"pages":{
+				"Leprechaun (CR 2)":{
+					"name":"レプラコーン (CR 2)"
+				}
+			}
+		},
+		"Leucrotta (CR 5)": {
+			"name": "レウクロッタ (CR 5)",
+			"pages":{
+				"Leucrotta (CR 5)":{
+					"name":"レウクロッタ (CR 5)"
+				}
+			}
+		},
+		"Leukodaemon (CR 9)": {
+			"name": "ルーコダイモン (CR 9)",
+			"pages":{
+				"Leukodaemon (CR 9)":{
+					"name":"ルーコダイモン (CR 9)"
+				}
+			}
+		},
+		"Lhaksharut (CR 20)": {
+			"name": "ラークシャラット (CR 20)",
+			"pages":{
+				"Lhaksharut (CR 20)":{
+					"name":"ラークシャラット (CR 20)"
+				}
+			}
+		},
+		"Lich (necromancer 11)": {
+			"name": "リッチ (necromancer 11)",
+			"pages":{
+				"Lich (necromancer 11)":{
+					"name":"リッチ (necromancer 11)"
+				}
+			}
+		},
+		"Lillend (CR 7)": {
+			"name": "リレンド (CR 7)",
+			"pages":{
+				"Lillend (CR 7)":{
+					"name":"リレンド (CR 7)"
+				}
+			}
+		},
+		"Lion (CR 3)": {
+			"name": "ライオン (CR 3)",
+			"pages":{
+				"Lion (CR 3)":{
+					"name":"ライオン (CR 3)"
+				}
+			}
+		},
+		"Lizard (CR 0.16)": {
+			"name": "リザード (CR 0.16)",
+			"pages":{
+				"Lizard (CR 0.16)":{
+					"name":"リザード (CR 0.16)"
+				}
+			}
+		},
+		"Lizardfolk (CR 1)": {
+			"name": "リザードフォーク (CR 1)",
+			"pages":{
+				"Lizardfolk (CR 1)":{
+					"name":"リザードフォーク (CR 1)"
+				}
+			}
+		},
+		"Locathah (CR 0.5)": {
+			"name": "ロキャーサ (CR 0.5)",
+			"pages":{
+				"Locathah (CR 0.5)":{
+					"name":"ロキャーサ (CR 0.5)"
+				}
+			}
+		},
+		"Lukwata (CR 11)": {
+			"name": "ルクワタ (CR 11)",
+			"pages":{
+				"Lukwata (CR 11)":{
+					"name":"ルクワタ (CR 11)"
+				}
+			}
+		},
+		"Lunar Naga (CR 6)": {
+			"name": "ルナー・ナーガ (CR 6)",
+			"pages":{
+				"Lunar Naga (CR 6)":{
+					"name":"ルナー・ナーガ (CR 6)"
+				}
+			}
+		},
+		"Lurker In Light (CR 5)": {
+			"name": "ラーカー・イン・ライト (CR 5)",
+			"pages":{
+				"Lurker In Light (CR 5)":{
+					"name":"ラーカー・イン・ライト (CR 5)"
+				}
+			}
+		},
+		"Lyrakien (CR 2)": {
+			"name": "リラキーン (CR 2)",
+			"pages":{
+				"Lyrakien (CR 2)":{
+					"name":"リラキーン (CR 2)"
+				}
+			}
+		},
+		"Maftet (CR 6)": {
+			"name": "マフデト (CR 6)",
+			"pages":{
+				"Maftet (CR 6)":{
+					"name":"マフデト (CR 6)"
+				}
+			}
+		},
+		"Magma Mephit (CR 3)": {
+			"name": "マグマ・メフィット (CR 3)",
+			"pages":{
+				"Magma Mephit (CR 3)":{
+					"name":"マグマ・メフィット (CR 3)"
+				}
+			}
+		},
+		"Magma Ooze (CR 7)": {
+			"name": "マグマ・ウーズ (CR 7)",
+			"pages":{
+				"Magma Ooze (CR 7)":{
+					"name":"マグマ・ウーズ (CR 7)"
+				}
+			}
+		},
+		"Magmin (CR 3)": {
+			"name": "マグミン (CR 3)",
+			"pages":{
+				"Magmin (CR 3)":{
+					"name":"マグミン (CR 3)"
+				}
+			}
+		},
+		"Maharaja (CR 20)": {
+			"name": "マハラジャ (CR 20)",
+			"pages":{
+				"Maharaja (CR 20)":{
+					"name":"マハラジャ (CR 20)"
+				}
+			}
+		},
+		"Manananggal (CR 7)": {
+			"name": "マナナンガル (CR 7)",
+			"pages":{
+				"Manananggal (CR 7)":{
+					"name":"マナナンガル (CR 7)"
+				}
+			}
+		},
+		"Mandragora (CR 4)": {
+			"name": "マンドラゴラ (CR 4)",
+			"pages":{
+				"Mandragora (CR 4)":{
+					"name":"マンドラゴラ (CR 4)"
+				}
+			}
+		},
+		"Manta Ray (CR 1)": {
+			"name": "マンタ・レイ (CR 1)",
+			"pages":{
+				"Manta Ray (CR 1)":{
+					"name":"マンタ・レイ (CR 1)"
+				}
+			}
+		},
+		"Manticore (CR 5)": {
+			"name": "マンティコア (CR 5)",
+			"pages":{
+				"Manticore (CR 5)":{
+					"name":"マンティコア (CR 5)"
+				}
+			}
+		},
+		"Marai (CR 8)": {
+			"name": "マライ (CR 8)",
+			"pages":{
+				"Marai (CR 8)":{
+					"name":"マライ (CR 8)"
+				}
+			}
+		},
+		"Marid (CR 9)": {
+			"name": "マーリド (CR 9)",
+			"pages":{
+				"Marid (CR 9)":{
+					"name":"マーリド (CR 9)"
+				}
+			}
+		},
+		"Marilith (CR 17)": {
+			"name": "マリリス (CR 17)",
+			"pages":{
+				"Marilith (CR 17)":{
+					"name":"マリリス (CR 17)"
+				}
+			}
+		},
+		"Marsh Giant (CR 8)": {
+			"name": "マーシュ・ジャイアント (CR 8)",
+			"pages":{
+				"Marsh Giant (CR 8)":{
+					"name":"マーシュ・ジャイアント (CR 8)"
+				}
+			}
+		},
+		"Marut (CR 15)": {
+			"name": "マールート (CR 15)",
+			"pages":{
+				"Marut (CR 15)":{
+					"name":"マールート (CR 15)"
+				}
+			}
+		},
+		"Mastodon Elephant (CR 9)": {
+			"name": "マストドン (CR 9)",
+			"pages":{
+				"Mastodon Elephant (CR 9)":{
+					"name":"マストドン (CR 9)"
+				}
+			}
+		},
+		"Medium Air Elemental (CR 3)": {
+			"name": "中型エア・エレメンタル (CR 3)",
+			"pages":{
+				"Medium Air Elemental (CR 3)":{
+					"name":"中型エア・エレメンタル (CR 3)"
+				}
+			}
+		},
+		"Medium Earth Elemental (CR 3)": {
+			"name": "中型アース・エレメンタル (CR 3)",
+			"pages":{
+				"Medium Earth Elemental (CR 3)":{
+					"name":"中型アース・エレメンタル (CR 3)"
+				}
+			}
+		},
+		"Medium Fire Elemental (CR 3)": {
+			"name": "中型ファイアー・エレメンタル (CR 3)",
+			"pages":{
+				"Medium Fire Elemental (CR 3)":{
+					"name":"中型ファイアー・エレメンタル (CR 3)"
+				}
+			}
+		},
+		"Medium Ice Elemental (CR 3)": {
+			"name": "中型アイス・エレメンタル (CR 3)",
+			"pages":{
+				"Medium Ice Elemental (CR 3)":{
+					"name":"中型アイス・エレメンタル (CR 3)"
+				}
+			}
+		},
+		"Medium Lightning Elemental (CR 3)": {
+			"name": "中型ライトニング・エレメンタル (CR 3)",
+			"pages":{
+				"Medium Lightning Elemental (CR 3)":{
+					"name":"中型ライトニング・エレメンタル (CR 3)"
+				}
+			}
+		},
+		"Medium Magma Elemental (CR 3)": {
+			"name": "中型マグマ・エレメンタル (CR 3)",
+			"pages":{
+				"Medium Magma Elemental (CR 3)":{
+					"name":"中型マグマ・エレメンタル (CR 3)"
+				}
+			}
+		},
+		"Medium Mud Elemental (CR 3)": {
+			"name": "中型マッド・エレメンタル (CR 3)",
+			"pages":{
+				"Medium Mud Elemental (CR 3)":{
+					"name":"中型マッド・エレメンタル (CR 3)"
+				}
+			}
+		},
+		"Medium Water Elemental (CR 3)": {
+			"name": "中型ウォーター・エレメンタル (CR 3)",
+			"pages":{
+				"Medium Water Elemental (CR 3)":{
+					"name":"中型ウォーター・エレメンタル (CR 3)"
+				}
+			}
+		},
+		"Medusa (CR 7)": {
+			"name": "メドゥサ (CR 7)",
+			"pages":{
+				"Medusa (CR 7)":{
+					"name":"メドゥサ (CR 7)"
+				}
+			}
+		},
+		"Megalania (CR 7)": {
+			"name": "メガラニア (CR 7)",
+			"pages":{
+				"Megalania (CR 7)":{
+					"name":"メガラニア (CR 7)"
+				}
+			}
+		},
+		"Megaloceros (CR 4)": {
+			"name": "メガロセロス (CR 4)",
+			"pages":{
+				"Megaloceros (CR 4)":{
+					"name":"メガロセロス (CR 4)"
+				}
+			}
+		},
+		"Megatherium (CR 5)": {
+			"name": "メガテリウム (CR 5)",
+			"pages":{
+				"Megatherium (CR 5)":{
+					"name":"メガテリウム (CR 5)"
+				}
+			}
+		},
+		"Meladaemon (CR 11)": {
+			"name": "メラダイモン (CR 11)",
+			"pages":{
+				"Meladaemon (CR 11)":{
+					"name":"メラダイモン (CR 11)"
+				}
+			}
+		},
+		"Mephit (CR 3)": {
+			"name": "メフィット (CR 3)",
+			"pages":{
+				"Mephit (CR 3)":{
+					"name":"メフィット (CR 3)"
+				}
+			}
+		},
+		"Mercane (CR 5)": {
+			"name": "マーケイン (CR 5)",
+			"pages":{
+				"Mercane (CR 5)":{
+					"name":"マーケイン (CR 5)"
+				}
+			}
+		},
+		"Merfolk (warrior 1)": {
+			"name": "マーフォーク (warrior 1)",
+			"pages":{
+				"Merfolk (warrior 1)":{
+					"name":"マーフォーク (warrior 1)"
+				}
+			}
+		},
+		"Mihstu (CR 8)": {
+			"name": "ミストゥ (CR 8)",
+			"pages":{
+				"Mihstu (CR 8)":{
+					"name":"ミストゥ (CR 8)"
+				}
+			}
+		},
+		"Mimic (CR 4)": {
+			"name": "ミミック (CR 4)",
+			"pages":{
+				"Mimic (CR 4)":{
+					"name":"ミミック (CR 4)"
+				}
+			}
+		},
+		"Minotaur (CR 4)": {
+			"name": "ミノタウロス (CR 4)",
+			"pages":{
+				"Minotaur (CR 4)":{
+					"name":"ミノタウロス (CR 4)"
+				}
+			}
+		},
+		"Mite (CR 0.25)": {
+			"name": "マイト (CR 0.25)",
+			"pages":{
+				"Mite (CR 0.25)":{
+					"name":"マイト (CR 0.25)"
+				}
+			}
+		},
+		"Mithral Golem (CR 16)": {
+			"name": "ミスラル・ゴーレム (CR 16)",
+			"pages":{
+				"Mithral Golem (CR 16)":{
+					"name":"ミスラル・ゴーレム (CR 16)"
+				}
+			}
+		},
+		"Mobat (CR 3)": {
+			"name": "モバット (CR 3)",
+			"pages":{
+				"Mobat (CR 3)":{
+					"name":"モバット (CR 3)"
+				}
+			}
+		},
+		"Mobogo (CR 10)": {
+			"name": "モボゴ (CR 10)",
+			"pages":{
+				"Mobogo (CR 10)":{
+					"name":"モボゴ (CR 10)"
+				}
+			}
+		},
+		"Mohrg (CR 8)": {
+			"name": "モーグ (CR 8)",
+			"pages":{
+				"Mohrg (CR 8)":{
+					"name":"モーグ (CR 8)"
+				}
+			}
+		},
+		"Monadic Deva (CR 12)": {
+			"name": "モナディック・デーヴァ (CR 12)",
+			"pages":{
+				"Monadic Deva (CR 12)":{
+					"name":"モナディック・デーヴァ (CR 12)"
+				}
+			}
+		},
+		"Mongrelman (CR 1)": {
+			"name": "マングラルマン (CR 1)",
+			"pages":{
+				"Mongrelman (CR 1)":{
+					"name":"マングラルマン (CR 1)"
+				}
+			}
+		},
+		"Monitor Lizard (CR 2)": {
+			"name": "モニター・リザード (CR 2)",
+			"pages":{
+				"Monitor Lizard (CR 2)":{
+					"name":"モニター・リザード (CR 2)"
+				}
+			}
+		},
+		"Monkey  (CR 0.25)": {
+			"name": "モンキー  (CR 0.25)",
+			"pages":{
+				"Monkey  (CR 0.25)":{
+					"name":"モンキー  (CR 0.25)"
+				}
+			}
+		},
+		"Monkey Swarm (CR 2)": {
+			"name": "モンキー・スウォーム (CR 2)",
+			"pages":{
+				"Monkey Swarm (CR 2)":{
+					"name":"モンキー・スウォーム (CR 2)"
+				}
+			}
+		},
+		"Moon-Beast (CR 11)": {
+			"name": "ムーンビースト (CR 11)",
+			"pages":{
+				"Moon-Beast (CR 11)":{
+					"name":"ムーンビースト (CR 11)"
+				}
+			}
+		},
+		"Moonflower (CR 8)": {
+			"name": "ムーンフラワー (CR 8)",
+			"pages":{
+				"Moonflower (CR 8)":{
+					"name":"ムーンフラワー (CR 8)"
+				}
+			}
+		},
+		"Morlock (CR 2)": {
+			"name": "モーロック (CR 2)",
+			"pages":{
+				"Morlock (CR 2)":{
+					"name":"モーロック (CR 2)"
+				}
+			}
+		},
+		"Mosquito Swarm (CR 3)": {
+			"name": "モスキート・スウォーム (CR 3)",
+			"pages":{
+				"Mosquito Swarm (CR 3)":{
+					"name":"モスキート・スウォーム (CR 3)"
+				}
+			}
+		},
+		"Moss Troll (CR 3)": {
+			"name": "モス・トロル (CR 3)",
+			"pages":{
+				"Moss Troll (CR 3)":{
+					"name":"モス・トロル (CR 3)"
+				}
+			}
+		},
+		"Mothman (CR 6)": {
+			"name": "モスマン (CR 6)",
+			"pages":{
+				"Mothman (CR 6)":{
+					"name":"モスマン (CR 6)"
+				}
+			}
+		},
+		"Movanic Deva (CR 10)": {
+			"name": "モヴァニック・デーヴァ (CR 10)",
+			"pages":{
+				"Movanic Deva (CR 10)":{
+					"name":"モヴァニック・デーヴァ (CR 10)"
+				}
+			}
+		},
+		"Mu Spore (CR 21)": {
+			"name": "ミュー・スポア (CR 21)",
+			"pages":{
+				"Mu Spore (CR 21)":{
+					"name":"ミュー・スポア (CR 21)"
+				}
+			}
+		},
+		"Mummy (CR 5)": {
+			"name": "ミイラ (CR 5)",
+			"pages":{
+				"Mummy (CR 5)":{
+					"name":"ミイラ (CR 5)"
+				}
+			}
+		},
+		"Myceloid (CR 4)": {
+			"name": "マイシロイド (CR 4)",
+			"pages":{
+				"Myceloid (CR 4)":{
+					"name":"マイシロイド (CR 4)"
+				}
+			}
+		},
+		"Nabasu (CR 8)": {
+			"name": "ナバッスゥ (CR 8)",
+			"pages":{
+				"Nabasu (CR 8)":{
+					"name":"ナバッスゥ (CR 8)"
+				}
+			}
+		},
+		"Nalfeshnee (CR 14)": {
+			"name": "ナルフェシュネー (CR 14)",
+			"pages":{
+				"Nalfeshnee (CR 14)":{
+					"name":"ナルフェシュネー (CR 14)"
+				}
+			}
+		},
+		"Naunet (CR 7)": {
+			"name": "ナウネト (CR 7)",
+			"pages":{
+				"Naunet (CR 7)":{
+					"name":"ナウネト (CR 7)"
+				}
+			}
+		},
+		"Necrophidius (CR 3)": {
+			"name": "ネクロンアイデアス (CR 3)",
+			"pages":{
+				"Necrophidius (CR 3)":{
+					"name":"ネクロンアイデアス (CR 3)"
+				}
+			}
+		},
+		"Neh-thalggu (CR 8)": {
+			"name": "ネ・サールグー (CR 8)",
+			"pages":{
+				"Neh-thalggu (CR 8)":{
+					"name":"ネ・サールグー (CR 8)"
+				}
+			}
+		},
+		"Neothelid (CR 15)": {
+			"name": "ネオセリッド (CR 15)",
+			"pages":{
+				"Neothelid (CR 15)":{
+					"name":"ネオセリッド (CR 15)"
+				}
+			}
+		},
+		"Nephilim (CR 8)": {
+			"name": "ネフィリム (CR 8)",
+			"pages":{
+				"Nephilim (CR 8)":{
+					"name":"ネフィリム (CR 8)"
+				}
+			}
+		},
+		"Nereid (CR 10)": {
+			"name": "ネレイド (CR 10)",
+			"pages":{
+				"Nereid (CR 10)":{
+					"name":"ネレイド (CR 10)"
+				}
+			}
+		},
+		"Nessian Warhound (CR 9)": {
+			"name": "ネシアン・ウォーハウンド (CR 9)",
+			"pages":{
+				"Nessian Warhound (CR 9)":{
+					"name":"ネシアン・ウォーハウンド (CR 9)"
+				}
+			}
+		},
+		"Night Hag (CR 9)": {
+			"name": "ナイト・ハグ (CR 9)",
+			"pages":{
+				"Night Hag (CR 9)":{
+					"name":"ナイト・ハグ (CR 9)"
+				}
+			}
+		},
+		"Nightcrawler (CR 18)": {
+			"name": "ナイトクロウラー (CR 18)",
+			"pages":{
+				"Nightcrawler (CR 18)":{
+					"name":"ナイトクロウラー (CR 18)"
+				}
+			}
+		},
+		"Nightmare (CR 5)": {
+			"name": "ナイトメア (CR 5)",
+			"pages":{
+				"Nightmare (CR 5)":{
+					"name":"ナイトメア (CR 5)"
+				}
+			}
+		},
+		"Nightwalker (CR 16)": {
+			"name": "ナイトウォーカー (CR 16)",
+			"pages":{
+				"Nightwalker (CR 16)":{
+					"name":"ナイトウォーカー (CR 16)"
+				}
+			}
+		},
+		"Nightwave (CR 20)": {
+			"name": "ナイトウェイヴ (CR 20)",
+			"pages":{
+				"Nightwave (CR 20)":{
+					"name":"ナイトウェイヴ (CR 20)"
+				}
+			}
+		},
+		"Nightwing (CR 14)": {
+			"name": "ナイトウィング (CR 14)",
+			"pages":{
+				"Nightwing (CR 14)":{
+					"name":"ナイトウィング (CR 14)"
+				}
+			}
+		},
+		"Nixie (CR 1)": {
+			"name": "ニクシー (CR 1)",
+			"pages":{
+				"Nixie (CR 1)":{
+					"name":"ニクシー (CR 1)"
+				}
+			}
+		},
+		"Norn (CR 18)": {
+			"name": "ノルン (CR 18)",
+			"pages":{
+				"Norn (CR 18)":{
+					"name":"ノルン (CR 18)"
+				}
+			}
+		},
+		"Nuckelavee (CR 9)": {
+			"name": "ナックラヴィー (CR 9)",
+			"pages":{
+				"Nuckelavee (CR 9)":{
+					"name":"ナックラヴィー (CR 9)"
+				}
+			}
+		},
+		"Nue (CR 10)": {
+			"name": "ヌエ (CR 10)",
+			"pages":{
+				"Nue (CR 10)":{
+					"name":"ヌエ (CR 10)"
+				}
+			}
+		},
+		"Nuglub (CR 2)": {
+			"name": "ナグラブ (CR 2)",
+			"pages":{
+				"Nuglub (CR 2)":{
+					"name":"ナグラブ (CR 2)"
+				}
+			}
+		},
+		"Nymph (CR 7)": {
+			"name": "ニンフ (CR 7)",
+			"pages":{
+				"Nymph (CR 7)":{
+					"name":"ニンフ (CR 7)"
+				}
+			}
+		},
+		"Nyogoth (CR 10)": {
+			"name": "ナイオゴス (CR 10)",
+			"pages":{
+				"Nyogoth (CR 10)":{
+					"name":"ナイオゴス (CR 10)"
+				}
+			}
+		},
+		"Ochre Jelly (CR 5)": {
+			"name": "オーカー・ジェリー (CR 5)",
+			"pages":{
+				"Ochre Jelly (CR 5)":{
+					"name":"オーカー・ジェリー (CR 5)"
+				}
+			}
+		},
+		"Octopus (CR 1)": {
+			"name": "オクトパス (CR 1)",
+			"pages":{
+				"Octopus (CR 1)":{
+					"name":"オクトパス (CR 1)"
+				}
+			}
+		},
+		"Ogre (CR 3)": {
+			"name": "オーガ (CR 3)",
+			"pages":{
+				"Ogre (CR 3)":{
+					"name":"オーガ (CR 3)"
+				}
+			}
+		},
+		"Ogre Mage (CR 8)": {
+			"name": "オーガ・メイジ (CR 8)",
+			"pages":{
+				"Ogre Mage (CR 8)":{
+					"name":"オーガ・メイジ (CR 8)"
+				}
+			}
+		},
+		"Ogre Spider (CR 5)": {
+			"name": "オーガ・スパイダー (CR 5)",
+			"pages":{
+				"Ogre Spider (CR 5)":{
+					"name":"オーガ・スパイダー (CR 5)"
+				}
+			}
+		},
+		"Ogrekin (fighter 2)": {
+			"name": "オーガキン (fighter 2)",
+			"pages":{
+				"Ogrekin (fighter 2)":{
+					"name":"オーガキン (fighter 2)"
+				}
+			}
+		},
+		"Olethrodaemon (CR 20)": {
+			"name": "オレスロダイモン (CR 20)",
+			"pages":{
+				"Olethrodaemon (CR 20)":{
+					"name":"オレスロダイモン (CR 20)"
+				}
+			}
+		},
+		"Omox (CR 12)": {
+			"name": "オーモクス (CR 12)",
+			"pages":{
+				"Omox (CR 12)":{
+					"name":"オーモクス (CR 12)"
+				}
+			}
+		},
+		"Ooze Mephit (CR 3)": {
+			"name": "ウーズ・メフィット (CR 3)",
+			"pages":{
+				"Ooze Mephit (CR 3)":{
+					"name":"ウーズ・メフィット (CR 3)"
+				}
+			}
+		},
+		"Orc (warrior 1)": {
+			"name": "オーク (warrior 1)",
+			"pages":{
+				"Orc (warrior 1)":{
+					"name":" (warrior 1)"
+				}
+			}
+		},
+		"Orca (CR 5)": {
+			"name": "オルカ (CR 5)",
+			"pages":{
+				"Orca (CR 5)":{
+					"name":"オルカ (CR 5)"
+				}
+			}
+		},
+		"Oread (fighter 1)": {
+			"name": "オレイアス (fighter 1)",
+			"pages":{
+				"Oread (fighter 1)":{
+					"name":"オレイアス (fighter 1)"
+				}
+			}
+		},
+		"Otter (CR 0.25)": {
+			"name": "オッター (CR 0.25)",
+			"pages":{
+				"Otter (CR 0.25)":{
+					"name":"オッター (CR 0.25)"
+				}
+			}
+		},
+		"Otyugh (CR 4)": {
+			"name": "アティアグ (CR 4)",
+			"pages":{
+				"Otyugh (CR 4)":{
+					"name":"アティアグ (CR 4)"
+				}
+			}
+		},
+		"Owl  (CR 0.33)": {
+			"name": "アウル  (CR 0.33)",
+			"pages":{
+				"Owl  (CR 0.33)":{
+					"name":"アウル  (CR 0.33)"
+				}
+			}
+		},
+		"Owlbear (CR 4)": {
+			"name": "アウルベア (CR 4)",
+			"pages":{
+				"Owlbear (CR 4)":{
+					"name":"アウルベア (CR 4)"
+				}
+			}
+		},
+		"Pachycephalosaurus (CR 4)": {
+			"name": "パキケファロサウルス (CR 4)",
+			"pages":{
+				"Pachycephalosaurus (CR 4)":{
+					"name":"パキケファロサウルス (CR 4)"
+				}
+			}
+		},
+		"Pairaka (CR 7)": {
+			"name": "パイラカ (CR 7)",
+			"pages":{
+				"Pairaka (CR 7)":{
+					"name":"パイラカ (CR 7)"
+				}
+			}
+		},
+		"Pale Stranger (CR 10)": {
+			"name": "ペイル・ストレンジャー (CR 10)",
+			"pages":{
+				"Pale Stranger (CR 10)":{
+					"name":"ペイル・ストレンジャー (CR 10)"
+				}
+			}
+		},
+		"Paracletus (CR 2)": {
+			"name": "パラクレトス (CR 2)",
+			"pages":{
+				"Paracletus (CR 2)":{
+					"name":"パラクレトス (CR 2)"
+				}
+			}
+		},
+		"Parasaurolophus (CR 4)": {
+			"name": "パラサウロロフス (CR 4)",
+			"pages":{
+				"Parasaurolophus (CR 4)":{
+					"name":"パラサウロロフス (CR 4)"
+				}
+			}
+		},
+		"Pech (CR 3)": {
+			"name": "ペック (CR 3)",
+			"pages":{
+				"Pech (CR 3)":{
+					"name":"ペック (CR 3)"
+				}
+			}
+		},
+		"Pegasus (CR 3)": {
+			"name": "ペガサス (CR 3)",
+			"pages":{
+				"Pegasus (CR 3)":{
+					"name":"ペガサス (CR 3)"
+				}
+			}
+		},
+		"Penanggalen (witch 5)": {
+			"name": "ペナンガラン (witch 5)",
+			"pages":{
+				"Penanggalen (witch 5)":{
+					"name":"ペナンガラン (witch 5)"
+				}
+			}
+		},
+		"Peri (CR 14)": {
+			"name": "ペリ (CR 14)",
+			"pages":{
+				"Peri (CR 14)":{
+					"name":"ペリ (CR 14)"
+				}
+			}
+		},
+		"Peryton (CR 4)": {
+			"name": "ペリュトン (CR 4)",
+			"pages":{
+				"Peryton (CR 4)":{
+					"name":"ペリュトン (CR 4)"
+				}
+			}
+		},
+		"Petitioner (CR 1)": {
+			"name": "ペティショナー (CR 1)",
+			"pages":{
+				"Petitioner (CR 1)":{
+					"name":"ペティショナー (CR 1)"
+				}
+			}
+		},
+		"Phantom Fungus (CR 3)": {
+			"name": "ファントム・ファンガス (CR 3)",
+			"pages":{
+				"Phantom Fungus (CR 3)":{
+					"name":"ファントム・ファンガス (CR 3)"
+				}
+			}
+		},
+		"Phase Spider (CR 5)": {
+			"name": "フェイズ・スパイダー (CR 5)",
+			"pages":{
+				"Phase Spider (CR 5)":{
+					"name":"フェイズ・スパイダー (CR 5)"
+				}
+			}
+		},
+		"Phoenix (CR 15)": {
+			"name": "フェニックス (CR 15)",
+			"pages":{
+				"Phoenix (CR 15)":{
+					"name":"フェニックス (CR 15)"
+				}
+			}
+		},
+		"Phycomid (CR 4)": {
+			"name": "フィコマイド (CR 4)",
+			"pages":{
+				"Phycomid (CR 4)":{
+					"name":"フィコマイド (CR 4)"
+				}
+			}
+		},
+		"Pig (CR 0.33)": {
+			"name": "ピッグ (CR 0.33)",
+			"pages":{
+				"Pig (CR 0.33)":{
+					"name":"ピッグ (CR 0.33)"
+				}
+			}
+		},
+		"Piscodaemon (CR 10)": {
+			"name": "ピスコダイモン (CR 10)",
+			"pages":{
+				"Piscodaemon (CR 10)":{
+					"name":"ピスコダイモン (CR 10)"
+				}
+			}
+		},
+		"Pit Fiend (CR 20)": {
+			"name": "ピット・フィーンド (CR 20)",
+			"pages":{
+				"Pit Fiend (CR 20)":{
+					"name":"ピット・フィーンド (CR 20)"
+				}
+			}
+		},
+		"Pixie (CR 4)": {
+			"name": "ピクシー (CR 4)",
+			"pages":{
+				"Pixie (CR 4)":{
+					"name":"ピクシー (CR 4)"
+				}
+			}
+		},
+		"Plague Zombie (CR 0.5)": {
+			"name": "プレイグ・ゾンビ (CR 0.5)",
+			"pages":{
+				"Plague Zombie (CR 0.5)":{
+					"name":"プレイグ・ゾンビ (CR 0.5)"
+				}
+			}
+		},
+		"Planetar (CR 16)": {
+			"name": "プラネター (CR 16)",
+			"pages":{
+				"Planetar (CR 16)":{
+					"name":"プラネター (CR 16)"
+				}
+			}
+		},
+		"Plasma Ooze (CR 16)": {
+			"name": "プラズマ・ウーズ (CR 16)",
+			"pages":{
+				"Plasma Ooze (CR 16)":{
+					"name":"プラズマ・ウーズ (CR 16)"
+				}
+			}
+		},
+		"Pleroma (CR 20)": {
+			"name": "プレローマ (CR 20)",
+			"pages":{
+				"Pleroma (CR 20)":{
+					"name":"プレローマ (CR 20)"
+				}
+			}
+		},
+		"Poison Frog (CR 0.5)": {
+			"name": "ポイズン・フロッグ (CR 0.5)",
+			"pages":{
+				"Poison Frog (CR 0.5)":{
+					"name":"ポイズン・フロッグ (CR 0.5)"
+				}
+			}
+		},
+		"Poltergeist (CR 2)": {
+			"name": "ポルターガイスト (CR 2)",
+			"pages":{
+				"Poltergeist (CR 2)":{
+					"name":"ポルターガイスト (CR 2)"
+				}
+			}
+		},
+		"Pony (CR 0.5)": {
+			"name": "ポニー (CR 0.5)",
+			"pages":{
+				"Pony (CR 0.5)":{
+					"name":"ポニー (CR 0.5)"
+				}
+			}
+		},
+		"Popobala (CR 15)": {
+			"name": "ポポバワ (CR 15)",
+			"pages":{
+				"Popobala (CR 15)":{
+					"name":"ポポバワ (CR 15)"
+				}
+			}
+		},
+		"Porcupine (CR 0.25)": {
+			"name": "ポーキュパイン (CR 0.25)",
+			"pages":{
+				"Porcupine (CR 0.25)":{
+					"name":"ポーキュパイン (CR 0.25)"
+				}
+			}
+		},
+		"Pseudodragon (CR 1)": {
+			"name": "スードゥドラゴン (CR 1)",
+			"pages":{
+				"Pseudodragon (CR 1)":{
+					"name":"スードゥドラゴン (CR 1)"
+				}
+			}
+		},
+		"Pteranodon (CR 3)": {
+			"name": "プテラノドン (CR 3)",
+			"pages":{
+				"Pteranodon (CR 3)":{
+					"name":"プテラノドン (CR 3)"
+				}
+			}
+		},
+		"Pugwampi (CR 0.5)": {
+			"name": "パグワンピ (CR 0.5)",
+			"pages":{
+				"Pugwampi (CR 0.5)":{
+					"name":"パグワンピ (CR 0.5)"
+				}
+			}
+		},
+		"Pukwudgie (CR 7)": {
+			"name": "パクアジ (CR 7)",
+			"pages":{
+				"Pukwudgie (CR 7)":{
+					"name":"パクアジ (CR 7)"
+				}
+			}
+		},
+		"Purple Worm (CR 12)": {
+			"name": "パープル・ワーム (CR 12)",
+			"pages":{
+				"Purple Worm (CR 12)":{
+					"name":"パープル・ワーム (CR 12)"
+				}
+			}
+		},
+		"Purrodaemon (CR 18)": {
+			"name": "プロダイモン (CR 18)",
+			"pages":{
+				"Purrodaemon (CR 18)":{
+					"name":"プロダイモン (CR 18)"
+				}
+			}
+		},
+		"Quasit (CR 2)": {
+			"name": "クアジット (CR 2)",
+			"pages":{
+				"Quasit (CR 2)":{
+					"name":"クアジット (CR 2)"
+				}
+			}
+		},
+		"Quickling (CR 3)": {
+			"name": "クイックリング (CR 3)",
+			"pages":{
+				"Quickling (CR 3)":{
+					"name":"クイックリング (CR 3)"
+				}
+			}
+		},
+		"Quickwood (CR 8)": {
+			"name": "クイックウッド (CR 8)",
+			"pages":{
+				"Quickwood (CR 8)":{
+					"name":"クイックウッド (CR 8)"
+				}
+			}
+		},
+		"Raccoon (CR 0.5)": {
+			"name": "ラクーン (CR 0.5)",
+			"pages":{
+				"Raccoon (CR 0.5)":{
+					"name":"ラクーン (CR 0.5)"
+				}
+			}
+		},
+		"Rakshasa (CR 10)": {
+			"name": "ラークシャサ (CR 10)",
+			"pages":{
+				"Rakshasa (CR 10)":{
+					"name":"ラークシャサ (CR 10)"
+				}
+			}
+		},
+		"Raktavarna (CR 2)": {
+			"name": "ラクタヴァーナ (CR 2)",
+			"pages":{
+				"Raktavarna (CR 2)":{
+					"name":"ラクタヴァーナ (CR 2)"
+				}
+			}
+		},
+		"Ram (CR 1)": {
+			"name": "ラム (CR 1)",
+			"pages":{
+				"Ram (CR 1)":{
+					"name":"ラム (CR 1)"
+				}
+			}
+		},
+		"Rast (CR 5)": {
+			"name": "ラースト (CR 5)",
+			"pages":{
+				"Rast (CR 5)":{
+					"name":"ラースト (CR 5)"
+				}
+			}
+		},
+		"Rat  (CR 0.25)": {
+			"name": "ラット  (CR 0.25)",
+			"pages":{
+				"Rat  (CR 0.25)":{
+					"name":"ラット  (CR 0.25)"
+				}
+			}
+		},
+		"Rat Swarm (CR 2)": {
+			"name": "ラット・スウォーム (CR 2)",
+			"pages":{
+				"Rat Swarm (CR 2)":{
+					"name":"ラット・スウォーム (CR 2)"
+				}
+			}
+		},
+		"Ratfolk (expert 1)": {
+			"name": "ラットフォーク (expert 1)",
+			"pages":{
+				"Ratfolk (expert 1)":{
+					"name":"ラットフォーク (expert 1)"
+				}
+			}
+		},
+		"Raven  (CR 0.16)": {
+			"name": "レイヴン  (CR 0.16)",
+			"pages":{
+				"Raven  (CR 0.16)":{
+					"name":"レイヴン  (CR 0.16)"
+				}
+			}
+		},
+		"Red Wyrm Ravener (CR 22)": {
+			"name": "レッド・ワーム・ラヴナー (CR 22)",
+			"pages":{
+				"Red Wyrm Ravener (CR 22)":{
+					"name":"レッド・ワーム・ラヴナー (CR 22)"
+				}
+			}
+		},
+		"Redcap (CR 6)": {
+			"name": "レッドキャップ (CR 6)",
+			"pages":{
+				"Redcap (CR 6)":{
+					"name":"レッドキャップ (CR 6)"
+				}
+			}
+		},
+		"Reefclaw (CR 1)": {
+			"name": "リーフクロウ (CR 1)",
+			"pages":{
+				"Reefclaw (CR 1)":{
+					"name":"リーフクロウ (CR 1)"
+				}
+			}
+		},
+		"Remorhaz (CR 7)": {
+			"name": "ルモアハズ (CR 7)",
+			"pages":{
+				"Remorhaz (CR 7)":{
+					"name":"ルモアハズ (CR 7)"
+				}
+			}
+		},
+		"Retriever (CR 11)": {
+			"name": "リトリーヴァー (CR 11)",
+			"pages":{
+				"Retriever (CR 11)":{
+					"name":"リトリーヴァー (CR 11)"
+				}
+			}
+		},
+		"Revenant (CR 6)": {
+			"name": "リヴェナント (CR 6)",
+			"pages":{
+				"Revenant (CR 6)":{
+					"name":"リヴェナント (CR 6)"
+				}
+			}
+		},
+		"Rhinoceros (CR 4)": {
+			"name": "ライナセラス (CR 4)",
+			"pages":{
+				"Rhinoceros (CR 4)":{
+					"name":"ライナセラス (CR 4)"
+				}
+			}
+		},
+		"Riding Dog (CR 1)": {
+			"name": "ライディング・ドッグ (CR 1)",
+			"pages":{
+				"Riding Dog (CR 1)":{
+					"name":"ライディング・ドッグ (CR 1)"
+				}
+			}
+		},
+		"Rift Drake (CR 9)": {
+			"name": "リフト・ドレイク (CR 9)",
+			"pages":{
+				"Rift Drake (CR 9)":{
+					"name":"リフト・ドレイク (CR 9)"
+				}
+			}
+		},
+		"River Drake (CR 3)": {
+			"name": "リヴァー・ドレイク (CR 3)",
+			"pages":{
+				"River Drake (CR 3)":{
+					"name":"リヴァー・ドレイク (CR 3)"
+				}
+			}
+		},
+		"Roc (CR 9)": {
+			"name": "ロック (CR 9)",
+			"pages":{
+				"Roc (CR 9)":{
+					"name":"ロック (CR 9)"
+				}
+			}
+		},
+		"Rock Troll (CR 6)": {
+			"name": "ロック・トロル (CR 6)",
+			"pages":{
+				"Rock Troll (CR 6)":{
+					"name":"ロック・トロル (CR 6)"
+				}
+			}
+		},
+		"Roper (CR 12)": {
+			"name": "ローパー (CR 12)",
+			"pages":{
+				"Roper (CR 12)":{
+					"name":"ローパー (CR 12)"
+				}
+			}
+		},
+		"Rot Grub Swarm (CR 7)": {
+			"name": "ロット・グラブ・スウォーム (CR 7)",
+			"pages":{
+				"Rot Grub Swarm (CR 7)":{
+					"name":"ロット・グラブ・スウォーム (CR 7)"
+				}
+			}
+		},
+		"Royal Naga (CR 11)": {
+			"name": "ロイヤル・ナーガ (CR 11)",
+			"pages":{
+				"Royal Naga (CR 11)":{
+					"name":"ロイヤル・ナーガ (CR 11)"
+				}
+			}
+		},
+		"Rune Giant (CR 17)": {
+			"name": "ルーン・ジャイアント (CR 17)",
+			"pages":{
+				"Rune Giant (CR 17)":{
+					"name":"ルーン・ジャイアント (CR 17)"
+				}
+			}
+		},
+		"Rusalka (CR 12)": {
+			"name": "ルサルカ (CR 12)",
+			"pages":{
+				"Rusalka (CR 12)":{
+					"name":"ルサルカ (CR 12)"
+				}
+			}
+		},
+		"Rust Monster (CR 3)": {
+			"name": "ラスト・モンスター (CR 3)",
+			"pages":{
+				"Rust Monster (CR 3)":{
+					"name":"ラスト・モンスター (CR 3)"
+				}
+			}
+		},
+		"Sabosan (CR 5)": {
+			"name": "サボサン (CR 5)",
+			"pages":{
+				"Sabosan (CR 5)":{
+					"name":"サボサン (CR 5)"
+				}
+			}
+		},
+		"Sagari (CR 0.5)": {
+			"name": "サガリ (CR 0.5)",
+			"pages":{
+				"Sagari (CR 0.5)":{
+					"name":"サガリ (CR 0.5)"
+				}
+			}
+		},
+		"Sahuagin (CR 2)": {
+			"name": "サフアグン (CR 2)",
+			"pages":{
+				"Sahuagin (CR 2)":{
+					"name":"サフアグン (CR 2)"
+				}
+			}
+		},
+		"Salamander (CR 6)": {
+			"name": "サラマンダー (CR 6)",
+			"pages":{
+				"Salamander (CR 6)":{
+					"name":"サラマンダー (CR 6)"
+				}
+			}
+		},
+		"Salt Mephit (CR 3)": {
+			"name": "ソルト・メフィット (CR 3)",
+			"pages":{
+				"Salt Mephit (CR 3)":{
+					"name":"ソルト・メフィット (CR 3)"
+				}
+			}
+		},
+		"Saltwater Merrow (CR 6)": {
+			"name": "ソルトウォーター・メロウ (CR 6)",
+			"pages":{
+				"Saltwater Merrow (CR 6)":{
+					"name":"ソルトウォーター・メロウ (CR 6)"
+				}
+			}
+		},
+		"Sandman (CR 3)": {
+			"name": "サンドマン (CR 3)",
+			"pages":{
+				"Sandman (CR 3)":{
+					"name":"サンドマン (CR 3)"
+				}
+			}
+		},
+		"Sapphire Jellyfish (CR 11)": {
+			"name": "サファイア・ジェリーフィッシュ (CR 11)",
+			"pages":{
+				"Sapphire Jellyfish (CR 11)":{
+					"name":"サファイア・ジェリーフィッシュ (CR 11)"
+				}
+			}
+		},
+		"Sard (CR 19)": {
+			"name": "サード (CR 19)",
+			"pages":{
+				"Sard (CR 19)":{
+					"name":"サード (CR 19)"
+				}
+			}
+		},
+		"Sargassum Fiend (CR 9)": {
+			"name": "サルガッスム・フィーンド (CR 9)",
+			"pages":{
+				"Sargassum Fiend (CR 9)":{
+					"name":"サルガッスム・フィーンド (CR 9)"
+				}
+			}
+		},
+		"Sasquatch (CR 2)": {
+			"name": "サスカッチ (CR 2)",
+			"pages":{
+				"Sasquatch (CR 2)":{
+					"name":"サスカッチ (CR 2)"
+				}
+			}
+		},
+		"Satyr (CR 4)": {
+			"name": "サテュロス (CR 4)",
+			"pages":{
+				"Satyr (CR 4)":{
+					"name":"サテュロス (CR 4)"
+				}
+			}
+		},
+		"Scarecrow (CR 4)": {
+			"name": "スケアクロウ (CR 4)",
+			"pages":{
+				"Scarecrow (CR 4)":{
+					"name":"スケアクロウ (CR 4)"
+				}
+			}
+		},
+		"Sceaduinar (CR 7)": {
+			"name": "スケイドゥナー (CR 7)",
+			"pages":{
+				"Sceaduinar (CR 7)":{
+					"name":"スケイドゥナー (CR 7)"
+				}
+			}
+		},
+		"Schir (CR 4)": {
+			"name": "シーア (CR 4)",
+			"pages":{
+				"Schir (CR 4)":{
+					"name":"シーア (CR 4)"
+				}
+			}
+		},
+		"Scrag (CR 5)": {
+			"name": "スクラグ (CR 5)",
+			"pages":{
+				"Scrag (CR 5)":{
+					"name":"スクラグ (CR 5)"
+				}
+			}
+		},
+		"Scylla (CR 16)": {
+			"name": "スキュラ (CR 16)",
+			"pages":{
+				"Scylla (CR 16)":{
+					"name":"スキュラ (CR 16)"
+				}
+			}
+		},
+		"Sea Bonze (CR 15)": {
+			"name": "シー・ボンズ (CR 15)",
+			"pages":{
+				"Sea Bonze (CR 15)":{
+					"name":"シー・ボンズ (CR 15)"
+				}
+			}
+		},
+		"Sea Drake (CR 6)": {
+			"name": "シー・ドレイク (CR 6)",
+			"pages":{
+				"Sea Drake (CR 6)":{
+					"name":"シー・ドレイク (CR 6)"
+				}
+			}
+		},
+		"Sea Hag (CR 4)": {
+			"name": "シー・ハグ (CR 4)",
+			"pages":{
+				"Sea Hag (CR 4)":{
+					"name":"シー・ハグ (CR 4)"
+				}
+			}
+		},
+		"Sea Serpent (CR 12)": {
+			"name": "シー・サーペント (CR 12)",
+			"pages":{
+				"Sea Serpent (CR 12)":{
+					"name":"シー・サーペント (CR 12)"
+				}
+			}
+		},
+		"Seaweed Leshy (CR 3)": {
+			"name": "シーウィード・レーシー (CR 3)",
+			"pages":{
+				"Seaweed Leshy (CR 3)":{
+					"name":"シーウィード・レーシー (CR 3)"
+				}
+			}
+		},
+		"Sepid (CR 14)": {
+			"name": "セピド (CR 14)",
+			"pages":{
+				"Sepid (CR 14)":{
+					"name":"セピド (CR 14)"
+				}
+			}
+		},
+		"Serpentfolk (CR 4)": {
+			"name": "サーペントフォーク (CR 4)",
+			"pages":{
+				"Serpentfolk (CR 4)":{
+					"name":"サーペントフォーク (CR 4)"
+				}
+			}
+		},
+		"Seugathi (CR 6)": {
+			"name": "シゥガシー (CR 6)",
+			"pages":{
+				"Seugathi (CR 6)":{
+					"name":"シゥガシー (CR 6)"
+				}
+			}
+		},
+		"Shadow (CR 3)": {
+			"name": "シャドウ (CR 3)",
+			"pages":{
+				"Shadow (CR 3)":{
+					"name":"シャドウ (CR 3)"
+				}
+			}
+		},
+		"Shadow Demon (CR 7)": {
+			"name": "シャドウ・デーモン (CR 7)",
+			"pages":{
+				"Shadow Demon (CR 7)":{
+					"name":"シャドウ・デーモン (CR 7)"
+				}
+			}
+		},
+		"Shadow Mastiff (CR 5)": {
+			"name": "シャドウ・マスティフ (CR 5)",
+			"pages":{
+				"Shadow Mastiff (CR 5)":{
+					"name":"シャドウ・マスティフ (CR 5)"
+				}
+			}
+		},
+		"Shae (CR 4)": {
+			"name": "シェイ (CR 4)",
+			"pages":{
+				"Shae (CR 4)":{
+					"name":"シェイ (CR 4)"
+				}
+			}
+		},
+		"Shaggy Demodand (CR 18)": {
+			"name": "シャギィ・デモダンド (CR 18)",
+			"pages":{
+				"Shaggy Demodand (CR 18)":{
+					"name":"シャギィ・デモダンド (CR 18)"
+				}
+			}
+		},
+		"Shaitan (CR 7)": {
+			"name": "シャイタン (CR 7)",
+			"pages":{
+				"Shaitan (CR 7)":{
+					"name":"シャイタン (CR 7)"
+				}
+			}
+		},
+		"Shambling Mound (CR 6)": {
+			"name": "シャンブリング・マウンド (CR 6)",
+			"pages":{
+				"Shambling Mound (CR 6)":{
+					"name":"シャンブリング・マウンド (CR 6)"
+				}
+			}
+		},
+		"Shantak (CR 8)": {
+			"name": "シャンタク (CR 8)",
+			"pages":{
+				"Shantak (CR 8)":{
+					"name":"シャンタク (CR 8)"
+				}
+			}
+		},
+		"Shark (CR 2)": {
+			"name": "シャーク (CR 2)",
+			"pages":{
+				"Shark (CR 2)":{
+					"name":"シャーク (CR 2)"
+				}
+			}
+		},
+		"Shark-Eating Crab (CR 7)": {
+			"name": "シャークイーティング・クラブ (CR 7)",
+			"pages":{
+				"Shark-Eating Crab (CR 7)":{
+					"name":"シャークイーティング・クラブ (CR 7)"
+				}
+			}
+		},
+		"Shedu (CR 9)": {
+			"name": "シェドゥ (CR 9)",
+			"pages":{
+				"Shedu (CR 9)":{
+					"name":"シェドゥ (CR 9)"
+				}
+			}
+		},
+		"Shemhazian (CR 16)": {
+			"name": "シェムハジアン (CR 16)",
+			"pages":{
+				"Shemhazian (CR 16)":{
+					"name":"シェムハジアン (CR 16)"
+				}
+			}
+		},
+		"Shield Archon (CR 10)": {
+			"name": "シールド・アルコン (CR 10)",
+			"pages":{
+				"Shield Archon (CR 10)":{
+					"name":"シールド・アルコン (CR 10)"
+				}
+			}
+		},
+		"Shikigami (CR 2)": {
+			"name": "シキガミ (CR 2)",
+			"pages":{
+				"Shikigami (CR 2)":{
+					"name":"シキガミ (CR 2)"
+				}
+			}
+		},
+		"Shinigami (CR 17)": {
+			"name": "シニガミ (CR 17)",
+			"pages":{
+				"Shinigami (CR 17)":{
+					"name":"シニガミ (CR 17)"
+				}
+			}
+		},
+		"Shining Child (CR 12)": {
+			"name": "シャイニング・チャイルド (CR 12)",
+			"pages":{
+				"Shining Child (CR 12)":{
+					"name":"シャイニング・チャイルド (CR 12)"
+				}
+			}
+		},
+		"Shipwrecker Crab (CR 13)": {
+			"name": "シップレッカー・クラブ (CR 13)",
+			"pages":{
+				"Shipwrecker Crab (CR 13)":{
+					"name":"シップレッカー・クラブ (CR 13)"
+				}
+			}
+		},
+		"Shira (CR 12)": {
+			"name": "シラ (CR 12)",
+			"pages":{
+				"Shira (CR 12)":{
+					"name":"シラ (CR 12)"
+				}
+			}
+		},
+		"Shocker Lizard (CR 2)": {
+			"name": "ショッカー・リザード (CR 2)",
+			"pages":{
+				"Shocker Lizard (CR 2)":{
+					"name":"ショッカー・リザード (CR 2)"
+				}
+			}
+		},
+		"Shoggoth (CR 19)": {
+			"name": "ショゴス (CR 19)",
+			"pages":{
+				"Shoggoth (CR 19)":{
+					"name":"ショゴス (CR 19)"
+				}
+			}
+		},
+		"Shoggti (CR 7)": {
+			"name": "ショグティー (CR 7)",
+			"pages":{
+				"Shoggti (CR 7)":{
+					"name":"ショグティー (CR 7)"
+				}
+			}
+		},
+		"Silvanshee (CR 2)": {
+			"name": "シルヴァンシー (CR 2)",
+			"pages":{
+				"Silvanshee (CR 2)":{
+					"name":"シルヴァンシー (CR 2)"
+				}
+			}
+		},
+		"Simurgh (CR 18)": {
+			"name": "シムルグ (CR 18)",
+			"pages":{
+				"Simurgh (CR 18)":{
+					"name":"シムルグ (CR 18)"
+				}
+			}
+		},
+		"Sinspawn (CR 2)": {
+			"name": "シンスポーン (CR 2)",
+			"pages":{
+				"Sinspawn (CR 2)":{
+					"name":"シンスポーン (CR 2)"
+				}
+			}
+		},
+		"Siren (CR 5)": {
+			"name": "セイレーン (CR 5)",
+			"pages":{
+				"Siren (CR 5)":{
+					"name":"セイレーン (CR 5)"
+				}
+			}
+		},
+		"Siyokoy (CR 10)": {
+			"name": "ショコイ (CR 10)",
+			"pages":{
+				"Siyokoy (CR 10)":{
+					"name":"ショコイ (CR 10)"
+				}
+			}
+		},
+		"Skaveling (CR 5)": {
+			"name": "スケイヴリング (CR 5)",
+			"pages":{
+				"Skaveling (CR 5)":{
+					"name":"スケイヴリング (CR 5)"
+				}
+			}
+		},
+		"Skeletal Champion (warrior 1)": {
+			"name": "スケルタル・チャンピオン (warrior 1)",
+			"pages":{
+				"Skeletal Champion (warrior 1)":{
+					"name":"スケルタル・チャンピオン (warrior 1)"
+				}
+			}
+		},
+		"Skulk (CR 1)": {
+			"name": "スカルク (CR 1)",
+			"pages":{
+				"Skulk (CR 1)":{
+					"name":"スカルク (CR 1)"
+				}
+			}
+		},
+		"Skum (CR 2)": {
+			"name": "スカム (CR 2)",
+			"pages":{
+				"Skum (CR 2)":{
+					"name":"スカム (CR 2)"
+				}
+			}
+		},
+		"Skunk (CR 0.25)": {
+			"name": "スカンク (CR 0.25)",
+			"pages":{
+				"Skunk (CR 0.25)":{
+					"name":"スカンク (CR 0.25)"
+				}
+			}
+		},
+		"Sleipnir (CR 11)": {
+			"name": "スレイプニル (CR 11)",
+			"pages":{
+				"Sleipnir (CR 11)":{
+					"name":"スレイプニル (CR 11)"
+				}
+			}
+		},
+		"Slicer Beetle (CR 4)": {
+			"name": "スライサー・ビートル (CR 4)",
+			"pages":{
+				"Slicer Beetle (CR 4)":{
+					"name":"スライサー・ビートル (CR 4)"
+				}
+			}
+		},
+		"Slime Mold (CR 2)": {
+			"name": "スライム・モールド (CR 2)",
+			"pages":{
+				"Slime Mold (CR 2)":{
+					"name":"スライム・モールド (CR 2)"
+				}
+			}
+		},
+		"Slimy Demodand (CR 16)": {
+			"name": "スライミィ・デモダンド (CR 16)",
+			"pages":{
+				"Slimy Demodand (CR 16)":{
+					"name":"スライミィ・デモダンド (CR 16)"
+				}
+			}
+		},
+		"Slithering Tracker (CR 4)": {
+			"name": "スリザリング・トラッカー (CR 4)",
+			"pages":{
+				"Slithering Tracker (CR 4)":{
+					"name":"スリザリング・トラッカー (CR 4)"
+				}
+			}
+		},
+		"Slurk (CR 2)": {
+			"name": "スラーク (CR 2)",
+			"pages":{
+				"Slurk (CR 2)":{
+					"name":"スラーク (CR 2)"
+				}
+			}
+		},
+		"Small Air Elemental (CR 1)": {
+			"name": "小型エア・エレメンタル (CR 1)",
+			"pages":{
+				"Small Air Elemental (CR 1)":{
+					"name":"小型エア・エレメンタル (CR 1)"
+				}
+			}
+		},
+		"Small Earth Elemental (CR 1)": {
+			"name": "小型アース・エレメンタル (CR 1)",
+			"pages":{
+				"Small Earth Elemental (CR 1)":{
+					"name":"小型アース・エレメンタル (CR 1)"
+				}
+			}
+		},
+		"Small Fire Elemental (CR 1)": {
+			"name": "小型ファイアー・エレメンタル (CR 1)",
+			"pages":{
+				"Small Fire Elemental (CR 1)":{
+					"name":"小型ファイアー・エレメンタル (CR 1)"
+				}
+			}
+		},
+		"Small Ice Elemental (CR 1)": {
+			"name": "小型アイス・エレメンタル (CR 1)",
+			"pages":{
+				"Small Ice Elemental (CR 1)":{
+					"name":"小型アイス・エレメンタル (CR 1)"
+				}
+			}
+		},
+		"Small Lightning Elemental (CR 1)": {
+			"name": "小型ライトニング・エレメンタル (CR 1)",
+			"pages":{
+				"Small Lightning Elemental (CR 1)":{
+					"name":"小型ライトニング・エレメンタル (CR 1)"
+				}
+			}
+		},
+		"Small Magma Elemental (CR 1)": {
+			"name": "小型マグマ・エレメンタル (CR 1)",
+			"pages":{
+				"Small Magma Elemental (CR 1)":{
+					"name":"小型マグマ・エレメンタル (CR 1)"
+				}
+			}
+		},
+		"Small Mud Elemental (CR 1)": {
+			"name": "小型マッド・エレメンタル (CR 1)",
+			"pages":{
+				"Small Mud Elemental (CR 1)":{
+					"name":"小型マッド・エレメンタル (CR 1)"
+				}
+			}
+		},
+		"Small Water Elemental (CR 1)": {
+			"name": "小型ウォーター・エレメンタル (CR 1)",
+			"pages":{
+				"Small Water Elemental (CR 1)":{
+					"name":"小型ウォーター・エレメンタル (CR 1)"
+				}
+			}
+		},
+		"Snake Swarm (CR 2)": {
+			"name": "スネーク・スウォーム (CR 2)",
+			"pages":{
+				"Snake Swarm (CR 2)":{
+					"name":"スネーク・スウォーム (CR 2)"
+				}
+			}
+		},
+		"Snapping Turtle (CR 0.33)": {
+			"name": "スナッピング・タートル (CR 0.33)",
+			"pages":{
+				"Snapping Turtle (CR 0.33)":{
+					"name":"スナッピング・タートル (CR 0.33)"
+				}
+			}
+		},
+		"Solar (CR 23)": {
+			"name": "ソーラー (CR 23)",
+			"pages":{
+				"Solar (CR 23)":{
+					"name":"ソーラー (CR 23)"
+				}
+			}
+		},
+		"Soul Eater (CR 7)": {
+			"name": "ソウル・イーター (CR 7)",
+			"pages":{
+				"Soul Eater (CR 7)":{
+					"name":"ソウル・イーター (CR 7)"
+				}
+			}
+		},
+		"Soulbound Doll (CR 2)": {
+			"name": "ソウルバウンド・ドール (CR 2)",
+			"pages":{
+				"Soulbound Doll (CR 2)":{
+					"name":"ソウルバウンド・ドール (CR 2)"
+				}
+			}
+		},
+		"Spectre (CR 7)": {
+			"name": "スペクター (CR 7)",
+			"pages":{
+				"Spectre (CR 7)":{
+					"name":"スペクター (CR 7)"
+				}
+			}
+		},
+		"Spider Eater (CR 5)": {
+			"name": "スパイダー・イーター (CR 5)",
+			"pages":{
+				"Spider Eater (CR 5)":{
+					"name":"スパイダー・イーター (CR 5)"
+				}
+			}
+		},
+		"Spider Swarm (CR 1)": {
+			"name": "スパイダー・スウォーム (CR 1)",
+			"pages":{
+				"Spider Swarm (CR 1)":{
+					"name":"スパイダー・スウォーム (CR 1)"
+				}
+			}
+		},
+		"Spinosaurus (CR 11)": {
+			"name": "スピノサウルス (CR 11)",
+			"pages":{
+				"Spinosaurus (CR 11)":{
+					"name":"スピノサウルス (CR 11)"
+				}
+			}
+		},
+		"Spirit Naga (CR 9)": {
+			"name": "スピリット・ナーガ (CR 9)",
+			"pages":{
+				"Spirit Naga (CR 9)":{
+					"name":"スピリット・ナーガ (CR 9)"
+				}
+			}
+		},
+		"Spirit Oni (CR 2)": {
+			"name": "スピリット・オニ (CR 2)",
+			"pages":{
+				"Spirit Oni (CR 2)":{
+					"name":"スピリット・オニ (CR 2)"
+				}
+			}
+		},
+		"Spriggan (CR 3)": {
+			"name": "スプリガン (CR 3)",
+			"pages":{
+				"Spriggan (CR 3)":{
+					"name":"スプリガン (CR 3)"
+				}
+			}
+		},
+		"Sprite (CR 0.33)": {
+			"name": "スプライト (CR 0.33)",
+			"pages":{
+				"Sprite (CR 0.33)":{
+					"name":"スプライト (CR 0.33)"
+				}
+			}
+		},
+		"Squid (CR 1)": {
+			"name": "スクウィッド (CR 1)",
+			"pages":{
+				"Squid (CR 1)":{
+					"name":"スクウィッド (CR 1)"
+				}
+			}
+		},
+		"Star Archon (CR 19)": {
+			"name": "スター・アルコン (CR 19)",
+			"pages":{
+				"Star Archon (CR 19)":{
+					"name":"スター・アルコン (CR 19)"
+				}
+			}
+		},
+		"Steam Mephit (CR 3)": {
+			"name": "スチーム・メフィット (CR 3)",
+			"pages":{
+				"Steam Mephit (CR 3)":{
+					"name":"スチーム・メフィット (CR 3)"
+				}
+			}
+		},
+		"Stegosaurus (CR 7)": {
+			"name": "ステゴサウルス (CR 7)",
+			"pages":{
+				"Stegosaurus (CR 7)":{
+					"name":"ステゴサウルス (CR 7)"
+				}
+			}
+		},
+		"Stingray (CR 0.5)": {
+			"name": "スティングレイ (CR 0.5)",
+			"pages":{
+				"Stingray (CR 0.5)":{
+					"name":"スティングレイ (CR 0.5)"
+				}
+			}
+		},
+		"Stirge (CR 0.5)": {
+			"name": "スタージ (CR 0.5)",
+			"pages":{
+				"Stirge (CR 0.5)":{
+					"name":"スタージ (CR 0.5)"
+				}
+			}
+		},
+		"Stone Giant (CR 8)": {
+			"name": "ストーン・ジャイアント (CR 8)",
+			"pages":{
+				"Stone Giant (CR 8)":{
+					"name":"ストーン・ジャイアント (CR 8)"
+				}
+			}
+		},
+		"Stone Golem (CR 11)": {
+			"name": "ストーン・ゴーレム (CR 11)",
+			"pages":{
+				"Stone Golem (CR 11)":{
+					"name":"ストーン・ゴーレム (CR 11)"
+				}
+			}
+		},
+		"Storm Giant (CR 13)": {
+			"name": "ストーム・ジャイアント (CR 13)",
+			"pages":{
+				"Storm Giant (CR 13)":{
+					"name":"ストーム・ジャイアント (CR 13)"
+				}
+			}
+		},
+		"Stymphalidies (CR 8)": {
+			"name": "ステュムパーリデス (CR 8)",
+			"pages":{
+				"Stymphalidies (CR 8)":{
+					"name":"ステュムパーリデス (CR 8)"
+				}
+			}
+		},
+		"Succubus (CR 7)": {
+			"name": "サキュバス (CR 7)",
+			"pages":{
+				"Succubus (CR 7)":{
+					"name":"サキュバス (CR 7)"
+				}
+			}
+		},
+		"Suli (ranger 1)": {
+			"name": "スリ (ranger 1)",
+			"pages":{
+				"Suli (ranger 1)":{
+					"name":"スリ (ranger 1)"
+				}
+			}
+		},
+		"Svirfneblin (ranger 1)": {
+			"name": "スヴァーフネブリン (ranger 1)",
+			"pages":{
+				"Svirfneblin (ranger 1)":{
+					"name":"スヴァーフネブリン (ranger 1)"
+				}
+			}
+		},
+		"Sylph (rogue 1)": {
+			"name": "シルフ (rogue 1)",
+			"pages":{
+				"Sylph (rogue 1)":{
+					"name":"シルフ (rogue 1)"
+				}
+			}
+		},
+		"Taiga Giant (CR 12)": {
+			"name": "タイガ・ジャイアント (CR 12)",
+			"pages":{
+				"Taiga Giant (CR 12)":{
+					"name":"タイガ・ジャイアント (CR 12)"
+				}
+			}
+		},
+		"Taiga Linnorm (CR 19)": {
+			"name": "タイガ・リノーム (CR 19)",
+			"pages":{
+				"Taiga Linnorm (CR 19)":{
+					"name":"タイガ・リノーム (CR 19)"
+				}
+			}
+		},
+		"Tanuki (CR 4)": {
+			"name": "タヌキ (CR 4)",
+			"pages":{
+				"Tanuki (CR 4)":{
+					"name":"タヌキ (CR 4)"
+				}
+			}
+		},
+		"Taotieh (CR 11)": {
+			"name": "トウテツ (CR 11)",
+			"pages":{
+				"Taotieh (CR 11)":{
+					"name":"トウテツ (CR 11)"
+				}
+			}
+		},
+		"Tarn Linnorm (CR 20)": {
+			"name": "ターン・リノーム (CR 20)",
+			"pages":{
+				"Tarn Linnorm (CR 20)":{
+					"name":"ターン・リノーム (CR 20)"
+				}
+			}
+		},
+		"Tarrasque (CR 25)": {
+			"name": "タラスク (CR 25)",
+			"pages":{
+				"Tarrasque (CR 25)":{
+					"name":"タラスク (CR 25)"
+				}
+			}
+		},
+		"Tarry Demodand (CR 13)": {
+			"name": "ターリィ・デモダンド (CR 13)",
+			"pages":{
+				"Tarry Demodand (CR 13)":{
+					"name":"ターリィ・デモダンド (CR 13)"
+				}
+			}
+		},
+		"Tataka (CR 15)": {
+			"name": "タータカ (CR 15)",
+			"pages":{
+				"Tataka (CR 15)":{
+					"name":"タータカ (CR 15)"
+				}
+			}
+		},
+		"Tatzlwyrm (CR 2)": {
+			"name": "タッツルワーム (CR 2)",
+			"pages":{
+				"Tatzlwyrm (CR 2)":{
+					"name":"タッツルワーム (CR 2)"
+				}
+			}
+		},
+		"Tempest Behemoth (CR 22)": {
+			"name": "テンペスト・ベヒモス (CR 22)",
+			"pages":{
+				"Tempest Behemoth (CR 22)":{
+					"name":"テンペスト・ベヒモス (CR 22)"
+				}
+			}
+		},
+		"Tendriculos (CR 6)": {
+			"name": "テンドリキュロス (CR 6)",
+			"pages":{
+				"Tendriculos (CR 6)":{
+					"name":"テンドリキュロス (CR 6)"
+				}
+			}
+		},
+		"Tenebrous Worm (CR 8)": {
+			"name": "テナブラス・ワーム (CR 8)",
+			"pages":{
+				"Tenebrous Worm (CR 8)":{
+					"name":"テナブラス・ワーム (CR 8)"
+				}
+			}
+		},
+		"Tengu (rogue 1)": {
+			"name": "テング (rogue 1)",
+			"pages":{
+				"Tengu (rogue 1)":{
+					"name":"テング (rogue 1)"
+				}
+			}
+		},
+		"Tentamort (CR 4)": {
+			"name": "テンタモート (CR 4)",
+			"pages":{
+				"Tentamort (CR 4)":{
+					"name":"テンタモート (CR 4)"
+				}
+			}
+		},
+		"Terra-Cotta Soldier (CR 6)": {
+			"name": "テラコッタ・ソルジャー (CR 6)",
+			"pages":{
+				"Terra-Cotta Soldier (CR 6)":{
+					"name":"テラコッタ・ソルジャー (CR 6)"
+				}
+			}
+		},
+		"Thalassic Behemoth (CR 20)": {
+			"name": "サラシック・ベヒモス (CR 20)",
+			"pages":{
+				"Thalassic Behemoth (CR 20)":{
+					"name":"サラシック・ベヒモス (CR 20)"
+				}
+			}
+		},
+		"Thanadaemon (CR 13)": {
+			"name": "ターナダイモン (CR 13)",
+			"pages":{
+				"Thanadaemon (CR 13)":{
+					"name":"ターナダイモン (CR 13)"
+				}
+			}
+		},
+		"Thanatotic Titan (CR 22)": {
+			"name": "タナトティック・ティタン (CR 22)",
+			"pages":{
+				"Thanatotic Titan (CR 22)":{
+					"name":"タナトティック・ティタン (CR 22)"
+				}
+			}
+		},
+		"Theletos (CR 7)": {
+			"name": "テレートス (CR 7)",
+			"pages":{
+				"Theletos (CR 7)":{
+					"name":"テレートス (CR 7)"
+				}
+			}
+		},
+		"Thoqqua (CR 2)": {
+			"name": "ソックア (CR 2)",
+			"pages":{
+				"Thoqqua (CR 2)":{
+					"name":"ソックア (CR 2)"
+				}
+			}
+		},
+		"Thrasfyr (CR 17)": {
+			"name": "シーラスフィア (CR 17)",
+			"pages":{
+				"Thrasfyr (CR 17)":{
+					"name":"シーラスフィア (CR 17)"
+				}
+			}
+		},
+		"Thriae Queen (CR 18)": {
+			"name": "トリアイ・クイーン (CR 18)",
+			"pages":{
+				"Thriae Queen (CR 18)":{
+					"name":"トリアイ・クイーン (CR 18)"
+				}
+			}
+		},
+		"Thriae Seer (CR 11)": {
+			"name": "トリアイ・シーア (CR 11)",
+			"pages":{
+				"Thriae Seer (CR 11)":{
+					"name":"トリアイ・シーア (CR 11)"
+				}
+			}
+		},
+		"Thriae Soldier (CR 4)": {
+			"name": "トリアイ・ソルジャー (CR 4)",
+			"pages":{
+				"Thriae Soldier (CR 4)":{
+					"name":"トリアイ・ソルジャー (CR 4)"
+				}
+			}
+		},
+		"Thulgant (CR 18)": {
+			"name": "サルガント (CR 18)",
+			"pages":{
+				"Thulgant (CR 18)":{
+					"name":"サルガント (CR 18)"
+				}
+			}
+		},
+		"Thunder Behemoth (CR 18)": {
+			"name": "サンダー・ベヒモス (CR 18)",
+			"pages":{
+				"Thunder Behemoth (CR 18)":{
+					"name":"サンダー・ベヒモス (CR 18)"
+				}
+			}
+		},
+		"Thunderbird (CR 11)": {
+			"name": "サンダーバード (CR 11)",
+			"pages":{
+				"Thunderbird (CR 11)":{
+					"name":"サンダーバード (CR 11)"
+				}
+			}
+		},
+		"Thylacine (CR 0.5)": {
+			"name": "サイラシン (CR 0.5)",
+			"pages":{
+				"Thylacine (CR 0.5)":{
+					"name":"サイラシン (CR 0.5)"
+				}
+			}
+		},
+		"Tick Swarm (CR 9)": {
+			"name": "ティック・スウォーム (CR 9)",
+			"pages":{
+				"Tick Swarm (CR 9)":{
+					"name":"ティック・スウォーム (CR 9)"
+				}
+			}
+		},
+		"Tiefling (rogue 1)": {
+			"name": "ティーフリング (rogue 1)",
+			"pages":{
+				"Tiefling (rogue 1)":{
+					"name":"ティーフリング (rogue 1)"
+				}
+			}
+		},
+		"Tiger (CR 4)": {
+			"name": "タイガー (CR 4)",
+			"pages":{
+				"Tiger (CR 4)":{
+					"name":"タイガー (CR 4)"
+				}
+			}
+		},
+		"Titan Centipede (CR 9)": {
+			"name": "ティタン・センチピード (CR 9)",
+			"pages":{
+				"Titan Centipede (CR 9)":{
+					"name":"ティタン・センチピード (CR 9)"
+				}
+			}
+		},
+		"Toad (CR 0.13)": {
+			"name": "トード (CR 0.13)",
+			"pages":{
+				"Toad (CR 0.13)":{
+					"name":"トード (CR 0.13)"
+				}
+			}
+		},
+		"Tojanida (CR 5)": {
+			"name": "トジャナイダ (CR 5)",
+			"pages":{
+				"Tojanida (CR 5)":{
+					"name":"トジャナイダ (CR 5)"
+				}
+			}
+		},
+		"Tophet (CR 10)": {
+			"name": "トペテ (CR 10)",
+			"pages":{
+				"Tophet (CR 10)":{
+					"name":"トペテ (CR 10)"
+				}
+			}
+		},
+		"Tor Linnorm (CR 21)": {
+			"name": "トアー・リノーム (CR 21)",
+			"pages":{
+				"Tor Linnorm (CR 21)":{
+					"name":"トアー・リノーム (CR 21)"
+				}
+			}
+		},
+		"Toshigami (CR 15)": {
+			"name": "トシガミ (CR 15)",
+			"pages":{
+				"Toshigami (CR 15)":{
+					"name":"トシガミ (CR 15)"
+				}
+			}
+		},
+		"Totenmaske (CR 7)": {
+			"name": "トーテンマスケ (CR 7)",
+			"pages":{
+				"Totenmaske (CR 7)":{
+					"name":"トーテンマスケ (CR 7)"
+				}
+			}
+		},
+		"Treant (CR 8)": {
+			"name": "トリエント (CR 8)",
+			"pages":{
+				"Treant (CR 8)":{
+					"name":"トリエント (CR 8)"
+				}
+			}
+		},
+		"Triceratops (CR 8)": {
+			"name": "トリケラトプス (CR 8)",
+			"pages":{
+				"Triceratops (CR 8)":{
+					"name":"トリケラトプス (CR 8)"
+				}
+			}
+		},
+		"Tripurasura (CR 2)": {
+			"name": "トリプラースラ (CR 2)",
+			"pages":{
+				"Tripurasura (CR 2)":{
+					"name":"トリプラースラ (CR 2)"
+				}
+			}
+		},
+		"Triton (CR 2)": {
+			"name": "トリトン (CR 2)",
+			"pages":{
+				"Triton (CR 2)":{
+					"name":"トリトン (CR 2)"
+				}
+			}
+		},
+		"Troglodyte (CR 1)": {
+			"name": "トログロダイト (CR 1)",
+			"pages":{
+				"Troglodyte (CR 1)":{
+					"name":"トログロダイト (CR 1)"
+				}
+			}
+		},
+		"Troll (CR 5)": {
+			"name": "トロル (CR 5)",
+			"pages":{
+				"Troll (CR 5)":{
+					"name":"トロル (CR 5)"
+				}
+			}
+		},
+		"Trollhound (CR 3)": {
+			"name": "トロルハウンド (CR 3)",
+			"pages":{
+				"Trollhound (CR 3)":{
+					"name":"トロルハウンド (CR 3)"
+				}
+			}
+		},
+		"Trumpet Archon (CR 14)": {
+			"name": "トランペット・アルコン (CR 14)",
+			"pages":{
+				"Trumpet Archon (CR 14)":{
+					"name":"トランペット・アルコン (CR 14)"
+				}
+			}
+		},
+		"Tupilaq (CR 7)": {
+			"name": "トゥピラク (CR 7)",
+			"pages":{
+				"Tupilaq (CR 7)":{
+					"name":"トゥピラク (CR 7)"
+				}
+			}
+		},
+		"Twigjack (CR 3)": {
+			"name": "トウィグジャック (CR 3)",
+			"pages":{
+				"Twigjack (CR 3)":{
+					"name":"トウィグジャック (CR 3)"
+				}
+			}
+		},
+		"Tylosaurus (CR 8)": {
+			"name": "ティロサウルス (CR 8)",
+			"pages":{
+				"Tylosaurus (CR 8)":{
+					"name":"ティロサウルス (CR 8)"
+				}
+			}
+		},
+		"Tyrannosaurus (CR 9)": {
+			"name": "ティラノサウルス (CR 9)",
+			"pages":{
+				"Tyrannosaurus (CR 9)":{
+					"name":"ティラノサウルス (CR 9)"
+				}
+			}
+		},
+		"Tzitzimitl (CR 19)": {
+			"name": "チチミトル (CR 19)",
+			"pages":{
+				"Tzitzimitl (CR 19)":{
+					"name":"チチミトル (CR 19)"
+				}
+			}
+		},
+		"Undine (cleric 1)": {
+			"name": "ウンディーネ (cleric 1)",
+			"pages":{
+				"Undine (cleric 1)":{
+					"name":"ウンディーネ (cleric 1)"
+				}
+			}
+		},
+		"Unfettered Eidolon (CR 8)": {
+			"name": "解放された幻獣 (CR 8)",
+			"pages":{
+				"Unfettered Eidolon (CR 8)":{
+					"name":"解放された幻獣 (CR 8)"
+				}
+			}
+		},
+		"Unicorn (CR 3)": {
+			"name": "ユニコーン (CR 3)",
+			"pages":{
+				"Unicorn (CR 3)":{
+					"name":"ユニコーン (CR 3)"
+				}
+			}
+		},
+		"Upasunda (CR 9)": {
+			"name": "ウパスンダ (CR 9)",
+			"pages":{
+				"Upasunda (CR 9)":{
+					"name":"ウパスンダ (CR 9)"
+				}
+			}
+		},
+		"Urdefhan (CR 3)": {
+			"name": "アーデファン (CR 3)",
+			"pages":{
+				"Urdefhan (CR 3)":{
+					"name":"アーデファン (CR 3)"
+				}
+			}
+		},
+		"Valkyrie (CR 12)": {
+			"name": "ワルキューレ (CR 12)",
+			"pages":{
+				"Valkyrie (CR 12)":{
+					"name":"ワルキューレ (CR 12)"
+				}
+			}
+		},
+		"Vampire (sorcerer 8)": {
+			"name": "ヴァンパイア (sorcerer 8)",
+			"pages":{
+				"Vampire (sorcerer 8)":{
+					"name":"ヴァンパイア (sorcerer 8)"
+				}
+			}
+		},
+		"Vampiric Mist (CR 3)": {
+			"name": "ヴァンピリック・ミスト (CR 3)",
+			"pages":{
+				"Vampiric Mist (CR 3)":{
+					"name":"ヴァンピリック・ミスト (CR 3)"
+				}
+			}
+		},
+		"Vanara (monk 1)": {
+			"name": "ヴァナラ (monk 1)",
+			"pages":{
+				"Vanara (monk 1)":{
+					"name":"ヴァナラ (monk 1)"
+				}
+			}
+		},
+		"Vargouille (CR 2)": {
+			"name": "ヴァルグイユ (CR 2)",
+			"pages":{
+				"Vargouille (CR 2)":{
+					"name":"ヴァルグイユ (CR 2)"
+				}
+			}
+		},
+		"Vegepygmy (CR 0.5)": {
+			"name": "ヴェジピグミー (CR 0.5)",
+			"pages":{
+				"Vegepygmy (CR 0.5)":{
+					"name":"ヴェジピグミー (CR 0.5)"
+				}
+			}
+		},
+		"Vemerak (CR 14)": {
+			"name": "ヴェマラク (CR 14)",
+			"pages":{
+				"Vemerak (CR 14)":{
+					"name":"ヴェマラク (CR 14)"
+				}
+			}
+		},
+		"Venomous Snake (CR 1)": {
+			"name": "ヴェノマス・スネーク (CR 1)",
+			"pages":{
+				"Venomous Snake (CR 1)":{
+					"name":"ヴェノマス・スネーク (CR 1)"
+				}
+			}
+		},
+		"Venomous Snake Swarm (CR 4)": {
+			"name": "ヴェノマス・スネーク・スウォーム (CR 4)",
+			"pages":{
+				"Venomous Snake Swarm (CR 4)":{
+					"name":"ヴェノマス・スネーク・スウォーム (CR 4)"
+				}
+			}
+		},
+		"Vexgit (CR 1)": {
+			"name": "ヴェクスジット (CR 1)",
+			"pages":{
+				"Vexgit (CR 1)":{
+					"name":"ヴェクスジット (CR 1)"
+				}
+			}
+		},
+		"Violet Fungus (CR 3)": {
+			"name": "ヴァイオレット・ファンガス (CR 3)",
+			"pages":{
+				"Violet Fungus (CR 3)":{
+					"name":"ヴァイオレット・ファンガス (CR 3)"
+				}
+			}
+		},
+		"Viper (CR 0.5)": {
+			"name": "ヴァイパー (CR 0.5)",
+			"pages":{
+				"Viper (CR 0.5)":{
+					"name":"ヴァイパー (CR 0.5)"
+				}
+			}
+		},
+		"Viper Vine (CR 13)": {
+			"name": "ヴァイパー・ヴァイン (CR 13)",
+			"pages":{
+				"Viper Vine (CR 13)":{
+					"name":"ヴァイパー・ヴァイン (CR 13)"
+				}
+			}
+		},
+		"Vishkanya (ninja 1)": {
+			"name": "ヴィシュカニャ (ninja 1)",
+			"pages":{
+				"Vishkanya (ninja 1)":{
+					"name":"ヴィシュカニャ (ninja 1)"
+				}
+			}
+		},
+		"Vodyanoi (CR 5)": {
+			"name": "ヴォジャノーイ (CR 5)",
+			"pages":{
+				"Vodyanoi (CR 5)":{
+					"name":"ヴォジャノーイ (CR 5)"
+				}
+			}
+		},
+		"Void Yai (CR 20)": {
+			"name": "ヴォイド・ヤイ (CR 20)",
+			"pages":{
+				"Void Yai (CR 20)":{
+					"name":"ヴォイド・ヤイ (CR 20)"
+				}
+			}
+		},
+		"Voidworm (CR 2)": {
+			"name": "ヴォイドワーム (CR 2)",
+			"pages":{
+				"Voidworm (CR 2)":{
+					"name":"ヴォイドワーム (CR 2)"
+				}
+			}
+		},
+		"Voonith (CR 4)": {
+			"name": "ヴーニス (CR 4)",
+			"pages":{
+				"Voonith (CR 4)":{
+					"name":"ヴーニス (CR 4)"
+				}
+			}
+		},
+		"Vrock (CR 9)": {
+			"name": "ヴロック (CR 9)",
+			"pages":{
+				"Vrock (CR 9)":{
+					"name":"ヴロック (CR 9)"
+				}
+			}
+		},
+		"Vrolikai (CR 19)": {
+			"name": "ヴロリカイ (CR 19)",
+			"pages":{
+				"Vrolikai (CR 19)":{
+					"name":"ヴロリカイ (CR 19)"
+				}
+			}
+		},
+		"Vulnudaemon (CR 4)": {
+			"name": "ヴァルヌダイモン (CR 4)",
+			"pages":{
+				"Vulnudaemon (CR 4)":{
+					"name":"ヴァルヌダイモン (CR 4)"
+				}
+			}
+		},
+		"Vulpinal (CR 6)": {
+			"name": "ヴォルピナル (CR 6)",
+			"pages":{
+				"Vulpinal (CR 6)":{
+					"name":"ヴォルピナル (CR 6)"
+				}
+			}
+		},
+		"Vulture (CR 0.5)": {
+			"name": "ヴァルチャー (CR 0.5)",
+			"pages":{
+				"Vulture (CR 0.5)":{
+					"name":"ヴァルチャー (CR 0.5)"
+				}
+			}
+		},
+		"Wasp Swarm (CR 3)": {
+			"name": "ワスプ・スウォーム (CR 3)",
+			"pages":{
+				"Wasp Swarm (CR 3)":{
+					"name":"ワスプ・スウォーム (CR 3)"
+				}
+			}
+		},
+		"Water Mephit (CR 3)": {
+			"name": "ウォーター・メフィット (CR 3)",
+			"pages":{
+				"Water Mephit (CR 3)":{
+					"name":"ウォーター・メフィット (CR 3)"
+				}
+			}
+		},
+		"Water Naga (CR 7)": {
+			"name": "ウォーター・ナーガ (CR 7)",
+			"pages":{
+				"Water Naga (CR 7)":{
+					"name":"ウォーター・ナーガ (CR 7)"
+				}
+			}
+		},
+		"Water Orm (CR 10)": {
+			"name": "ウォーター・オーム (CR 10)",
+			"pages":{
+				"Water Orm (CR 10)":{
+					"name":"ウォーター・オーム (CR 10)"
+				}
+			}
+		},
+		"Water Yai (CR 18)": {
+			"name": "ウォーター・ヤイ (CR 18)",
+			"pages":{
+				"Water Yai (CR 18)":{
+					"name":"ウォーター・ヤイ (CR 18)"
+				}
+			}
+		},
+		"Weasel  (CR 0.5)": {
+			"name": "ウィーゼル (CR 0.5)",
+			"pages":{
+				"Weasel  (CR 0.5)":{
+					"name":"ウィーゼル (CR 0.5)"
+				}
+			}
+		},
+		"Wendigo (CR 17)": {
+			"name": "ウェンディゴ (CR 17)",
+			"pages":{
+				"Wendigo (CR 17)":{
+					"name":"ウェンディゴ (CR 17)"
+				}
+			}
+		},
+		"Werebear (CR 4)": {
+			"name": "ワーベア（中間形態） (CR 4)",
+			"pages":{
+				"Werebear (CR 4)":{
+					"name":"ワーベア（中間形態） (CR 4)"
+				}
+			}
+		},
+		"Werebear (ranger 4)": {
+			"name": "ワーベア（人間形態） (ranger 4)",
+			"pages":{
+				"Werebear (ranger 4)":{
+					"name":"ワーベア（人間形態） (ranger 4)"
+				}
+			}
+		},
+		"Wereboar (CR 2)": {
+			"name": "ワーボア（中間形態） (CR 2)",
+			"pages":{
+				"Wereboar (CR 2)":{
+					"name":"ワーボア（中間形態） (CR 2)"
+				}
+			}
+		},
+		"Wereboar (barbarian 2)": {
+			"name": "ワーボア（人間形態） (barbarian 2)",
+			"pages":{
+				"Wereboar (barbarian 2)":{
+					"name":"ワーボア（人間形態） (barbarian 2)"
+				}
+			}
+		},
+		"Wererat (CR 2)": {
+			"name": "ワーラット（中間形態） (CR 2)",
+			"pages":{
+				"Wererat (CR 2)":{
+					"name":"ワーラット（中間形態） (CR 2)"
+				}
+			}
+		},
+		"Wererat (rogue 2)": {
+			"name": "ワーラット（人間形態） (rogue 2)",
+			"pages":{
+				"Wererat (rogue 2)":{
+					"name":"ワーラット（人間形態） (rogue 2)"
+				}
+			}
+		},
+		"Weretiger (CR 4)": {
+			"name": "ワータイガー（中間形態） (CR 4)",
+			"pages":{
+				"Weretiger (CR 4)":{
+					"name":"ワータイガー（中間形態） (CR 4)"
+				}
+			}
+		},
+		"Weretiger (rogue 4)": {
+			"name": "ワータイガー（人間形態） (rogue 4)",
+			"pages":{
+				"Weretiger (rogue 4)":{
+					"name":"ワータイガー（人間形態） (rogue 4)"
+				}
+			}
+		},
+		"Werewolf (CR 2)": {
+			"name": "ワーウルフ（中間形態） (CR 2)",
+			"pages":{
+				"Werewolf (CR 2)":{
+					"name":"ワーウルフ（中間形態） (CR 2)"
+				}
+			}
+		},
+		"Werewolf (fighter 2)": {
+			"name": "ワーウルフ（人間形態） (fighter 2)",
+			"pages":{
+				"Werewolf (fighter 2)":{
+					"name":"ワーウルフ（人間形態） (fighter 2)"
+				}
+			}
+		},
+		"Whale (CR 10)": {
+			"name": "ホエール (CR 10)",
+			"pages":{
+				"Whale (CR 10)":{
+					"name":"ホエール (CR 10)"
+				}
+			}
+		},
+		"Wight (CR 3)": {
+			"name": "ワイト (CR 3)",
+			"pages":{
+				"Wight (CR 3)":{
+					"name":"ワイト (CR 3)"
+				}
+			}
+		},
+		"Will-o'-Wisp (CR 6)": {
+			"name": "ウィル・オ・ウィスプ (CR 6)",
+			"pages":{
+				"Will-o'-Wisp (CR 6)":{
+					"name":"ウィル・オ・ウィスプ (CR 6)"
+				}
+			}
+		},
+		"Winter Wolf (CR 5)": {
+			"name": "ウィンター・ウルフ (CR 5)",
+			"pages":{
+				"Winter Wolf (CR 5)":{
+					"name":"ウィンター・ウルフ (CR 5)"
+				}
+			}
+		},
+		"Winterwight (CR 17)": {
+			"name": "ウィンターワイト (CR 17)",
+			"pages":{
+				"Winterwight (CR 17)":{
+					"name":"ウィンターワイト (CR 17)"
+				}
+			}
+		},
+		"Witchfire (CR 9)": {
+			"name": "ウィッチファイアー (CR 9)",
+			"pages":{
+				"Witchfire (CR 9)":{
+					"name":"ウィッチファイアー (CR 9)"
+				}
+			}
+		},
+		"Witchwyrd (CR 6)": {
+			"name": "ウィッチワード (CR 6)",
+			"pages":{
+				"Witchwyrd (CR 6)":{
+					"name":"ウィッチワード (CR 6)"
+				}
+			}
+		},
+		"Wolf (CR 1)": {
+			"name": "ウルフ (CR 1)",
+			"pages":{
+				"Wolf (CR 1)":{
+					"name":"ウルフ (CR 1)"
+				}
+			}
+		},
+		"Wolf-In-Sheep's-Clothing (CR 8)": {
+			"name": "ウルフ・イン・シープス・クロッシング (CR 8)",
+			"pages":{
+				"Wolf-In-Sheep's-Clothing (CR 8)":{
+					"name":"ウルフ・イン・シープス・クロッシング (CR 8)"
+				}
+			}
+		},
+		"Wolverine (CR 2)": {
+			"name": "ウルヴァリン (CR 2)",
+			"pages":{
+				"Wolverine (CR 2)":{
+					"name":"ウルヴァリン (CR 2)"
+				}
+			}
+		},
+		"Wood Giant (CR 6)": {
+			"name": "ウッド・ジャイアント (CR 6)",
+			"pages":{
+				"Wood Giant (CR 6)":{
+					"name":"ウッド・ジャイアント (CR 6)"
+				}
+			}
+		},
+		"Wood Golem (CR 6)": {
+			"name": "ウッド・ゴーレム (CR 6)",
+			"pages":{
+				"Wood Golem (CR 6)":{
+					"name":"ウッド・ゴーレム (CR 6)"
+				}
+			}
+		},
+		"Woolly Rhinoceros (CR 6)": {
+			"name": "ウーリー・ライナセラス (CR 6)",
+			"pages":{
+				"Woolly Rhinoceros (CR 6)":{
+					"name":"ウーリー・ライナセラス (CR 6)"
+				}
+			}
+		},
+		"Worg (CR 2)": {
+			"name": "ウォーグ (CR 2)",
+			"pages":{
+				"Worg (CR 2)":{
+					"name":"ウォーグ (CR 2)"
+				}
+			}
+		},
+		"Worm That Walks (conjurer 13)": {
+			"name": "ワーム・ザット・ウォークス (conjurer 13)",
+			"pages":{
+				"Worm That Walks (conjurer 13)":{
+					"name":"ワーム・ザット・ウォークス (conjurer 13)"
+				}
+			}
+		},
+		"Wraith (CR 5)": {
+			"name": "レイス (CR 5)",
+			"pages":{
+				"Wraith (CR 5)":{
+					"name":"レイス (CR 5)"
+				}
+			}
+		},
+		"Wraith Spawn (CR 4)": {
+			"name": "レイス・スポーン (CR 4)",
+			"pages":{
+				"Wraith Spawn (CR 4)":{
+					"name":"レイス・スポーン (CR 4)"
+				}
+			}
+		},
+		"Wrathspawn (CR 2)": {
+			"name": "ラススポーン (CR 2)",
+			"pages":{
+				"Wrathspawn (CR 2)":{
+					"name":"ラススポーン (CR 2)"
+				}
+			}
+		},
+		"Wyvern (CR 6)": {
+			"name": "ワイヴァーン (CR 6)",
+			"pages":{
+				"Wyvern (CR 6)":{
+					"name":"ワイヴァーン (CR 6)"
+				}
+			}
+		},
+		"Xacarba (CR 15)": {
+			"name": "ザカーバ (CR 15)",
+			"pages":{
+				"Xacarba (CR 15)":{
+					"name":"ザカーバ (CR 15)"
+				}
+			}
+		},
+		"Xill (CR 6)": {
+			"name": "ジル (CR 6)",
+			"pages":{
+				"Xill (CR 6)":{
+					"name":"ジル (CR 6)"
+				}
+			}
+		},
+		"Xorn (CR 6)": {
+			"name": "ゾーン (CR 6)",
+			"pages":{
+				"Xorn (CR 6)":{
+					"name":"ゾーン (CR 6)"
+				}
+			}
+		},
+		"Xtabay (CR 0.5)": {
+			"name": "シュタバイ (CR 0.5)",
+			"pages":{
+				"Xtabay (CR 0.5)":{
+					"name":"シュタバイ (CR 0.5)"
+				}
+			}
+		},
+		"Yellow Musk Creeper (CR 2)": {
+			"name": "イエロー・マスク・クリーパー (CR 2)",
+			"pages":{
+				"Yellow Musk Creeper (CR 2)":{
+					"name":"イエロー・マスク・クリーパー (CR 2)"
+				}
+			}
+		},
+		"Yeth Hound (CR 3)": {
+			"name": "イェス・ハウンド (CR 3)",
+			"pages":{
+				"Yeth Hound (CR 3)":{
+					"name":"イェス・ハウンド (CR 3)"
+				}
+			}
+		},
+		"Yeti (CR 4)": {
+			"name": "イエティ (CR 4)",
+			"pages":{
+				"Yeti (CR 4)":{
+					"name":"イエティ (CR 4)"
+				}
+			}
+		},
+		"Yithian (CR 9)": {
+			"name": "イシアン (CR 9)",
+			"pages":{
+				"Yithian (CR 9)":{
+					"name":"イシアン (CR 9)"
+				}
+			}
+		},
+		"Young Black Dragon (CR 7)": {
+			"name": "ヤング・ブラック・ドラゴン (CR 7)",
+			"pages":{
+				"Young Black Dragon (CR 7)":{
+					"name":"ヤング・ブラック・ドラゴン (CR 7)"
+				}
+			}
+		},
+		"Young Blue Dragon (CR 9)": {
+			"name": "ヤング・ブルー・ドラゴン (CR 9)",
+			"pages":{
+				"Young Blue Dragon (CR 9)":{
+					"name":"ヤング・ブルー・ドラゴン (CR 9)"
+				}
+			}
+		},
+		"Young Brass Dragon (CR 7)": {
+			"name": "ヤング・ブラス・ドラゴン (CR 7)",
+			"pages":{
+				"Young Brass Dragon (CR 7)":{
+					"name":"ヤング・ブラス・ドラゴン (CR 7)"
+				}
+			}
+		},
+		"Young Brine Dragon (CR 7)": {
+			"name": "ヤング・ブライン・ドラゴン (CR 7)",
+			"pages":{
+				"Young Brine Dragon (CR 7)":{
+					"name":"ヤング・ブライン・ドラゴン (CR 7)"
+				}
+			}
+		},
+		"Young Bronze Dragon (CR 9)": {
+			"name": "ヤング・ブロンズ・ドラゴン (CR 9)",
+			"pages":{
+				"Young Bronze Dragon (CR 9)":{
+					"name":"ヤング・ブロンズ・ドラゴン (CR 9)"
+				}
+			}
+		},
+		"Young Cloud Dragon (CR 9)": {
+			"name": "ヤング・クラウド・ドラゴン (CR 9)",
+			"pages":{
+				"Young Cloud Dragon (CR 9)":{
+					"name":"ヤング・クラウド・ドラゴン (CR 9)"
+				}
+			}
+		},
+		"Young Copper Dragon (CR 8)": {
+			"name": "ヤング・カッパー・ドラゴン (CR 8)",
+			"pages":{
+				"Young Copper Dragon (CR 8)":{
+					"name":"ヤング・カッパー・ドラゴン (CR 8)"
+				}
+			}
+		},
+		"Young Crystal Dragon (CR 6)": {
+			"name": "ヤング・クリスタル・ドラゴン (CR 6)",
+			"pages":{
+				"Young Crystal Dragon (CR 6)":{
+					"name":"ヤング・クリスタル・ドラゴン (CR 6)"
+				}
+			}
+		},
+		"Young Forest Dragon (CR 10)": {
+			"name": "ヤング・フォレスト・ドラゴン (CR 10)",
+			"pages":{
+				"Young Forest Dragon (CR 10)":{
+					"name":"ヤング・フォレスト・ドラゴン (CR 10)"
+				}
+			}
+		},
+		"Young Gold Dragon (CR 11)": {
+			"name": "ヤング・ゴールド・ドラゴン (CR 11)",
+			"pages":{
+				"Young Gold Dragon (CR 11)":{
+					"name":"ヤング・ゴールド・ドラゴン (CR 11)"
+				}
+			}
+		},
+		"Young Green Dragon (CR 8)": {
+			"name": "ヤング・グリーン・ドラゴン (CR 8)",
+			"pages":{
+				"Young Green Dragon (CR 8)":{
+					"name":"ヤング・グリーン・ドラゴン (CR 8)"
+				}
+			}
+		},
+		"Young Magma Dragon (CR 8)": {
+			"name": "ヤング・マグマ・ドラゴン (CR 8)",
+			"pages":{
+				"Young Magma Dragon (CR 8)":{
+					"name":"ヤング・マグマ・ドラゴン (CR 8)"
+				}
+			}
+		},
+		"Young Red Dragon (CR 10)": {
+			"name": "ヤング・レッド・ドラゴン (CR 10)",
+			"pages":{
+				"Young Red Dragon (CR 10)":{
+					"name":"ヤング・レッド・ドラゴン (CR 10)"
+				}
+			}
+		},
+		"Young Sea Dragon (CR 8)": {
+			"name": "ヤング・シー・ドラゴン (CR 8)",
+			"pages":{
+				"Young Sea Dragon (CR 8)":{
+					"name":"ヤング・シー・ドラゴン (CR 8)"
+				}
+			}
+		},
+		"Young Silver Dragon (CR 10)": {
+			"name": "ヤング・シルヴァー・ドラゴン (CR 10)",
+			"pages":{
+				"Young Silver Dragon (CR 10)":{
+					"name":"ヤング・シルヴァー・ドラゴン (CR 10)"
+				}
+			}
+		},
+		"Young Sky Dragon (CR 9)": {
+			"name": "ヤング・スカイ・ドラゴン (CR 9)",
+			"pages":{
+				"Young Sky Dragon (CR 9)":{
+					"name":"ヤング・スカイ・ドラゴン (CR 9)"
+				}
+			}
+		},
+		"Young Sovereign Dragon (CR 11)": {
+			"name": "ヤング・ソヴリン・ドラゴン (CR 11)",
+			"pages":{
+				"Young Sovereign Dragon (CR 11)":{
+					"name":"ヤング・ソヴリン・ドラゴン (CR 11)"
+				}
+			}
+		},
+		"Young Umbral Dragon (CR 10)": {
+			"name": "ヤング・アンブラル・ドラゴン (CR 10)",
+			"pages":{
+				"Young Umbral Dragon (CR 10)":{
+					"name":"ヤング・アンブラル・ドラゴン (CR 10)"
+				}
+			}
+		},
+		"Young Underworld Dragon (CR 7)": {
+			"name": "ヤング・アンダーワールド・ドラゴン (CR 7)",
+			"pages":{
+				"Young Underworld Dragon (CR 7)":{
+					"name":"ヤング・アンダーワールド・ドラゴン (CR 7)"
+				}
+			}
+		},
+		"Young White Dragon (CR 6)": {
+			"name": "ヤング・ホワイト・ドラゴン (CR 6)",
+			"pages":{
+				"Young White Dragon (CR 6)":{
+					"name":"ヤング・ホワイト・ドラゴン (CR 6)"
+				}
+			}
+		},
+		"Yrthak (CR 9)": {
+			"name": "アーサック (CR 9)",
+			"pages":{
+				"Yrthak (CR 9)":{
+					"name":"アーサック (CR 9)"
+				}
+			}
+		},
+		"Yuki-onna (CR 8)": {
+			"name": "ユキオンナ (CR 8)",
+			"pages":{
+				"Yuki-onna (CR 8)":{
+					"name":"ユキオンナ (CR 8)"
+				}
+			}
+		},
+		"Zelekhut (CR 9)": {
+			"name": "ゼレフート (CR 9)",
+			"pages":{
+				"Zelekhut (CR 9)":{
+					"name":"ゼレフート (CR 9)"
+				}
+			}
+		},
+		"Zoog (CR 1)": {
+			"name": "ズーグ (CR 1)",
+			"pages":{
+				"Zoog (CR 1)":{
+					"name":"ズーグ (CR 1)"
+				}
+			}
+		},
+		"Zuishin (CR 10)": {
+			"name": "ズイシン (CR 10)",
+			"pages":{
+				"Zuishin (CR 10)":{
+					"name":"ズイシン (CR 10)"
+				}
+			}
+		},
+		"Zuvembie (CR 4)": {
+			"name": "ズヴェンビ (CR 4)",
+			"pages":{
+				"Zuvembie (CR 4)":{
+					"name":"ズヴェンビ (CR 4)"
+				}
+			}
+		}
+	}
+}
