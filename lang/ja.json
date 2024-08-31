@@ -182,7 +182,8 @@
           "Name": "能力値成長",
           "Desc": "<p>ヒット・ダイスの獲得によって成長した能力です</p>"
         },
-        "Next": "キャラクターが{level}レベルになると能力値が成長します"
+        "NextLevel": "キャラクターが{level}レベルになると能力値が成長します",
+        "NextTier": "キャラクターが第{tier}神話階梯になると能力値が成長します"
       },
       "Summary": {
         "Label": "概要",
@@ -310,37 +311,43 @@
       "bleed": "出血",
       "blind": "盲目",
       "confused": "混乱",
+      "cowering": "戦慄",
+      "dazed": "幻惑",
       "dazzled": "目が眩んだ",
+      "dead": "死亡",
       "deaf": "聴覚喪失",
+      "deathEffects": "［即死］効果",
+      "disabled": "満身創痍",
+      "disease": "病気",
+      "dying": "瀕死",
+      "energyDrain": "生命力吸収",
       "entangled": "絡みつき",
-      "fatigued": "疲労",
       "exhausted": "過労",
+      "fatigued": "疲労",
+      "fear": "恐怖",
+      "flatFooted": "立ちすくみ",
+      "frightened": "恐れ",
       "grappled": "組みつき",
       "helpless": "無防備",
       "incorporeal": "非実体",
       "invisible": "不可視",
-      "paralyzed": "麻痺",
-      "pinned": "押さえ込まれた",
-      "prone": "伏せ",
-      "fear": "恐怖",
-      "shaken": "怯え",
-      "frightened": "恐れ",
-      "panicked": "恐慌",
-      "sickened": "不調",
-      "staggered": "よろめき",
-      "stunned": "朦朧",
-      "nauseated": "吐き気",
-      "dazed": "幻惑",
-      "sleep": "睡眠",
-      "cowering": "戦慄",
-      "squeezing": "無理矢理入り込む",
-      "deathEffects": "［即死］効果",
-      "disease": "病気",
-      "energyDrain": "生命力吸収",
       "mindAffecting": "精神作用",
+      "nauseated": "吐き気",
+      "panicked": "恐慌",
+      "paralyzed": "麻痺",
+      "petrified": "石化",
+      "pinned": "押さえ込まれた",
       "poison": "毒",
       "polymorph": "ポリモーフ",
-      "petrified": "石化"
+      "prone": "伏せ",
+      "shaken": "怯え",
+      "sickened": "不調",
+      "sleep": "睡眠",
+      "squeezing": "無理矢理入り込む",
+      "stable": "容態安定",
+      "staggered": "よろめき",
+      "stunned": "朦朧",
+      "unconscious": "気絶"
     },
     "CostGP": "価格 (GP)",
     "ClassType": "クラスタイプ",
@@ -577,6 +584,9 @@
           },
           "staff": {
             "Single": "スタッフ"
+          },
+          "pharmaceutical": {
+            "Single": "調合薬"
           }
         },
         "attack": {
@@ -603,6 +613,20 @@
           "misc": {
             "Single": "その他",
             "Plural": "その他"
+          }
+        },
+        "weapon": {
+          "simple": {
+            "Single": "単純"
+          },
+          "martial": {
+            "Single": "軍用"
+          },
+          "exotic": {
+            "Single": "特殊"
+          },
+          "misc": {
+            "Single": "その他"
           }
         },
         "feat": {
@@ -851,9 +875,6 @@
     "LoadingItemsFromIndexes": "Loading {items} items from {indexes} indexes…",
     "CopyUuidToClipboard": "UUIDをクリップボードにコピー",
     "WeaponType": "武器の種類",
-    "WeaponTypeSimple": "単純",
-    "WeaponTypeMartial": "軍用",
-    "WeaponTypeExotic": "特殊",
     "WeaponTypeSplash": "飛散",
     "WeaponProperty": {
       "Automatic": "Automatic",
@@ -1099,19 +1120,21 @@
     "Error": {
       "GenericPermission": "あなたはそのアクションを行う権限がありません",
       "NoActorPermission": "あなたはこのアクターを操作する権限がありません",
-      "NoActorPermissionAlt": "あなたはこのアクター\"{name}\"を操作する権限がありません ",
+      "NoActorPermissionAlt": "あなたはこのアクター\"{name}\"を操作する権限がありません",
       "NoItemPermission": "あなたはこの項目を編集する権限がありません",
       "NoFormula": "{name} にはロールをするための式がありません！",
       "TooManyConditionSources": "Too many condition sources to edit.",
       "ItemNoOwner": "このアイテムにはオーナーがいません",
       "SpellbookExists": "その呪文書はすでに存在します",
       "NoFreeSpellbooks": "呪文書の空きがありません",
+      "NoInitOnDuplicateCombatant": "どの戦闘参加者に対してイニシアチブ判定を行うか決定できませんでした",
+      "InvalidContentLinkDrop": "ドロップしたデータからコンテンツリンクを作成できませんでした",
       "NoGiftTargets": "No valid targets to give something to.",
       "ItemFormula": "アクター\"{actor}\"のアイテム\"{item}\"に計算式エラーがあります",
       "ActionFormula": "アクター\"{actor}\"のアイテム\"{item}\"のアクション\"{action}\"に計算式エラーがあります",
       "NoCharges": "{name}にチャージが残っていません",
       "InsufficientCharges": "{name}に十分なチャージが残っていません",
-      "InsufficientPreparation": "{name} has not been prepared or is not known.",
+      "InsufficientPreparation": "{name}は準備されていないか、不明です",
       "NoQuantity": "あなたはそのアイテムをもう持っていません",
       "NoSpellsLeft": "あなたはその種類の呪文が残っていません",
       "ActorNotFound": "ID {id}のアクターが見つかりませんでした",
@@ -1134,6 +1157,7 @@
       "NoItemOnActor": "アクター\"{actor}\"はアイテム\"{item}\"を持っていません",
       "NoActionInItem": "Item \"{item}\" has no action \"{action}\"",
       "InvalidUUID": "無効なUUID \"{uuid}\"",
+      "ImmuneToCondition": "{name}は{condition}状態に対する完全耐性があります",
       "CannotCreateChargeLink": "Could not create a Charge type link between {source} and {target}, because {target} has Charge type links of its own",
       "CannotCreateChargeLink2": "Could not create a Charge type link between {source} and {target}, because {target} is already linked to {deeptarget}",
       "NoCombatantFound": "戦闘参加者が見つかりませんでした",
@@ -1155,6 +1179,8 @@
     "ACNotes": "ACメモ",
     "SaveNotes": "セーヴメモ",
     "CLNotes": "術者レベルメモ",
+    "CLSchoolNotes": "CLメモ ({school})",
+    "DCSchoolNotes": "DCメモ ({school})",
     "NonApplicable": "N/A",
     "SkillTypeAdventure": "冒険",
     "SkillTypeBackground": "背景",
@@ -1402,7 +1428,7 @@
         "LiquidGlass": "液体ガラス",
         "LivingSteel": "生ける鋼",
         "Mithral": "ミスラル",
-        "NexavarianSteel": "Nexavarian Steel",
+        "NexavaranSteel": "Nexavaran Steel",
         "Noqual": "ノクワール",
         "Paueliel": "Paueliel",
         "PyreSteel": "Pyre Steel",
@@ -1724,6 +1750,7 @@
     "MiscShort": "その他",
     "HitPoints": "ヒット・ポイント",
     "VulnerableTo": "{vulnerability}への脆弱性",
+    "Immune": "完全耐性",
     "ImmuneTo": "{immunity}への完全耐性",
     "AbilityTest": "{ability}能力値判定",
     "SkillCheck": "{skill}技能判定",
@@ -1974,7 +2001,7 @@
     "ClassSkills": "クラス技能",
     "MeasureTemplate": "メジャーテンプレート",
     "TemplateType": "テンプレートタイプ",
-    "TemplateSizeFormula": "Size Formula (ft)",
+    "TemplateSizeFormula": "サイズの式 (ft)",
     "TemplateSizeFormulaHint": "Defines cone's & ray's distance, circle's radius, and rectangle's side.",
     "LearnedAt": "習得",
     "EquipmentType": "装備品の種類",
@@ -1985,7 +2012,7 @@
     "Standard": "Standard",
     "Manual": "手動",
     "Override": "Override",
-    "NoOverride": "No Override",
+    "NoOverride": "変更しない",
     "CustomColor": "カスタムカラー",
     "CustomTexture": "カスタムテクスチャ",
     "FromSources": "ソース",
@@ -2043,9 +2070,12 @@
     "Creatures": "クリーチャー",
     "ChargeCost": "チャージコスト",
     "ChargeCostFormula": "チャージコストの式",
+    "ChargeCostItemFormulaHint": "このアイテムがデフォルトで消費するチャージ数（またはcasts、spell points、 etc）です。負の値を設定すると、代わりにチャージが回復します。",
+    "ChargeCostActionFormulaHint": "このアクションが消費するチャージ数（またはcasts、spell points、 etc）です。負の値を設定すると、代わりにチャージが回復します。",
     "PerAttack": "攻撃1回あたり",
     "ChargeSource": "チャージ使用元",
-    "RechargeFormula": "チャージ使用元",
+    "RechargeFormula": "再チャージの式",
+    "RechargeFormulaHint": "再チャージすると現在のチャージ数が数式の値に設定されます。相対的な再チャージの場合は、現在のチャージ数 <code>@item.uses.value</code> を数式の一部として使用します。",
     "Value": "価格",
     "SellValue": "売却額",
     "TotalItems": "合計{count}個のアイテム",
@@ -2121,8 +2151,6 @@
     "HeavyEncumbrance": "重荷重",
     "Raw": "省略",
     "Normal": "通常",
-    "Changelog": "更新履歴",
-    "DontShowAgain": "システムアップデート後に更新履歴を表示しない",
     "IdentifyDC": "識別難易度",
     "IdentifyCurseDC": "呪いの識別難易度",
     "IdentifyDCNumber": "識別難易度 {dc}",
@@ -2259,6 +2287,14 @@
       }
     },
     "Application": {
+      "Changelog": {
+        "Title": "変更履歴",
+        "DontShowAgain": "システムアップデート後に変更履歴を表示しない",
+        "OpenInBrowser": "ブラウザで開く",
+        "Latest": "Latest",
+        "Major": "Major",
+        "Legacy": "Legacy"
+      },
       "ActionSelector": {
         "Title": "{actor} が {item} を使用"
       },
@@ -2328,8 +2364,10 @@
         },
         "Help": {
           "Link": "Information on Changes",
-          "Deterministic": "明確な数字",
-          "DeterministicHint": "指定された対象にはダイスロールのようなランダムな要素をサポートしていません"
+          "Value": "Value",
+          "ValueHint": "Must be deterministic with no random elements such as dice.",
+          "Roll": "Roll",
+          "RollHint": "Supports random elements such as dice."
         },
         "AsType": "種類",
         "CopyId": "Copy change ID"
@@ -2337,7 +2375,7 @@
       "Integration": {
         "Title": "Module Integration",
         "Label": "Configure Integration",
-        "Hint": "Alter which modules the system adds special functionality for.",
+        "Hint": "システムが特別な機能を追加するモジュールを変更します",
         "Modules": {
           "dice-so-nice": {
             "Label": "Dice So Nice",
@@ -2411,8 +2449,8 @@
         "Label": "Steps",
         "Foundry": "Read Foundry's {link}.",
         "FoundryLink": "user documentation",
-        "Help": "Check the {link} (help button near where you opened this dialog).",
-        "HelpLink": "help browser",
+        "Help": "Check the {link}, found normally near the troubleshooter button.",
+        "HelpLink": "system documentation",
         "FAQ": "Check the FAQ",
         "Log": "Check dev tools console log for errors (F12 [or Option+Command+I on Mac], console tab)",
         "Modules": "Ensure modules are not the cause.",
@@ -2434,7 +2472,7 @@
       }
     },
     "Help": {
-      "Label": "Help"
+      "Label": "Documentation"
     },
     "EnrichedText": {
       "Add": "Add {value}",
@@ -2521,10 +2559,10 @@
         "FractionalBaseBonusesHint": "分数基本ボーナスの選択ルールを使用する"
       },
       "Token": {
-        "PCDisposition": "プレイヤーキャラクターの権限",
-        "PCDispositionHint": "プレイヤーキャラクターのトークンのデフォルト権限を上書きします",
-        "NPCDisposition": "NPCの権限",
-        "NPCDispositionHint": "NPCのトークンのデフォルト権限を上書きします"
+        "PCDisposition": "プレイヤーキャラクターの関係性",
+        "PCDispositionHint": "プレイヤーキャラクターのトークンのデフォルトの関係性を変更します",
+        "NPCDisposition": "NPCの関係性",
+        "NPCDispositionHint": "NPCのトークンのデフォルトの関係性を変更します"
       },
       "Canvas": {
         "MeasureStyle": "パスファインダーの測定方法を使用",
