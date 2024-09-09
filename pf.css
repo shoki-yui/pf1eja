@@ -1,3 +1,6 @@
+.pf1.sheet.actor .tab.spellbook .spellbook-configuration .spellbook-info h3 {
+  font-size: 18px!important;
+}
 
 .dialog .dialog-buttons{
     flex-direction: column;
