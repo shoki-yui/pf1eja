@@ -1,5 +1,14 @@
 {
 	"label": "武器と矢弾",
+	"folders": {
+		"Ammunition": "矢弾",
+		"Exotic Weapons": "特殊武器",
+		"Firearms": "火器",
+		"Magic Weapons": "特定の魔法の武器",
+		"Martial Weapons": "軍用武器",
+		"Siege Weapons": "攻城兵器",
+		"Simple Weapons": "単純武器"
+	},
 	"entries": [
 		{
 			"id": "Aasen Mortar",
@@ -56,16 +65,16 @@
 			"identifiedName": "錬金術カートリッジ（フレア）"
 		},
 		{
-			"id": "Alchemical Cartridge (Gray Dust Shot)",
-			"name": "Alchemical Cartridge (Gray Dust Shot)",
+			"id": "Alchemical Cartridge (Gray Dust)",
+			"name": "Alchemical Cartridge (Gray Dust)",
 			"description": "<p><strong>Source</strong> <em>Heroes of Golarion pg. 18</em></p>\n<h3 class=\"framing\">詳細</h3>\n<p><strong>市価</strong> 50 gp <strong>重量</strong> -</p>\n<p><strong>区分</strong> 矢弾; <strong>習熟</strong> 特殊武器</p>\n<h3 class=\"framing\">説明</h3>\n<p>An alchemical cartridge is a prepared bundle of black powder with a bullet or pellets, sometimes with more exotic material added, which is then wrapped in paper or cloth and sealed with beeswax, lard, or tallow. There are many types of alchemical cartridges, the simplest being the paper cartridge-a simple mix of black powder and either pellets or a bullet. Alchemical cartridges make loading a firearm easier, reducing the time to load a firearm by one step (a full-round action becomes a standard action, a standard action becomes a move action, and a move action becomes a free action), but they tend to be unstable. The misfire value of a weapon firing an alchemical cartridge increases as listed in each entry.</p>\n<p>&nbsp;</p>\n<p><strong><em>Gray Dust Cartridge</em></strong>: (<strong>Source</strong> <em>Heroes of Golarion pg. 18</em>) Packed with mysterious magic-suppressing dust from the Mana Wastes, these rounds burst on impact and inhibit spellcasting. When a gray dust cartridge strikes a target, it deals only half damage, but the creature struck takes a -10 penalty on concentration checks to cast spells for 1d4 rounds and cannot cast defensively.</p>\n<p>&nbsp;</p>",
 			"identifiedName": "Alchemical Cartridge (Gray Dust Shot)"
 		},
 		{
-			"id": "Alchemical Cartridge (Gray Dust)",
-			"name": "Alchemical Cartridge (Gray Dust)",
+			"id": "Alchemical Cartridge (Gray Dust Shot)",
+			"name": "Alchemical Cartridge (Gray Dust Shot)",
 			"description": "<p><strong>Source</strong> <em>Heroes of Golarion pg. 18</em></p>\n<h3 class=\"framing\">詳細</h3>\n<p><strong>市価</strong> 50 gp <strong>重量</strong> -</p>\n<p><strong>区分</strong> 矢弾; <strong>習熟</strong> 特殊武器</p>\n<h3 class=\"framing\">説明</h3>\n<p>An alchemical cartridge is a prepared bundle of black powder with a bullet or pellets, sometimes with more exotic material added, which is then wrapped in paper or cloth and sealed with beeswax, lard, or tallow. There are many types of alchemical cartridges, the simplest being the paper cartridge-a simple mix of black powder and either pellets or a bullet. Alchemical cartridges make loading a firearm easier, reducing the time to load a firearm by one step (a full-round action becomes a standard action, a standard action becomes a move action, and a move action becomes a free action), but they tend to be unstable. The misfire value of a weapon firing an alchemical cartridge increases as listed in each entry.</p>\n<p>&nbsp;</p>\n<p><strong><em>Gray Dust Shot Cartridge</em></strong>: (<strong>Source</strong> <em>Heroes of Golarion pg. 18</em>) This version of the gray dust cartridge can be loaded only into a weapon with the scatter quality. It functions similarly to a gray dust cartridge, except upon impact it bursts into a 20-foot-radius cloud. Creatures within the cloud take a -5 penalty on concentration checks to cast spells. This cloud dissipates in 1d6 rounds in still air. Light wind disperses the cloud in 1 round.</p>\n<p>&nbsp;</p>",
-			"identifiedName": "Alchemical Cartridge (Gray Dust)"
+			"identifiedName": "Alchemical Cartridge (Gray Dust Shot)"
 		},
 		{
 			"id": "Alchemical Cartridge (Molten Shot)",
@@ -74,7 +83,7 @@
 			"identifiedName": "Alchemical Cartridge (Molten Shot)"
 		},
 		{
-			"id": "Alchemical Cartridge (Paper, Bullet Or Pellet)",
+			"id": "Alchemical Cartridge (Paper, Bullet or Pellet)",
 			"name": "錬金術カートリッジ（ペーパー）",
 			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 41</em>, <em>Ultimate Combat pg. 140</em></p>\n<h3 class=\"framing\">詳細</h3>\n<p><strong>市価</strong> 12 gp <strong>重量</strong> -</p>\n<p><strong>区分</strong> 矢弾; <strong>習熟</strong> 特殊武器</p>\n<h3 class=\"framing\">説明</h3>\n<p>錬金術カートリッジは黒色火薬にブリットまたはペレット、ときにはより特殊な材料を加え、紙か布で包まれ蜜蝋、豚脂、あるいは獣脂で密封した一包みである。多くの種類の錬金術カートリッジが存在し、最も単純なものは紙のカートリッジ――黒色火薬とペレットかブリットのいずれかとの単純な混合物である。錬金術カートリッジは火器への装填を容易にし、装填時間を1段階減少させるが（全ラウンド・アクションは標準アクションに、標準アクションは移動アクションに、そして移動アクションはフリー・アクションになる）、不安定になりがちである。錬金術カートリッジを発射する武器の不発値は各項目で記載されているだけ増加する。</p><p><strong>ペーパー・カートリッジ／Paper Cartridge：</strong>この黒色火薬とペレットまたはブリットの単純な混合物は不発値を1増加させる。</p>",
 			"identifiedName": "錬金術カートリッジ（ペーパー）"
@@ -92,10 +101,10 @@
 			"identifiedName": "錬金術カートリッジ（ソルト・ショット）"
 		},
 		{
-			"id": "Alchemical Cartridge (Smoke Cartridge)",
-			"name": "Alchemical Cartridge (Smoke Cartridge)",
+			"id": "Alchemical Cartridge (Smoke)",
+			"name": "Alchemical Cartridge (Smoke)",
 			"description": "<p><strong>Source</strong> <em>Heroes of Golarion pg. 18</em></p>\n<h3 class=\"framing\">詳細</h3>\n<p><strong>市価</strong> 35 gp <strong>重量</strong> -</p>\n<p><strong>区分</strong> 矢弾; <strong>習熟</strong> 特殊武器</p>\n<h3 class=\"framing\">説明</h3>\n<p>An alchemical cartridge is a prepared bundle of black powder with a bullet or pellets, sometimes with more exotic material added, which is then wrapped in paper or cloth and sealed with beeswax, lard, or tallow. There are many types of alchemical cartridges, the simplest being the paper cartridge-a simple mix of black powder and either pellets or a bullet. Alchemical cartridges make loading a firearm easier, reducing the time to load a firearm by one step (a full-round action becomes a standard action, a standard action becomes a move action, and a move action becomes a free action), but they tend to be unstable. The misfire value of a weapon firing an alchemical cartridge increases as listed in each entry.</p>\n<p>&nbsp;</p>\n<p><strong><em>Smoke Cartridge</em></strong>: (<strong>Source</strong> <em>Heroes of Golarion pg. 18</em>) This cartridge can be loaded only into a weapon with the scatter quality. Upon striking a target, it deals no damage, but instead bursts into a cloud of smoke in a 20-foot radius. This smoke impairs sight beyond 5 feet; any creature farther away gains concealment (20% miss chance). The cloud disperses after 1d4 rounds, or in 1 round in light wind.</p>\n<p>&nbsp;</p>",
-			"identifiedName": "Alchemical Cartridge (Smoke Cartridge)"
+			"identifiedName": "Alchemical Cartridge (Smoke)"
 		},
 		{
 			"id": "Alchemical Cartridge (Toxin)",
@@ -282,18 +291,6 @@
 			"name": "ビル",
 			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 18</em>, <em>Adventurer's Armory pg. 2</em>, <em>Advanced Player's Guide pg. 176</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 11 gp <strong>重量</strong> 11 ポンド</p><p><strong>ダメージ</strong> 1d6 (小型)、1d8 (中型); <strong>クリティカル</strong> x3<br><strong>射程</strong> -; <strong>タイプ</strong> 斬撃; <strong>特殊</strong> 待機、武器落とし、間合い、本文参照</p><p><strong>区分</strong> 両手武器; <strong>習熟</strong> 軍用武器</p><p><strong>武器グループ</strong> ポールアーム</p><h3 class=\"framing\">説明</h3><p>このポールアームの幅広の刃は、湾曲した鉤爪状の大きな斧になっており、刃の裏側からは鋭い突起が飛び出している。この突起は、通常ブロックや受け流しに用いられる。防御的戦闘や防御専念を行う場合、この武器は君のアーマー・クラスに＋1の盾ボーナスを与える。ビルによる攻撃が命中した騎乗している対象は、鞍上に留まるための〈騎乗〉判定に－1のペナルティを受ける。</p>",
 			"identifiedName": "ビル"
-		},
-		{
-			"id": "Black Powder (Dose)",
-			"name": "黒色火薬（1服）",
-			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 41</em>, <em>Ultimate Combat pg. 140</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 10 gp <strong>重量</strong> -</p><p><strong>区分</strong> 矢弾; <strong>習熟</strong> 特殊武器</p><h3 class=\"framing\">説明</h3><p>黒色火薬は火器を有効に機能させるための主要な爆発物の構成要素だが、大量のこの錬金術的物質はそれそのものも同様に極めて破壊的である。キャノンの射撃には10服を必要とするが、1服の黒色火薬は多くの片手火器および両手火器で1回の射撃を行うのに十分な力を持つ。黒色火薬は多くの場合小樽（100服を保持する）で保存され輸送されるが、この量の火薬はそれ自体が危険になる。［火炎］、［雷撃］への曝露、あるいは不発による爆発は黒色火薬を爆発させる――この方法による小樽1つの爆発は20フィートの爆発内のすべてのものに5d6ポイントの［火炎］ダメージを与える（反応・半減、難易度15）。黒色火薬は火薬入れの中に保存することで爆発から守られる。</p>",
-			"identifiedName": "黒色火薬（1服）"
-		},
-		{
-			"id": "Black Powder (Keg)",
-			"name": "黒色火薬（1小樽）",
-			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 41</em>, <em>Ultimate Combat pg. 140</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 1,000 gp <strong>重量</strong> 5 ポンド</p><p><strong>区分</strong> 矢弾; <strong>習熟</strong> 特殊武器</p><h3 class=\"framing\">説明</h3><p>黒色火薬は火器を有効に機能させるための主要な爆発物の構成要素だが、大量のこの錬金術的物質はそれそのものも同様に極めて破壊的である。キャノンの射撃には10服を必要とするが、1服の黒色火薬は多くの片手火器および両手火器で1回の射撃を行うのに十分な力を持つ。黒色火薬は多くの場合小樽（100服を保持する）で保存され輸送されるが、この量の火薬はそれ自体が危険になる。［火炎］、［雷撃］への曝露、あるいは不発による爆発は黒色火薬を爆発させる――この方法による小樽1つの爆発は20フィートの爆発内のすべてのものに5d6ポイントの［火炎］ダメージを与える（反応・半減、難易度15）。黒色火薬は火薬入れの中に保存することで爆発から守られる。</p>",
-			"identifiedName": "黒色火薬（1小樽）"
 		},
 		{
 			"id": "Blade Boot",
@@ -872,12 +869,6 @@
 			"identifiedName": "ドワーヴン・アーグロシュ"
 		},
 		{
-			"id": "Dwarven War-Shield",
-			"name": "Dwarven War-Shield",
-			"description": "<p><strong>Source</strong> <em>Adventurer's Armory 2 pg. 9</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 50 gp <strong>重量</strong> 8 ポンド</p><p><strong>ダメージ</strong> 1d4 (小型)、1d6 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 刺突または斬撃; <strong>特殊</strong> 本文参照</p><p><strong>区分</strong> 軽い武器; <strong>習熟</strong> 特殊武器</p><p><strong>武器グループ</strong> 近距離武器</p><h3 class=\"framing\">説明</h3><p>This shield's sides are cut into jagged angles and honed to razor sharpness. Dwarven skirmishers often wield these shields in pairs, savagely hacking opponents to pieces, while some dwarven scoundrels enjoy the shields' imposing appearance and ease of use. If you have the Two-Weapon Fighting feat and are wielding two dwarven war-shields, increase the higher of the two shield bonuses by 1. You lose this benefit for 1 round when you make a shield bash with one or both dwarven war-shields (unless you have the Improved Shield Bash feat or a similar benefit). A hand holding a dwarven warshield can't be used for anything else. A dwarven war-shield gains no benefit from shield spikes.</p>",
-			"identifiedName": "Dwarven War-Shield"
-		},
-		{
 			"id": "Dwarven Waraxe",
 			"name": "ドワーヴン・ウォーアックス",
 			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 20</em>, <em>PRPG Core Rulebook pg. 143</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 30 gp <strong>重量</strong> 8 ポンド</p><p><strong>ダメージ</strong> 1d8 (小型)、1d10 (中型); <strong>クリティカル</strong> x3<br><strong>射程</strong> -; <strong>タイプ</strong> 斬撃; <strong>特殊</strong> -</p><p><strong>区分</strong> 片手武器; <strong>習熟</strong> 特殊武器</p><p><strong>武器グループ</strong> 斧</p><h3 class=\"framing\">説明</h3><p>ドワーヴン・ウォーアックス（ドワーフの戦斧）は、太いにぎりの先に装飾のある大きな頭を持っており、あまりにも大きいので、片手で使うには特別な訓練が要る。そのため特殊武器扱いになる。中型サイズのキャラクターは、ドワーヴン・ウォーアックスを両手で持つなら軍用武器として使える。大型サイズのキャラクターはこれを片手で軍用武器として使える。ドワーフはドワーヴン・ウォーアックスを片手でも軍用武器として扱える。</p>",
@@ -1220,12 +1211,6 @@
 			"identifiedName": "グラップリング・フック"
 		},
 		{
-			"id": "Great Club",
-			"name": "Great Club",
-			"description": "",
-			"identifiedName": "Great Club"
-		},
-		{
 			"id": "Great Terbutje",
 			"name": "グレート・テルビーチェ",
 			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 20</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 12 gp <strong>重量</strong> 4 ポンド</p><p><strong>ダメージ</strong> 1d8 (小型)、1d10 (中型); <strong>クリティカル</strong> 19-20/x2<br><strong>射程</strong> -; <strong>タイプ</strong> 斬撃; <strong>特殊</strong> 壊れやすい</p><p><strong>区分</strong> 片手武器; <strong>習熟</strong> 特殊武器</p><p><strong>武器グループ</strong> 大剣</p><h3 class=\"framing\">説明</h3><p>この石器時代の武器は4フィート長版のテルビーチェである。特殊な訓練なしに片手で使用するには長すぎる； したがってグレート・テルビーチェは特殊武器である。グレート・テルビーチェは軍用武器として両手で使用することもできる。</p>",
@@ -1406,34 +1391,16 @@
 			"identifiedName": ""
 		},
 		{
-			"id": "Heavy Shield",
-			"name": "ヘヴィ・シールド",
-			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 18</em>, <em>PRPG Core Rulebook pg. 142</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 7 gp（木製）/20 gp（鋼鉄製） <strong>重量</strong> 10ポンド（木製）/15ポンド（鋼鉄製）</p><p><strong>ダメージ</strong> 1d3 (小型)、1d4 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 殴打; <strong>特殊</strong> -</p><p><strong>区分</strong> 片手武器; <strong>習熟</strong> 軍用武器</p><p><strong>武器グループ</strong> 近距離武器; Tribal</p><h3 class=\"framing\">説明</h3><p>ヘヴィ・シールドを防御ではなく攻撃に使うこともできる。盾としてのヘヴィ・シールドについては11ページに記載されている。</p>",
-			"identifiedName": "ヘヴィ・シールド"
-		},
-		{
 			"id": "Heavy Slaver's Crossbow",
 			"name": "ヘヴィ・スレイヴァーズ・クロスボウ",
 			"description": "<p><strong>Source</strong> <em>Monster Codex pg. 45</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 400 gp <strong>重量</strong> 12 ポンド</p><p><strong>ダメージ</strong> 1d6 (小型)、1d8 (中型); <strong>クリティカル</strong> 19-20/ボーラ・ボルト参照<br><strong>射程</strong> 80 ft.; <strong>タイプ</strong> 殴打; <strong>特殊</strong> 非致傷、足払い、本文参照</p><p><strong>区分</strong> 遠隔武器; <strong>習熟</strong> 特殊武器</p><h3 class=\"framing\">説明</h3><p>このクロスボウはクロスボウ・ボルトの代わりに、ボーラ・ボルトと呼ばれる矢弾を射出する。この武器にもライト・クロスボウとヘヴィ・クロスボウの二種類が存在し（ただし、同時にハンド・クロスボウやリピーティング・クロスボウとなることはない）、それぞれ適切なクロスボウの種類と同じ装填アクションが必要となる。</p>",
 			"identifiedName": "ヘヴィ・スレイヴァーズ・クロスボウ"
 		},
 		{
-			"id": "Heavy Steel Shield",
-			"name": "鋼鉄製ヘヴィ・シールド",
-			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 18</em>, <em>PRPG Core Rulebook pg. 142</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 7 gp（木製）/20 gp（鋼鉄製） <strong>重量</strong> 10ポンド（木製）/15ポンド（鋼鉄製）</p><p><strong>ダメージ</strong> 1d3 (小型)、1d4 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 殴打; <strong>特殊</strong> -</p><p><strong>区分</strong> 片手武器; <strong>習熟</strong> 軍用武器</p><p><strong>武器グループ</strong> 近距離武器; Tribal</p><h3 class=\"framing\">説明</h3><p>ヘヴィ・シールドを防御ではなく攻撃に使うこともできる。盾としてのヘヴィ・シールドについては11ページに記載されている。</p>",
-			"identifiedName": "鋼鉄製ヘヴィ・シールド"
-		},
-		{
 			"id": "Heavy Trebuchet",
 			"name": "ヘヴィ・トレビュシェット",
 			"description": "<p><strong>Source</strong> <em>Ultimate Combat pg. 163</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 1,500 gp <strong>重量</strong> -</p><p><strong>ダメージ</strong> 8d6; <strong>クリティカル</strong> x2<br><strong>射程</strong> 400 ft. (200 ft. min.); <strong>タイプ</strong> 殴打</p><p><strong>兵員</strong> 4; <strong>照準</strong> 3; <strong>装填</strong> 3; <strong>移動速度</strong> 0 ft.</p><p><strong>区分</strong> 曲射遠隔攻城兵器（巨大）; <strong>習熟</strong> 攻城兵器</p><h3 class=\"framing\">説明</h3><p><strong>トレビュシェット／Trebuchet：</strong>トレビュシェット（平衡錘投石機）はカタパルトに似た形状で、終端に積載物を搭載するバスケット、カップ、あるいはスリングを持つ長い梃子と、支点に近いカウンターウェイト（多くの場合兵員か動物の引くロープに繋がれている）を備えている。トレビュシェットの駆動するてこ装置は、目標のマスの周辺のトレビュシェットのサイズに基づく数のマスに散弾する巨大な飛翔体を投射することができる。トレビュシェットは車輪や搭乗物で動かすにはかさばりすぎ、戦場での組み立てを必要とする。トレビュシェットは150フィートの最小射程を持つ。</p><ul><li><strong>ライト／Light：</strong>これらの大型サイズの攻城兵器は一般に大きな石弾を目標に間接投射する（照準 難易度15）。ライト・トレビュシェットの矢弾は着弾時に散乱し、目標のマスに完全なダメージを、目標のマスの5フィート以内のクリーチャーおよび物体にその半分のダメージを与える（クリーチャーはさらにダメージを半減するための 難易度15の反応セーヴを行うことができる）。ライト・トレビュシェットは硬度5と50ヒット・ポイントを持つ。ライト・トレビュシェットが1回に使用する石弾の価格は15gp で重量は60ポンドである。</li><li><strong>スタンダード／Standard：</strong>これらの超大型の攻城兵器は一般に大きな石弾を目標に間接投射する（照準 難易度20）。標準のトレビュシェットの矢弾は着弾時に散乱し、目標のマスに完全なダメージを、目標のマスの15フィート以内のクリーチャーと物体にその半分のダメージを与える（クリーチャーはさらにダメージを半減するための 難易度20 の反応セーヴを行うことができる）。標準のトレビュシェットは硬度5と100ヒット・ポイントを持つ。標準のトレビュシェットが1回に使用する石弾の価格は30gp で重量は110ポンドである。</li><li><strong>ヘヴィ／Heavy：</strong>これらの巨大な攻城兵器は一般に大きな石弾を目標に間接投射する（照準 難易度25）。ヘヴィ・トレビュシェットの矢弾は着弾時に散乱し、目標のマスに完全なダメージを、目標のマスの30フィート以内のクリーチャーと物体にその半分のダメージを与える（クリーチャーはさらにダメージを半減するための 難易度25 の反応セーヴを行うことができる）。ヘヴィ・トレビュシェットは硬度5と200ヒット・ポイントを持つ。ヘヴィ・トレビュシェットが1回に使用する石弾の価格は40gp で重量は120ポンドである。</li></ul>",
 			"identifiedName": "ヘヴィ・トレビュシェット"
-		},
-		{
-			"id": "Heavy Wooden Shield",
-			"name": "木製ヘヴィ・シールド",
-			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 18</em>, <em>PRPG Core Rulebook pg. 142</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 7 gp（木製）/20 gp（鋼鉄製） <strong>重量</strong> 10ポンド（木製）/15ポンド（鋼鉄製）</p><p><strong>ダメージ</strong> 1d3 (小型)、1d4 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 殴打; <strong>特殊</strong> -</p><p><strong>区分</strong> 片手武器; <strong>習熟</strong> 軍用武器</p><p><strong>武器グループ</strong> 近距離武器; Tribal</p><h3 class=\"framing\">説明</h3><p>ヘヴィ・シールドを防御ではなく攻撃に使うこともできる。盾としてのヘヴィ・シールドについては11ページに記載されている。</p>",
-			"identifiedName": "木製ヘヴィ・シールド"
 		},
 		{
 			"id": "Heavy Wrist Launcher",
@@ -1590,12 +1557,6 @@
 			"name": "コピシュ",
 			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 20</em>, <em>Pathfinder Campaign Setting pg. 209</em>, <em>Adventurer's Armory pg. 33</em>, <em>Advanced Player's Guide pg. 178</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 20 gp <strong>重量</strong> 8 ポンド</p><p><strong>ダメージ</strong> 1d6 (小型)、1d8 (中型); <strong>クリティカル</strong> 19-20/x2<br><strong>射程</strong> -; <strong>タイプ</strong> 斬撃; <strong>特殊</strong> 足払い</p><p><strong>区分</strong> 片手武器; <strong>習熟</strong> 特殊武器</p><p><strong>武器グループ</strong> 大剣</p><h3 class=\"framing\">説明</h3><p>この重い剣は刃の終わりまで緩やかな曲線を描いており、全体的な形状はバトルアックスに良く似ている。一般的なコピシュの長さは20～24インチである。その湾曲した形状によって敵の防御をかいくぐり足払いすることができる。その優雅な形状は、一部の職人にコピシュを華やかな装飾で覆わせてしまう。</p>",
 			"identifiedName": "コピシュ"
-		},
-		{
-			"id": "Klar",
-			"name": "クラール",
-			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 18</em>, <em>Rise of the Runelords Player's Guide pg. 11</em>, <em>Curse of the Crimson Throne Player's Guide pg. 13</em>, <em>Pathfinder Campaign Setting pg. 209</em>, <em>Inner Sea World Guide pg. 290</em>, <em>Adventurer's Armory pg. 18</em>, <em>Varisia, Birthplace of Legends pg. 14</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 12 gp <strong>重量</strong> 6 ポンド</p><p><strong>ダメージ</strong> 1d4 (小型)、1d6 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 斬撃; <strong>特殊</strong> 本文参照</p><p><strong>区分</strong> 片手武器; <strong>習熟</strong> 軍用武器</p><p><strong>武器グループ</strong> 大剣; 近距離武器</p><h3 class=\"framing\">説明</h3><p>この伝統的な形態の部族武器は、大きなホーンテッド・リザードの頭蓋骨に短い金属の刃を結合させているが、熟練した職人は金属で一体成型することができる。伝統的なクラールはアーマー・スパイク付きの木製ライト・シールドとして扱う； 金属製クラールはアーマー・スパイク付きの金属製ライト・シールドとして扱う。</p>",
-			"identifiedName": "クラール"
 		},
 		{
 			"id": "Knobkerrie",
@@ -1790,34 +1751,16 @@
 			"identifiedName": ""
 		},
 		{
-			"id": "Light Shield",
-			"name": "ライト・シールド",
-			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 18</em>, <em>PRPG Core Rulebook pg. 142</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 3 gp（木製）/9 gp（鋼鉄製） <strong>重量</strong> 5ポンド（木製）/6ポンド（鋼鉄製）</p><p><strong>ダメージ</strong> 1d2 (小型)、1d3 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 殴打; <strong>特殊</strong> -</p><p><strong>区分</strong> 軽い武器; <strong>習熟</strong> 軍用武器</p><p><strong>武器グループ</strong> 近距離武器; Tribal</p><h3 class=\"framing\">説明</h3><p>ライト・シールドを防御ではなく攻撃に使うこともできる。盾としてのライト・シールドについては12ページに記載されている。</p>",
-			"identifiedName": "ライト・シールド"
-		},
-		{
 			"id": "Light Slaver's Crossbow",
 			"name": "ライト・スレイヴァーズ・クロスボウ",
 			"description": "<p><strong>Source</strong> <em>Monster Codex pg. 45</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 250 gp <strong>重量</strong> 6 ポンド</p><p><strong>ダメージ</strong> 1d3 (小型)、1d4 (中型); <strong>クリティカル</strong> 19-20/ボーラ・ボルト参照<br><strong>射程</strong> 40 ft.; <strong>タイプ</strong> 殴打; <strong>特殊</strong> 非致傷、足払い、本文参照</p><p><strong>区分</strong> 遠隔武器; <strong>習熟</strong> 特殊武器</p><h3 class=\"framing\">説明</h3><p>このクロスボウはクロスボウ・ボルトの代わりに、ボーラ・ボルトと呼ばれる矢弾を射出する。この武器にもライト・クロスボウとヘヴィ・クロスボウの二種類が存在し（ただし、同時にハンド・クロスボウやリピーティング・クロスボウとなることはない）、それぞれ適切なクロスボウの種類と同じ装填アクションが必要となる。</p>",
 			"identifiedName": "ライト・スレイヴァーズ・クロスボウ"
 		},
 		{
-			"id": "Light Steel Shield",
-			"name": "鋼鉄製ライト・シールド",
-			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 18</em>, <em>PRPG Core Rulebook pg. 142</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 3 gp（木製）/9 gp（鋼鉄製） <strong>重量</strong> 5ポンド（木製）/6ポンド（鋼鉄製）</p><p><strong>ダメージ</strong> 1d2 (小型)、1d3 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 殴打; <strong>特殊</strong> -</p><p><strong>区分</strong> 軽い武器; <strong>習熟</strong> 軍用武器</p><p><strong>武器グループ</strong> 近距離武器; Tribal</p><h3 class=\"framing\">説明</h3><p>ライト・シールドを防御ではなく攻撃に使うこともできる。盾としてのライト・シールドについては12ページに記載されている。</p>",
-			"identifiedName": "鋼鉄製ライト・シールド"
-		},
-		{
 			"id": "Light Trebuchet",
 			"name": "ライト・トレビュシェット",
 			"description": "<p><strong>Source</strong> <em>Ultimate Combat pg. 163</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 800 gp <strong>重量</strong> -</p><p><strong>ダメージ</strong> 4d6; <strong>クリティカル</strong> x2<br><strong>射程</strong> 200 ft. (100 ft. min.); <strong>タイプ</strong> 殴打</p><p><strong>兵員</strong> 3; <strong>照準</strong> 2; <strong>装填</strong> 3; <strong>移動速度</strong> 0 ft.</p><p><strong>区分</strong> 曲射遠隔攻城兵器（大型）; <strong>習熟</strong> 攻城兵器</p><h3 class=\"framing\">説明</h3><p><strong>トレビュシェット／Trebuchet：</strong>トレビュシェット（平衡錘投石機）はカタパルトに似た形状で、終端に積載物を搭載するバスケット、カップ、あるいはスリングを持つ長い梃子と、支点に近いカウンターウェイト（多くの場合兵員か動物の引くロープに繋がれている）を備えている。トレビュシェットの駆動するてこ装置は、目標のマスの周辺のトレビュシェットのサイズに基づく数のマスに散弾する巨大な飛翔体を投射することができる。トレビュシェットは車輪や搭乗物で動かすにはかさばりすぎ、戦場での組み立てを必要とする。トレビュシェットは150フィートの最小射程を持つ。</p><ul><li><strong>ライト／Light：</strong>これらの大型サイズの攻城兵器は一般に大きな石弾を目標に間接投射する（照準 難易度15）。ライト・トレビュシェットの矢弾は着弾時に散乱し、目標のマスに完全なダメージを、目標のマスの5フィート以内のクリーチャーおよび物体にその半分のダメージを与える（クリーチャーはさらにダメージを半減するための 難易度15の反応セーヴを行うことができる）。ライト・トレビュシェットは硬度5と50ヒット・ポイントを持つ。ライト・トレビュシェットが1回に使用する石弾の価格は15gp で重量は60ポンドである。</li><li><strong>スタンダード／Standard：</strong>これらの超大型の攻城兵器は一般に大きな石弾を目標に間接投射する（照準 難易度20）。標準のトレビュシェットの矢弾は着弾時に散乱し、目標のマスに完全なダメージを、目標のマスの15フィート以内のクリーチャーと物体にその半分のダメージを与える（クリーチャーはさらにダメージを半減するための 難易度20 の反応セーヴを行うことができる）。標準のトレビュシェットは硬度5と100ヒット・ポイントを持つ。標準のトレビュシェットが1回に使用する石弾の価格は30gp で重量は110ポンドである。</li><li><strong>ヘヴィ／Heavy：</strong>これらの巨大な攻城兵器は一般に大きな石弾を目標に間接投射する（照準 難易度25）。ヘヴィ・トレビュシェットの矢弾は着弾時に散乱し、目標のマスに完全なダメージを、目標のマスの30フィート以内のクリーチャーと物体にその半分のダメージを与える（クリーチャーはさらにダメージを半減するための 難易度25 の反応セーヴを行うことができる）。ヘヴィ・トレビュシェットは硬度5と200ヒット・ポイントを持つ。ヘヴィ・トレビュシェットが1回に使用する石弾の価格は40gp で重量は120ポンドである。</li></ul>",
 			"identifiedName": "ライト・トレビュシェット"
-		},
-		{
-			"id": "Light Wooden Shield",
-			"name": "木製ライト・シールド",
-			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 18</em>, <em>PRPG Core Rulebook pg. 142</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 3 gp（木製）/9 gp（鋼鉄製） <strong>重量</strong> 5ポンド（木製）/6ポンド（鋼鉄製）</p><p><strong>ダメージ</strong> 1d2 (小型)、1d3 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 殴打; <strong>特殊</strong> -</p><p><strong>区分</strong> 軽い武器; <strong>習熟</strong> 軍用武器</p><p><strong>武器グループ</strong> 近距離武器; Tribal</p><h3 class=\"framing\">説明</h3><p>ライト・シールドを防御ではなく攻撃に使うこともできる。盾としてのライト・シールドについては12ページに記載されている。</p>",
-			"identifiedName": "木製ライト・シールド"
 		},
 		{
 			"id": "Liquid Ice (Siege)",
@@ -1902,12 +1845,6 @@
 			"name": "Madsen Light Machine Gun",
 			"description": "<p><strong>Source</strong> <em>Pathfinder #71: Rasputin Must Die! pg. 64</em></p>\n<h3 class=\"framing\">詳細</h3>\n<p><strong>市価</strong> 1,000 gp <strong>重量</strong> 20 ポンド</p>\n<p><strong>ダメージ</strong> 2d6 (中型); <strong>クリティカル</strong> x4<br><strong>射程</strong> 100 ft.; <strong>タイプ</strong> 殴打および刺突; <strong>特殊</strong> automatic</p>\n<p><strong>不発</strong> 1-2; <strong>装弾数</strong> 20, 30, or 40</p>\n<p><strong>区分</strong> 両手武器; <strong>習熟</strong> 特殊武器</p>\n<h3 class=\"framing\">説明</h3>\n<p>This imposing machine gun is light enough to be transported and wielded by a single user. Chambered for the Russian military in 7.62 54mmR, this machine gun uses a top-loading, detachable 20-, 30-, or 40-round magazine.</p>\n<p>Like most machine guns, it is only capable of automatic fire.</p>",
 			"identifiedName": "Madsen Light Machine Gun"
-		},
-		{
-			"id": "Madu (Leather/Steel)",
-			"name": "マドゥ（革製／鋼鉄製）",
-			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 20</em>, <em>Legacy of Fire Player's Guide pg. 22</em>, <em>Adventurer's Armory pg. 4</em>, <em>Ultimate Combat pg. 144</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 40 gp（革製）/50 gp（鋼鉄製） <strong>重量</strong> 5 ポンド（革製）/6 ポンド（鋼鉄製）</p><p><strong>ダメージ</strong> 1d3 (小型)、1d4 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 刺突; <strong>特殊</strong> 演武</p><p><strong>区分</strong> 軽い武器; <strong>習熟</strong> 特殊武器</p><p><strong>武器グループ</strong> 小剣; 近距離武器</p><h3 class=\"framing\">説明</h3><p>マドゥは両側から伸びる2本の動物の角――通常はカモシカの――を備えた円形の革製ライト・シールドである。マドゥに習熟している場合、通常の－4の代わりに－2ペナルティを受けて防御的戦闘に使用することができ、《攻防一体》を使用する際の攻撃ペナルティを＋1向上させる（最小で－1ペナルティ）。マドゥを装備した手に他の何かを保持することはできない。習熟していない場合、マドゥはライト・スパイクト・シールドとして扱う。マドゥを武器落としすることはできない。マドゥは完全に金属で作ることもでき、どちらも基本的な保護と攻撃への利点を同じように提供するが、この2種類はいくつかの呪文と効果に対する反応が異なる。ドルイドは革製マドゥを使うことができるが、金属製マドゥは使えない。</p>",
-			"identifiedName": "マドゥ（革製／鋼鉄製）"
 		},
 		{
 			"id": "Mancatcher",
@@ -2138,12 +2075,6 @@
 			"identifiedName": "ポイズンド・サンド・チューブ"
 		},
 		{
-			"id": "Powder Horn",
-			"name": "火薬入れ",
-			"description": "<p><strong>Source</strong> <em>Ultimate Combat pg. 141</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 3 gp <strong>重量</strong> 1 ポンド</p><p><strong>区分</strong> 矢弾; <strong>習熟</strong> 特殊武器</p><h3 class=\"framing\">説明</h3><p>一般的には動物の角をくりぬいて作られるが、次第に多種多様な形状の金属から作られるようになった火薬入れは、10服の黒色火薬を保持することができる。火薬入れは内部に保存した黒色火薬を［火炎］、［雷撃］、火器の不発、および水への曝露から守り、角の細い方の端は、火器の銃身に高価な火薬を慎重に注ぎこむのに役立つ。</p>",
-			"identifiedName": "火薬入れ"
-		},
-		{
 			"id": "Pronged Arrow",
 			"name": "Pronged Arrow",
 			"description": "<p><strong>Source</strong> <em>Ranged Tactics Toolbox pg. 19</em></p>\n<h3 class=\"framing\">詳細</h3>\n<p><strong>市価</strong> 2 gp <strong>重量</strong> 3 ポンド</p>\n<p><strong>区分</strong> 矢弾; <strong>習熟</strong> 矢弾</p>\n<h3 class=\"framing\">説明</h3>\n<p>Rather than narrowing to a single point, a pronged arrow has a wide face with two points resembling a crescent or V-shape.</p>\n<p>Originally used for hunting game, a pronged arrow deals damage as if <strong>one size category smaller</strong>, but you gain a <strong>+1 bonus on attack rolls</strong> against creatures or objects one or more size categories smaller than you.</p>",
@@ -2244,12 +2175,6 @@
 			"name": "リヴォルヴァー",
 			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 43</em>, <em>Ultimate Combat pg. 139</em></p>\n<h3 class=\"framing\">詳細</h3>\n<p><strong>市価</strong> 4,000 gp <strong>重量</strong> 4 ポンド</p>\n<p><strong>ダメージ</strong> 1d6 (小型)、1d8 (中型); <strong>クリティカル</strong> x4<br><strong>射程</strong> 20 ft.; <strong>タイプ</strong> 殴打および刺突; <strong>特殊</strong> -</p>\n<p><strong>不発</strong> 1; <strong>装弾数</strong> 6</p>\n<p><strong>区分</strong> 片手武器; <strong>習熟</strong> 特殊武器</p>\n<h3 class=\"framing\">説明</h3>\n<p><strong>タイプ</strong> 発展した火器</p><p>リヴォルヴァー（回転式連発拳銃）は6つの薬室を含む回転シリンダーを備えたピストルである。各薬室には金属カートリッジ1つを保持することができ、1つのカートリッジを射撃すると、シリンダーは自動的に回転して（追加の手やアクションは必要ない）、次の薬室が射撃準備される。リヴォルヴァーは矢弾として金属カートリッジを使用する。リヴォルヴァーは発展した火器である。</p>",
 			"identifiedName": "リヴォルヴァー"
-		},
-		{
-			"id": "Rhoka",
-			"name": "Rhoka",
-			"description": "<p><em>This sword is used almost exclusively by the urdefhan, life-hating quasi-daemonic underground dwelling creatures. The sword is the size of a longsword but consists of two serrated blades placed side by side, each ending in a cruel hook.</em></p>",
-			"identifiedName": ""
 		},
 		{
 			"id": "Rhoka Sword",
@@ -2408,10 +2333,10 @@
 			"identifiedName": "ショアンティ・ボーラ"
 		},
 		{
-			"id": "Short Sword",
-			"name": "ショート・ソード",
-			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 18</em>, <em>PRPG Core Rulebook pg. 142</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 10 gp <strong>重量</strong> 2 ポンド</p><p><strong>ダメージ</strong> 1d4 (小型)、1d6 (中型); <strong>クリティカル</strong> 19-20/x2<br><strong>射程</strong> -; <strong>タイプ</strong> 刺突; <strong>特殊</strong> -</p><p><strong>区分</strong> 軽い武器; <strong>習熟</strong> 軍用武器</p><p><strong>武器グループ</strong> 小剣</p><h3 class=\"framing\">説明</h3><p>ショート・ソードはどんな武術社会でも見られる最も一般的な武器の一つであり、したがってそのデザインは地域や製作者に応じて非常に多様である。ほとんどは2フィート前後の長さである。その刃は湾曲していることも真っ直ぐであることも、片刃であることも両刃であることも、幅広であることも細身であることもある。柄は華美なものもシンプルなものもあり、護拳や籠鍔を備えているか、あるいはまったくガードしていないかもしれない。こうした武器はしばしばそれ自体でも使用されるが、同形の二振りを一組とすることもあり、あるいはダガーやより長大な剣と組み合わせて用いることもある。</p>",
-			"identifiedName": "ショート・ソード"
+			"id": "Shortsword",
+			"name": "ショートソード",
+			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 18</em>, <em>PRPG Core Rulebook pg. 142</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 10 gp <strong>重量</strong> 2 ポンド</p><p><strong>ダメージ</strong> 1d4 (小型)、1d6 (中型); <strong>クリティカル</strong> 19-20/x2<br><strong>射程</strong> -; <strong>タイプ</strong> 刺突; <strong>特殊</strong> -</p><p><strong>区分</strong> 軽い武器; <strong>習熟</strong> 軍用武器</p><p><strong>武器グループ</strong> 小剣</p><h3 class=\"framing\">説明</h3><p>ショートソードはどんな武術社会でも見られる最も一般的な武器の一つであり、したがってそのデザインは地域や製作者に応じて非常に多様である。ほとんどは2フィート前後の長さである。その刃は湾曲していることも真っ直ぐであることも、片刃であることも両刃であることも、幅広であることも細身であることもある。柄は華美なものもシンプルなものもあり、護拳や籠鍔を備えているか、あるいはまったくガードしていないかもしれない。こうした武器はしばしばそれ自体でも使用されるが、同形の二振りを一組とすることもあり、あるいはダガーやより長大な剣と組み合わせて用いることもある。</p>",
+			"identifiedName": "ショートソード"
 		},
 		{
 			"id": "Shortbow",
@@ -2564,12 +2489,6 @@
 			"identifiedName": "Spider-Leg Sickle"
 		},
 		{
-			"id": "Spiked Armor",
-			"name": "スパイクト・アーマー",
-			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 18</em>, <em>PRPG Core Rulebook pg. 142</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> +50 gp <strong>重量</strong> 特殊</p><p><strong>ダメージ</strong> 1d4 (小型)、1d6 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 刺突; <strong>特殊</strong> -</p><p><strong>区分</strong> 軽い武器; <strong>習熟</strong> 軍用武器</p><p><strong>武器グループ</strong> 近距離武器</p><h3 class=\"framing\">説明</h3><p>鎧にスパイク（棘）を植え付け、組みつきにおいて、または近接攻撃で相手にダメージを与えられるようにすることができる。詳しくは10ページの『アーマー・スパイク』の項を参照。アーマー・スパイクは武器落としすることができない。</p>",
-			"identifiedName": "スパイクト・アーマー"
-		},
-		{
 			"id": "Spiked Chain",
 			"name": "スパイクト・チェイン",
 			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 21</em>, <em>PRPG Core Rulebook pg. 143</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 25 gp <strong>重量</strong> 10 ポンド</p><p><strong>ダメージ</strong> 1d6 (小型)、2d4 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 刺突; <strong>特殊</strong> 武器落とし、足払い</p><p><strong>区分</strong> 両手武器; <strong>習熟</strong> 特殊武器</p><p><strong>武器グループ</strong> フレイル</p><h3 class=\"framing\">説明</h3><p>スパイクト・チェイン（棘つき鎖）は約4フィートの長さを持ち、危険な棘で覆われている。握り手として使う金属環を備えたものもある。《武器の妙技》を使えば、キャラクターと同一サイズ用のスパイクト・チェインでの攻撃ロールに、【筋力】修正値のかわりに【敏捷力】修正値を使える。たとえそれが“軽い武器”でなくてもである。</p>",
@@ -2580,18 +2499,6 @@
 			"name": "スパイクト・ガントレット",
 			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 17</em>, <em>PRPG Core Rulebook pg. 142</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 5 gp <strong>重量</strong> 1 ポンド</p><p><strong>ダメージ</strong> 1d3 (小型)、1d4 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 刺突; <strong>特殊</strong> -</p><p><strong>区分</strong> 軽い武器; <strong>習熟</strong> 単純武器</p><p><strong>武器グループ</strong> 近距離武器</p><h3 class=\"framing\">説明</h3><p>これは着用者がそのパンチ力で突き刺すことのできる、拳から突き出た刃か棘を備えた、厚い革か金属製のガントレットである。表の価格と重量は片手ぶん。スパイクト・ガントレット（棘つき篭手）での打撃は、武器攻撃と見なされる。スパイクト・ガントレットに武器落としすることはできない。</p>",
 			"identifiedName": "スパイクト・ガントレット"
-		},
-		{
-			"id": "Spiked Heavy Shield",
-			"name": "スパイクト・ヘヴィ・シールド",
-			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 18</em>, <em>PRPG Core Rulebook pg. 142</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 17 gp（木製）/30 gp（鋼鉄製） <strong>重量</strong> 15ポンド（木製）/20ポンド（鋼鉄製）</p><p><strong>ダメージ</strong> 1d4 (小型)、1d6 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 刺突; <strong>特殊</strong> -</p><p><strong>区分</strong> 片手武器; <strong>習熟</strong> 軍用武器</p><p><strong>武器グループ</strong> 近距離武器</p><h3 class=\"framing\">説明</h3><p>スパイクト・シールド（棘つき盾）は威圧的な武器であり、中央に突き出た棘、カミソリのような盾の縁、あるいは全体に致命的な突起の剣山などを備えている。スパイクト・ヘヴィ・シールドも、防御ではなく攻撃に使うこともできる。スパイクト・ヘヴィ・シールドは武器落としすることができない。詳しくは10ページの『アーマー・スパイク』の項を参照。</p>",
-			"identifiedName": "スパイクト・ヘヴィ・シールド"
-		},
-		{
-			"id": "Spiked Light Shield",
-			"name": "スパイクト・ライト・シールド",
-			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 18</em>, <em>PRPG Core Rulebook pg. 142</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 13 gp（木製）/19 gp（鋼鉄製） <strong>重量</strong> 10ポンド（木製）/11ポンド（鋼鉄製）</p><p><strong>ダメージ</strong> 1d3 (小型)、1d4 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 刺突; <strong>特殊</strong> -</p><p><strong>区分</strong> 軽い武器; <strong>習熟</strong> 軍用武器</p><h3 class=\"framing\">説明</h3><p>スパイクト・ライト・シールド（棘つき盾）も、防御ではなく攻撃に使うこともできる。スパイクト・ライト・シールドは武器落としすることができない。詳しくは10ページの『アーマー・スパイク』の項を参照。</p>",
-			"identifiedName": "スパイクト・ライト・シールド"
 		},
 		{
 			"id": "Spiral Rapier",
@@ -2970,6 +2877,12 @@
 			"name": "ウーシュウ・ダーツ",
 			"description": "<p><strong>Source</strong> <em>Ultimate Equipment pg. 18</em>, <em>Ultimate Combat pg. 134</em></p><h3 class=\"framing\">詳細</h3><p><strong>市価</strong> 2 sp <strong>重量</strong> -</p><p><strong>ダメージ</strong> 1d2 (小型)、1d3 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> 10 ft.; <strong>タイプ</strong> 刺突; <strong>特殊</strong> モンク用</p><p><strong>区分</strong> 軽い武器; <strong>習熟</strong> 軍用武器</p><p><strong>武器グループ</strong> 近距離武器; モンク; 投擲武器</p><h3 class=\"framing\">説明</h3><p>この鋭い木製の釘は殴りつける武器としても使用することができるが、投擲用に完璧なバランスがとられてもいる。</p>",
 			"identifiedName": "ウーシュウ・ダーツ"
+		},
+		{
+			"id": "Arrow, grappling",
+			"name": "鉤付きの矢",
+			"description": "<p><b>市価</b> 1gp; <b>重量</b> 0.5ポンド</p><p>この小さなひっかけ鉤は絹のロープに結んでボウから発射されるように設計されている。鉤付きの矢の発射時の射程単位は30フィートである。クロスボウ向けの同等品も存在する。</p>",
+			"identifiedName": "鉤付きの矢"
 		}
 	]
 }

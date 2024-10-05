@@ -1,5 +1,12 @@
 {
 	"label": "鎧と盾",
+	"folders": {
+		"Armor, Heavy": "重装鎧",
+		"Armor, Light": "軽装鎧",
+		"Armor, Medium": "中装鎧",
+		"Armor, Unique": "特定の鎧",
+		"Shields": "盾"
+	},
 	"entries": {
 		"Chain Coat": {
 			"name": "Chain Coat",
@@ -61,12 +68,12 @@
 			"description": "<p><strong>分類 </strong>中装鎧<br><strong>市価 </strong>50GP; <strong>重量 </strong>20ポンド<br><strong>鎧ボーナス </strong>＋4; <strong>【敏捷力】ボーナス上限 </strong>＋3<br><strong>防具による判定ペナルティ </strong>－2; <strong>秘術呪文失敗確率 </strong>20％<br><strong>移動速度 </strong>20フィート／15フィート</p><p>この丈夫な革のコートは、裏地に金属の板を縫いこんで補強されている。アーマード・コートは軽装鎧より扱い辛く、ほとんどの中装鎧ほどの防護効果は望めない。しかしこの鎧の利点は着脱を移動アクションで行うことができる、という点にある（つまり、アーマード・コートでは“急いで着る”オプションを取る必要がない）。もし他の鎧の上に着る場合は、アーマー・クラス・ボーナスでは大きな値を、その他の点では悪い値を適用すること。重装鎧と一緒にアーマード・コートを着用しても、全く効果はない。魔法の効果は、鎧、衣類、アイテムなどのうち一番上に身に着けているものの効果だけが発揮される。</p>",
 			"identifiedName": "アーマード・コート"
 		},
-		"Half-Plate (Agile)": {
+		"Agile Half-Plate": {
 			"name": "アジール・ハーフプレート",
 			"description": "<p><strong>分類 </strong>重装鎧<br><strong>市価 </strong>850GP; <strong>重量 </strong>55ポンド<br><strong>鎧ボーナス </strong>＋8; <strong>【敏捷力】ボーナス上限 </strong>＋0<br><strong>防具による判定ペナルティ </strong>－7; <strong>秘術呪文失敗確率 </strong>40％<br><strong>移動速度 </strong>20フィート／15フィート</p><p>このハーフプレートはいくつかの動作において身体の動きを邪魔しないことを念頭に置き、特別に製作された。〈登攀〉と跳躍の判定に対する鎧による判定ペナルティは－4となる（高品質やミスラル製のこの鎧は、通常どおりこのペナルティを減少させることができる）。さらにほとんどの重装鎧を着用した場合と異なり、着用者は3倍ではなく4倍の速さで疾走を行うことができる。</p>",
 			"identifiedName": "アジール・ハーフプレート"
 		},
-		"Breastplate (Agile)": {
+		"Agile Breastplate": {
 			"name": "アジール・ブレストプレート",
 			"description": "<p><strong>分類 </strong>中装鎧<br><strong>市価 </strong>400GP; <strong>重量 </strong>25ポンド<br><strong>鎧ボーナス </strong>＋6; <strong>【敏捷力】ボーナス上限 </strong>＋3<br><strong>防具による判定ペナルティ </strong>－4; <strong>秘術呪文失敗確率 </strong>25％<br><strong>移動速度 </strong>20フィート／15フィート</p><p>このブレストプレートはいくつかの動作において身体の動きを邪魔しないことを念頭に置き、特別に製作された。〈登攀〉と跳躍を行う際の〈軽業〉判定に対する鎧による判定ペナルティは－1となる（高品質やミスラル製のこの鎧は、通常どおりこのペナルティを減少させることができる）。</p>",
 			"identifiedName": "アジール・ブレストプレート"
@@ -98,7 +105,7 @@
 		},
 		"Klar": {
 			"name": "クラール",
-			"description": "<p><strong>分類 </strong>盾<br><strong>市価 </strong>12GP; <strong>重量 </strong>6ポンド<br><strong>盾ボーナス </strong>＋1; <strong>【敏捷力】ボーナス上限 </strong>―<br><strong>防具による判定ペナルティ </strong>－1; <strong>秘術呪文失敗確率 </strong>5％</p><p>これは、ホーンド・スピアストーカー（ストーヴァル高原に住む巨大ヤモリの一種族）の頭蓋骨に刃を固定したショアンティ達の伝統的な武器だが、近年では南ヴァリシアの武具屋はこの刃付き盾を鉄によって造り始めている。</p>",
+			"description": "<p><strong>分類 </strong>盾<br><strong>市価 </strong>12GP; <strong>重量 </strong>6ポンド<br><strong>盾ボーナス </strong>＋1; <strong>【敏捷力】ボーナス上限 </strong>―<br><strong>防具による判定ペナルティ </strong>－1; <strong>秘術呪文失敗確率 </strong>5％</p><p><strong>ダメージ</strong> 1d4 (小型)、1d6 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 斬撃; <strong>特殊</strong> 本文参照</p><p><strong>区分</strong> 片手武器; <strong>習熟</strong> 軍用武器</p><p><strong>武器グループ</strong> 大剣; 近距離武器</p><p>この部族の武器の伝統的な形式はラージ・ホーンド・リザードの頭蓋骨に短い刃を固定するというものだが、熟練の武器鍛冶師は鋼鉄から完全に一体成型で製作することができる。伝統的なクラールはアーマー・スパイク付き木製ライト・シールドとして扱う； 鋼鉄製クラールはアーマー・スパイク付き鋼鉄製ライト・シールドとして扱う（訳注：おそらくどちらもシールド・スパイク）。</p>",
 			"identifiedName": "クラール"
 		},
 		"Gray Maiden Plate": {
@@ -263,7 +270,7 @@
 		},
 		"Leather Madu": {
 			"name": "革製マドゥ",
-			"description": "<p><strong>分類 </strong>盾<br><strong>市価 </strong>40GP; <strong>重量 </strong>5ポンド<br><strong>盾ボーナス </strong>＋1; <strong>【敏捷力】ボーナス上限 </strong>―<br><strong>防具による判定ペナルティ </strong>－2; <strong>秘術呪文失敗確率 </strong>％</p><p>マドゥは丸いライト・シールドであり、4つのスパイクがそれぞれの縁についている。</p>",
+			"description": "<p><strong>分類 </strong>盾<br><strong>市価 </strong>40GP; <strong>重量 </strong>5ポンド<br><strong>盾ボーナス </strong>＋1; <strong>【敏捷力】ボーナス上限 </strong>―<br><strong>防具による判定ペナルティ </strong>－2; <strong>秘術呪文失敗確率 </strong>5％</p><p><strong>ダメージ</strong> 1d3 (小型)、1d4 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 刺突; <strong>特殊</strong> 演武</p><p><strong>区分</strong> 軽い武器; <strong>習熟</strong> 特殊武器</p><p><strong>武器グループ</strong> 小剣; 近距離武器</p><p>マドゥは両側から伸びる2本の動物の角――通常はカモシカの――を備えた円形の革製ライト・シールドである。マドゥに習熟している場合、通常の－4の代わりに－2ペナルティを受けて防御的戦闘に使用することができ、《攻防一体》を使用する際の攻撃ペナルティを＋1向上させる（最小で－1ペナルティ）。マドゥを装備した手に他の何かを保持することはできない。習熟していない場合、マドゥはライト・スパイクト・シールドとして扱う。マドゥを武器落としすることはできない。マドゥは完全に金属で作ることもでき、どちらも基本的な保護と攻撃への利点を同じように提供するが、この2種類はいくつかの呪文と効果に対する反応が異なる。ドルイドは革製マドゥを使うことができるが、金属製マドゥは使えない。</p>",
 			"identifiedName": "革製マドゥ"
 		},
 		"Leather Lamellar": {
@@ -273,17 +280,17 @@
 		},
 		"Heavy Steel Shield": {
 			"name": "鋼鉄製ヘヴィ・シールド",
-			"description": "<p><strong>分類 </strong>盾<br><strong>市価 </strong>20GP; <strong>重量 </strong>15ポンド<br><strong>盾ボーナス </strong>＋2; <strong>【敏捷力】ボーナス上限 </strong>―<br><strong>防具による判定ペナルティ </strong>－2; <strong>秘術呪文失敗確率 </strong>15％</p><p>鋼鉄製ヘヴィ・シールド（大盾）は前腕を盾のストラップに通した上で、持ち手を手で持つ。鋼鉄製ヘヴィ・シールドはなにしろ重いので、盾を持つ手では他には何もできない。木製にせよ鋼鉄製にせよ、ヘヴィ・シールドは基本的な保護と攻撃への利点を同じように提供するが、この2種類は（ラスティング・グラスプのような）いくつかの呪文と効果に対する反応が異なる。ドルイドは木製ヘヴィ・シールドを使うことができるが、鋼鉄製ヘヴィ・シールドは使えない。</p>",
+			"description": "<p><strong>分類 </strong>盾<br><strong>市価 </strong>20GP; <strong>重量 </strong>15ポンド<br><strong>盾ボーナス </strong>＋2; <strong>【敏捷力】ボーナス上限 </strong>―<br><strong>防具による判定ペナルティ </strong>－2; <strong>秘術呪文失敗確率 </strong>15％</p><p><strong>ダメージ</strong> 1d3 (小型)、1d4 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 殴打; <strong>特殊</strong> -</p><p><strong>区分</strong> 片手武器; <strong>習熟</strong> 軍用武器</p><p><strong>武器グループ</strong> 近距離武器; Tribal</p><p>鋼鉄製ヘヴィ・シールド（大盾）は前腕を盾のストラップに通した上で、持ち手を手で持つ。鋼鉄製ヘヴィ・シールドはなにしろ重いので、盾を持つ手では他には何もできない。木製にせよ鋼鉄製にせよ、ヘヴィ・シールドは基本的な保護と攻撃への利点を同じように提供するが、この2種類は（ラスティング・グラスプのような）いくつかの呪文と効果に対する反応が異なる。ドルイドは木製ヘヴィ・シールドを使うことができるが、鋼鉄製ヘヴィ・シールドは使えない。</p>",
 			"identifiedName": "鋼鉄製ヘヴィ・シールド"
 		},
 		"Light Steel Shield (Quickdraw)": {
 			"name": "鋼鉄製ライト・クイックドロウ・シールド",
-			"description": "<p><strong>分類 </strong>盾<br><strong>市価 </strong>59GP; <strong>重量 </strong>7ポンド<br><strong>盾ボーナス </strong>＋1; <strong>【敏捷力】ボーナス上限 </strong>―<br><strong>防具による判定ペナルティ </strong>－2; <strong>秘術呪文失敗確率 </strong>％</p><p>この鋼鉄製ライト・シールドはひと繋がりのストラップによって、この盾に習熟しているキャラクターが迅速かつ容易に背中に背負ったり、着用できたりするように特別に作成された。もし君が＋1以上の基本攻撃ボーナスを有しているのであれば、通常どおり移動しながら即行アクションでクイックドロウ・シールドを着用したりしまったりすることができる。もし君が《二刀流》特技を持っているなら、君が通常武器を準備するのと同じように、片方の手で軽い武器か片手用武器を、同時にもう一方の手でクイックドロウ・シールドを着用することができる。もし君が《早抜き》特技を持っているなら、クイックドロウ・シールドを着用したり片付けたりする行動はフリー・アクションとなる。</p>",
+			"description": "<p><strong>分類 </strong>盾<br><strong>市価 </strong>59GP; <strong>重量 </strong>7ポンド<br><strong>盾ボーナス </strong>＋1; <strong>【敏捷力】ボーナス上限 </strong>―<br><strong>防具による判定ペナルティ </strong>－2; <strong>秘術呪文失敗確率 </strong>5％</p><p><strong>ダメージ</strong> 1d2 (小型)、1d3 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 殴打; <strong>特殊</strong> -</p><p><strong>区分</strong> 軽い武器; <strong>習熟</strong> 軍用武器</p><p><strong>武器グループ</strong> 近距離武器; Tribal</p><p>この鋼鉄製ライト・シールドはひと繋がりのストラップによって、この盾に習熟しているキャラクターが迅速かつ容易に背中に背負ったり、着用できたりするように特別に作成された。もし君が＋1以上の基本攻撃ボーナスを有しているのであれば、通常どおり移動しながら即行アクションでクイックドロウ・シールドを着用したりしまったりすることができる。もし君が《二刀流》特技を持っているなら、君が通常武器を準備するのと同じように、片方の手で軽い武器か片手用武器を、同時にもう一方の手でクイックドロウ・シールドを着用することができる。もし君が《早抜き》特技を持っているなら、クイックドロウ・シールドを着用したり片付けたりする行動はフリー・アクションとなる。</p>",
 			"identifiedName": "鋼鉄製ライト・クイックドロウ・シールド"
 		},
 		"Light Steel Shield": {
 			"name": "鋼鉄製ライト・シールド",
-			"description": "<p><strong>分類 </strong>盾<br><strong>市価 </strong>9GP; <strong>重量 </strong>6ポンド<br><strong>盾ボーナス </strong>＋1; <strong>【敏捷力】ボーナス上限 </strong>―<br><strong>防具による判定ペナルティ </strong>－1; <strong>秘術呪文失敗確率 </strong>％</p><p>鋼鉄製ライト・シールド（小盾）は前腕を盾のストラップに通した上で、持ち手を手で持つ。鋼鉄製ライト・シールドは重さが軽いので、盾を持つ手で他のものも持てる（が、武器を使うことはできない）。木製にせよ鋼鉄製にせよ、ライト・シールドは基本的な保護と攻撃への利点を同じように提供するが、この2種類は（ラスティング・グラスプのような）いくつかの呪文と効果に対する反応が異なる。ドルイドは木製ライト・シールドを使うことができるが、鋼鉄製ライト・シールドは使えない。</p>",
+			"description": "<p><strong>分類 </strong>盾<br><strong>市価 </strong>9GP; <strong>重量 </strong>6ポンド<br><strong>盾ボーナス </strong>＋1; <strong>【敏捷力】ボーナス上限 </strong>―<br><strong>防具による判定ペナルティ </strong>－1; <strong>秘術呪文失敗確率 </strong>5％</p><p><strong>ダメージ</strong> 1d2 (小型)、1d3 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 殴打; <strong>特殊</strong> -</p><p><strong>区分</strong> 軽い武器; <strong>習熟</strong> 軍用武器</p><p><strong>武器グループ</strong> 近距離武器; Tribal</p><p>鋼鉄製ライト・シールド（小盾）は前腕を盾のストラップに通した上で、持ち手を手で持つ。鋼鉄製ライト・シールドは重さが軽いので、盾を持つ手で他のものも持てる（が、武器を使うことはできない）。木製にせよ鋼鉄製にせよ、ライト・シールドは基本的な保護と攻撃への利点を同じように提供するが、この2種類は（ラスティング・グラスプのような）いくつかの呪文と効果に対する反応が異なる。ドルイドは木製ライト・シールドを使うことができるが、鋼鉄製ライト・シールドは使えない。</p>",
 			"identifiedName": "鋼鉄製ライト・シールド"
 		},
 		"Steel Lamellar": {
@@ -297,8 +304,8 @@
 			"identifiedName": "石製ラメラー"
 		},
 		"Steel Madu": {
-			"name": "鉄製マドゥ",
-			"description": "<p><strong>分類 </strong>盾<br><strong>市価 </strong>50GP; <strong>重量 </strong>6ポンド<br><strong>盾ボーナス </strong>＋1; <strong>【敏捷力】ボーナス上限 </strong>―<br><strong>防具による判定ペナルティ </strong>－2; <strong>秘術呪文失敗確率 </strong>5％</p><p>マドゥは丸いライト・シールドであり、4つのスパイクがそれぞれの縁についている。マドゥに《習熟》しているのなら、この武器を使用して防御的戦闘を行なう際、通常の－4のペナルティではなく－2のペナルティを受ける。もし《攻防一体》を使用しているなら、攻撃ロールへのペナルティは1軽減される（最低－1のペナルティ）。マドゥを装備している手に他のものを持つことはできない。マドゥに《習熟》していないのであれば、スパイクト・ライト・シールドとして扱う。</p>",
+			"name": "鋼鉄製マドゥ",
+			"description": "<p><strong>分類 </strong>盾<br><strong>市価 </strong>50GP; <strong>重量 </strong>6ポンド<br><strong>盾ボーナス </strong>＋1; <strong>【敏捷力】ボーナス上限 </strong>―<br><strong>防具による判定ペナルティ </strong>－2; <strong>秘術呪文失敗確率 </strong>5％</p><p><strong>ダメージ</strong> 1d3 (小型)、1d4 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 刺突; <strong>特殊</strong> 演武</p><p><strong>区分</strong> 軽い武器; <strong>習熟</strong> 特殊武器</p><p><strong>武器グループ</strong> 小剣; 近距離武器</p><p>マドゥは両側から伸びる2本の動物の角――通常はカモシカの――を備えた円形の革製ライト・シールドである。マドゥに習熟している場合、通常の－4の代わりに－2ペナルティを受けて防御的戦闘に使用することができ、《攻防一体》を使用する際の攻撃ペナルティを＋1向上させる（最小で－1ペナルティ）。マドゥを装備した手に他の何かを保持することはできない。習熟していない場合、マドゥはライト・スパイクト・シールドとして扱う。マドゥを武器落としすることはできない。マドゥは完全に金属で作ることもでき、どちらも基本的な保護と攻撃への利点を同じように提供するが、この2種類はいくつかの呪文と効果に対する反応が異なる。ドルイドは革製マドゥを使うことができるが、金属製マドゥは使えない。</p>",
 			"identifiedName": "鉄製マドゥ"
 		},
 		"Iron Lamellar": {
@@ -308,17 +315,17 @@
 		},
 		"Heavy Wooden Shield": {
 			"name": "木製ヘヴィ・シールド",
-			"description": "<p><strong>分類 </strong>盾<br><strong>市価 </strong>7GP; <strong>重量 </strong>10ポンド<br><strong>盾ボーナス </strong>＋2; <strong>【敏捷力】ボーナス上限 </strong>―<br><strong>防具による判定ペナルティ </strong>－2; <strong>秘術呪文失敗確率 </strong>15％</p><p>木製ヘヴィ・シールドは（ラスティング・グラスプのような）いくつかの呪文と効果に対する反応が異なることを除き、基本的には鋼鉄製ヘヴィ・シールドと同じである。ドルイドは木製ヘヴィ・シールドを使うことができるが、鋼鉄製ヘヴィ・シールドは使えない。</p>",
+			"description": "<p><strong>分類 </strong>盾<br><strong>市価 </strong>7GP; <strong>重量 </strong>10ポンド<br><strong>盾ボーナス </strong>＋2; <strong>【敏捷力】ボーナス上限 </strong>―<br><strong>防具による判定ペナルティ </strong>－2; <strong>秘術呪文失敗確率 </strong>15％</p><p><strong>ダメージ</strong> 1d3 (小型)、1d4 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 殴打; <strong>特殊</strong> -</p><p><strong>区分</strong> 片手武器; <strong>習熟</strong> 軍用武器</p><p><strong>武器グループ</strong> 近距離武器; Tribal</p><p>木製ヘヴィ・シールドは（ラスティング・グラスプのような）いくつかの呪文と効果に対する反応が異なることを除き、基本的には鋼鉄製ヘヴィ・シールドと同じである。ドルイドは木製ヘヴィ・シールドを使うことができるが、鋼鉄製ヘヴィ・シールドは使えない。</p>",
 			"identifiedName": "木製ヘヴィ・シールド"
 		},
 		"Light Wooden Shield (Quickdraw)": {
 			"name": "木製ライト・クイックドロウ・シールド",
-			"description": "<p><strong>分類 </strong>盾<br><strong>市価 </strong>53GP; <strong>重量 </strong>6ポンド<br><strong>盾ボーナス </strong>＋1; <strong>【敏捷力】ボーナス上限 </strong>―<br><strong>防具による判定ペナルティ </strong>－2; <strong>秘術呪文失敗確率 </strong>％</p><p>木製ライト・クイックドロウ・シールドは（ラスティング・グラスプのような）いくつかの呪文と効果に対する反応が異なることを除き、基本的には鋼鉄製ライト・クイックドロウ・シールドと同じである。ドルイドは木製ライト・クイックドロウ・シールドを使うことができるが、鋼鉄製ライト・クイックドロウ・シールドは使えない。</p>",
+			"description": "<p><strong>分類 </strong>盾<br><strong>市価 </strong>53GP; <strong>重量 </strong>6ポンド<br><strong>盾ボーナス </strong>＋1; <strong>【敏捷力】ボーナス上限 </strong>―<br><strong>防具による判定ペナルティ </strong>－2; <strong>秘術呪文失敗確率 </strong>5％</p><p><strong>ダメージ</strong> 1d2 (小型)、1d3 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 殴打; <strong>特殊</strong> -</p><p><strong>区分</strong> 軽い武器; <strong>習熟</strong> 軍用武器</p><p><strong>武器グループ</strong> 近距離武器; Tribal</p><p>木製ライト・クイックドロウ・シールドは（ラスティング・グラスプのような）いくつかの呪文と効果に対する反応が異なることを除き、基本的には鋼鉄製ライト・クイックドロウ・シールドと同じである。ドルイドは木製ライト・クイックドロウ・シールドを使うことができるが、鋼鉄製ライト・クイックドロウ・シールドは使えない。</p>",
 			"identifiedName": "木製ライト・クイックドロウ・シールド"
 		},
 		"Light Wooden Shield": {
 			"name": "木製ライト・シールド",
-			"description": "<p><strong>分類 </strong>盾<br><strong>市価 </strong>3GP; <strong>重量 </strong>5ポンド<br><strong>盾ボーナス </strong>＋1; <strong>【敏捷力】ボーナス上限 </strong>―<br><strong>防具による判定ペナルティ </strong>－1; <strong>秘術呪文失敗確率 </strong>％</p><p>木製ライト・シールドは（ラスティング・グラスプのような）いくつかの呪文と効果に対する反応が異なることを除き、基本的には鋼鉄製ライト・シールドと同じである。ドルイドは木製ライト・シールドを使うことができるが、鋼鉄製ライト・シールドは使えない。</p>",
+			"description": "<p><strong>分類 </strong>盾<br><strong>市価 </strong>3GP; <strong>重量 </strong>5ポンド<br><strong>盾ボーナス </strong>＋1; <strong>【敏捷力】ボーナス上限 </strong>―<br><strong>防具による判定ペナルティ </strong>－1; <strong>秘術呪文失敗確率 </strong>5％</p><p><strong>ダメージ</strong> 1d2 (小型)、1d3 (中型); <strong>クリティカル</strong> x2<br><strong>射程</strong> -; <strong>タイプ</strong> 殴打; <strong>特殊</strong> -</p><p><strong>区分</strong> 軽い武器; <strong>習熟</strong> 軍用武器</p><p><strong>武器グループ</strong> 近距離武器; Tribal</p><p>木製ライト・シールドは（ラスティング・グラスプのような）いくつかの呪文と効果に対する反応が異なることを除き、基本的には鋼鉄製ライト・シールドと同じである。ドルイドは木製ライト・シールドを使うことができるが、鋼鉄製ライト・シールドは使えない。</p>",
 			"identifiedName": "木製ライト・シールド"
 		}
 	}

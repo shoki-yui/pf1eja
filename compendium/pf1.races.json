@@ -3,7 +3,11 @@
     "mapping": {
 			"contextNotes": "system.contextNotes",
 			"subTypes": "system.subTypes"
-    },
+	},
+	"folders": {
+		"Core": "基本種族",
+		"Other": "その他の種族"
+	},
 	"entries": [
 		{
 			"id": "Aasimar",

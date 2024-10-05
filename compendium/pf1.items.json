@@ -1,5 +1,37 @@
 {
 	"label": "アイテム",
+	"folders": {
+		"Adventuring Gear": "冒険用装備",
+		"Class Kits": "クラス用具",
+		"Alchemical Items": "錬金術アイテム",
+		"Alchemical Reagents": "錬金術試薬",
+		"Alchemical Remedies": "錬金術薬",
+		"Alchemical Tools": "錬金術道具",
+		"Alchemical Weapons": "錬金術武器",
+		"Animal Gear": "動物用装備",
+		"Animals and Mounts": "動物、乗騎",
+		"Food and Drink": "飲食物",
+		"Herbs": "ハーブ",
+		"Magic Items": "魔法のアイテム",
+		"Rings": "指輪",
+		"Rods": "ロッド",
+		"Staves": "スタッフ",
+		"Wondrous Items": "その他の魔法のアイテム",
+		"Belt": "ベルト",
+		"Eyes": "両目",
+		"Feet": "両足",
+		"Hands": "両手",
+		"Head": "頭部",
+		"Headband": "額周り",
+		"Ioun Stones": "アイウーン・ストーン",
+		"Neck": "首周り",
+		"Shoulders": "肩周り",
+		"Slotless": "装備部位なし",
+		"Wrists": "手首",
+		"Material Components": "物質要素",
+		"Miscellaneous": "その他",
+		"Tools and Skill Kits": "道具、技能用具"
+	},
 	"entries": [
 		{
 			"id": "A Thread Of Silver",
@@ -98,19 +130,25 @@
 			"identifiedName": "錬金術実験道具"
 		},
 		{
-			"id": "Alchemist's Lab, Portable",
+			"id": "Alchemist's Lab, portable",
 			"name": "携帯用錬金術実験道具",
 			"description": "<p><b>市価</b> 75gp; <b>重量</b> 20ポンド</p><p>標準サイズの錬金術実験道具をコンパクトにしたこの研究室は〈製作：錬金術〉技能に＋1の状況ボーナスを提供する。</p>",
 			"identifiedName": "携帯用錬金術実験道具"
 		},
 		{
-			"id": "Ale",
-			"name": "エール",
+			"id": "Ale (mug)",
+			"name": "エール（マグカップ）",
 			"description": "<p><table border='1'><thead><tr><th>名前</th><th>市価</th><th>重量</th></tr></thead><tr><td>エール（マグカップ）</td><td>4cp</td><td>1ポンド</td></tr><tr><td>エール（ガロン）</td><td>2sp</td><td>8ポンド</td></tr></table></p><p>エールは麦芽になった大麦を醸造して作られたビールの一種だ。甘く濃厚で、果物のような味わいがするものもある。</p>",
 			"identifiedName": "エール"
 		},
 		{
-			"id": "Ale, Dwarven Stout",
+			"id": "Ale (gallon)",
+			"name": "エール（ガロン）",
+			"description": "<p><table border='1'><thead><tr><th>名前</th><th>市価</th><th>重量</th></tr></thead><tr><td>エール（マグカップ）</td><td>4cp</td><td>1ポンド</td></tr><tr><td>エール（ガロン）</td><td>2sp</td><td>8ポンド</td></tr></table></p><p>エールは麦芽になった大麦を醸造して作られたビールの一種だ。甘く濃厚で、果物のような味わいがするものもある。</p>",
+			"identifiedName": "エール"
+		},
+		{
+			"id": "Dwarven Stout (mug)",
 			"name": "ドワーフの黒ビール",
 			"description": "<p><b>市価</b> 4cp; <b>重量</b> 0.5ポンド</p><p>ドワーフの黒ビールは一種類の飲み物ではなくビールの一種類で、人間の国では異なる名前で知られている。ドワーフの黒ビールはわずかに焦げた風味と泡立ちが特徴となっている黒いビールだ。これらは食事と同じくらい腹にたまると言われている。ほとんどのドワーフ氏族は、氏族毎に異なる調理法を持ち、最高の醸造方法を巡り家族間の対立は、何百年も前に遡ることもある。</p>",
 			"identifiedName": "ドワーフの黒ビール"
@@ -140,14 +178,14 @@
 			"identifiedName": "オールナイト"
 		},
 		{
-			"id": "Altar, Portable",
+			"id": "Portable Altar",
 			"name": "携帯用祭壇",
 			"description": "<p><b>市価</b> 250gp; <b>重量</b> 40ポンド</p><p>携帯用祭壇は通常は木製で、凝った彫刻が施され、特定の宗教の宗教的図像で飾られている。祭壇は上部を持ち上げ、ろうそく、香、油のようなアイテムを中に収納することができる。これらの祭壇はそれほど大きくはないが、旅の司祭に毎日の祈りを捧げる、簡単な儀式を行う、または集まった群衆に説教するための焦点を与えてくれる。</p>",
 			"identifiedName": "携帯用祭壇"
 		},
 		{
-			"id": "Ambrosia",
-			"name": "アンブロシア",
+			"id": "Ambrosia (vial)",
+			"name": "アンブロシア（1ビン）",
 			"description": "<p>アンブロシア（1ビン） <b>市価</b> 100gp; <b>重量</b> 1ポンド</p><p>聖水と祝福された香草から作られるこの素晴らしいエリクサーを摂取すると、以後1時間の間、負のエネルギー、生命力吸収、［即死］効果に対するセーヴィング・スローに＋2の清浄ボーナスを得る。これには負のレベルを取り除くために行うセーヴも含まれる。アンブロシアはアンデッド及び悪の来訪者に対しては聖水として機能する。</p>",
 			"identifiedName": "アンブロシア"
 		},
@@ -236,13 +274,7 @@
 			"identifiedName": "Armor Truss"
 		},
 		{
-			"id": "Arrow, Grappling",
-			"name": "鉤付きの矢",
-			"description": "<p><b>市価</b> 1gp; <b>重量</b> 0.5ポンド</p><p>この小さなひっかけ鉤は絹のロープに結んでボウから発射されるように設計されている。鉤付きの矢の発射時の射程単位は30フィートである。クロスボウ向けの同等品も存在する。</p>",
-			"identifiedName": "鉤付きの矢"
-		},
-		{
-			"id": "Artificer's Lab, Portable",
+			"id": "Artificer's Lab, portable",
 			"name": "携帯型秘術技師工房",
 			"description": "<p><b>市価</b> 300gp; <b>重量</b> 40ポンド</p><p>携帯型秘術技師工房には魔法のアイテムを作成するために必要なすべてのものが含まれているが、工具や用具のほとんどは最も基本的なものでしかない。この工房によって秘術技師は冒険中の夜毎、作成に4時間を費やして（2時間ではなく）3時間分の作業を行えるようになる。しかしながら、道具はすべて複数の機能を満たすように設計されており、また携帯用工房は魔法のアイテムを作成するための理想的環境としては空間と静寂さを欠いているため、作業のいずれかを携帯用工房を使用して行った魔法のアイテムを完成させる技能判定には－5のペナルティを受ける。</p>",
 			"identifiedName": "携帯型秘術技師工房"
@@ -260,14 +292,14 @@
 			"identifiedName": "バチュラー・スナッフ"
 		},
 		{
-			"id": "Backpack",
+			"id": "Backpack, common",
 			"name": "背負い袋",
 			"description": "<p><b>市価</b> 2gp; <b>重量</b> 2ポンド</p><p>このバックル付きのベルトを備えた革製の背嚢には大きな蓋付きのポケットがひとつあり、約2立方フィートの物体を収納できる。側部に1ないし複数の小さなポケットを備えているものもある。</p>",
 			"identifiedName": "背負い袋",
 			"inventoryItems": []
 		},
 		{
-			"id": "Backpack, Masterwork",
+			"id": "Backpack, masterwork",
 			"name": "背負い袋（高品質）",
 			"description": "<p><b>市価</b> 50gp; <b>重量</b> 4ポンド</p><p>この背負い袋は、冒険の間必要になるかもしれない色々なアイテムを保持するためのポケットを多数持っている。水筒やポーチ、または丸めた毛布などの様々なアイテムを取り付けるためのフックも付いている。胸と腰に巻きつけて重量を分散させるためのベルトも備わっている。標準的な背負い袋と同様に、この背負い袋には約2立方フィートの荷物を入れることができる。高品質の背負い袋を使用している場合、君の運搬能力を計算する際に通常より【筋力】値が1高いものと見なすこと。</p>",
 			"identifiedName": "背負い袋（高品質）",
@@ -490,10 +522,16 @@
 			"identifiedName": "黒爛れ"
 		},
 		{
-			"id": "Black powder (Keg)",
+			"id": "Black powder (keg)",
 			"name": "黒色火薬（小樽）",
 			"description": "<p><table border='1'><thead><tr><th>種類</th><th>市価</th><th>重量</th></tr></thead><tr><td>1服</td><td>10gp</td><td>-</td></tr><tr><td>1小樽</td><td>1,000gp</td><td>5ポンド</td></tr></table></p><p>黒色火薬は火器を有効に機能させるための主要な爆発物の構成要素だが、大量のこの錬金術的物質はそれそのものも同様に極めて破壊的である。キャノンの射撃には10服を必要とするが、1服の黒色火薬は多くの片手火器および両手火器で1回の射撃を行うのに十分な力を持つ。黒色火薬は多くの場合小樽（100服を保持する）で保存され輸送されるが、この量の火薬はそれ自体が危険になる。［火炎］、［雷撃］への曝露、あるいは不発による爆発は黒色火薬を爆発させる――この方法による小樽1つの爆発は20フィートの爆発内のすべてのものに5d6ポイントの［火炎］ダメージを与える（反応・半減、難易度15）。黒色火薬は火薬入れの中に保存することで爆発から守られる。</p><h2>錬金術呪文構成要素</h2><p><b>使用量</b> 1（10gp）; <b>呪文</b> 力術系統</p><p><b>効果</b> ＋1エネルギーダメージ</p>",
 			"identifiedName": "黒色火薬（小樽）"
+		},
+		{
+			"id": "Black powder (dose)",
+			"name": "黒色火薬（1服）",
+			"description": "<p><table border='1'><thead><tr><th>種類</th><th>市価</th><th>重量</th></tr></thead><tr><td>1服</td><td>10gp</td><td>-</td></tr><tr><td>1小樽</td><td>1,000gp</td><td>5ポンド</td></tr></table></p><p>黒色火薬は火器を有効に機能させるための主要な爆発物の構成要素だが、大量のこの錬金術的物質はそれそのものも同様に極めて破壊的である。キャノンの射撃には10服を必要とするが、1服の黒色火薬は多くの片手火器および両手火器で1回の射撃を行うのに十分な力を持つ。黒色火薬は多くの場合小樽（100服を保持する）で保存され輸送されるが、この量の火薬はそれ自体が危険になる。［火炎］、［雷撃］への曝露、あるいは不発による爆発は黒色火薬を爆発させる――この方法による小樽1つの爆発は20フィートの爆発内のすべてのものに5d6ポイントの［火炎］ダメージを与える（反応・半減、難易度15）。黒色火薬は火薬入れの中に保存することで爆発から守られる。</p><h2>錬金術呪文構成要素</h2><p><b>使用量</b> 1（10gp）; <b>呪文</b> 力術系統</p><p><b>効果</b> ＋1エネルギーダメージ</p>",
+			"identifiedName": "黒色火薬（1服）"
 		},
 		{
 			"id": "Bladeguard",
@@ -580,13 +618,13 @@
 			"identifiedName": "手紙指南書"
 		},
 		{
-			"id": "Book Of Puzzles",
+			"id": "Book of Puzzles",
 			"name": "パズル本",
 			"description": "<p><b>市価</b> 50gp; <b>重量</b> 1ポンド</p><p>この本はそれぞれ精神を試し知性を呼び覚ますパズルが10問含まれている。パズル1つを解くには最低でも1時間が必要で、難易度10の【知力】判定に成功しなければならない。【知力】判定の達成値が難易度を5ポイント上回る毎に、パズルを解くために必要な時間が10分ずつ短くなる（個々のパズルを解くには、最低でも10分は必要となる）。パズル1つを解くと、以降24時間の間、〈真意看破〉、〈装置無力化〉、〈知識〉技能判定のいずれかを1回行う際、2回ロールしてより高い結果を用いることができる。全てのパズルを解いてしまうとこの本は価値の無いものとなる。しかし別のパズルが掲載されたパズル本を買うことができる。</p>",
 			"identifiedName": "パズル本"
 		},
 		{
-			"id": "Book Of War Prayers",
+			"id": "Book of War Prayers",
 			"name": "戦場の祈祷書",
 			"description": "<p><b>市価</b> 50gp; <b>重量</b> 0.5ポンド</p><p>この革で装丁された、戦場の祈祷を集めた小さい本の各ページは、素晴らしい上質皮紙で作られている。持ち主の【魅力】が13以上であるか、持ち主が〈芸能：朗誦〉に1ランク以上割り振っているならば、持ち主はこの本の祈祷を声高に読み上げることで、戦闘の前に来たる試練に備える者達を勇気づけることができる。効果を得るために祈祷を読み上げるには10分かかる。祈祷を聞いたものは、次に試みる［恐怖］に対するセーヴィング・スローに＋2の士気ボーナスを得る。ただしこのセーヴィング・スローは祈祷後24時間以内に行われるものでなければならない。</p>",
 			"identifiedName": "戦場の祈祷書"
@@ -1732,7 +1770,7 @@
 			"identifiedName": "ひっかけ鉤"
 		},
 		{
-			"id": "Horn, signal",
+			"id": "Signal horn",
 			"name": "信号ラッパ",
 			"description": "<p><b>市価</b> 1gp; <b>重量</b> 2ポンド</p><p>ラッパを吹く際に 難易度10の〈芸能：管楽器〉判定に成功すれば、“攻撃！”、“助けて！”、“進め！”、“退却！”、“射て！”、“警戒しろ！”などといったニュアンスを伝える事ができる。信号ラッパによる連絡は半マイル離れたところまでクリアに届く（〈知覚〉判定の 難易度0）。さらに1/4マイル離れるごとに、信号ラッパの音を聞く判定には－1のペナルティが課せられる。</p>",
 			"identifiedName": "信号ラッパ"
@@ -1888,7 +1926,7 @@
 			"identifiedName": "日誌"
 		},
 		{
-			"id": "Jug, Clay",
+			"id": "Jug, clay",
 			"name": "陶器のつぼ",
 			"description": "<p><b>市価</b> 3cp; <b>重量</b> 9ポンド</p><p>ありふれた陶器のつぼで、栓がついている。1ガロン（約4リットル）の液体が入る。 記載の重量はつぼが水、ワイン、あるいはエールで満たされている場合についてである； 空の場合は重量がおよそ0.5ポンドになる。</p>",
 			"identifiedName": "陶器のつぼ"
@@ -2026,7 +2064,7 @@
 			"identifiedName": "クレリック用具"
 		},
 		{
-			"id": "Kit, Climber's",
+			"id": "Climber's Kit",
 			"name": "登攀用具",
 			"description": "<p><b>市価</b> 80gp; <b>重量</b> 5ポンド</p><p>これらはアイゼン（訳注：滑り止め用の靴底スパイク）、ピトン、ロープなどの道具のセットであり、〈登攀〉判定に＋2の状況ボーナスを与える。</p>",
 			"identifiedName": "登攀用具"
@@ -2044,7 +2082,7 @@
 			"identifiedName": "高級売春婦用具"
 		},
 		{
-			"id": "Kit, Disguise",
+			"id": "Disguise Kit",
 			"name": "変装用具",
 			"description": "<p><b>市価</b> 50gp; <b>重量</b> 8ポンド</p><p>この用具には化粧道具のようなものと付け髭が含まれており、〈変装〉判定に＋2の状況ボーナスを与える。変装用具は10回の使用で消耗する。</p>",
 			"identifiedName": "変装用具"
@@ -2152,7 +2190,7 @@
 			"identifiedName": "Kit, Harvester's"
 		},
 		{
-			"id": "Kit, Healer's",
+			"id": "Healer's Kit",
 			"name": "治療用具",
 			"description": "<p><b>市価</b> 50gp; <b>重量</b> 1ポンド</p><p>これは包帯と薬草などのセットであり、〈治療〉判定に＋2の状況ボーナスを与える。治療用具は10回の使用で消耗する。</p>",
 			"identifiedName": "治療用具"
@@ -2224,7 +2262,7 @@
 			"identifiedName": "Kit, Melee Contingency"
 		},
 		{
-			"id": "Kit, Mess",
+			"id": "Mess Kit",
 			"name": "携帯食器一式",
 			"description": "<p><b>市価</b> 2sp; <b>重量</b> 1ポンド</p><p>この用具には木、角、あるいは錫製の皿、ボウル、カップ、フォーク、ナイフ、そしてスプーンが含まれている。各アイテムには持ち手か小さな穴がついており、含まれている革紐を使用して一緒にまとめることができる。</p>",
 			"identifiedName": "携帯食器一式"
@@ -2608,13 +2646,13 @@
 			"identifiedName": "枷鉤"
 		},
 		{
-			"id": "Manacles, Common",
+			"id": "Manacles, common",
 			"name": "枷（普通）",
 			"description": "<p><table border='1'><thead><tr><th>種類</th><th>市価</th><th>重量</th></tr></thead><tr><td>普通</td><td>15gp</td><td>2ポンド</td></tr><tr><td>高品質</td><td>50gp</td><td>2ポンド</td></tr><tr><td>ミスラル製</td><td>2,015gp</td><td>2ポンド</td></tr></table></p><p>枷は中型のクリーチャーを縛ることができる。枷をかけられたクリーチャーは抜け出すのに〈脱出術〉判定を行なうことができる（難易度30、高品質ならば 難易度35）。枷を破壊するには【筋力】判定が必要になる（難易度26、高品質ならば 難易度28）。枷は硬度10と10hp を持つ。</p><p>大部分の枷には錠前がついており、枷の価格に望む品質の錠前の価格を加える。</p><p>同じコストで小型クリーチャー用の枷を買うことができる。大型クリーチャー用の枷は10倍のコストがかかり、超大型用では100倍となる。巨大、超巨大、超小型、微小、極小サイズのクリーチャーは特別製の枷を必要とし、少なくとも100倍のコストがかかる。</p><p><b>ミスラル製の枷：</b>これらの拘束は標準的な枷よりも破ることがより困難であり、ライカンスロープに対して特に有効である。これらは硬度15、30ヒット・ポイント、破壊 難易度30を有している。それ以外の点は高品質の枷として扱う。</p><p><strong>Expanded Information</strong></p>\n<p class=\"source\"><strong>Source</strong>: <a href=\"http://amzn.to/2mhZQW1\" target=\"_blank\" rel=\"noopener\">PZO9293</a></p>\n<p><strong>Fetters</strong>: These manacles are specifically designed to fit around the ankles, and use the same rules for breaking, escape, and cost relative to size. A creature in fetters is entangled and can move at only half speed. In addition, a fettered creature must succeed at a DC 15 <a href=\"https://www.d20pfsrd.com/skills/acrobatics\">Acrobatics</a> check to move more than its (reduced) speed in a round. If it fails the check by 5 or more, the creature falls prone.</p>\n<p><strong>Frontal Restraint</strong>: A creature whose wrists are bound with manacles can wield only one melee weapon or shield in combat (the weapon may be a two-handed weapon). It cannot make use of ranged weapons, except for crossbows (but even these cannot be reloaded by the bound creature). Any attack the creature makes while manacled takes a -4 penalty. The creature can attempt skill checks using its hands, but at a -5 penalty (-15 on Disable Device checks to pick the lock of manacles the creature is wearing).</p>\n<p><strong>Rear Restraint</strong>: Manacles might be employed to keep a creature's hands behind its back. In such cases, the creature cannot use its hands to effectively employ any weapon or shield. The creature can attempt to use its hands to perform a skill, but at a -10 penalty (-25 on Disable Device checks to pick the lock of manacles the creature is wearing). While manacled, a creature can attempt to flip its arms beneath its legs, bringing its hands in front of itself. This requires a successful DC 25 Escape Artist check (a separate Escape Artist check is then required to escape the manacles).</p>\n<p><strong>Restraining Two Individuals</strong>: Two creatures might share one set of manacles. While manacled together, the manacled individuals must remain adjacent to one another. If they are not working together, they are both treated as grappled. If they are working together, they can move together in the same round (using the movement speed of the slower creature). A manacled creature can forfeit its turn during combat to mimic the other manacled creature's movements, allowing that creature to act as if unrestrained.</p>",
 			"identifiedName": "枷（普通）"
 		},
 		{
-			"id": "Manacles, Masterwork",
+			"id": "Manacles, masterwork",
 			"name": "枷（高品質）",
 			"description": "<p><table border='1'><thead><tr><th>種類</th><th>市価</th><th>重量</th></tr></thead><tr><td>普通</td><td>15gp</td><td>2ポンド</td></tr><tr><td>高品質</td><td>50gp</td><td>2ポンド</td></tr><tr><td>ミスラル製</td><td>2,015gp</td><td>2ポンド</td></tr></table></p><p>枷は中型のクリーチャーを縛ることができる。枷をかけられたクリーチャーは抜け出すのに〈脱出術〉判定を行なうことができる（難易度30、高品質ならば 難易度35）。枷を破壊するには【筋力】判定が必要になる（難易度26、高品質ならば 難易度28）。枷は硬度10と10hp を持つ。</p><p>大部分の枷には錠前がついており、枷の価格に望む品質の錠前の価格を加える。</p><p>同じコストで小型クリーチャー用の枷を買うことができる。大型クリーチャー用の枷は10倍のコストがかかり、超大型用では100倍となる。巨大、超巨大、超小型、微小、極小サイズのクリーチャーは特別製の枷を必要とし、少なくとも100倍のコストがかかる。</p><p><b>ミスラル製の枷：</b>これらの拘束は標準的な枷よりも破ることがより困難であり、ライカンスロープに対して特に有効である。これらは硬度15、30ヒット・ポイント、破壊 難易度30を有している。それ以外の点は高品質の枷として扱う。</p><p><strong>Expanded Information</strong></p>\n<p class=\"source\"><strong>Source</strong>: <a href=\"http://amzn.to/2mhZQW1\" target=\"_blank\" rel=\"noopener\">PZO9293</a></p>\n<p><strong>Fetters</strong>: These manacles are specifically designed to fit around the ankles, and use the same rules for breaking, escape, and cost relative to size. A creature in fetters is entangled and can move at only half speed. In addition, a fettered creature must succeed at a DC 15 <a href=\"https://www.d20pfsrd.com/skills/acrobatics\">Acrobatics</a> check to move more than its (reduced) speed in a round. If it fails the check by 5 or more, the creature falls prone.</p>\n<p><strong>Frontal Restraint</strong>: A creature whose wrists are bound with manacles can wield only one melee weapon or shield in combat (the weapon may be a two-handed weapon). It cannot make use of ranged weapons, except for crossbows (but even these cannot be reloaded by the bound creature). Any attack the creature makes while manacled takes a -4 penalty. The creature can attempt skill checks using its hands, but at a -5 penalty (-15 on Disable Device checks to pick the lock of manacles the creature is wearing).</p>\n<p><strong>Rear Restraint</strong>: Manacles might be employed to keep a creature's hands behind its back. In such cases, the creature cannot use its hands to effectively employ any weapon or shield. The creature can attempt to use its hands to perform a skill, but at a -10 penalty (-25 on Disable Device checks to pick the lock of manacles the creature is wearing). While manacled, a creature can attempt to flip its arms beneath its legs, bringing its hands in front of itself. This requires a successful DC 25 Escape Artist check (a separate Escape Artist check is then required to escape the manacles).</p>\n<p><strong>Restraining Two Individuals</strong>: Two creatures might share one set of manacles. While manacled together, the manacled individuals must remain adjacent to one another. If they are not working together, they are both treated as grappled. If they are working together, they can move together in the same round (using the movement speed of the slower creature). A manacled creature can forfeit its turn during combat to mimic the other manacled creature's movements, allowing that creature to act as if unrestrained.</p>",
 			"identifiedName": "枷（高品質）"
@@ -2758,13 +2796,13 @@
 			"identifiedName": "ヨモギエキス"
 		},
 		{
-			"id": "Musical Instrument, Common",
+			"id": "Musical instrument, common",
 			"name": "楽器（一般）",
 			"description": "<p><table border='1'><thead><tr><th>種類</th><th>市価</th><th>重量</th></tr></thead><tr><td>一般</td><td>5gp</td><td>3ポンド</td></tr><tr><td>高品質</td><td>100gp</td><td>3ポンド</td></tr></table></p><p>楽器に関連する〈芸能〉技能（鍵盤楽器、打楽器、弦楽器、または管楽器）を使用したい場合、適切な楽器を所持していなければならない； さもなければその技能を使用することはできない。記載の費用と重量は、ドラム、リラ、ベル、ハープ、あるいはフルートなどの、一般的な手で持ち運ぶことができる小さな楽器のものである； チェロやピアノのような大型の楽器は、もちろんより大きく、より高価である。</p><p><b>高品質の楽器／Masterwork Musical Instrument：</b>この上質な楽器はこれを使用して行われる〈芸能〉判定に＋2の状況ボーナスを与える。</p>",
 			"identifiedName": "楽器（一般）"
 		},
 		{
-			"id": "Musical Instrument, Masterwork",
+			"id": "Musical instrument, masterwork",
 			"name": "楽器（高品質）",
 			"description": "<p><table border='1'><thead><tr><th>種類</th><th>市価</th><th>重量</th></tr></thead><tr><td>一般</td><td>5gp</td><td>3ポンド</td></tr><tr><td>高品質</td><td>100gp</td><td>3ポンド</td></tr></table></p><p>楽器に関連する〈芸能〉技能（鍵盤楽器、打楽器、弦楽器、または管楽器）を使用したい場合、適切な楽器を所持していなければならない； さもなければその技能を使用することはできない。記載の費用と重量は、ドラム、リラ、ベル、ハープ、あるいはフルートなどの、一般的な手で持ち運ぶことができる小さな楽器のものである； チェロやピアノのような大型の楽器は、もちろんより大きく、より高価である。</p><p><b>高品質の楽器／Masterwork Musical Instrument：</b>この上質な楽器はこれを使用して行われる〈芸能〉判定に＋2の状況ボーナスを与える。</p>",
 			"identifiedName": "楽器（高品質）"
@@ -2836,7 +2874,7 @@
 			"identifiedName": "Oil, Kerosine"
 		},
 		{
-			"id": "Oil, Lamp",
+			"id": "Oil",
 			"name": "油",
 			"description": "<p><b>市価</b> 1sp; <b>重量</b> 1ポンド</p><p>1パイント瓶の油はランプやランタンで1時間燃える。使用者は油のビンを飛散武器として使うこともできる。錬金術師の火と同様のルールを使用するが、導火線をつけるのに1全ラウンド・アクションがかかる。それが投擲されたとき、うまく火がつく可能性は50％である。</p><p>また、1パイントの油を地面に撒くと5フィート平方の範囲を覆い、表面が滑りやすくなる。これに点火すると、油は2ラウンドの間燃えて、範囲内のクリーチャーに1d3のダメージを与える。</p>",
 			"identifiedName": "油"
@@ -2896,7 +2934,7 @@
 			"identifiedName": "Orrery"
 		},
 		{
-			"id": "Outfit, Artisan's",
+			"id": "Artisan's outfit",
 			"name": "職人の服",
 			"description": "<p><b>市価</b> 1gp; <b>重量</b> 4ポンド</p><p>職人の服は単純だが丈夫な布でうまく作られており、多様な専門作業や手作業（パン焼き、大工、その他中流の職人）に適している。この服はボタン付きのシャツ、引き紐付きのスカートやズボン、場合によっては帽子で構成される。道具を運べるよう、ベルトや革ないし布でできた前掛けが加わることもある。</p>",
 			"identifiedName": "職人の服"
@@ -2908,7 +2946,7 @@
 			"identifiedName": "Outfit, Burglar's"
 		},
 		{
-			"id": "Outfit, Cold-Weather",
+			"id": "Cold-weather outfit",
 			"name": "防寒服",
 			"description": "<p><b>市価</b> 8gp; <b>重量</b> 7ポンド</p><p>この服は登山家や、寒い環境で狩猟や旅を行う人向けに作られている。この服は羊毛のコート、麻のシャツ、羊毛の帽子、厚手の外套、厚手のズボンまたはスカート、それにブーツを含む。場所によっては、この服は主に毛皮や動物の皮で作られる場合もある。この服を身につければ、寒天にさらされたことへの頑健セーヴに＋5の状況ボーナスが得られる。</p>",
 			"identifiedName": "防寒服"
@@ -2926,7 +2964,7 @@
 			"identifiedName": "Outfit, Courtesan's"
 		},
 		{
-			"id": "Outfit, Courtier's",
+			"id": "Courtier's outfit",
 			"name": "廷臣の服",
 			"description": "<p><b>市価</b> 30gp; <b>重量</b> 6ポンド</p><p>この装飾を施された衣服は、宮廷で現在流行している形式に合わせてあつらえてある。平凡な服装で貴族や廷臣に影響を与えようとするのは困難である（それらの人物に対する【魅力】基準の技能判定に－2のペナルティ）。宝石類（追加で50GPのコストがかかる）をつけずにこの衣服を着ていても、場違いな一般人に見えてしまう。</p>",
 			"identifiedName": "廷臣の服"
@@ -2944,7 +2982,7 @@
 			"identifiedName": "Outfit, Doctor's"
 		},
 		{
-			"id": "Outfit, Entertainer's",
+			"id": "Entertainer's outfit",
 			"name": "芸人の服",
 			"description": "<p><b>市価</b> 3gp; <b>重量</b> 4ポンド</p><p>この派手な――もしくはけばけばしい――衣服は娯楽のためのものである。恥ずべき外見からばかばかしさを引き立てるものまで、芸人の服には様々な様式がある。これらの一式は奇抜に見えるが、軽業、舞踏、綱渡りなどや、（観客が怒りだしたときに）走り去る際には実用的でもある。</p>",
 			"identifiedName": "芸人の服"
@@ -2956,7 +2994,7 @@
 			"identifiedName": "Outfit, Executioner's"
 		},
 		{
-			"id": "Outfit, Explorer's",
+			"id": "Explorer's outfit",
 			"name": "冒険家の服",
 			"description": "<p><b>市価</b> 10gp; <b>重量</b> 8ポンド</p><p>この一揃いの衣服は、知られざる何かを求める者たちのために作られている。丈夫なブーツ、革のズボンまたはスカート、ベルト、シャツ（たいていはベストやジャケットつき）、手袋と外套が含まれている。革のスカートよりは布スカートの上に革のオーバーチュニックを着る方を選ぶかもしれない。これらの衣服には多くのポケットがついている（特に外套には）。必要に応じてスカーフやつばの広い帽子などの追加のアクセサリーも含まれている。</p>",
 			"identifiedName": "冒険家の服"
@@ -2974,19 +3012,19 @@
 			"identifiedName": "砂漠装束"
 		},
 		{
-			"id": "Outfit, Monk's",
+			"id": "Monk's outfit",
 			"name": "モンクの服",
 			"description": "<p><b>市価</b> 5gp; <b>重量</b> 2ポンド</p><p>このシンプルな衣服はサンダル、ゆったりしたズボンとシャツ、それらを結ぶ飾り帯からなる。この衣服は動きやすさを最大限に発揮するように設計されており、良質の生地で作られている。折り目に隠されたポケットには小さな武器を隠すことができ、飾り帯は短いロープとして役立つほど丈夫にできている。</p>",
 			"identifiedName": "モンクの服"
 		},
 		{
-			"id": "Outfit, Noble's",
+			"id": "Noble's outfit",
 			"name": "貴族の服",
 			"description": "<p><b>市価</b> 75gp; <b>重量</b> 10ポンド</p><p>これらの衣服は特に高価で派手にデザインされている。凝った刺繍が施され、貴金属と宝石が織り込まれており、あまりにもファッション性が高いために実用性に難があることもある。貴族に見せかけるには印章つきの指輪と宝石（少なくとも100GPの価値がある）などのアクセサリーをつける必要がある。</p>",
 			"identifiedName": "貴族の服"
 		},
 		{
-			"id": "Outfit, Peasant's",
+			"id": "Peasant's outfit",
 			"name": "貧農の服",
 			"description": "<p><b>市価</b> 1sp; <b>重量</b> 2ポンド</p><p>この服は質が悪く、布袋より少しはマシな生地でできており、何度もつぎはぎが当てられ補修されていることが多い。この衣服はゆったりしたシャツとバギーズボン、またはゆったりしたシャツとスカートもしくは上着からなる。靴の代わりに布を巻きつけている。</p>",
 			"identifiedName": "貧農の服"
@@ -2998,13 +3036,13 @@
 			"identifiedName": "すりの服"
 		},
 		{
-			"id": "Outfit, Royal",
+			"id": "Royal outfit",
 			"name": "王族の服",
 			"description": "<p><b>市価</b> 200gp; <b>重量</b> 15ポンド</p><p>王族の服には宝石、筋、絹、毛皮がふんだんに飾られており、華美である。王族の服はいつも身につけたり厳しい気候に合わせて作られることはほとんどない――手助けなく着ることを想定していないことさえある。それは、この服を着るような人には大量の使用人がいて、必要なことを何でも用立ててくれることを想定しているからだ。これは服だけの価格と重量であり、王笏、冠、指輪、他の装飾は含まれていない。</p>",
 			"identifiedName": "王族の服"
 		},
 		{
-			"id": "Outfit, Scholar's",
+			"id": "Scholar's outfit",
 			"name": "学者の服",
 			"description": "<p><b>市価</b> 5gp; <b>重量</b> 6ポンド</p><p>学者にうってつけの衣服で、ローブ、ベルト、帽子、柔らかい靴、そして大抵は外套を含んでいる。</p>",
 			"identifiedName": "学者の服"
@@ -3022,7 +3060,7 @@
 			"identifiedName": "Outfit, Sun Sensitivity"
 		},
 		{
-			"id": "Outfit, Traveler's",
+			"id": "Traveler's outfit",
 			"name": "旅人の服",
 			"description": "<p><b>市価</b> 1gp; <b>重量</b> 5ポンド</p><p>この衣服はブーツ、羊毛のスカートまたはズボン、丈夫なベルト、シャツ（大抵はベストまたはジャケットつき）と大きなフードつきの外套からなる。</p>",
 			"identifiedName": "旅人の服"
@@ -3208,7 +3246,7 @@
 			"identifiedName": "Poppy Tears"
 		},
 		{
-			"id": "Portable ram",
+			"id": "Portable Ram",
 			"name": "携行用破城鎚",
 			"description": "<p><b>市価</b> 10gp; <b>重量</b> 20ポンド</p><p>この鉄で覆われた木杭は、使用者が扉を破壊する際の【筋力】判定に＋2の状況ボーナスを与える。また、2人目が手伝うことができ、判定なしで使用者へのボーナスを＋2増加する。</p>",
 			"identifiedName": "携行用破城鎚"
@@ -3226,8 +3264,14 @@
 			"identifiedName": "似顔絵帖"
 		},
 		{
-			"id": "Pot, Cooking (Iron)",
+			"id": "Pot, common",
 			"name": "深鍋",
+			"description": "<p><table border='1'><thead><tr><th>種類</th><th>市価</th><th>重量</th></tr></thead><tr><td>普通</td><td>8sp</td><td>4ポンド</td></tr><tr><td>ミスラル製</td><td>2,001gp</td><td>2ポンド</td></tr></table></p><p>この直径8インチの鉄の深鍋は頑丈で、脚、蓋、そして丸みを帯びた持ち手を備えている。深鍋は飢えた人間1人を満たすのに十分なシチューを保持することができる。ミスラル製の深鍋は軽量であり、食べ物がほとんどこびりつかない。</p>",
+			"identifiedName": "深鍋"
+		},
+		{
+			"id": "Pot, mithral",
+			"name": "深鍋（ミスラル製）",
 			"description": "<p><table border='1'><thead><tr><th>種類</th><th>市価</th><th>重量</th></tr></thead><tr><td>普通</td><td>8sp</td><td>4ポンド</td></tr><tr><td>ミスラル製</td><td>2,001gp</td><td>2ポンド</td></tr></table></p><p>この直径8インチの鉄の深鍋は頑丈で、脚、蓋、そして丸みを帯びた持ち手を備えている。深鍋は飢えた人間1人を満たすのに十分なシチューを保持することができる。ミスラル製の深鍋は軽量であり、食べ物がほとんどこびりつかない。</p>",
 			"identifiedName": "深鍋"
 		},
@@ -3472,7 +3516,7 @@
 			"identifiedName": ""
 		},
 		{
-			"id": "Rope, silk",
+			"id": "Silk Rope",
 			"name": "ロープ（絹、50フィート）",
 			"description": "<p><b>市価</b> 10gp; <b>重量</b> 5ポンド</p><p>この長さ50フィートの絹のロープは4hp を有する。難易度24の【筋力】判定で引きちぎることができる。</p>",
 			"identifiedName": "ロープ（絹、50フィート）"
@@ -3496,31 +3540,31 @@
 			"identifiedName": "鞍（特殊、軍用）"
 		},
 		{
-			"id": "Saddle (Exotic, pack)",
+			"id": "Saddle (exotic, pack)",
 			"name": "鞍（特殊、荷駄用）",
 			"description": "<p><table border='1'><thead><tr><th>種類</th><th>市価</th><th>重量</th></tr></thead><tr><td>軍用</td><td>20gp</td><td>30ポンド</td></tr><tr><td>荷駄用</td><td>5gp</td><td>15ポンド</td></tr><tr><td>乗用</td><td>10gp</td><td>25ポンド</td></tr><tr><td>特殊、軍用</td><td>60gp</td><td>40ポンド</td></tr><tr><td>特殊、荷駄用</td><td>15gp</td><td>20ポンド</td></tr><tr><td>特殊、乗用</td><td>30gp</td><td>30ポンド</td></tr></table></p><p>鞍は騎手や物品を乗騎の上に固定するために用いられる。</p><p><b>軍用鞍：</b>この鞍は騎乗者を固定し、鞍にとどまることに関する〈騎乗〉判定に＋2の状況ボーナスを与える。軍用鞍の上で気絶した場合、75％の確率で鞍にとどまることができる。</p><p><b>乗用鞍：</b>この鞍は騎乗装備として最も広く普及しているものだ。乗用鞍の上で気絶した場合、50％の確率で鞍にとどまることができる。</p><p><b>荷駄用鞍：</b>荷駄用鞍は装備品や必要なものを固定することができるが、騎手を固定することはできない。これにより乗騎が運べるだけの装備を支えることができる。</p><p><b>特殊な鞍：</b>このくらは特殊な乗騎の種類に合わせて設計されており、それぞれ特定の乗騎の種別にあつらえたものだ。特殊な鞍には軍用、荷駄用、乗用の種類があり、通常の鞍同様に、同じ特徴を持つ。</p>",
 			"identifiedName": "鞍（特殊、荷駄用）"
 		},
 		{
-			"id": "Saddle (Exotic, riding)",
+			"id": "Saddle (exotic, riding)",
 			"name": "鞍（特殊、乗用）",
 			"description": "<p><table border='1'><thead><tr><th>種類</th><th>市価</th><th>重量</th></tr></thead><tr><td>軍用</td><td>20gp</td><td>30ポンド</td></tr><tr><td>荷駄用</td><td>5gp</td><td>15ポンド</td></tr><tr><td>乗用</td><td>10gp</td><td>25ポンド</td></tr><tr><td>特殊、軍用</td><td>60gp</td><td>40ポンド</td></tr><tr><td>特殊、荷駄用</td><td>15gp</td><td>20ポンド</td></tr><tr><td>特殊、乗用</td><td>30gp</td><td>30ポンド</td></tr></table></p><p>鞍は騎手や物品を乗騎の上に固定するために用いられる。</p><p><b>軍用鞍：</b>この鞍は騎乗者を固定し、鞍にとどまることに関する〈騎乗〉判定に＋2の状況ボーナスを与える。軍用鞍の上で気絶した場合、75％の確率で鞍にとどまることができる。</p><p><b>乗用鞍：</b>この鞍は騎乗装備として最も広く普及しているものだ。乗用鞍の上で気絶した場合、50％の確率で鞍にとどまることができる。</p><p><b>荷駄用鞍：</b>荷駄用鞍は装備品や必要なものを固定することができるが、騎手を固定することはできない。これにより乗騎が運べるだけの装備を支えることができる。</p><p><b>特殊な鞍：</b>このくらは特殊な乗騎の種類に合わせて設計されており、それぞれ特定の乗騎の種別にあつらえたものだ。特殊な鞍には軍用、荷駄用、乗用の種類があり、通常の鞍同様に、同じ特徴を持つ。</p>",
 			"identifiedName": "鞍（特殊、乗用）"
 		},
 		{
-			"id": "Saddle (Military)",
+			"id": "Saddle (military)",
 			"name": "鞍（軍用）",
 			"description": "<p><table border='1'><thead><tr><th>種類</th><th>市価</th><th>重量</th></tr></thead><tr><td>軍用</td><td>20gp</td><td>30ポンド</td></tr><tr><td>荷駄用</td><td>5gp</td><td>15ポンド</td></tr><tr><td>乗用</td><td>10gp</td><td>25ポンド</td></tr><tr><td>特殊、軍用</td><td>60gp</td><td>40ポンド</td></tr><tr><td>特殊、荷駄用</td><td>15gp</td><td>20ポンド</td></tr><tr><td>特殊、乗用</td><td>30gp</td><td>30ポンド</td></tr></table></p><p>鞍は騎手や物品を乗騎の上に固定するために用いられる。</p><p><b>軍用鞍：</b>この鞍は騎乗者を固定し、鞍にとどまることに関する〈騎乗〉判定に＋2の状況ボーナスを与える。軍用鞍の上で気絶した場合、75％の確率で鞍にとどまることができる。</p><p><b>乗用鞍：</b>この鞍は騎乗装備として最も広く普及しているものだ。乗用鞍の上で気絶した場合、50％の確率で鞍にとどまることができる。</p><p><b>荷駄用鞍：</b>荷駄用鞍は装備品や必要なものを固定することができるが、騎手を固定することはできない。これにより乗騎が運べるだけの装備を支えることができる。</p><p><b>特殊な鞍：</b>このくらは特殊な乗騎の種類に合わせて設計されており、それぞれ特定の乗騎の種別にあつらえたものだ。特殊な鞍には軍用、荷駄用、乗用の種類があり、通常の鞍同様に、同じ特徴を持つ。</p>",
 			"identifiedName": "鞍（軍用）"
 		},
 		{
-			"id": "Saddle (Pack)",
+			"id": "Saddle (pack)",
 			"name": "鞍（荷駄用）",
 			"description": "<p><table border='1'><thead><tr><th>種類</th><th>市価</th><th>重量</th></tr></thead><tr><td>軍用</td><td>20gp</td><td>30ポンド</td></tr><tr><td>荷駄用</td><td>5gp</td><td>15ポンド</td></tr><tr><td>乗用</td><td>10gp</td><td>25ポンド</td></tr><tr><td>特殊、軍用</td><td>60gp</td><td>40ポンド</td></tr><tr><td>特殊、荷駄用</td><td>15gp</td><td>20ポンド</td></tr><tr><td>特殊、乗用</td><td>30gp</td><td>30ポンド</td></tr></table></p><p>鞍は騎手や物品を乗騎の上に固定するために用いられる。</p><p><b>軍用鞍：</b>この鞍は騎乗者を固定し、鞍にとどまることに関する〈騎乗〉判定に＋2の状況ボーナスを与える。軍用鞍の上で気絶した場合、75％の確率で鞍にとどまることができる。</p><p><b>乗用鞍：</b>この鞍は騎乗装備として最も広く普及しているものだ。乗用鞍の上で気絶した場合、50％の確率で鞍にとどまることができる。</p><p><b>荷駄用鞍：</b>荷駄用鞍は装備品や必要なものを固定することができるが、騎手を固定することはできない。これにより乗騎が運べるだけの装備を支えることができる。</p><p><b>特殊な鞍：</b>このくらは特殊な乗騎の種類に合わせて設計されており、それぞれ特定の乗騎の種別にあつらえたものだ。特殊な鞍には軍用、荷駄用、乗用の種類があり、通常の鞍同様に、同じ特徴を持つ。</p>",
 			"identifiedName": "鞍（荷駄用）"
 		},
 		{
-			"id": "Saddle (Riding)",
+			"id": "Saddle (riding)",
 			"name": "鞍（乗用）",
 			"description": "<p><table border='1'><thead><tr><th>種類</th><th>市価</th><th>重量</th></tr></thead><tr><td>軍用</td><td>20gp</td><td>30ポンド</td></tr><tr><td>荷駄用</td><td>5gp</td><td>15ポンド</td></tr><tr><td>乗用</td><td>10gp</td><td>25ポンド</td></tr><tr><td>特殊、軍用</td><td>60gp</td><td>40ポンド</td></tr><tr><td>特殊、荷駄用</td><td>15gp</td><td>20ポンド</td></tr><tr><td>特殊、乗用</td><td>30gp</td><td>30ポンド</td></tr></table></p><p>鞍は騎手や物品を乗騎の上に固定するために用いられる。</p><p><b>軍用鞍：</b>この鞍は騎乗者を固定し、鞍にとどまることに関する〈騎乗〉判定に＋2の状況ボーナスを与える。軍用鞍の上で気絶した場合、75％の確率で鞍にとどまることができる。</p><p><b>乗用鞍：</b>この鞍は騎乗装備として最も広く普及しているものだ。乗用鞍の上で気絶した場合、50％の確率で鞍にとどまることができる。</p><p><b>荷駄用鞍：</b>荷駄用鞍は装備品や必要なものを固定することができるが、騎手を固定することはできない。これにより乗騎が運べるだけの装備を支えることができる。</p><p><b>特殊な鞍：</b>このくらは特殊な乗騎の種類に合わせて設計されており、それぞれ特定の乗騎の種別にあつらえたものだ。特殊な鞍には軍用、荷駄用、乗用の種類があり、通常の鞍同様に、同じ特徴を持つ。</p>",
 			"identifiedName": "鞍（乗用）"
@@ -3568,7 +3612,7 @@
 			"identifiedName": "使い魔用鞄"
 		},
 		{
-			"id": "Scale, Merchant's",
+			"id": "Merchant's Scale",
 			"name": "商人の天秤",
 			"description": "<p><b>市価</b> 2gp; <b>重量</b> 1ポンド</p><p>商人の天秤は単純な、2つの皿を吊り下げて、支点の上に置かれた棹である。天秤は貴金属でできた品などの重さによって価値が決まる品への〈鑑定〉判定に＋2の状況ボーナスを与える。</p>",
 			"identifiedName": "商人の天秤"
@@ -3676,8 +3720,14 @@
 			"identifiedName": "氷上スケート靴"
 		},
 		{
-			"id": "Skillet",
+			"id": "Skillet, common",
 			"name": "フライパン",
+			"description": "<p><table border='1'><thead><tr><th>種類</th><th>市価</th><th>重量</th></tr></thead><tr><td>普通</td><td>8sp</td><td>4ポンド</td></tr><tr><td>ミスラル製</td><td>2,001gp</td><td>2ポンド</td></tr></table></p><p>この直径8インチのフライパンは長い持ち手と、火や熱い石炭の上に載せておくための脚を備えている。冒険者は保管と運搬が簡単な、フライパンの上に折り畳める蝶番付きの持ち手を備えた型を好む。ミスラル製のフライパンは軽量であり、食べ物がほとんどこびりつかない。</p>",
+			"identifiedName": "フライパン"
+		},
+		{
+			"id": "Skillet, mithral",
+			"name": "フライパン（ミスラル製）",
 			"description": "<p><table border='1'><thead><tr><th>種類</th><th>市価</th><th>重量</th></tr></thead><tr><td>普通</td><td>8sp</td><td>4ポンド</td></tr><tr><td>ミスラル製</td><td>2,001gp</td><td>2ポンド</td></tr></table></p><p>この直径8インチのフライパンは長い持ち手と、火や熱い石炭の上に載せておくための脚を備えている。冒険者は保管と運搬が簡単な、フライパンの上に折り畳める蝶番付きの持ち手を備えた型を好む。ミスラル製のフライパンは軽量であり、食べ物がほとんどこびりつかない。</p>",
 			"identifiedName": "フライパン"
 		},
@@ -3766,7 +3816,7 @@
 			"identifiedName": "蜘蛛嚢"
 		},
 		{
-			"id": "Spirit Of Wine",
+			"id": "Spirit of Wine",
 			"name": "酒精",
 			"description": "<p><b>市価</b> 5sp; <b>重量</b> -</p><p></p><h2>錬金術呪文構成要素</h2><p><b>使用量</b> 6（3gp）; <b>呪文</b>（招請）または（招来）の副系統</p><p><b>効果</b> 持続時間において術者レベル＋1</p>",
 			"identifiedName": "酒精"
@@ -4012,7 +4062,7 @@
 			"identifiedName": "煙草"
 		},
 		{
-			"id": "Tome Of Epics",
+			"id": "Tome of Epics",
 			"name": "叙述書",
 			"description": "<p><b>市価</b> 50gp; <b>重量</b> 3ポンド</p><p>この重たい本は油布で装丁され、古代の英雄と恐ろしいモンスターの間で行われた派手な戦闘の一場面を示した絵で飾られている。この本には勇気や勝敗に関する物語がいくつも掲載されており、その全てに明るい色で描かれたイラストが付いている。1時間かけてこの本を読んだ後24時間の間、読んだものは〈芸能：歌唱〉と〈芸能：朗誦〉の判定に＋2のボーナスと、英雄譚に関する〈知識：貴族〉の判定に＋2の状況ボーナスを得る。</p>",
 			"identifiedName": "叙述書"
@@ -4036,14 +4086,20 @@
 			"identifiedName": "昂奮強壮剤"
 		},
 		{
-			"id": "Tool, Masterwork",
+			"id": "Tool, masterwork",
 			"name": "高品質の道具",
 			"description": "<p><b>市価</b> 50gp; <b>重量</b> 1ポンド</p><p>これらは思い通りの作業をするのに申し分のない道具である。高品質の道具は関連した技能判定（もしあれば）に＋2の状況ボーナスを与える。複数の高品質のアイテムで与えられたボーナスは累積しない。</p><p>いくつかの特定の技能のための一般的なアイテムは既に高品質の道具として扱われている。それは錬金術実験道具、登攀用具、変装用具、治療用具、高品質の楽器、および高品質の盗賊道具である。したがって、高品質の登攀用具、高品質の治療道具などは存在しない──これらのアイテムは関連する技能の通常の判定に利用可能なものとしては、既に最善である。</p><p>一部の技能は適切な道具または高品質の道具を持たない──その技能のすべての用途においてボーナスを与える非魔法的なアイテムは存在しない。例えば、特定の香水が地元貴族に愛用されている（彼らに影響を及ぼすための〈交渉〉判定に＋2の状況ボーナスを与える）からといって、その香水が盗賊ギルドのメンバー、外国のバーサーカー、あるいはメドゥサに同じ効果を持っていることを意味するわけではない。同様に、高名なドワーフの髭でドワーフによって編まれた付け髭が、ドワーフの種族を真似る〈魔法装置使用〉判定に＋2の状況ボーナスを与えるからといって、その付け髭がエルフのアイテムやパラディンのアイテムを使うため、あるいは書かれた呪文を解読するための〈魔法装置使用〉技能の使用に何らかの効果を持っていることを意味するわけではない。</p><p>個々の GM は望むなら記載の価格で他の技能のための高品質の道具を許可してもよい。そのような道具による状況ボーナスは＋2を超えることがあってはならない。この道具は（変装道具や治療道具のように）限られた回数しか使えないか、（バランス棒の狭い表面を通り抜けるための〈軽業〉判定へのボーナスや、虫眼鏡の細かい装飾をされた品への〈鑑定〉判定へのボーナスのように）技能の特定の一面にしか適用されないかのいずれかである。</p>",
 			"identifiedName": "高品質の道具"
 		},
 		{
-			"id": "Tools, Artisan's",
-			"name": "職人道具",
+			"id": "Artisan's Tools, common",
+			"name": "職人道具（普通）",
+			"description": "<p><table border='1'><thead><tr><th>種類</th><th>市価</th><th>重量</th></tr></thead><tr><td>普通</td><td>5gp</td><td>5ポンド</td></tr><tr><td>高品質</td><td>55gp</td><td>5ポンド</td></tr></table></p><p>これらの特別な道具はあらゆる製作1つを行なうための道具を含んでいる。これらなしで少しでも作業をするならば間に合わせの道具を使わなければならず、〈製作〉技能に－2のペナルティがかかる。</p><p><b>高品質の職人道具／Masterwork Artisan's Tools：</b>これらの道具は職人道具と同じように使えるが、作業するのに申し分のない道具であるため、これらを使った〈製作〉判定に＋2の状況ボーナスを得られる。</p>",
+			"identifiedName": "職人道具"
+		},
+		{
+			"id": "Artisan's Tools, masterwork",
+			"name": "職人道具（高品質）",
 			"description": "<p><table border='1'><thead><tr><th>種類</th><th>市価</th><th>重量</th></tr></thead><tr><td>普通</td><td>5gp</td><td>5ポンド</td></tr><tr><td>高品質</td><td>55gp</td><td>5ポンド</td></tr></table></p><p>これらの特別な道具はあらゆる製作1つを行なうための道具を含んでいる。これらなしで少しでも作業をするならば間に合わせの道具を使わなければならず、〈製作〉技能に－2のペナルティがかかる。</p><p><b>高品質の職人道具／Masterwork Artisan's Tools：</b>これらの道具は職人道具と同じように使えるが、作業するのに申し分のない道具であるため、これらを使った〈製作〉判定に＋2の状況ボーナスを得られる。</p>",
 			"identifiedName": "職人道具"
 		},
@@ -4054,19 +4110,19 @@
 			"identifiedName": "外科道具"
 		},
 		{
-			"id": "Tools, Thieves' (Common)",
+			"id": "Thieves' Tools, common",
 			"name": "盗賊道具（普通）",
 			"description": "<p><table border='1'><thead><tr><th>種類</th><th>市価</th><th>重量</th></tr></thead><tr><td>普通</td><td>30gp</td><td>1ポンド</td></tr><tr><td>高品質</td><td>100gp</td><td>2ポンド</td></tr></table></p><p>このキットは開錠道具やその他の〈装置無力化〉に必要な道具が含まれている。これらの道具がない場合、〈装置無力化〉判定に－2の状況ペナルティを受ける。</p><p><b>高品質の盗賊道具／Masterwork Thieves' Tools：</b>このキットはより良い道具や追加の道具が含まれており、〈装置無力化〉判定に＋2の状況ボーナスを与える。</p>",
 			"identifiedName": "盗賊道具（普通）"
 		},
 		{
-			"id": "Tools, Thieves' (Concealable)",
+			"id": "Thieves' Tools, concealable",
 			"name": "隠し盗賊道具",
 			"description": "<p><b>市価</b> 190gp; <b>重量</b> 0.5ポンド</p><p>ほとんどの盗賊道具よりもずっと小さく、より頑丈な素材で作られたこの一式に入っている道具は隠すのがはるかに簡単だ。使用者はこれらの道具を体に隠すために行う〈手先の早業〉判定に＋4のボーナスを得る。これらは高品質の盗賊道具として機能する（〈装置無力化〉判定に＋2の状況ボーナスを与える）。</p>",
 			"identifiedName": "隠し盗賊道具"
 		},
 		{
-			"id": "Tools, Thieves' (Masterwork)",
+			"id": "Thieves' Tools, masterwork",
 			"name": "盗賊道具（高品質）",
 			"description": "<p><table border='1'><thead><tr><th>種類</th><th>市価</th><th>重量</th></tr></thead><tr><td>普通</td><td>30gp</td><td>1ポンド</td></tr><tr><td>高品質</td><td>100gp</td><td>2ポンド</td></tr></table></p><p>このキットは開錠道具やその他の〈装置無力化〉に必要な道具が含まれている。これらの道具がない場合、〈装置無力化〉判定に－2の状況ペナルティを受ける。</p><p><b>高品質の盗賊道具／Masterwork Thieves' Tools：</b>このキットはより良い道具や追加の道具が含まれており、〈装置無力化〉判定に＋2の状況ボーナスを与える。</p>",
 			"identifiedName": "盗賊道具（高品質）"
@@ -4084,7 +4140,7 @@
 			"identifiedName": "松明"
 		},
 		{
-			"id": "Torch, Everburning",
+			"id": "Everburning torch",
 			"name": "消えずの松明",
 			"description": "<p><b>市価</b> 110gp; <b>重量</b> 1ポンド</p><p>これはコンティニュアル・フレイム呪文を発動させてあること以外は通常の松明である。通常の松明のように光を放つが、熱を発したり武器として使用した場合に［火炎］ダメージを与えることはない。</p>",
 			"identifiedName": "消えずの松明"
@@ -4222,7 +4278,7 @@
 			"identifiedName": "棘付きヴェスト"
 		},
 		{
-			"id": "Vestments, Cleric's",
+			"id": "Cleric's vestments",
 			"name": "クレリックの法服",
 			"description": "<p><b>市価</b> 5gp; <b>重量</b> 6ポンド</p><p>この儀礼用の服は教会や寺院で聖職者の職務を行う際に身につけるもので、冒険にはさほど向いていない。クレリックの法服は一般的にカソック、ストール、サープリスを含む。その色は通常信仰する神格に関連したものだ。教会の主題を細かく刺繍したものを選ぶ司祭もいるし、控えめで単純なものに価値を見出すものもいる。</p>",
 			"identifiedName": "クレリックの法服"

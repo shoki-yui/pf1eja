@@ -519,8 +519,8 @@
             "Plural": "道具"
           },
           "food": {
-            "Single": "食料",
-            "Plural": "食料"
+            "Single": "飲食物",
+            "Plural": "飲食物"
           },
           "herb": {
             "Single": "ハーブ",
@@ -741,6 +741,8 @@
     "BuffTarReach": "生来の間合い",
     "BuffTarAllSpeeds": "全ての移動速度",
     "BuffTarMeleeAttack": "近接攻撃ロール",
+    "BuffTarWeaponAttack": "武器攻撃ロール",
+    "BuffTarSpellAttack": "呪文攻撃ロール",
     "BuffTarNaturalAttack": "肉体攻撃ロール",
     "BuffTarRangedAttack": "遠隔攻撃ロール",
     "BuffTarThrownAttack": "投擲攻撃ロール",
@@ -962,6 +964,7 @@
       "defense": "Defense",
       "featSkills": "Feat and Skills",
       "magical": "Magical",
+      "movement": "Movement",
       "senses": "Senses",
       "offense": "Offense",
       "other": "Other",
@@ -1058,7 +1061,7 @@
       "ill": "幻術",
       "nec": "死霊術",
       "tra": "変成術",
-      "uni": "統合術"
+      "uni": "総合術"
     },
     "SpellLevels": {
       "0": "初級呪文/オリソン",
@@ -1775,9 +1778,10 @@
     "CMDFFAbbr": "立ちすくみCMD",
     "CMD": "戦技防御値",
     "Untrained": "未習得",
-    "Range": "距離",
-    "MinRange": "最小距離",
-    "RangeNote": "距離: {distance} {units}",
+    "Range": "射程",
+    "MinRange": "最小射程",
+    "RangeNote": "射程: {distance} {units}",
+    "MaxRangeNote": "最大射程: {distance} {units}",
     "Radius": "半径",
     "Target": "目標",
     "Targets": "目標",
@@ -1865,6 +1869,7 @@
     "AutoCalculateSpellSlots": "呪文スロットの自動計算",
     "AutoSlotIncompatible": "呪文スロットの自動計算を無効にする必要があります",
     "HasCantrips": "初級呪文/祈りの使用",
+    "NoCastingAbilityLimit": "能力値制限を無視",
     "Modifications": "修正値",
     "PreparePerDay": "1日の準備数",
     "CastPerDay": "1日の呪文数",
@@ -1901,11 +1906,11 @@
       "Custom": "カスタム",
       "Add": "追加攻撃を追加",
       "ModifierFormula": "攻撃ロール修正の式",
-      "ModifierTooltip": "<code>@formulaicAttack</code> can be used to refer how manyth attack in sequence this is.",
+      "ModifierTooltip": "<code>@formulaicAttack</code> はこれが何番目の攻撃であるかを表示するために使用される",
       "Formula": {
         "Label": "繰り返し追加攻撃の設定",
         "LabelDefault": "攻撃 #{0}",
-        "LabelTooltip": "Insert <code>{0}</code> to show iteration counter.",
+        "LabelTooltip": "<code>{0}</code> を挿入して反復カウンターを表示する",
         "Count": "攻撃回数の式"
       }
     },
@@ -1934,7 +1939,7 @@
     "HealBonusHint": "例 1d6 + 6[Incredible Healer]",
     "ActivationCost": "発動コスト",
     "Duration": "持続時間",
-    "DurationEndTiming": "End Timing",
+    "DurationEndTiming": "終了タイミング",
     "MaximumUsesFormula": "最大使用回数の式",
     "CheckFlags": "Flags",
     "Quantity": "数",
@@ -2002,7 +2007,7 @@
     "MeasureTemplate": "メジャーテンプレート",
     "TemplateType": "テンプレートタイプ",
     "TemplateSizeFormula": "サイズの式 (ft)",
-    "TemplateSizeFormulaHint": "Defines cone's & ray's distance, circle's radius, and rectangle's side.",
+    "TemplateSizeFormulaHint": "円錐形と直線状の距離、円の半径、四角形の辺を定義します",
     "LearnedAt": "習得",
     "EquipmentType": "装備品の種類",
     "EquipmentSubtype": "装備品の副種別",
@@ -2015,6 +2020,7 @@
     "NoOverride": "変更しない",
     "CustomColor": "カスタムカラー",
     "CustomTexture": "カスタムテクスチャ",
+    "CustomSkill": "カスタム技能",
     "FromSources": "ソース",
     "UnidentifiedName": "名称不明",
     "UnidentifiedPriceShort": "価格不明",
@@ -2156,7 +2162,7 @@
     "IdentifyDCNumber": "識別難易度 {dc}",
     "Identify": "識別",
     "Unidentify": "未識別",
-    "MagicItems": "マジックアイテム",
+    "MagicItems": "魔法のアイテム",
     "Summary": "概要",
     "HitDieShort": "HD",
     "ChallengeRatingShort": "CR",
@@ -2194,7 +2200,7 @@
     "DomainSlotValueDesc": "各呪文レベルにおける領域/系統のボーナス呪文スロット数",
     "DisableLightLowLightVision": "この光源に対して夜目を無効にする",
     "Command": "Command",
-    "MaximumRangeIncrements": "最大距離の増加倍率",
+    "MaximumRangeIncrements": "最大射程の倍率",
     "DuplicateInitiative": "重複イニシアチブの生成",
     "InitiativeOffset": "イニシアチブ補正値",
     "NotImplemented": "Not Implemented",
@@ -2302,16 +2308,17 @@
         "Title": "Item Selector"
       },
       "ChangeTargetSelector": {
-        "Title": "変更する対象の選択"
+        "Title": "変更する対象の選択",
+        "InvalidChoice": "この選択は現在のアクターには無効です"
       },
       "ContextNoteTargetSelector": {
         "Title": "文脈メモの対象の選択"
       },
       "CurrencyTransfer": {
         "Send": "通貨を送る",
-        "Failed": "Currency Transfer Failed: ",
-        "GMRequired": "A GM is required to finish the transfer.",
-        "Insufficient": "Insufficient Currency"
+        "Failed": "通貨の送金に失敗しました: ",
+        "GMRequired": "送金を完了させるにはGMが必要です",
+        "Insufficient": "通貨が不足しています"
       },
       "XPDistributor": {
         "Title": "経験点の分配",
@@ -2576,8 +2583,8 @@
       "UnchainedActionEconomyH": "アクション関係のルールをPathfinder Unchainedに記載されたルールに変更します",
       "Cybertech": "サイバー技術",
       "CybertechHint": "サイバー技術がインストールされていなくても、移植値の容量の表示などのサイバー技術機能を有効にします",
-      "CriticalConfirm": "Critical Confirmation Rolls",
-      "CriticalConfirmHint": "無効にするとクリティカル確定ロールが防御DC表示に置き換えられ、鎧がDRとしてオプションルールになります",
+      "CriticalConfirm": "クリティカル確定ロール",
+      "CriticalConfirmHint": "無効にするとクリティカル確定ロールが防御DC表示に置き換えられ、鎧がDRとして機能するオプションルールになります",
       "SkipActionDialogsN": "アクション・プロンプトをスキップ",
       "SkipActionDialogsH": "Shift+クリックをしない限り、（攻撃やセーブなどの）アクション・プロンプトをスキップします",
       "MeasureOnQuickUse": "クイックロール時のメジャーテンプレートの配置",
