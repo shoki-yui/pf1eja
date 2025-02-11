@@ -12,10 +12,6 @@
       "HideTokenTooltipGMInfo": {
         "Name": "トークンツールチップをプレイヤー視点で表示"
       },
-      "ForceShowItem": {
-        "Name": "Force Show Item",
-        "Hint": "Whether to show the item to chat when using a macro for it"
-      },
       "StickyTokenTooltip": {
         "Name": "Sticky Token Tooltip",
         "Hint": "Keep token tooltip open even after hovering out of token."
@@ -93,6 +89,7 @@
       "water": "水"
     },
     "OptionalAndVariantRules": "オプション&バリアントルール",
+    "WoundThreshold": "負傷段階",
     "WoundThresholdOverride": "負傷段階の上書き変更",
     "WoundLevel": {
       "healthy": "無傷状態",
@@ -100,9 +97,6 @@
       "wounded": "中傷状態",
       "critical": "重傷状態"
     },
-    "ExperienceConfigName": "経験点の設定",
-    "ExperienceConfigLabel": "経験点の設定",
-    "ExperienceConfigHint": "レベルアップの早さを設定する",
     "AccessibilityConfigName": "アクセシビリティの設定",
     "AccessibilityConfigLabel": "アクセシビリティ",
     "AccessibilityConfigHint": "アクセシビリティの設定を変更する",
@@ -118,7 +112,8 @@
       "Trap": "罠",
       "Vehicle": "搭乗物",
       "Item": "Generic Item",
-      "Container": "Container"
+      "Container": "Container",
+      "TextPage": "Text Page (PF1)"
     },
     "Disposition": {
       "None": "なし",
@@ -221,29 +216,33 @@
     "ApplyHealing": "回復を適用",
     "ApplyCriticalHealing": "クリティカル回復を適用",
     "ApplyToAll": "全てに適用",
-    "ReduceBy": "減少値",
-    "SwapSelected": "選択を反転",
-    "ClearReduction": "減少値をクリア",
     "Roll": "ロール",
     "TakeX": "出目 {number}",
     "Flags": "Flags",
     "FlagsBoolean": "Boolean Flags",
     "FlagsDictionary": "Dictionary Flags",
     "AbilityDamage": "能力値ダメージ",
+    "AbilityPenalty": "能力値ペナルティ",
     "AbilityDrain": "能力値吸収",
     "ModifierOnly": "Modifier Only",
     "ModifierOnlyShort": "Mod. only",
     "CheckOnly": "Check Only",
     "CreateItem": "アイテム生成",
     "EditItem": "アイテム編集",
+    "EditAction": "アクション編集",
     "Delete": "削除",
     "Duplicate": "複製",
     "DuplicateItem": "アイテム複製",
+    "DuplicateAction": "アクション複製",
     "QuantityAdd": "数量増加<br><br>Click: 1<br>Shift + Click: 5<br>Ctrl + Click: 10",
     "QuantitySub": "数量減少<br><br>Click: -1<br>Shift + Click: -5<br>Ctrl + Click: -10",
     "DeleteItem": "項目の削除",
     "DeleteItemTitle": "項目の削除: {name}",
     "DeleteItemConfirmation": "本当にこの項目を削除しますか？",
+    "DeleteAction": "アクションの削除",
+    "DeleteActionTitle": "アクションの削除：{name}",
+    "DeleteActionConfirmation": "{name}からこのアクションを削除してもよろしいですか？",
+    "DeleteChildLinks": "子リンクまたはその他の関連付けにより、以下の項目も削除されます。",
     "EditSkill": "技能を編集",
     "DeleteSkill": "技能を削除",
     "DeleteSkillTitle": "技能を削除: {name}",
@@ -285,9 +284,10 @@
     "SavingThrowFort": "頑健",
     "SavingThrowRef": "反応",
     "SavingThrowWill": "意志",
-    "WeaponHoldTypeNormal": "通常",
+    "WeaponHoldTypeOneHanded": "片手",
     "WeaponHoldTypeTwoHanded": "両手",
     "WeaponHoldTypeOffhand": "利き手でない手",
+    "Hands": "必要な手の数",
     "WeaponGroup": {
       "axes": "斧",
       "bladesHeavy": "大剣",
@@ -331,6 +331,7 @@
       "helpless": "無防備",
       "incorporeal": "非実体",
       "invisible": "不可視",
+      "moraleEffects": "士気効果",
       "mindAffecting": "精神作用",
       "nauseated": "吐き気",
       "panicked": "恐慌",
@@ -395,8 +396,6 @@
       "Override": "親アイテムを上書き",
       "Inherit": "親アイテムから継承"
     },
-    "ChatReqMats": "必須項目",
-    "ChatOtherFormula": "その他の式",
     "StartingWealth": "開始時所持金",
     "Currency": {
       "Label": "通貨",
@@ -625,6 +624,15 @@
           "exotic": {
             "Single": "特殊"
           },
+          "firearm": {
+            "Single": "火器"
+          },
+          "siege": {
+            "Single": "攻城兵器"
+          },
+          "heavy": {
+            "Single": "重兵器"
+          },
           "misc": {
             "Single": "その他"
           }
@@ -704,6 +712,7 @@
       "darkvision": "暗視",
       "tremorsense": "振動感知",
       "trueseeing": "トゥルー・シーイング",
+      "lifesense": "生命感知",
       "lowlight": "夜目",
       "seeInvis": "シー・インヴィジビリティ",
       "seeInDark": "暗闇を見通す",
@@ -841,9 +850,7 @@
     "Spellcasting": {
       "Progression": {
         "Label": "呪文の成長速度",
-        "HighHint": "最高呪文レベル9",
-        "MediumHint": "最高呪文レベル6",
-        "LowHint": "最高呪文レベル4"
+        "Hint": "高は最大9レベル<br>中は最大6レベル<br>低は最大4レベル"
       },
       "Type": {
         "Label": "呪文の種別",
@@ -879,7 +886,7 @@
     "WeaponType": "武器の種類",
     "WeaponTypeSplash": "飛散",
     "WeaponProperty": {
-      "Automatic": "Automatic",
+      "Automatic": "オートマチック",
       "Blocking": "防御",
       "Brace": "待機",
       "Deadly": "致死",
@@ -895,10 +902,10 @@
       "Performance": "演武",
       "Reach": "間合い",
       "Scatter": "散弾",
-      "SemiAutomatic": "Semi-automatic",
-      "SlowFiring": "Slow-firing",
+      "SemiAutomatic": "セミオート",
+      "SlowFiring": "緩射",
       "Sunder": "武器破壊",
-      "Special": "Special",
+      "Special": "特殊",
       "Thrown": "投擲",
       "Trip": "足払い"
     },
@@ -907,6 +914,9 @@
     "WeaponSubtypeOneHanded": "片手",
     "WeaponSubtypeTwoHanded": "両手",
     "WeaponSubtypeRanged": "遠隔",
+    "WeaponSubtypeAssault": "強襲兵器",
+    "WeaponSubtypeDirect": "直射兵器",
+    "WeaponSubtypeIndirect": "曲射兵器",
     "EquipSlots": {
       "none": "装備部位なし",
       "armor": "鎧",
@@ -958,6 +968,12 @@
       "region": "Region",
       "religion": "Religion",
       "drawback": "Drawback"
+    },
+    "Template": {
+      "Acquired": "後天性",
+      "Inherited": "先天性",
+      "Simple": "単純",
+      "UsableWithSummons": "招来時の適用"
     },
     "RacePoints": "Race Points",
     "RacialTraitCategories": {
@@ -1046,6 +1062,7 @@
       "Periods": {
         "single": "一回",
         "round": "/ラウンド",
+        "minute": "/分",
         "hour": "/時間",
         "day": "/日",
         "week": "/週",
@@ -1062,6 +1079,23 @@
       "nec": "死霊術",
       "tra": "変成術",
       "uni": "総合術"
+    },
+    "SpellSubschools": {
+      "calling": "招請",
+      "charm": "魅惑",
+      "compulsion": "強制",
+      "creation": "創造",
+      "figment": "虚像",
+      "glamer": "幻覚",
+      "haunted": "霊障",
+      "healing": "治癒",
+      "pattern": "紋様",
+      "phantasm": "惑乱",
+      "polymorph": "ポリモーフ",
+      "scrying": "念視",
+      "shadow": "操影",
+      "summoning": "招来",
+      "teleportation": "瞬間移動"
     },
     "SpellLevels": {
       "0": "初級呪文/オリソン",
@@ -1102,7 +1136,10 @@
       "Weapon": {
         "LabelPlural": "武器の習熟",
         "simple": "単純武器",
-        "martial": "軍用武器"
+        "martial": "軍用武器",
+        "firearm": "火器",
+        "siege": "攻城兵器",
+        "heavy": "重兵器"
       },
       "Granted": "習熟付与",
       "Penalty": "未習熟ペナルティ"
@@ -1113,11 +1150,15 @@
     "InventoryContainers": "収納",
     "InventoryImplants": "Implants",
     "ChangeFlags": {
+      "ImmuneToMoraleEffects": "士気効果に対する完全耐性",
       "LoseDexToAC": "ACへの【敏】を失う",
       "NoMediumEncumbrance": "中荷重の影響を受けない",
       "NoHeavyEncumbrance": "重荷重の影響を受けない",
       "MediumArmorFullSpeed": "中装鎧で通常速度",
-      "HeavyArmorFullSpeed": "重装鎧で通常速度"
+      "HeavyArmorFullSpeed": "重装鎧で通常速度",
+      "LowLightVision": "夜目",
+      "SeeInvisibility": "シー・インヴィジビリティ",
+      "SeeInDarkness": "暗闇を見通す"
     },
     "Undefined": "未定義",
     "Error": {
@@ -1125,11 +1166,15 @@
       "NoActorPermission": "あなたはこのアクターを操作する権限がありません",
       "NoActorPermissionAlt": "あなたはこのアクター\"{name}\"を操作する権限がありません",
       "NoItemPermission": "あなたはこの項目を編集する権限がありません",
+      "DisallowedActionType": "Actor \"{name}\" is not permitted to perform this kind of action.",
       "NoFormula": "{name} にはロールをするための式がありません！",
       "TooManyConditionSources": "Too many condition sources to edit.",
+      "NoDefenseCard": "Failed to display defense card. Actor does not support it?",
+      "NoSave": "Failed to roll saving throw. Actor does not support it?",
       "ItemNoOwner": "このアイテムにはオーナーがいません",
       "SpellbookExists": "その呪文書はすでに存在します",
       "NoFreeSpellbooks": "呪文書の空きがありません",
+      "UUIDNotFound": "UUID \"{uuid}\" did not resolve to anything relevant.",
       "NoInitOnDuplicateCombatant": "どの戦闘参加者に対してイニシアチブ判定を行うか決定できませんでした",
       "InvalidContentLinkDrop": "ドロップしたデータからコンテンツリンクを作成できませんでした",
       "NoGiftTargets": "No valid targets to give something to.",
@@ -1141,10 +1186,12 @@
       "NoQuantity": "あなたはそのアイテムをもう持っていません",
       "NoSpellsLeft": "あなたはその種類の呪文が残っていません",
       "ActorNotFound": "ID {id}のアクターが見つかりませんでした",
+      "ItemNotFound": "Item with ID {id} not found",
       "CantIdentify": "あなたはアイテムを識別することを許可されていません",
       "NoApplicableActorFoundForAction": "アクション'{name}'に該当するアクターが見つかりませんでした",
       "CouldNotFindActorByName": "'{name}'という名前のアクターが見つかりませんでした",
       "FeatDisabled": "この特技は無効です",
+      "CommandParse": "Failed to parse chat command.",
       "NoMacroID": "No macro with id '{id}' was found",
       "EmptySkillTag": "Skill tag cannot be empty",
       "SkillTagAlreadyExists": "Skill tag '{tag}' already exists"
@@ -1154,17 +1201,25 @@
       "DuplicateDFlag": "Conflicting dictionary flag \"{key}\" for item \"{item}\" (with identifier \"{tag}\") on actor \"{actor}\".",
       "DuplicateTag": "Duplicate item identifier \"{tag}\" found in item \"{item}\" on actor \"{actor}\".",
       "NoDiceAllowedInFormula": "{context}の式'{formula}'ではダイスロールすることができません",
+      "NoConditionalTargetOptions": "条件付き修正を適用できる対象がありません。",
       "InsufficientAmmunition": "あなたは{type}の種類の矢弾が不足しています",
       "MissingAmmunition": "攻撃にリンクされた矢弾がありません",
       "ConditionalRoll": "Rolling conditional formula № {number} of conditional {name} caused an error",
       "NoItemOnActor": "アクター\"{actor}\"はアイテム\"{item}\"を持っていません",
       "NoActionInItem": "Item \"{item}\" has no action \"{action}\"",
       "InvalidUUID": "無効なUUID \"{uuid}\"",
+      "InvalidItemSheetDrop": "Invalid drop type \"{type}\" received.",
       "ImmuneToCondition": "{name}は{condition}状態に対する完全耐性があります",
       "CannotCreateChargeLink": "Could not create a Charge type link between {source} and {target}, because {target} has Charge type links of its own",
       "CannotCreateChargeLink2": "Could not create a Charge type link between {source} and {target}, because {target} is already linked to {deeptarget}",
+      "LinkOwnerMismatch": "Can not create link on item with different owner.",
+      "LinkOnlyUnowned": "Can not link owned items.",
+      "LinkOnlyCompendium": "Can not link items outside of compendiums.",
+      "NoActorSelected": "No actor(s) selected for the action.",
+      "NoMultiLink": "Can not link same item multiple times.",
       "NoCombatantFound": "戦闘参加者が見つかりませんでした",
       "FormulaMustBeDeterministic": "式にダイスロールなどのランダムな要素を使用しないでください",
+      "FormulaMustBeSimple": "Formula must be simple (no variables, dice rolls or other non-math elements).",
       "InvalidInput": "無効な値"
     },
     "NotificationCreatedAttack": "{item}の攻撃を生成しました",
@@ -1184,6 +1239,7 @@
     "CLNotes": "術者レベルメモ",
     "CLSchoolNotes": "CLメモ ({school})",
     "DCSchoolNotes": "DCメモ ({school})",
+    "SourceNote": "Source: {source}",
     "NonApplicable": "N/A",
     "SkillTypeAdventure": "冒険",
     "SkillTypeBackground": "背景",
@@ -1231,11 +1287,13 @@
       "grippli": "グリプリー語",
       "halfling": "ハーフリング語",
       "hallit": "ハリト語",
+      "ib": "Ib",
       "ignan": "火界語",
       "infernal": "地獄語",
       "jistka": "ジストカ語",
       "kasatha": "カサーサ語",
       "kelish": "ケレッシュ語",
+      "kuru": "クル語",
       "lashunta": "ラシュンタ語",
       "munavri": "ミュナヴリ語",
       "necril": "ネクリル語",
@@ -1273,6 +1331,8 @@
     },
     "Rest": "休息",
     "CreatureTypes": {
+      "Single": "クリーチャーの種別",
+      "Plural": "クリーチャーの種別",
       "aberration": "異形",
       "animal": "動物",
       "construct": "人造",
@@ -1286,6 +1346,95 @@
       "plant": "植物",
       "undead": "アンデッド",
       "vermin": "蟲"
+    },
+    "CreatureSubTypes": {
+      "Single": "クリーチャーの副種別",
+      "Plural": "クリーチャーの副種別",
+      "adlet": "アドレット",
+      "aeon": "アイオーン",
+      "aether": "エーテル",
+      "agathion": "アガシオン",
+      "air": "風",
+      "android": "アンドロイド",
+      "angel": "エンジェル",
+      "aquatic": "水棲",
+      "archon": "アルコン",
+      "astomoi": "アストモイ",
+      "asura": "アスラ",
+      "augmented": "変性種",
+      "azata": "アザータ",
+      "behemoth": "ベヒモス",
+      "blight": "ブライト",
+      "catfolk": "キャットフォーク",
+      "changeling": "チェンジリング",
+      "chaotic": "混沌",
+      "clockwork": "クロックワーク",
+      "cold": "冷気",
+      "colossus": "コロッサス",
+      "daemon": "ダイモン",
+      "darkFolk": "ダーク・フォーク",
+      "deepOne": "ディープ・ワン",
+      "demodand": "デモダンド",
+      "demon": "デーモン",
+      "derro": "デロ",
+      "devil": "デヴィル",
+      "div": "ディヴ",
+      "dwarf": "ドワーフ",
+      "earth": "地",
+      "elemental": "エレメンタル",
+      "elf": "エルフ",
+      "evil": "悪",
+      "extraplanar": "他次元界",
+      "fire": "火",
+      "giant": "巨人",
+      "gnome": "ノーム",
+      "goblinoid": "ゴブリン類",
+      "good": "善",
+      "gray": "グレイ",
+      "greatOldOne": "グレート・オールド・ワン",
+      "grippli": "グリプリー",
+      "halfling": "ハーフリング",
+      "hive": "ハイヴ",
+      "herald": "ヘラルド",
+      "human": "人間",
+      "incorporeal": "非実体",
+      "inevitable": "イネヴァタブル",
+      "kaiju": "カイジュー",
+      "kami": "カミ",
+      "kasatha": "カサーサ",
+      "kitsune": "キツネ",
+      "kyton": "キュトン",
+      "lawful": "秩序",
+      "leshy": "レーシー",
+      "manasaputra": "マナサプトラ",
+      "mortic": "モルティック",
+      "munavri": "ミュナヴリ",
+      "mythic": "神話",
+      "native": "原住",
+      "nightshade": "ナイトシェイド",
+      "oni": "オニ",
+      "orc": "オーク",
+      "sahkil": "サーキル",
+      "phantom": "守護霊",
+      "protean": "プロティアン",
+      "psychopomp": "サイコポンプ",
+      "qlippoth": "クリフォト",
+      "rakshasa": "ラークシャサ",
+      "ratfolk": "ラットフォーク",
+      "reptilian": "爬虫類",
+      "robot": "ロボット",
+      "samsaran": "サンサーラン",
+      "sasquatch": "サスカッチ",
+      "shapechanger": "変身生物",
+      "skinwalker": "スキンウォーカー",
+      "spawnOfRovagug": "ロヴァググの落とし子",
+      "swarm": "スウォーム",
+      "troop": "トループ",
+      "vanara": "ヴァナラ",
+      "vishkanya": "ヴィシュカニャ",
+      "water": "水",
+      "wayang": "ワヤン",
+      "wildHunt": "ワイルド・ハント"
     },
     "RestoreHealth": "ヒット・ポイントの回復",
     "RestoreDailyUses": "一日毎の使用回数回復",
@@ -1347,6 +1496,9 @@
       "untyped": {
         "Label": "無種別"
       },
+      "areaOfEffect": {
+        "Label": "効果範囲"
+      },
       "bludgeoning": {
         "Label": "殴打",
         "Abbr": "B"
@@ -1397,65 +1549,65 @@
       "NormalOverride": "素材を上書き",
       "AddonOverride": "Add-on Overrides",
       "Types": {
-        "Abysium": "アビジウム",
-        "Adamantine": "アダマンティン",
-        "AlchemicalSilver": "錬金術銀",
-        "Silver": "銀",
-        "AngelSkin": "エンジェルスキン",
-        "Aszite": "Aszite",
-        "Blackwood": "Blackwood",
-        "BlightQuartz": "Blight Quartz",
-        "BloodCrystal": "血水晶",
-        "BuletteArmor": "Bulette Armor",
-        "Caphorite": "Caphorite",
-        "Cloth": "布",
-        "ColdIron": "冷たい鉄",
-        "Cryptstone": "クリプトストーン",
-        "DarkleafCloth": "ダークリーフ生地",
-        "Darkwood": "ダークウッド",
-        "Dragonhide": "ドラゴンハイド",
-        "Druchite": "Druchite",
-        "EelHide": "イール・ハイド",
-        "ElysianBronze": "エリュシオン青銅",
-        "FireForgedSteel": "火鍛鋼",
-        "FrostForgedSteel": "霜鍛鋼",
-        "Glaucite": "グローサイト",
-        "Greenwood": "グリーンウッド",
-        "GriffonMane": "グリフィンのたてがみ",
-        "HeatstonePlating": "熱石メッキ",
-        "Horacalcum": "ホラカルコン",
-        "Inubrix": "イヌーブリクス",
-        "IrespanBasalt": "Irespan Basalt",
-        "Lazurite": "Lazurite",
-        "Leather": "革",
-        "LiquidGlass": "液体ガラス",
-        "LivingSteel": "生ける鋼",
-        "Mithral": "ミスラル",
-        "NexavaranSteel": "Nexavaran Steel",
-        "Noqual": "ノクワール",
-        "Paueliel": "Paueliel",
-        "PyreSteel": "Pyre Steel",
-        "Siccatite": "シカタイト",
-        "Silversheen": "銀光沢",
-        "SingingSteel": "歌い鋼",
-        "SpireSteel": "スパイア鋼",
-        "Steel": "鉄",
-        "Sunsilk": "太陽絹",
-        "Sunsilver": "Sunsilver",
-        "Throneglass": "Throneglass",
-        "Viridium": "ヴィリジウム",
-        "Voidglass": "Voidglass",
-        "Whipwood": "ウィップウッド",
-        "Wyroot": "ウィルート",
-        "Bone": "骨",
-        "Bronze": "青銅",
-        "Glass": "ガラス",
-        "Gold": "黄金",
-        "Obsidian": "黒曜石",
-        "Stone": "石",
-        "Wood": "木",
-        "Magic": "魔法",
-        "Epic": "エピック"
+        "abysium": "アビジウム",
+        "adamantine": "アダマンティン",
+        "alchemicalSilver": "錬金術銀",
+        "angelSkin": "エンジェルスキン",
+        "aszite": "Aszite",
+        "blackwood": "Blackwood",
+        "blightQuartz": "Blight Quartz",
+        "bloodCrystal": "血水晶",
+        "buletteArmor": "Bulette Armor",
+        "caphorite": "Caphorite",
+        "cloth": "布",
+        "coldIron": "冷たい鉄",
+        "cryptstone": "クリプトストーン",
+        "darkleafCloth": "ダークリーフ生地",
+        "darkwood": "ダークウッド",
+        "dragonhide": "ドラゴンハイド",
+        "druchite": "Druchite",
+        "eelHide": "イール・ハイド",
+        "elysianBronze": "エリュシオン青銅",
+        "fireForgedSteel": "火鍛鋼",
+        "frostForgedSteel": "霜鍛鋼",
+        "glaucite": "グローサイト",
+        "greenwood": "グリーンウッド",
+        "griffonMane": "グリフィンのたてがみ",
+        "heatstonePlating": "熱石メッキ",
+        "horacalcum": "ホラカルコン",
+        "inubrix": "イヌーブリクス",
+        "irespanbasalt": "Irespan Basalt",
+        "lazurite": "Lazurite",
+        "leather": "革",
+        "liquidGlass": "液体ガラス",
+        "livingSteel": "生ける鋼",
+        "mithral": "ミスラル",
+        "nexavaranSteel": "Nexavaran Steel",
+        "noqual": "ノクワール",
+        "paueliel": "Paueliel",
+        "pyresteel": "Pyre Steel",
+        "siccatite": "シカタイト",
+        "silver": "銀",
+        "silversheen": "銀光沢",
+        "singingSteel": "歌い鋼",
+        "spireSteel": "スパイア鋼",
+        "steel": "鉄",
+        "sunsilk": "太陽絹",
+        "sunsilver": "Sunsilver",
+        "throneglass": "Throneglass",
+        "viridium": "ヴィリジウム",
+        "voidglass": "Voidglass",
+        "whipwood": "ウィップウッド",
+        "wyroot": "ウィルート",
+        "bone": "骨",
+        "bronze": "青銅",
+        "glass": "ガラス",
+        "gold": "黄金",
+        "obsidian": "黒曜石",
+        "stone": "石",
+        "wood": "木",
+        "magic": "魔法",
+        "epic": "エピック"
       }
     },
     "SourceInfoSkillRank_ClassBase": "{className} (基本)",
@@ -1468,19 +1620,84 @@
     "CreateItemWandOf": "{name}のワンド",
     "CreateItemScrollOf": "{name}の巻物",
     "CreateItemPotionOf": "{name}のポーション",
-    "NewItem": "New {type}",
     "Trigger": "発現条件",
     "Haunt": {
       "Notice": "感知",
       "Weakness": "弱点",
-      "Destruction": "破壊"
+      "Destruction": "破壊",
+      "Shape": "形状",
+      "Template": {
+        "belligerent": "武闘派",
+        "itemBound": "品縛霊",
+        "chained": "連鎖",
+        "elusive": "飄飄",
+        "fast": "迅速",
+        "freeRoaming": "浮遊霊",
+        "increasedArea": "範囲拡大",
+        "latent": "潜在的",
+        "persistent": "持続性",
+        "possessing": "憑霊",
+        "spiteful": "怨嗟",
+        "tenacious": "粘着性",
+        "unyielding": "屈強",
+        "vaporous": "靄",
+        "variant": "亜種"
+      }
     },
     "Trap": {
-      "Type": "種類",
-      "PerceptionDC": "知覚難易度",
-      "DisableDeviceDC": "装置無力化難易度",
-      "EffectsDetails": "効果",
-      "Trigger": "作動条件"
+      "Bypass": {
+        "HiddenLock": "隠し錠",
+        "HiddenSwitch": "隠しスイッチ",
+        "Lock": "錠"
+      },
+      "Labels": {
+        "Bypass": "回避方法",
+        "DisableDeviceDC": "装置無力化難易度",
+        "EffectsDetails": "効果",
+        "PerceptionDC": "知覚難易度",
+        "Technology": "科学技術"
+      },
+      "Reset": {
+        "Automatic": "自動",
+        "Manual": "手動",
+        "Repair": "修理"
+      },
+      "Tooltips": {
+        "Bypass": "回避方法の種類",
+        "Reset": {
+          "Period": "再準備の期間",
+          "Time": "再準備の時間",
+          "Type": "再準備の種類"
+        },
+        "Technology": "科学技術の罠かどうか？",
+        "Trigger": {
+          "Period": "作動条件の期間",
+          "Range": "作動条件の距離",
+          "Time": "作動条件の時間",
+          "Type": "作動条件の種類"
+        },
+        "Vision": "視覚の種類"
+      },
+      "Triggers": {
+        "ElectricEyes": "電気の目",
+        "Genetic": "遺伝子",
+        "Location": "場所",
+        "Proximity": "距離",
+        "Sound": "音声",
+        "Spell": "呪文",
+        "Timed": "時限",
+        "Touch": "接触",
+        "Visual": "視覚"
+      },
+      "Types": {
+        "Magic": "魔法",
+        "Mechanical": "機械式"
+      },
+      "Vision": {
+        "ArcaneEye": "アーケイン・アイ",
+        "Clairvoyance": "クレアヴォイアンス",
+        "TrueSeeing": "トゥルー・シーイング"
+      }
     },
     "Vehicles": {
       "Space": {
@@ -1495,6 +1712,7 @@
         "Air": "航空"
       },
       "OccupiedSpace": "搭乗空間",
+      "CurrentSpeed": "現在の速度",
       "MaximumSpeed": "最大速度",
       "Acceleration": "加速度",
       "Propulsion": "推進力",
@@ -1503,7 +1721,18 @@
       "DrivingDevice": "操縦装置",
       "DrivingSpace": "操縦空間",
       "Crew": "乗組員",
-      "Decks": "デッキ"
+      "Decks": "デッキ",
+      "SelectDriver": "操縦者を選択",
+      "DriverSkill": "操縦技能",
+      "DriverSkillBonus": "操縦技能ボーナス",
+      "Passengers": "乗客",
+      "ACStoppedMotion": "Stopped",
+      "CMDStoppedMotion": "CMD (Stopped)",
+      "Cargo": "貨物",
+      "Metal": "金属",
+      "MagicallyHardened": "魔法処理",
+      "Squares": "マス",
+      "Full": "最大"
     },
     "CombatInfo_Header": "戦闘",
     "CombatInfo_Round": "ラウンド{round}",
@@ -1588,7 +1817,9 @@
     "Defense": "防御",
     "Defenses": "防御",
     "Description": "説明",
-    "NoDescription": "No description.",
+    "NoDescription": "記述なし",
+    "Instructions": "備考",
+    "NoInstrutions": "記述なし",
     "Descriptor": "補足説明",
     "DescriptorPlural": "補足説明",
     "Details": "詳細",
@@ -1601,12 +1832,28 @@
     "Identified": "識別済み",
     "Iterative": "複数回攻撃",
     "Unidentified": "未識別",
+    "UnidentifiedDescription": "外見的特徴",
+    "IdentifiedDescription": "識別された特性",
     "Health": "ヒット・ポイント",
     "Healing": "回復",
     "Wounds": "負傷",
     "Vigor": "活力",
     "HitDice": "ヒット・ダイス",
     "HitDie": "ヒット・ダイス",
+    "ActiveFeedback": {
+      "Deltas": {
+        "Health": "{value} HP",
+        "Nonlethal": "{value} 非致傷",
+        "TempHP": "{value} 一時的HP",
+        "Wounds": "{value} 負傷",
+        "Vigor": "{value} 活力",
+        "TempVigor": "{value} 一時的活力",
+        "AbilityDrain": "{value} {ability} 吸収",
+        "AbilityDamage": "{value} {ability} ダメージ",
+        "AbilityPenalty": "{value} {ability} ペナルティ",
+        "NegativeLevel": "{value} 負のレベル"
+      }
+    },
     "HealthPerTier": "階梯毎のボーナスHP",
     "CustomHitDice": "カスタム・ヒット・ダイス",
     "CustomHitDiceHint": "Enter formula, e.g. floor(@item.level / 2)",
@@ -1626,6 +1873,12 @@
     "Senses": "感覚",
     "Save": "セーヴ",
     "Size": "サイズ",
+    "Reach": "間合い",
+    "AgeCategory": {
+      "Base": "年齢段階",
+      "Mental": "精神的な年齢段階",
+      "Physical": "肉体的な年齢段階"
+    },
     "Resizing": "Resizing",
     "Special": "特殊",
     "Movement": {
@@ -1661,6 +1914,13 @@
       "huge": "超大型",
       "grg": "巨大",
       "col": "超巨大"
+    },
+    "AgeCategories": {
+      "young": "若年",
+      "adult": "成年",
+      "middleAge": "中年",
+      "old": "老年",
+      "venerable": "古希"
     },
     "Spells": "呪文",
     "Stature": "体勢",
@@ -1699,6 +1959,8 @@
     "ChargePlural": "チャージ",
     "ConditionPlural": "状態異常",
     "Add": "追加",
+    "JoinAnd": "and",
+    "JoinOr": "or",
     "ItemName": "アイテム名",
     "BuffName": "バフ名",
     "SkillName": "技能名",
@@ -1718,8 +1980,8 @@
     "SpellResistanceAbbr": "SR",
     "SpellEffect": "呪文の効果",
     "SpellEffects": "呪文の効果",
-    "SubSchool": "副系統",
-    "SubSchoolExample": "例：招来、強制",
+    "Subschool": "副系統",
+    "SubschoolExample": "例：招来、強制",
     "TypePlural": "補足説明",
     "SpellTypesExample": "例：酸、悪",
     "SpellEffectExample": "例：酸の塊一つ",
@@ -1743,6 +2005,8 @@
     "CriticalHitPlural": "クリティカル・ヒット",
     "AbilityScore": "能力値",
     "AbilityScoreLinks": "参照能力値の設定",
+    "KeyAbility": "Key Ability",
+    "KeyAbilityRef": "Key Ability ({ability})",
     "BaseSetup": "Base Setup",
     "UtilityFunctions": "Utility Functions",
     "SavingThrow": "セーヴィング・スロー",
@@ -1755,9 +2019,7 @@
     "VulnerableTo": "{vulnerability}への脆弱性",
     "Immune": "完全耐性",
     "ImmuneTo": "{immunity}への完全耐性",
-    "AbilityTest": "{ability}能力値判定",
-    "SkillCheck": "{skill}技能判定",
-    "InitiativeCheck": "{name}: イニシアチブロール",
+    "Check": "{type}判定",
     "SavingThrowRoll": "{save}セーヴィング・スロー",
     "SavingThrowButtonLabel": "{type}セーヴ難易度{dc}",
     "SavingThrowButtonLabelGMSensitive": "{save}セーヴ",
@@ -1779,6 +2041,7 @@
     "CMD": "戦技防御値",
     "Untrained": "未習得",
     "Range": "射程",
+    "RangeFormat": "{distance} {units}",
     "MinRange": "最小射程",
     "RangeNote": "射程: {distance} {units}",
     "MaxRangeNote": "最大射程: {distance} {units}",
@@ -1811,8 +2074,7 @@
     "AttackAlignmentOverride": "属性を上書き",
     "BaseWeaponDamage": "武器ダメージ",
     "BaseWeaponCritical": "武器クリティカル",
-    "SpellPreparationType": "Spell Preparation Type",
-    "Preparation": "Preparation",
+    "Preparation": "準備方法",
     "CastsLeft": "残りの発動数",
     "Harmless": "無害",
     "CasterLevelOffset": "術者レベルの補正",
@@ -1843,15 +2105,15 @@
         "overwhelming": "圧倒的"
       }
     },
-    "Unknown": "Unknown",
+    "Unknown": "不明",
     "ElementalSchool": "元素系統",
     "Bloodline": "血脈",
     "ConcentrationCheck": "精神集中判定",
     "Concentration": "精神集中",
     "ConcentrationBonusFormula": "精神集中ボーナスの式",
     "ConcentrationNotes": "精神集中メモ",
-    "Dismissable": "（解除可）",
-    "DismissableMark": "(D)",
+    "Dismissable": "解除可",
+    "DismissableMark": "（解除可）",
     "SpellLevelOffset": "呪文レベルの補正",
     "SpellSlotCost": "呪文スロットコスト",
     "CastsPerDayUsedFormula": "発動に必要な呪文数の式",
@@ -1903,6 +2165,7 @@
       "Flurry": "連打(コアルール)",
       "UnFlurry": "連打(アンチェインド)",
       "FlurryFlavor": "連打",
+      "FlurryAttack": "連打 #{0}",
       "Custom": "カスタム",
       "Add": "追加攻撃を追加",
       "ModifierFormula": "攻撃ロール修正の式",
@@ -1939,8 +2202,10 @@
     "HealBonusHint": "例 1d6 + 6[Incredible Healer]",
     "ActivationCost": "発動コスト",
     "Duration": "持続時間",
+    "ConcentationDuration": "精神集中、{duration}まで",
+    "ForDuration": "{duration}の{subject}",
     "DurationEndTiming": "終了タイミング",
-    "MaximumUsesFormula": "最大使用回数の式",
+    "EnabledCheckFlags": "有効なフラグ",
     "CheckFlags": "Flags",
     "Quantity": "数",
     "Price": "価格",
@@ -1977,15 +2242,21 @@
     "Uses": "使用回数",
     "SeeText": "本文参照",
     "DC": "難易度",
+    "DifficultyClass": "難易度",
     "SpellDC": "呪文難易度",
     "DCFormula": "難易度の式",
     "DCOffset": "難易度補正",
     "DCOffsetFormula": "難易度補正の式",
     "DCThreshold": "難易度 {threshold}",
     "DCDescriptionExample": "例：反応・半減",
+    "Success": "成功",
+    "Failure": "失敗",
     "InitiativeBonus": "イニシアチブへのボーナス",
     "PowerAttack": "強打",
     "DeadlyAim": "致命的な狙い",
+    "Flanking": "挟撃",
+    "HighGround": "高い場所",
+    "Charge": "突撃",
     "PrimaryAttack": "主要攻撃",
     "SecondaryAttack": "二次的攻撃",
     "TouchAttack": "接触攻撃",
@@ -2033,9 +2304,10 @@
     "Lbs": "lbs",
     "Kgs": "kg",
     "Category": "カテゴリ",
-    "Quickbar": "クイックバー",
-    "QuickbarHint": "コマのHUDと概要タブのクイックアクションに表示",
-    "ShowInQuickbar": "クイックバーに表示",
+    "Quickbar": "クイックバーに表示",
+    "QuickbarHint": "この項目をコマのHUDと概要タブのクイックアクションに表示する",
+    "QuickCombat": "戦闘タブに表示",
+    "QuickCombatHint": "この項目を戦闘タブに表示する",
     "Tag": "タグ",
     "Tags": "タグ",
     "Identifier": "識別子",
@@ -2073,6 +2345,11 @@
     "Misfire": "不発",
     "Capacity": "装弾数",
     "Priority": "優先順位",
+    "ChangePriority": {
+      "Early": "Early",
+      "Late": "Late",
+      "Normal": "Normal"
+    },
     "Creatures": "クリーチャー",
     "ChargeCost": "チャージコスト",
     "ChargeCostFormula": "チャージコストの式",
@@ -2080,13 +2357,16 @@
     "ChargeCostActionFormulaHint": "このアクションが消費するチャージ数（またはcasts、spell points、 etc）です。負の値を設定すると、代わりにチャージが回復します。",
     "PerAttack": "攻撃1回あたり",
     "ChargeSource": "チャージ使用元",
+    "MaximumUsesFormula": "最大使用回数の式",
     "RechargeFormula": "再チャージの式",
     "RechargeFormulaHint": "再チャージすると現在のチャージ数が数式の値に設定されます。相対的な再チャージの場合は、現在のチャージ数 <code>@item.uses.value</code> を数式の一部として使用します。",
-    "Value": "価格",
+    "Value": "値",
     "SellValue": "売却額",
     "TotalItems": "合計{count}個のアイテム",
     "FilteredItems": "{count}個のフィルタされたアイテム",
     "SearchFilterPlaceholder": "Search filter…",
+    "FilterPrepared": "Filter out unprepared.",
+    "FilterEmpty": "空のカテゴリーの表示／非表示を切り替える",
     "QuickInfo": "Quick Info",
     "QuickActions": "クイックアクション",
     "ConvertCurrency": "通貨を変換",
@@ -2133,8 +2413,10 @@
     "RecoverChancePercentage": "回収確率％",
     "RecoverAmmunition": "矢弾の回収",
     "Recover": "回収（確率）",
+    "RecoveredAmmo": "回収した矢弾：{count}",
     "ForceRecover": "回収（強制）",
     "Default": "デフォルト",
+    "DefaultRef": "デフォルト ({value})",
     "Vision": "視界",
     "Held": "手に持っている",
     "HeldMult": "手に持っている (×{mult})",
@@ -2198,7 +2480,6 @@
     },
     "DomainSlotValue": "領域/系統スロット数",
     "DomainSlotValueDesc": "各呪文レベルにおける領域/系統のボーナス呪文スロット数",
-    "DisableLightLowLightVision": "この光源に対して夜目を無効にする",
     "Command": "Command",
     "MaximumRangeIncrements": "最大射程の倍率",
     "DuplicateInitiative": "重複イニシアチブの生成",
@@ -2220,6 +2501,7 @@
     "SelectSpecific": "選択 {specifier}",
     "Drink": "飲む",
     "Properties": "Properties",
+    "Driving": "操縦",
     "Migration": {
       "Start": "バージョン {version}のPF1eシステム移行を適用しています。しばらくお待ち下さい。",
       "InProgress": "PF1eシステムの移行が進行中です。完了するまでお待ちください。",
@@ -2231,6 +2513,10 @@
         "Completed": "Migration Completed!",
         "IgnoreLocked": "Ignoring Locked Compendiums",
         "ProcessLocked": "Processing Locked Compendiums",
+        "FastMode": "Skipping Migrated Documents.",
+        "SlowMode": "Processing All Documents.",
+        "RefreshRequired": "Refresh required to finalize migration!",
+        "ReloadAll": "Reload All Clients",
         "Category": "Category",
         "Issues": "Migration Issues",
         "InvalidDocuments": "Invalid Documents",
@@ -2251,6 +2537,7 @@
         "System": "System",
         "Actors": "Actors Directory",
         "Items": "Items Directory",
+        "Chat": "Chat Messages",
         "Scenes": "Scenes",
         "Packs": "Compendiums"
       },
@@ -2293,6 +2580,15 @@
       }
     },
     "Application": {
+      "Damage": {
+        "Instances": "詳細",
+        "ReduceBy": "軽減",
+        "ApplyDamage": "{targets}体の対象にダメージを与えた。",
+        "ApplyHeal": "{targets}体の対象を回復した。",
+        "DualHeal": "HPと非致傷",
+        "DualHealHint": "HPと非致傷ダメージの両方を回復します",
+        "AsWounds": "負傷として"
+      },
       "Changelog": {
         "Title": "変更履歴",
         "DontShowAgain": "システムアップデート後に変更履歴を表示しない",
@@ -2301,11 +2597,24 @@
         "Major": "Major",
         "Legacy": "Legacy"
       },
+      "PartyRest": {
+        "Title": "パーティの休息",
+        "Watch": "見張り",
+        "Rested": "{people}人のパーティは完全に休息しました！{hours}時間が経過しました。",
+        "Watches": {
+          "Label": "見張り",
+          "PerShift": "時間で交代",
+          "None": "見張りなし",
+          "Length": "見張りの長さ",
+          "NoneHint": "誰も見張りをしません。",
+          "Solo": "一人",
+          "SoloHint": "一人で見張りをします。",
+          "Duo": "二人",
+          "DuoHint": "二人が同時に見張りをします。<br>最低4人必要です。"
+        }
+      },
       "ActionSelector": {
         "Title": "{actor} が {item} を使用"
-      },
-      "ItemSelector": {
-        "Title": "Item Selector"
       },
       "ChangeTargetSelector": {
         "Title": "変更する対象の選択",
@@ -2325,6 +2634,11 @@
         "Options": {
           "BonusExperience": "ボーナス経験点"
         },
+        "Warnings": {
+          "NoRecipients": "対象が選択されていません。",
+          "NoReward": "報酬が入力されていません。"
+        },
+        "Result": "{xp}点の経験点を得た。",
         "Reward": "報酬",
         "SplitEvenly": "均等に分割",
         "GiveToAll": "分割せず付与",
@@ -2367,46 +2681,117 @@
           "Set": "固定",
           "SetVerb": "固定",
           "SetHint": "対象項目を固定",
-          "InvalidHint": "Unknown operator."
+          "InvalidHint": "不明な演算子"
         },
         "Help": {
           "Link": "Information on Changes",
           "Value": "Value",
           "ValueHint": "Must be deterministic with no random elements such as dice.",
           "Roll": "Roll",
-          "RollHint": "Supports random elements such as dice."
+          "RollHint": "Supports random elements such as dice.",
+          "Simple": "Simple",
+          "SimpleHint": "Supports only numeric terms, with no variables or dice rolls."
         },
-        "AsType": "種類",
-        "CopyId": "Copy change ID"
+        "AsType": "種類"
       },
-      "Integration": {
-        "Title": "Module Integration",
-        "Label": "Configure Integration",
-        "Hint": "システムが特別な機能を追加するモジュールを変更します",
-        "Modules": {
-          "dice-so-nice": {
-            "Label": "Dice So Nice",
-            "Info": "Adds custom calls to trigger DSN rolling where the module's own detection fails and to group rolls by context."
-          },
-          "drag-ruler": {
-            "Label": "Drag Ruler",
-            "Info": "Adds speed provider to Drag Ruler."
-          },
-          "enhanced-terrain-layer": {
-            "Label": "Enhanced Terrain Layer",
-            "Info": "Enhances <em>Drag Ruler</em> integration support."
+      "Settings": {
+        "Player": "Player",
+        "World": "World",
+        "Integration": {
+          "Title": "モジュール用の特殊設定",
+          "Label": "モジュール用の特殊設定",
+          "Hint": "PF1eシステムが特定のモジュールに対して機能追加します。",
+          "Reset": "モジュールの特殊設定をデフォルトにリセットしました。",
+          "Modules": {
+            "dice-so-nice": {
+              "Label": "Dice So Nice",
+              "Info": "Triggers DSN where the system obfuscates roll data and groups rolls by context."
+            },
+            "drag-ruler": {
+              "Label": "Drag Ruler",
+              "Info": "Adds speed provider to Drag Ruler."
+            },
+            "babele": {
+              "Label": "Babele",
+              "Info": "Babeleの翻訳が適用されるよう辞典の読み込みを遅らせます。"
+            }
           }
-        }
-      },
-      "Performance": {
-        "Title": "パフォーマンスの設定",
-        "Button": "パフォーマンスの設定",
-        "Hint": "遠隔攻撃などの距離を示すリーチハイライトを設定する",
-        "Options": {
-          "reachLimit": {
-            "Label": "リーチハイライトの距離制限",
-            "Hint": "遠隔攻撃の距離を表示するようなリーチハイライトが描画される最大範囲を正方形で表します。デフォルトでは60(300ft)です。この設定に関わらず、最初の射程分は完全に表示されます。10未満の値ではリーチハイライトが完全に無効になります"
+        },
+        "Performance": {
+          "Title": "パフォーマンスの設定",
+          "Button": "パフォーマンスの設定",
+          "Hint": "遠隔攻撃などの距離を示すリーチハイライトを設定する",
+          "Reset": "パフォーマンスの設定をデフォルトにリセットしました。",
+          "Options": {
+            "reachLimit": {
+              "Label": "リーチハイライトの距離制限",
+              "Hint": "遠隔攻撃の距離を表示するようなリーチハイライトが描画される最大範囲を正方形で表します。デフォルトでは60(300ft)です。この設定に関わらず、最初の射程分は完全に表示されます。10未満の値ではリーチハイライトが完全に無効になります"
+             }
           }
+        },
+        "Health": {
+          "Title": "ヒット・ポイントの設定",
+          "Label": "ヒット・ポイントの設定",
+          "Hint": "キャラクターのヒット・ポイントの計算を設定する",
+          "Reset": "Health configuration reset to default values. Save to confirm.",
+          "Instructions": "様々なクラスのHP計算を設定。例としてパスファインダー協会はプレイヤー・キャラクターには次の設定を使用している：自動計算、レート0.5、1HD最大化、切り上げ、離散的連続性。",
+          "Compute": "計算",
+          "Rate": "レート",
+          "CanMaximize": "HD最大化",
+          "CanMaximizeHint": "ヒット・ダイスを最大化する",
+          "ComputeAuto": "自動",
+          "ComputeManual": "手動",
+          "AutoConfig": "自動時のHPの設定",
+          "MaximizedLimit": "ヒット・ダイス最大化の上限数",
+          "Rounding": "ヒット・ポイントの端数処理",
+          "RoundingHint": "ヒット・ポイントは整数でなければならない。切り上げ、四捨五入、または切り捨て。",
+          "RoundingUp": "切り上げ",
+          "RoundingDown": "切り捨て",
+          "RoundingNearest": "四捨五入",
+          "Continuity": "ヒット・ポイントの連続性",
+          "ContinuityHint": "ヒット・ポイントは離散的(Discrete)、あるいは連続的(Continuous)に計算することができる。離散的ヒット・ポイントはレベル毎に端数処理が行われ、クリーチャーはヒット・ダイス毎に同じ量のヒット・ポイントを得る。連続的なヒット・ポイントは全てのヒット・ダイスのソースが評価された後で端数処理が行われ、クリーチャーはヒット・ダイス毎に上下する量のヒット・ポイントを得る。",
+          "Continuous": "連続的",
+          "Discrete": "離散的",
+          "Class": {
+            "base": "Base",
+            "npc": "NPC",
+            "racial": "種族HD"
+          },
+          "WoundsAndVigor": {
+            "Label": "負傷と活力",
+            "Hint": "負傷と活力の選択ルールを使用する。"
+          },
+          "WoundThresholds": {
+            "Label": "負傷段階",
+            "Hint": "負傷段階のオプションルールを使用する。",
+            "VigorConflict": "負傷と活力のオプションルールが有効になっている場合、負傷段階は影響しない。",
+            "Disabled": "無効",
+            "Normal": "通常",
+            "Gritty": "気骨"
+          }
+        },
+        "Experience": {
+          "Title": "経験点の設定",
+          "Name": "経験点の設定",
+          "Label": "経験点の設定",
+          "Hint": "キャラクターのレベルが上がる早さを設定する。",
+          "Reset": "経験点の設定をデフォルトにリセットしました。",
+          "Track": {
+            "Label": "レベルアップの早さ",
+            "Hint": "キャラクターのレベルが上がる早さを変更します。",
+            "Options": {
+              "Slow": "遅い",
+              "Medium": "通常",
+              "Fast": "早い",
+              "Custom": "カスタム"
+            },
+            "CustomPlaceholder": "e.g. '@level * 1000'",
+            "CustomUsage": "Custom experience formula is cumulative. Meaning for example, to mimic PF2 style experience you would simply enter <code>1000</code>, since every single level requires 1000 experience exactly, while setting it to <code>@level * 1000</code> would mean every single level requires thousand more than the last. Uses character's normal roll data with added <code>@level</code> for the current level."
+          },
+          "Disable": "経験点の管理を無効にする",
+          "DisableHint": "経験値バーやレベルアップ検出などを無効にします。",
+          "Distributor": "経験点の分配ウィンドウを開く",
+          "DistributorHint": "戦闘終了時に経験点の分配ウィンドウを開きます。Shiftキーを押しながら戦闘終了するとスキップされます。"
         }
       },
       "GetNumber": {
@@ -2428,8 +2813,19 @@
           "epic": "英雄的ファンタジー"
         }
       },
+      "DocumentSelector": {
+        "Title": "Document Selector",
+        "None": "None"
+      },
+      "ItemSelector": {
+        "Title": "Item Selector",
+        "Items": "Items",
+        "Quantity": "Quantity"
+      },
       "ActorSelector": {
         "Title": "Actor Selector",
+        "You": "You",
+        "Owner": "Owner",
         "OwnedActors": "Owned",
         "UnownedActors": "Other",
         "NoUnownedActors": "You do not have permission to see any actors.",
@@ -2441,6 +2837,10 @@
         "Title": "アイテムを分割: {name}",
         "Keep": "キープ",
         "Split": "分割"
+      },
+      "VehicleSave": {
+        "Title": "Select save type",
+        "Message": "Select the type of save to make."
       }
     },
     "Info": {
@@ -2472,6 +2872,7 @@
       "Actions": {
         "Label": "Operations",
         "UnlockPacks": "Unlock packs for migration. Locked packs are otherwise ignored.",
+        "Reprocess": "Process all documents regardless if they've already been migrated.",
         "MigrateWorld": "Migrate World",
         "MigrateWorldHint": "Normally migration automatically runs, if there are pertinent migrations pending, whenever PF1 update happens and GM logs in the first time.<br>Running migration manually may sometimes solve problems, such as with documents imported from unmigrated sources.",
         "MigrateModules": "Migrate Module Packs",
@@ -2479,7 +2880,10 @@
       }
     },
     "Help": {
-      "Label": "Documentation"
+      "Label": "Documentation",
+      "GoForward": "Click to go forward",
+      "GoBack": "Click to go back",
+      "GoHome": "Click to go to home"
     },
     "EnrichedText": {
       "Add": "Add {value}",
@@ -2487,6 +2891,9 @@
       "Toggle": "Toggle {value}",
       "Browse": "Browse {value}",
       "AsSpeaker": "Act as Speaker",
+      "AsCard": "Generate Chat Card",
+      "Direct": "Apply Directly",
+      "Subject": "Subject: {name}",
       "Roll": "Roll",
       "Error": "Error",
       "Condition": {
@@ -2515,6 +2922,11 @@
       }
     },
     "SETTINGS": {
+      "NoManeuvers": "No Maneuvers",
+      "DisableLLV": {
+        "Label": "夜目を無効",
+        "Hint": "この光源の半径が夜目の影響を受けないようにします。"
+      },
       "DiagonalRule": {
         "Label": "斜め移動のルール",
         "Hint": "このシステムのセッションでどの斜め移動のルールを使用するかを設定する。",
@@ -2527,23 +2939,10 @@
         "Label": "イニシアチブの同値解決",
         "Hint": "イニシアチブロール後の同値を解消するために、イニシアチブ修正値の合計を100で割った値を追加します。"
       },
-      "Experience": {
-        "Track": {
-          "Label": "レベルアップの早さ",
-          "Hint": "キャラクターのレベルが上がる早さを設定する。",
-          "Options": {
-            "Slow": "遅い",
-            "Medium": "通常",
-            "Fast": "早い",
-            "Custom": "カスタム"
-          },
-          "CustomPlaceholder": "e.g. '@level * 1000'",
-          "CustomUsage": "Custom experience formula is cumulative. Meaning for example, to mimic PF2 style experience you would simply enter <code>1000</code>, since every single level requires 1000 experience exactly, while setting it to <code>@level * 1000</code> would mean every single level requires thousand more than the last. Uses character's normal roll data with added <code>@level</code> for the current level."
-        },
-        "Disable": "経験点の管理を無効にする",
-        "DisableHint": "経験値バーやレベルアップ検出などを無効にします。",
-        "Distributor": "経験点の分配ウィンドウを開く",
-        "DistributorHint": "戦闘終了時に経験点の分配ウィンドウを開きます。Shiftキーを押しながら戦闘終了するとスキップされます。"
+      "HealthDisplay": {
+        "Label": "ヘルスポップアップの必要権限",
+        "Hint": "コマ上にポップアップ表示されるHPの増減や能力値ダメージなどを見るために必要な最低限の権限を設定します。",
+        "AnyPermission": "だれでも"
       },
       "Vision": {
         "Sharing": "視界共有モード",
@@ -2589,6 +2988,8 @@
       "SkipActionDialogsH": "Shift+クリックをしない限り、（攻撃やセーブなどの）アクション・プロンプトをスキップします",
       "MeasureOnQuickUse": "クイックロール時のメジャーテンプレートの配置",
       "MeasureOnQuickUseHint": "アクション・プロンプトをスキップした時でもメジャーテンプレートを配置します",
+      "DualHealDefault": "HPと非致傷ダメージの同時回復",
+      "DualHealDefaultHint": "HPを回復する時に、HPと非致傷ダメージの両方を回復します。これは魔法や能力がHPと非致傷ダメージの両方を回復するというルールに従います（そのため、休息には影響しません）。",
       "Sheet": {
         "InvertFilters": "所持品のフィルタの動作を反転する",
         "InvertFiltersHint": "（アイテム）セクションのタイプフィルターのShiftキーを押しながらクリックする動作を反転します"
@@ -2616,92 +3017,6 @@
         "NoTargetsHint": "選択対象を攻撃した時にチャットカードに表示しないようにします",
         "ClearTargets": "攻撃後にターゲットを解除する",
         "ClearTargetsHint": "攻撃ロール後にすべてのターゲットを解除します"
-      },
-      "TokenTooltip": {
-        "Label": "トークンツールチップ",
-        "Name": "トークンツールチップの設定",
-        "Hint": "トークンツールチップの設定を変更する",
-        "ResetInfo": "トークンツールチップの設定をリセットしました。",
-        "UpdateInfo": "トークンツールチップの設定を変更しました。",
-        "Anchor": "ツールチップの表示位置",
-        "Offset": "ツールチップの表示位置の補正",
-        "MaxPortraitSize": "ポートレートの最大サイズ",
-        "Disable": "ツールチップを無効にする",
-        "HideWithoutKey": "{key} キーを押している間のみ表示",
-        "World": {
-          "Name": "トークンツールチップのワールド設定",
-          "Label": "ワールド設定",
-          "Hint": "全てのユーザーのツールチップの設定が変更されます"
-        },
-        "Hide": {
-          "Portraits": "ポートレートを非表示",
-          "Held": "手に持っているアイテムを非表示",
-          "HeldHint": "全てのプレイヤーから手に持っているアイテムを非表示にする",
-          "Armor": "鎧を非表示",
-          "ArmorHint": "全てのプレイヤーから鎧を非表示にする",
-          "Buffs": "バフを非表示",
-          "BuffsHint": "全てのプレイヤーからバフを非表示にする",
-          "Conditions": "状態異常を非表示",
-          "ConditionsHint": "全てのプレイヤーから状態異常を非表示にする",
-          "Clothing": "服を非表示",
-          "ClothingHint": "全てのプレイヤーから服を非表示にする",
-          "ActorName": {
-            "ByDisposition": "関係性によって名前を非表示",
-            "ByDispositionHint": "トークンの関係性が設定より悪い場合、全てのプレイヤーから名前を非表示にする",
-            "MinimumPermission": "名前を表示する最低限の権限",
-            "MinimumPermissionHint": "実際のトークン名を確認するために必要な最低限の権限レベル",
-            "Replacement": "非表示の名前の置き換え"
-          }
-        }
-      },
-      "Health": {
-        "Title": "ヒット・ポイントの設定",
-        "Button": "ヒット・ポイントの設定",
-        "Hint": "キャラクターのヒット・ポイントの計算を設定する",
-        "TabBase": "基本",
-        "TabVariant": "他のルール",
-        "Instructions": "様々なクラスのHP計算を設定。例としてパスファインダー協会はプレイヤー・キャラクターには次の設定を使用している：自動計算、レート0.5、1HD最大化、切り上げ、離散的連続性。",
-        "Compute": "計算",
-        "Rate": "レート",
-        "CanMaximize": "HD最大化",
-        "CanMaximizeHint": "ヒット・ダイスを最大化する",
-        "MaximizedLimit": "ヒット・ダイス最大化の上限数",
-        "ComputeAuto": "自動",
-        "ComputeManual": "手動",
-        "Rounding": "ヒット・ポイントの端数処理",
-        "RoundingHint": "ヒット・ポイントは整数でなければならない。切り上げ、四捨五入、または切り捨て。",
-        "RoundingUp": "切り上げ",
-        "RoundingDown": "切り捨て",
-        "RoundingNearest": "四捨五入",
-        "Continuity": "ヒット・ポイントの連続性",
-        "ContinuityHint": "ヒット・ポイントは離散的(Discrete)、あるいは連続的(Continuous)に計算することができる。離散的ヒット・ポイントはレベル毎に端数処理が行われ、クリーチャーはヒット・ダイス毎に同じ量のヒット・ポイントを得る。連続的なヒット・ポイントは全てのヒット・ダイスのソースが評価された後で端数処理が行われ、クリーチャーはヒット・ダイス毎に上下する量のヒット・ポイントを得る。",
-        "Continuous": "Continuous",
-        "Discrete": "Discrete",
-        "Class": {
-          "pc": "PC",
-          "npc": "NPC",
-          "racial": "種族HD"
-        },
-        "WoundsAndVigor": {
-          "PC": "PCの負傷と活力",
-          "PCHint": "プレイヤー・キャラクターに負傷と活力の選択ルールを適用する。",
-          "NPC": "NPCの負傷と活力",
-          "NPCHint": "ノンプレイヤー・キャラクターに負傷と活力の選択ルールを適用する。"
-        },
-        "WoundThresholds": {
-          "PC": "PCの負傷段階",
-          "PCHint": "プレイヤー・キャラクターに負傷段階のオプションルールを使用する。",
-          "NPC": "NPCの負傷段階",
-          "NPCHint": "ノンプレイヤー・キャラクターに負傷段階のオプションルールを使用する。",
-          "PCOverride": "PCの負傷段階の上書き変更を許可する",
-          "PCOverrideHint": "キャラクターシートの設定でプレイヤー・キャラクターごとに負傷段階のオプションルールの設定を上書き変更することを許可する。",
-          "NPCOverride": "NPCの負傷段階の上書き変更を許可する",
-          "NPCOverrideHint": "キャラクターシートの設定でノンプレイヤー・キャラクターごとに負傷段階のオプションルールの設定を上書き変更することを許可する。",
-          "VigorConflict": "負傷と活力のオプションルールが有効になっている場合、負傷段階は影響しない。",
-          "Disabled": "無効",
-          "Normal": "通常",
-          "Gritty": "気骨"
-        }
       },
       "DragRulerWalk": "歩き",
       "DragRulerDash": "速歩",
@@ -2755,5 +3070,8 @@
       "implant": "Implant",
       "container": "Container"
     }
+  },
+  "EFFECT": {
+    "StatusSwim": "水泳中"
   }
 }

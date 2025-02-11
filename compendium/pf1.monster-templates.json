@@ -738,123 +738,11 @@
 		},
 		"Venerable (Age Category)": {
 			"name": "古希（年齢効果）",
-			"description": "<p>あなたの年齢段階が古希であれば【筋力】【耐久力】【敏捷力】に－3、【知力】【判断力】【魅力】に＋1の修正を受ける。</p>",
-			"changes": [
-				{
-					"_id": "ngi43p28",
-					"formula": "-min(3, @abilities.str.total - 1)",
-					"operator": "add",
-					"subTarget": "str",
-					"modifier": "untypedPerm",
-					"priority": -500,
-					"value": -1
-				},
-				{
-					"_id": "kndqvezz",
-					"formula": "-min(3, @abilities.dex.total - 1)",
-					"operator": "add",
-					"subTarget": "dex",
-					"modifier": "untypedPerm",
-					"priority": -500,
-					"value": -1
-				},
-				{
-					"_id": "1ose1les",
-					"formula": "-min(3, @abilities.con.total - 1)",
-					"operator": "add",
-					"subTarget": "con",
-					"modifier": "untypedPerm",
-					"priority": -500,
-					"value": -1
-				},
-				{
-					"_id": "70k8rdw0",
-					"formula": "1",
-					"operator": "add",
-					"subTarget": "int",
-					"modifier": "untypedPerm",
-					"priority": 0,
-					"value": 1
-				},
-				{
-					"_id": "81zqir3h",
-					"formula": "1",
-					"operator": "add",
-					"subTarget": "wis",
-					"modifier": "untypedPerm",
-					"priority": 0,
-					"value": 1
-				},
-				{
-					"_id": "c8y6ubiw",
-					"formula": "1",
-					"operator": "add",
-					"subTarget": "cha",
-					"modifier": "untypedPerm",
-					"priority": 0,
-					"value": 1
-				}
-			]
+			"description": "<p>あなたの年齢段階が古希であれば【筋力】【耐久力】【敏捷力】に－6、【知力】【判断力】【魅力】に＋3の修正を受ける。</p>"
 		},
 		"Middle Age (Age Category)": {
 			"name": "中年（年齢効果）",
-			"description": "<p>あなたの年齢段階が中年であれば【筋力】【耐久力】【敏捷力】に－1、【知力】【判断力】【魅力】に＋1の修正を受ける。</p>",
-			"changes": [
-				{
-					"_id": "ngi43p28",
-					"formula": "-min(1, @abilities.str.total - 1)",
-					"operator": "add",
-					"subTarget": "str",
-					"modifier": "untypedPerm",
-					"priority": -500,
-					"value": -1
-				},
-				{
-					"_id": "kndqvezz",
-					"formula": "-min(1, @abilities.dex.total - 1)",
-					"operator": "add",
-					"subTarget": "dex",
-					"modifier": "untypedPerm",
-					"priority": -500,
-					"value": -1
-				},
-				{
-					"_id": "1ose1les",
-					"formula": "-min(1, @abilities.con.total - 1)",
-					"operator": "add",
-					"subTarget": "con",
-					"modifier": "untypedPerm",
-					"priority": -500,
-					"value": -1
-				},
-				{
-					"_id": "70k8rdw0",
-					"formula": "1",
-					"operator": "add",
-					"subTarget": "int",
-					"modifier": "untypedPerm",
-					"priority": 0,
-					"value": 1
-				},
-				{
-					"_id": "81zqir3h",
-					"formula": "1",
-					"operator": "add",
-					"subTarget": "wis",
-					"modifier": "untypedPerm",
-					"priority": 0,
-					"value": 1
-				},
-				{
-					"_id": "c8y6ubiw",
-					"formula": "1",
-					"operator": "add",
-					"subTarget": "cha",
-					"modifier": "untypedPerm",
-					"priority": 0,
-					"value": 1
-				}
-			]
+			"description": "<p>あなたの年齢段階が中年であれば【筋力】【耐久力】【敏捷力】に－1、【知力】【判断力】【魅力】に＋1の修正を受ける。</p>"
 		},
 		"Mutant Goblin": {
 			"name": "突然変異種ゴブリン",
@@ -866,63 +754,7 @@
 		},
 		"Old (Age Category)": {
 			"name": "老年（年齢効果）",
-			"description": "<p>あなたの年齢段階が老年であれば【筋力】【耐久力】【敏捷力】に－2、【知力】【判断力】【魅力】に＋1の修正を受ける。</p>",
-			"changes": [
-				{
-					"_id": "ngi43p28",
-					"formula": "-min(2, @abilities.str.total - 1)",
-					"operator": "add",
-					"subTarget": "str",
-					"modifier": "untypedPerm",
-					"priority": -500,
-					"value": -1
-				},
-				{
-					"_id": "kndqvezz",
-					"formula": "-min(2, @abilities.dex.total - 1)",
-					"operator": "add",
-					"subTarget": "dex",
-					"modifier": "untypedPerm",
-					"priority": -500,
-					"value": -1
-				},
-				{
-					"_id": "1ose1les",
-					"formula": "-min(2, @abilities.con.total - 1)",
-					"operator": "add",
-					"subTarget": "con",
-					"modifier": "untypedPerm",
-					"priority": -500,
-					"value": -1
-				},
-				{
-					"_id": "70k8rdw0",
-					"formula": "1",
-					"operator": "add",
-					"subTarget": "int",
-					"modifier": "untypedPerm",
-					"priority": 0,
-					"value": 1
-				},
-				{
-					"_id": "81zqir3h",
-					"formula": "1",
-					"operator": "add",
-					"subTarget": "wis",
-					"modifier": "untypedPerm",
-					"priority": 0,
-					"value": 1
-				},
-				{
-					"_id": "c8y6ubiw",
-					"formula": "1",
-					"operator": "add",
-					"subTarget": "cha",
-					"modifier": "untypedPerm",
-					"priority": 0,
-					"value": 1
-				}
-			]
+			"description": "<p>あなたの年齢段階が老年であれば【筋力】【耐久力】【敏捷力】に－3、【知力】【判断力】【魅力】に＋2の修正を受ける。</p>"
 		},
 		"Possessed Creature": {
 			"name": "憑依クリーチャー",

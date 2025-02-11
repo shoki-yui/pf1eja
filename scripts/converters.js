@@ -30,38 +30,14 @@ class Converters {
 			if (data?.area) {
 				value[index].area = data.area;
 			}
-			if (data?.spellEffect) {
-				value[index].spellEffect = data.spellEffect;
+			if (data?.effect) {
+				value[index].effect = data.effect;
 			}
 			if (data?.effectNotes) {
 				value[index].effectNotes = data.effectNotes;
 			}
 		});
 		return value;
-	}
-
-	translateSubSchool(subschool) {
-		const subSchoolMap = new Map([
-			["calling", "招請"],
-			["charm", "魅惑"],
-			["compulsion", "強制"],
-			["creation", "創造"],
-			["figment", "虚像"],
-			["glamer", "幻覚"],
-			["haunted", "霊障"],
-			["healing", "治癒"],
-			["pattern", "紋様"],
-			["phantasm", "惑乱"],
-			["polymorph", "ポリモーフ"],
-			["scrying", "念視"],
-			["shadow", "操影"],
-			["summoning", "招来"],
-			["teleportation", "瞬間移動"]
-		]);
-		subSchoolMap.forEach((translation, original) => {
-			subschool = subschool.replace(original, translation);
-		});
-		return subschool;
 	}
 }
 
