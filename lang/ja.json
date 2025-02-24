@@ -493,7 +493,7 @@
             }
           },
           "wondrous": {
-            "Single": "その他"
+            "Single": "その他の装備品"
           },
           "clothing": {
             "Single": "服",
@@ -502,8 +502,8 @@
         },
         "loot": {
           "gear": {
-            "Single": "装備品",
-            "Plural": "装備品"
+            "Single": "冒険道具",
+            "Plural": "冒険道具"
           },
           "ammo": {
             "Single": "矢弾",
@@ -2686,7 +2686,7 @@
         "Help": {
           "Link": "Information on Changes",
           "Value": "Value",
-          "ValueHint": "Must be deterministic with no random elements such as dice.",
+          "ValueHint": "ダイスロールのようなランダムな要素がない数字や計算式を入力してください",
           "Roll": "Roll",
           "RollHint": "Supports random elements such as dice.",
           "Simple": "Simple",

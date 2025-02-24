@@ -2,6 +2,14 @@
   font-size: 18px!important;
 }
 
+.application.pf1-v2 .window-content .radio {
+    flex-direction: column;
+}
+
+.application.pf1-v2 .window-content .radio label {
+    width: 65px;
+}
+
 .dialog .dialog-buttons{
     flex-direction: column;
     flex-wrap: nowrap;

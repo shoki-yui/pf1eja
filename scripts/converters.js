@@ -18,9 +18,6 @@ class Converters {
 		value.forEach((type, index) => {
 			const data = translations[index];
 
-			if (value[index].duration?.value && data?.duration) {
-				value[index].duration.value = data.duration;
-			}
 			if (value[index].save?.description && data?.save) {
 				value[index].save.description = data.save;
 			}
