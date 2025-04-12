@@ -1818,7 +1818,7 @@
     "Defenses": "防御",
     "Description": "説明",
     "NoDescription": "記述なし",
-    "Instructions": "備考",
+    "Instructions": "使用方法",
     "NoInstrutions": "記述なし",
     "Descriptor": "補足説明",
     "DescriptorPlural": "補足説明",
@@ -2132,6 +2132,7 @@
     "AutoSlotIncompatible": "呪文スロットの自動計算を無効にする必要があります",
     "HasCantrips": "初級呪文/祈りの使用",
     "NoCastingAbilityLimit": "能力値制限を無視",
+    "InvalidSpellLevelHint": "無効な呪文レベル<br>使用できない呪文が登録されています",
     "Modifications": "修正値",
     "PreparePerDay": "1日の準備数",
     "CastPerDay": "1日の呪文数",
@@ -2914,6 +2915,7 @@
       }
     },
     "Chat": {
+      "FocusReference": "Scroll to Referenced Message",
       "Visibility": {
         "Public": "Public",
         "Private": "Private",
@@ -3041,6 +3043,29 @@
       "OverlandVariantL": "メートル法の距離を使用して陸上速度を計算する方法のバリエーション。",
       "OverlandMetricRounded": "Rounded (German & French)",
       "OverlandMetricExact": "Exact (Spanish)"
+    },
+    "PACKS": {
+      "classes": "Classes",
+      "companion-features": "Companion Features",
+      "mythic-paths": "Mythic Paths",
+      "buffs": "Common Buffs",
+      "spells": "Spells",
+      "feats": "Feats",
+      "items": "Items",
+      "armors-and-shields": "Armor & Shields",
+      "weapons-and-ammo": "Weapons & Ammo",
+      "technology": "Technology",
+      "monster-abilities": "Monster Abilities",
+      "monsters": "Basic Monsters",
+      "racial-hd": "Racial HD",
+      "races": "Races",
+      "class-abilities": "Class Abilities",
+      "monster-templates": "Monster Templates",
+      "template-abilities": "Template Abilities",
+      "macros": "Sample Macros",
+      "roll-tables": "Roll Tables",
+      "ultimate-equipment": "Ultimate Equipment",
+      "rules": "Pathfinder 1e Rules"
     }
   },
   "TOKEN": {
