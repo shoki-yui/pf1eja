@@ -4,17 +4,6 @@
     "KEYBINDINGS": {
       "SkipConfirmPrompt": {
         "Name": "確認のプロンプトをスキップ"
-      },
-      "HideTokenTooltip": {
-        "Name": "トークンツールチップを非表示",
-        "Hint": "キーを押している間はツールチップを非表示にする。"
-      },
-      "HideTokenTooltipGMInfo": {
-        "Name": "トークンツールチップをプレイヤー視点で表示"
-      },
-      "StickyTokenTooltip": {
-        "Name": "Sticky Token Tooltip",
-        "Hint": "Keep token tooltip open even after hovering out of token."
       }
     },
     "SpellComponents": {
@@ -88,21 +77,13 @@
       "sonic": "音波",
       "water": "水"
     },
-    "OptionalAndVariantRules": "オプション&バリアントルール",
     "WoundThreshold": "負傷段階",
-    "WoundThresholdOverride": "負傷段階の上書き変更",
     "WoundLevel": {
       "healthy": "無傷状態",
       "grazed": "軽傷状態",
       "wounded": "中傷状態",
       "critical": "重傷状態"
     },
-    "AccessibilityConfigName": "アクセシビリティの設定",
-    "AccessibilityConfigLabel": "アクセシビリティ",
-    "AccessibilityConfigHint": "アクセシビリティの設定を変更する",
-    "AccessibilityFontSize": "フォントサイズ",
-    "AccessibilityFontSizeHint": "ゲームの特定の部分（攻撃チャットカードなど）でフォントサイズを変更します",
-    "OnMouse": "On Mouse",
     "Sheet": {
       "PC": "Player Character (PC)",
       "NPC": "Nonplayer Character (NPC)",
@@ -114,12 +95,6 @@
       "Item": "Generic Item",
       "Container": "Container",
       "TextPage": "Text Page (PF1)"
-    },
-    "Disposition": {
-      "None": "なし",
-      "Hostile": "敵対",
-      "Non-Friendly": "中立",
-      "All": "すべて"
     },
     "LevelUp": {
       "Add": "{class}を習得",
@@ -181,9 +156,7 @@
         "NextTier": "キャラクターが第{tier}神話階梯になると能力値が成長します"
       },
       "Summary": {
-        "Label": "概要",
-        "AdventureSkills": "冒険技能ランク",
-        "BackgroundSkills": "背景技能ランク"
+        "Label": "概要"
       },
       "Chat": {
         "Header": "Level Up Report",
@@ -212,9 +185,7 @@
     "Apply": "適用",
     "ApplyHalf": "半分適用",
     "ApplyDamage": "ダメージを適用",
-    "ApplyCriticalDamage": "クリティカルダメージを適用",
     "ApplyHealing": "回復を適用",
-    "ApplyCriticalHealing": "クリティカル回復を適用",
     "ApplyToAll": "全てに適用",
     "Roll": "ロール",
     "TakeX": "出目 {number}",
@@ -225,7 +196,6 @@
     "AbilityPenalty": "能力値ペナルティ",
     "AbilityDrain": "能力値吸収",
     "ModifierOnly": "Modifier Only",
-    "ModifierOnlyShort": "Mod. only",
     "CheckOnly": "Check Only",
     "CreateItem": "アイテム生成",
     "EditItem": "アイテム編集",
@@ -350,7 +320,6 @@
       "stunned": "朦朧",
       "unconscious": "気絶"
     },
-    "CostGP": "価格 (GP)",
     "ClassType": "クラスタイプ",
     "ActionTypes": {
       "mwak": "近接武器攻撃",
@@ -439,9 +408,7 @@
     "Containers": {
       "Contents": {
         "Label": "内容物",
-        "Weight": "内容物の重量",
         "Value": "内容物の価格",
-        "SellValue": "内容物の売却額",
         "Take": "取り出す"
       },
       "TotalValue": "合計額: {gp} gp, {sp} sp, {cp} cp",
@@ -718,7 +685,6 @@
       "seeInDark": "暗闇を見通す",
       "scent": "鋭敏嗅覚"
     },
-    "BuffTarAC": "AC",
     "BuffTarACGeneric": "一般",
     "BuffTarACArmor": "鎧",
     "BuffTarACShield": "盾",
@@ -871,9 +837,9 @@
       "InsufficientLevel": "レベル不足"
     },
     "CompendiumBrowser": {
-      "HiddenPack": "辞典閲覧から非表示にされた辞典",
       "ShowPack": "辞典閲覧に表示する",
       "HidePack": "辞典閲覧から非表示にする",
+      "ActiveFilters": "アクティブなフィルター<br><br>クリックしてクリア",
       "ClearFilters": "フィルターをクリア",
       "ReloadPacks": "辞典の再読み込み"
     },
@@ -939,7 +905,6 @@
     "Cybertech": {
       "Implantation": "移植値",
       "Install": "装着難易度",
-      "Disabled": "Disabled",
       "Slots": {
         "none": "装備部位なし",
         "arm": "腕",
@@ -1118,12 +1083,10 @@
       }
     },
     "FavouredClassBonus": {
-      "Label": "適性クラス・ボーナス",
       "HP": "ヒット・ポイント",
       "Skill": "技能",
       "Alt": "代替適性クラス・オプション"
     },
-    "Key_Control": "Control",
     "Proficiency": {
       "Armor": {
         "LabelPlural": "鎧の習熟",
@@ -1162,12 +1125,10 @@
     },
     "Undefined": "未定義",
     "Error": {
-      "GenericPermission": "あなたはそのアクションを行う権限がありません",
       "NoActorPermission": "あなたはこのアクターを操作する権限がありません",
       "NoActorPermissionAlt": "あなたはこのアクター\"{name}\"を操作する権限がありません",
       "NoItemPermission": "あなたはこの項目を編集する権限がありません",
       "DisallowedActionType": "Actor \"{name}\" is not permitted to perform this kind of action.",
-      "NoFormula": "{name} にはロールをするための式がありません！",
       "TooManyConditionSources": "Too many condition sources to edit.",
       "NoDefenseCard": "Failed to display defense card. Actor does not support it?",
       "NoSave": "Failed to roll saving throw. Actor does not support it?",
@@ -1178,18 +1139,11 @@
       "NoInitOnDuplicateCombatant": "どの戦闘参加者に対してイニシアチブ判定を行うか決定できませんでした",
       "InvalidContentLinkDrop": "ドロップしたデータからコンテンツリンクを作成できませんでした",
       "NoGiftTargets": "No valid targets to give something to.",
-      "ItemFormula": "アクター\"{actor}\"のアイテム\"{item}\"に計算式エラーがあります",
-      "ActionFormula": "アクター\"{actor}\"のアイテム\"{item}\"のアクション\"{action}\"に計算式エラーがあります",
-      "NoCharges": "{name}にチャージが残っていません",
       "InsufficientCharges": "{name}に十分なチャージが残っていません",
       "InsufficientPreparation": "{name}は準備されていないか、不明です",
       "NoQuantity": "あなたはそのアイテムをもう持っていません",
-      "NoSpellsLeft": "あなたはその種類の呪文が残っていません",
-      "ActorNotFound": "ID {id}のアクターが見つかりませんでした",
       "ItemNotFound": "Item with ID {id} not found",
       "CantIdentify": "あなたはアイテムを識別することを許可されていません",
-      "NoApplicableActorFoundForAction": "アクション'{name}'に該当するアクターが見つかりませんでした",
-      "CouldNotFindActorByName": "'{name}'という名前のアクターが見つかりませんでした",
       "FeatDisabled": "この特技は無効です",
       "CommandParse": "Failed to parse chat command.",
       "NoMacroID": "No macro with id '{id}' was found",
@@ -1199,15 +1153,12 @@
     "Warning": {
       "NoSizeDie": "{formula}に適したサイズのダイスが決定できなかったため、デフォルトの{fallback}をロールします",
       "DuplicateDFlag": "Conflicting dictionary flag \"{key}\" for item \"{item}\" (with identifier \"{tag}\") on actor \"{actor}\".",
-      "DuplicateTag": "Duplicate item identifier \"{tag}\" found in item \"{item}\" on actor \"{actor}\".",
+      "DuplicateTag": "アクター \"{actor}\" のアイテム \"{item}\" に重複した識別子 \"{tag}\" が見つかりました。",
       "NoDiceAllowedInFormula": "{context}の式'{formula}'ではダイスロールすることができません",
       "NoConditionalTargetOptions": "条件付き修正を適用できる対象がありません。",
-      "InsufficientAmmunition": "あなたは{type}の種類の矢弾が不足しています",
-      "MissingAmmunition": "攻撃にリンクされた矢弾がありません",
       "ConditionalRoll": "Rolling conditional formula № {number} of conditional {name} caused an error",
       "NoItemOnActor": "アクター\"{actor}\"はアイテム\"{item}\"を持っていません",
       "NoActionInItem": "Item \"{item}\" has no action \"{action}\"",
-      "InvalidUUID": "無効なUUID \"{uuid}\"",
       "InvalidItemSheetDrop": "Invalid drop type \"{type}\" received.",
       "ImmuneToCondition": "{name}は{condition}状態に対する完全耐性があります",
       "CannotCreateChargeLink": "Could not create a Charge type link between {source} and {target}, because {target} has Charge type links of its own",
@@ -1223,7 +1174,6 @@
       "InvalidInput": "無効な値"
     },
     "NotificationCreatedAttack": "{item}の攻撃を生成しました",
-    "Action_DisplayDefenses": "Display Defenses",
     "Info_FirstClass": "{html}からドラッグ＆ドロップ\nまたは上の'＋'ボタンをクリック",
     "Info_FirstClass_Compendium": "クラス辞典",
     "Info_MissingClass": "このキャタクターにはクラスが設定されていません。キャラクターシートの[概要]タブにある[クラス]項目で設定してください。",
@@ -1481,7 +1431,7 @@
         "Short": "Sp"
       }
     },
-    "RollSkillMacroName": "{actor}:  {skill}ロール",
+    "RollSkillMacroName": "{actor}: {skill}ロール",
     "DisplayDefensesMacroName": "{actor}: 防御能力",
     "RollCMBMacroName": "{actor}: 戦技ボーナスロール",
     "RollCLMacroName": "{actor}: 術者レベル判定({book})ロール",
@@ -1724,7 +1674,6 @@
       "Decks": "デッキ",
       "SelectDriver": "操縦者を選択",
       "DriverSkill": "操縦技能",
-      "DriverSkillBonus": "操縦技能ボーナス",
       "Passengers": "乗客",
       "ACStoppedMotion": "Stopped",
       "CMDStoppedMotion": "CMD (Stopped)",
@@ -1771,15 +1720,6 @@
     },
     "Abundant": "矢弾の弾数を無限にする",
     "AbundantDesc": "この弾薬を使用するときは、絶対に取り外さないでください。",
-    "AddClass": "クラスを追加",
-    "Horizontal": "水平",
-    "Vertical": "垂直",
-    "HideHeld": "手に持っているアイテムを非表示",
-    "HideArmor": "鎧を非表示",
-    "HideBuffs": "バフを非表示",
-    "HideConditions": "状態異常を非表示",
-    "HideClothing": "服を非表示",
-    "HideName": "名前を非表示",
     "Action": "アクション",
     "ActionPlural": "アクション",
     "ActionType": "アクションの種類",
@@ -1787,7 +1727,6 @@
     "Attack": "攻撃",
     "AddEffect": "効果を追加",
     "AddConditional": "条件を追加",
-    "AddChange": "変更点を追加",
     "AddNote": "メモを追加",
     "AddEntry": "項目を追加",
     "Attributes": "能力値",
@@ -1798,7 +1737,6 @@
     "Buffs": "バフ",
     "Change": "変更",
     "Changes": "変更",
-    "ClassAbilities": "クラス能力",
     "Conditionals": "条件付き修正",
     "ConImm": "状態異常への完全耐性",
     "ConRes": "状態異常への抵抗",
@@ -1808,7 +1746,6 @@
     "DefenseDC": "Defense DC",
     "Damage": "ダメージ",
     "DamageCritical": "クリティカルダメージ",
-    "DamageRoll": "ダメージ・ロール",
     "DamImm": "ダメージへの完全耐性",
     "DamRed": "ダメージ減少",
     "DamVuln": "ダメージへの脆弱性",
@@ -1824,10 +1761,8 @@
     "DescriptorPlural": "補足説明",
     "Details": "詳細",
     "Edit": "編集",
-    "Enchantments": "Enchantments",
     "EnRes": "エネルギー耐性",
     "Equipped": "装備",
-    "NotEquipped": "非装備",
     "Carried": "所持",
     "Identified": "識別済み",
     "Iterative": "複数回攻撃",
@@ -1862,9 +1797,7 @@
     "Inventory": "所持品",
     "Feature": "特徴",
     "Features": "特徴",
-    "FullRoundAttack": "全力攻撃",
     "Languages": "言語",
-    "LevelDrain": "負のレベル",
     "NegativeLevels": "負のレベル",
     "None": "なし",
     "Notes": "メモ",
@@ -1937,7 +1870,7 @@
     "RaceSubtypePlural": "副種別",
     "Age": "年齢",
     "Height": "身長",
-    "Weight": "体重",
+    "Weight": "重量",
     "ItemWeight": "重量",
     "StackDetails": {
       "Base": "Base: {value}",
@@ -1959,17 +1892,13 @@
     "ChargePlural": "チャージ",
     "ConditionPlural": "状態異常",
     "Add": "追加",
-    "JoinAnd": "and",
-    "JoinOr": "or",
     "ItemName": "アイテム名",
     "BuffName": "バフ名",
-    "SkillName": "技能名",
     "AttackName": "攻撃名",
     "CreateAttack": "攻撃生成",
     "CreateSpellbook": "呪文書作成",
     "Active": "アクティブ",
     "SpellBook": "呪文書",
-    "SpellBookPlural": "呪文書",
     "SpellBookPrimary": "1つ目",
     "SpellBookSecondary": "2つ目",
     "SpellBookTertiary": "3つ目",
@@ -1978,12 +1907,8 @@
     "SpellSchool": "呪文の系統",
     "SpellResistance": "呪文抵抗",
     "SpellResistanceAbbr": "SR",
-    "SpellEffect": "呪文の効果",
-    "SpellEffects": "呪文の効果",
     "Subschool": "副系統",
-    "SubschoolExample": "例：招来、強制",
     "TypePlural": "補足説明",
-    "SpellTypesExample": "例：酸、悪",
     "SpellEffectExample": "例：酸の塊一つ",
     "Area": "範囲",
     "Melee": "近接",
@@ -2001,7 +1926,6 @@
     "NaturalAttackDamage": "肉体攻撃ダメージ",
     "SpellDamage": "呪文ダメージ",
     "AttackRollPlural": "攻撃ロール",
-    "DamageRollPlural": "ダメージ・ロール",
     "CriticalHitPlural": "クリティカル・ヒット",
     "AbilityScore": "能力値",
     "AbilityScoreLinks": "参照能力値の設定",
@@ -2050,21 +1974,15 @@
     "Targets": "目標",
     "Effect": "効果",
     "Effects": "効果",
-    "AmountPrepared": "{count}準備中",
     "Prepared": "準備中",
     "Unprepared": "準備なし",
     "InitiallyPrepared": "初期準備数",
     "ClassPlural": "クラス",
-    "FeatPlural": "特技",
-    "ClassFeaturePlural": "クラス特徴",
     "NewClassFeaturePlural": "新しいクラス特徴",
-    "TraitPlural": "特徴",
-    "RacialTraitPlural": "種族特徴",
     "TemplatePlural": "テンプレート",
     "Temporary": "一時的",
     "Permanent": "永続的",
     "Item": "アイテム",
-    "WeaponSize": "武器サイズ",
     "WeaponProperties": "武器の特性",
     "Enhancement": "強化",
     "EnhancementInline": "+{bonus}強化",
@@ -2072,8 +1990,6 @@
     "EnhancementBonusOverride": "強化ボーナスを上書き",
     "AttackAlignment": "属性",
     "AttackAlignmentOverride": "属性を上書き",
-    "BaseWeaponDamage": "武器ダメージ",
-    "BaseWeaponCritical": "武器クリティカル",
     "Preparation": "準備方法",
     "CastsLeft": "残りの発動数",
     "Harmless": "無害",
@@ -2143,7 +2059,6 @@
     "Requirements": "前提条件",
     "Formula": "式",
     "BonusFormula": "ボーナスの式",
-    "FormulaResult": "計算結果",
     "AttackRollBonus": "攻撃ロールボーナス",
     "SecondaryAttackModifier": "二次的攻撃修正",
     "Rolls": {
@@ -2178,13 +2093,11 @@
         "Count": "攻撃回数の式"
       }
     },
-    "HPAbility": "ヒット・ポイントの能力値",
     "Name": "名前",
     "DamageAbility": "ダメージ能力値",
     "AbilityBonus": "能力値修正",
     "MaxAbilityHint": "許容される能力値修正の最大値。上限は倍率の前に適用されます。未定義の場合は無制限です",
     "SecondaryAttackAbilityMultiplier": "二次的攻撃の能力値修正の倍率",
-    "DamageFormula": "ダメージの式",
     "BaseFormula": "基本の式",
     "DamageFormulaHint": "例 sizeRoll(1, 8, @size)",
     "OnCritBonusFormula": "クリティカル・ヒット時に追加されるダメージの式（クリティカル倍率適用）",
@@ -2192,9 +2105,6 @@
     "AddBaseInstance": "基本の式を追加",
     "AddOnCritInstance": "クリティカル追加ダメージの式を追加",
     "AddNonMultInstance": "倍率なしの式を追加",
-    "BonusDamageFormula": "ボーナスダメージの式",
-    "BonusAttackFormula": "ボーナス攻撃の式",
-    "HealingFormula": "回復の式",
     "DamageType": "ダメージ・タイプ",
     "DamageModifiers": "ダメージ変更",
     "DamageBonus": "ダメージ・ボーナス",
@@ -2222,7 +2132,6 @@
     "CarryStrength": "運搬筋力",
     "CarryMultiplier": "運搬能力倍率",
     "Multiplier": "倍率",
-    "AbilityMultiplier": "能力値倍率",
     "CarryLightLoad": "軽荷重",
     "CarryMediumLoad": "中荷重",
     "CarryHeavyLoad": "重荷重",
@@ -2239,8 +2148,6 @@
     "Transferred": "冒険→背景",
     "BGSkillRanks": "背景技能ランク",
     "BGUsed": "使用済み背景",
-    "AllSkills": "全ての技能",
-    "Uses": "使用回数",
     "SeeText": "本文参照",
     "DC": "難易度",
     "DifficultyClass": "難易度",
@@ -2252,7 +2159,6 @@
     "DCDescriptionExample": "例：反応・半減",
     "Success": "成功",
     "Failure": "失敗",
-    "InitiativeBonus": "イニシアチブへのボーナス",
     "PowerAttack": "強打",
     "DeadlyAim": "致命的な狙い",
     "Flanking": "挟撃",
@@ -2264,9 +2170,6 @@
     "TouchAttackShort": "接触",
     "Enabled": "有効",
     "Disabled": "無効",
-    "Enable": "有効",
-    "Disable": "無効",
-    "AttackPenalty": "攻撃ペナルティ",
     "Low": "低",
     "Medium": "中",
     "High": "高",
@@ -2300,7 +2203,6 @@
     "Yes": "可",
     "No": "不可",
     "Other": "Other",
-    "AutoDeductCharges": "自動的にチャージを減らす",
     "BaseDCFormula": "基本難易度の式",
     "Lbs": "lbs",
     "Kgs": "kg",
@@ -2312,15 +2214,10 @@
     "Tag": "タグ",
     "Tags": "タグ",
     "Identifier": "識別子",
-    "Refresh": "更新",
     "Reset": "リセット",
-    "AttackDetails": "攻撃の詳細",
     "AttackType": "攻撃の種類",
-    "AttackUsage": "攻撃の用途",
-    "AttackAction": "攻撃アクション",
     "SingleAttack": "一回の攻撃",
     "FullAttack": "全力攻撃",
-    "Cast": "発動",
     "Use": "使用",
     "Regeneration": "再生",
     "FastHealing": "高速治癒",
@@ -2332,7 +2229,6 @@
     "Manyshot": "束ね射ち",
     "RapidShot": "速射",
     "PointBlankShot": "近距離射撃",
-    "UsesAmmo": "矢弾を使用",
     "Ammunition": "矢弾",
     "AmmunitionType": "矢弾の種類",
     "AmmunitionPerAttack": "矢弾の消費数 (攻撃1回あたり)",
@@ -2368,7 +2264,6 @@
     "SearchFilterPlaceholder": "Search filter…",
     "FilterPrepared": "Filter out unprepared.",
     "FilterEmpty": "空のカテゴリーの表示／非表示を切り替える",
-    "QuickInfo": "Quick Info",
     "QuickActions": "クイックアクション",
     "ConvertCurrency": "通貨を変換",
     "SoundEffect": "サウンド・エフェクト",
@@ -2399,11 +2294,9 @@
     "UseSpellPoints": "呪文ポイントを使用",
     "MaxFormula": "最大の式",
     "SpellPoints": "呪文ポイント",
-    "SpellPointsCurrent": "現在の呪文ポイント",
     "SpellPointsMax": "最大呪文ポイント",
     "SpellPointsCost": "呪文ポイントコスト",
     "RestoredOnRest": "休息時の回復",
-    "CMBAbility": "CMB能力値",
     "Broken": "破損状態",
     "AutoBroken": "アイテムのHPが少ない場合、自動的に破損状態にする",
     "Cursed": "呪われたアイテム",
@@ -2413,12 +2306,10 @@
     "Custom": "カスタム",
     "RecoverChancePercentage": "回収確率％",
     "RecoverAmmunition": "矢弾の回収",
-    "Recover": "回収（確率）",
     "RecoveredAmmo": "回収した矢弾：{count}",
     "ForceRecover": "回収（強制）",
     "Default": "デフォルト",
     "DefaultRef": "デフォルト ({value})",
-    "Vision": "視界",
     "Held": "手に持っている",
     "HeldMult": "手に持っている (×{mult})",
     "BaseTypes": {
@@ -2438,11 +2329,9 @@
     "Encumbrance": "重量負荷",
     "MediumEncumbrance": "中荷重",
     "HeavyEncumbrance": "重荷重",
-    "Raw": "省略",
     "Normal": "通常",
     "IdentifyDC": "識別難易度",
     "IdentifyCurseDC": "呪いの識別難易度",
-    "IdentifyDCNumber": "識別難易度 {dc}",
     "Identify": "識別",
     "Unidentify": "未識別",
     "MagicItems": "魔法のアイテム",
@@ -2464,7 +2353,6 @@
     "ModifierAbbr": "修正値",
     "Bonus": "ボーナス",
     "OpenAssociatedCompendiumEntry": "関連する辞典の項目を開く",
-    "OpenCompendium": "辞典を開く",
     "Tier": "階梯",
     "ReducedMovementSpeed": "移動速度の低下",
     "Settings": "設定",
@@ -2485,9 +2373,6 @@
     "MaximumRangeIncrements": "最大射程の倍率",
     "DuplicateInitiative": "重複イニシアチブの生成",
     "InitiativeOffset": "イニシアチブ補正値",
-    "NotImplemented": "Not Implemented",
-    "StepsRequired": "Steps Required",
-    "RemoveInfo": "Remove Info",
     "CustomRollDesc": "This roll uses a non-default formula",
     "Hidden": "Hidden",
     "Bright": "明るい",
@@ -2495,7 +2380,6 @@
     "PCs": "PC",
     "NPCs": "NPC",
     "Options": "オプション",
-    "Cancel": "キャンセル",
     "Split": "分割",
     "ChooseAnAction": "アクションを選択",
     "Select": "選択",
@@ -2506,7 +2390,6 @@
     "Migration": {
       "Start": "バージョン {version}のPF1eシステム移行を適用しています。しばらくお待ち下さい。",
       "InProgress": "PF1eシステムの移行が進行中です。完了するまでお待ちください。",
-      "Ongoing": "移行は進行中です。完了するまでお待ちください。",
       "End": "PF1eシステムはバージョン {version} への移行に成功しました！",
       "Dialog": {
         "Title": "Migration",
@@ -2845,8 +2728,6 @@
       }
     },
     "Info": {
-      "AddClassDialog": "Shiftキーを押しながらクラスをドラッグ＆ドロップするとこのダイアログの表示を飛ばせます。",
-      "AddClassDialog_Desc": "通常を押すとレベルアップウィンドウが開き、省略を押すとそのままクラスが追加されます。",
       "NotFunctioning": "現在システム上ではこの機能を使用していません。"
     },
     "Troubleshooter": {
@@ -2895,7 +2776,6 @@
       "AsCard": "Generate Chat Card",
       "Direct": "Apply Directly",
       "Subject": "Subject: {name}",
-      "Roll": "Roll",
       "Error": "Error",
       "Condition": {
         "Duration": "Duration: {period} {unit}"
@@ -2906,7 +2786,7 @@
         "UnsupportedItemType": "Unsupported item type \"{type}\"",
         "NoItemInMessage": "No relevant item found in message.",
         "BrowserNotFound": "Compendium Browser for \"{category}\" not found!",
-        "NoActors": "No valid actors found."
+        "NoActors": "有効なアクターが見つかりません。"
       },
       "Health": {
         "Heal": "Heal {value} {NL}",
@@ -2923,19 +2803,75 @@
         "Blind": "Blind"
       }
     },
+    "Calendar": {
+      "Label": "ゴラリオンの暦",
+      "Months": {
+        "1": {
+          "Name": "アバダル月"
+        },
+        "2": {
+          "Name": "カリストリア月"
+        },
+        "3": {
+          "Name": "ファラズマ月"
+        },
+        "4": {
+          "Name": "ゴズレー月"
+        },
+        "5": {
+          "Name": "デズナ月"
+        },
+        "6": {
+          "Name": "サーレンレイ月"
+        },
+        "7": {
+          "Name": "エラスティル月"
+        },
+        "8": {
+          "Name": "エイローデン月"
+        },
+        "9": {
+          "Name": "ロヴァググ月"
+        },
+        "10": {
+          "Name": "ラマシュトゥ月"
+        },
+        "11": {
+          "Name": "ネサス月"
+        },
+        "12": {
+          "Name": "ゾン＝クーソン月"
+        }
+      },
+      "Days": {
+        "1": {
+          "Name": "月曜日"
+        },
+        "2": {
+          "Name": "苦曜日"
+        },
+        "3": {
+          "Name": "幸曜日"
+        },
+        "4": {
+          "Name": "約曜日"
+        },
+        "5": {
+          "Name": "炎曜日"
+        },
+        "6": {
+          "Name": "星曜日"
+        },
+        "7": {
+          "Name": "日曜日"
+        }
+      }
+    },
     "SETTINGS": {
       "NoManeuvers": "No Maneuvers",
       "DisableLLV": {
         "Label": "夜目を無効",
         "Hint": "この光源の半径が夜目の影響を受けないようにします。"
-      },
-      "DiagonalRule": {
-        "Label": "斜め移動のルール",
-        "Hint": "このシステムのセッションでどの斜め移動のルールを使用するかを設定する。",
-        "Options": {
-          "Core": "5/10/5",
-          "Simple": "5/5/5"
-        }
       },
       "InitTiebreaker": {
         "Label": "イニシアチブの同値解決",

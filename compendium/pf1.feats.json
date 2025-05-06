@@ -12,7 +12,7 @@
 		{
 			"id": "Acrobatic Steps",
 			"name": "軽業移動",
-			"description": "<p><strong>《軽業移動》 Acrobatic Steps</strong></p><p>君は容易に障害物を乗り越え、すり抜けて移動することができる。</p><p><strong>前提条件：</strong>【敏】15、@Compendium[pf1.feats.VMVAqGze4cs3naya]{素早い移動}。</p><p><strong>利益：</strong>移動の際、1ラウンドに15フィートまでの移動困難な地形を通常の地形であるかのように扱う。この効果は@Compendium[pf1.feats.VMVAqGze4cs3naya]{素早い移動}の効果と累積する（結果、君は1ラウンドに合計20フィートまで移動困難な地形を無視できる）。</p>"
+			"description": "<p><strong>《軽業移動》 Acrobatic Steps</strong></p><p>君は容易に障害物を乗り越え、すり抜けて移動することができる。</p><p><strong>前提条件：</strong>【敏】15、@UUID[Compendium.pf1.feats.VMVAqGze4cs3naya]{素早い移動}。</p><p><strong>利益：</strong>移動の際、1ラウンドに15フィートまでの移動困難な地形を通常の地形であるかのように扱う。この効果は@UUID[Compendium.pf1.feats.VMVAqGze4cs3naya]{素早い移動}の効果と累積する（結果、君は1ラウンドに合計20フィートまで移動困難な地形を無視できる）。</p>"
 		},
 		{
 			"id": "Agile Maneuvers",
@@ -37,13 +37,13 @@
 		{
 			"id": "Arcane Armor Mastery",
 			"name": "秘術使いの鎧体得",
-			"description": "<p><strong>《秘術使いの鎧体得》（戦闘） Arcane Armor Mastery</strong></p><p>君は鎧を着ながら呪文を発動する術を会得した。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.3v85ul6tGGBZbtBg]{秘術使いの鎧訓練}、@Compendium[pf1.feats.qQCgBVieojhmMuHL]{鎧習熟：中装}、術者レベル7。</p><p><strong>利益：</strong>即行アクションで、このラウンドの間発動する呪文への鎧による秘術呪文失敗確率を20％低減させることができる。このボーナスは@Compendium[pf1.feats.3v85ul6tGGBZbtBg]{秘術使いの鎧訓練}による低減を置き換えるため、累積はしない。</p>",
+			"description": "<p><strong>《秘術使いの鎧体得》（戦闘） Arcane Armor Mastery</strong></p><p>君は鎧を着ながら呪文を発動する術を会得した。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.3v85ul6tGGBZbtBg]{秘術使いの鎧訓練}、@UUID[Compendium.pf1.feats.qQCgBVieojhmMuHL]{鎧習熟：中装}、術者レベル7。</p><p><strong>利益：</strong>即行アクションで、このラウンドの間発動する呪文への鎧による秘術呪文失敗確率を20％低減させることができる。このボーナスは@UUID[Compendium.pf1.feats.3v85ul6tGGBZbtBg]{秘術使いの鎧訓練}による低減を置き換えるため、累積はしない。</p>",
 			"contextNotes": []
 		},
 		{
 			"id": "Arcane Armor Training",
 			"name": "秘術使いの鎧訓練",
-			"description": "<p><strong>《秘術使いの鎧訓練》（戦闘） Arcane Armor Training</strong></p><p>君は鎧を着ながら呪文を発動する術を学んだ。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.FszchlqR39lnNduC]{鎧習熟：軽装}、術者レベル3。</p><p><strong>利益：</strong>即行アクションで、このラウンドの間発動する呪文への鎧による秘術呪文失敗確率を10％低減させることができる。</p>",
+			"description": "<p><strong>《秘術使いの鎧訓練》（戦闘） Arcane Armor Training</strong></p><p>君は鎧を着ながら呪文を発動する術を学んだ。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.FszchlqR39lnNduC]{鎧習熟：軽装}、術者レベル3。</p><p><strong>利益：</strong>即行アクションで、このラウンドの間発動する呪文への鎧による秘術呪文失敗確率を10％低減させることができる。</p>",
 			"contextNotes": []
 		},
 		{
@@ -54,17 +54,17 @@
 		{
 			"id": "Armor Proficiency, Heavy",
 			"name": "鎧習熟：重装",
-			"description": "<p><strong>《鎧習熟：重装》（戦闘） Armor Proficiency, Heavy</strong></p><p>君は重装鎧の使い方に習熟している。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.FszchlqR39lnNduC]{鎧習熟：軽装}、@Compendium[pf1.feats.qQCgBVieojhmMuHL]{鎧習熟：中装}。</p><p><strong>利益：</strong>@Compendium[pf1.feats.FszchlqR39lnNduC]{鎧習熟：軽装}を参照。</p><p><strong>通常：</strong>@Compendium[pf1.feats.FszchlqR39lnNduC]{鎧習熟：軽装}を参照。</p><p><strong>特殊：</strong>ファイターとパラディンはボーナス特技として@Compendium[pf1.feats.3MqcLuZfUJB8xMby]{鎧習熟：重装}を自動的に取得している。従って、この特技をあらためて取得する必要はない。</p>"
+			"description": "<p><strong>《鎧習熟：重装》（戦闘） Armor Proficiency, Heavy</strong></p><p>君は重装鎧の使い方に習熟している。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.FszchlqR39lnNduC]{鎧習熟：軽装}、@UUID[Compendium.pf1.feats.qQCgBVieojhmMuHL]{鎧習熟：中装}。</p><p><strong>利益：</strong>@UUID[Compendium.pf1.feats.FszchlqR39lnNduC]{鎧習熟：軽装}を参照。</p><p><strong>通常：</strong>@UUID[Compendium.pf1.feats.FszchlqR39lnNduC]{鎧習熟：軽装}を参照。</p><p><strong>特殊：</strong>ファイターとパラディンはボーナス特技として@UUID[Compendium.pf1.feats.3MqcLuZfUJB8xMby]{鎧習熟：重装}を自動的に取得している。従って、この特技をあらためて取得する必要はない。</p>"
 		},
 		{
 			"id": "Armor Proficiency, Light",
 			"name": "鎧習熟：軽装",
-			"description": "<p><strong>《鎧習熟：軽装》（戦闘） Armor Proficiency, Light</strong></p><p>君は軽装鎧の使い方に習熟している。</p><p><strong>利益：</strong>今着用している種類の鎧に習熟しているなら、鎧による判定ペナルティは【敏捷力】と【筋力】を用いる技能判定にのみ適用される。</p><p><strong>通常：</strong>習熟していない種類の鎧を身着用しているキャラクターは、攻撃ロールと身体の動きに関わるすべての技能判定に判定ペナルティを受ける。</p><p><strong>特殊：</strong>モンク、ウィザード、ソーサラーを除くすべてのクラスはボーナス特技として@Compendium[pf1.feats.FszchlqR39lnNduC]{鎧習熟：軽装}を自動的に取得している。従って、この特技をあらためて取得する必要はない。</p>"
+			"description": "<p><strong>《鎧習熟：軽装》（戦闘） Armor Proficiency, Light</strong></p><p>君は軽装鎧の使い方に習熟している。</p><p><strong>利益：</strong>今着用している種類の鎧に習熟しているなら、鎧による判定ペナルティは【敏捷力】と【筋力】を用いる技能判定にのみ適用される。</p><p><strong>通常：</strong>習熟していない種類の鎧を身着用しているキャラクターは、攻撃ロールと身体の動きに関わるすべての技能判定に判定ペナルティを受ける。</p><p><strong>特殊：</strong>モンク、ウィザード、ソーサラーを除くすべてのクラスはボーナス特技として@UUID[Compendium.pf1.feats.FszchlqR39lnNduC]{鎧習熟：軽装}を自動的に取得している。従って、この特技をあらためて取得する必要はない。</p>"
 		},
 		{
 			"id": "Armor Proficiency, Medium",
 			"name": "鎧習熟：中装",
-			"description": "<p><strong>《鎧習熟：中装》（戦闘） Armor Proficiency, Medium</strong></p><p>君は中装鎧の使い方に習熟している。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.FszchlqR39lnNduC]{鎧習熟：軽装}。</p><p><strong>利益：</strong>@Compendium[pf1.feats.FszchlqR39lnNduC]{鎧習熟：軽装}を参照。</p><p><strong>通常：</strong>@Compendium[pf1.feats.FszchlqR39lnNduC]{鎧習熟：軽装}を参照。</p><p><strong>特殊：</strong>バーバリアン、クレリック、ドルイド、ファイター、パラディン、レンジャーはボーナス特技として@Compendium[pf1.feats.qQCgBVieojhmMuHL]{鎧習熟：中装}を自動的に取得している。従って、この特技をあらためて取得する必要はない。</p>"
+			"description": "<p><strong>《鎧習熟：中装》（戦闘） Armor Proficiency, Medium</strong></p><p>君は中装鎧の使い方に習熟している。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.FszchlqR39lnNduC]{鎧習熟：軽装}。</p><p><strong>利益：</strong>@UUID[Compendium.pf1.feats.FszchlqR39lnNduC]{鎧習熟：軽装}を参照。</p><p><strong>通常：</strong>@UUID[Compendium.pf1.feats.FszchlqR39lnNduC]{鎧習熟：軽装}を参照。</p><p><strong>特殊：</strong>バーバリアン、クレリック、ドルイド、ファイター、パラディン、レンジャーはボーナス特技として@UUID[Compendium.pf1.feats.qQCgBVieojhmMuHL]{鎧習熟：中装}を自動的に取得している。従って、この特技をあらためて取得する必要はない。</p>"
 		},
 		{
 			"id": "Athletic",
@@ -74,30 +74,30 @@
 		{
 			"id": "Augment Summoning",
 			"name": "招来クリーチャー強化",
-			"description": "<p><strong>《招来クリーチャー強化》 Augment Summoning</strong></p><p>君が召喚したクリーチャーはより力強く、頑丈だ。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.V2zY7BltkpSXwejy]{呪文熟練：召喚術}。</p><p><strong>利益：</strong>君がなんらかのサモン呪文で召喚したクリーチャーは、その呪文の持続時間の間、【筋力】と【耐久力】に＋4の強化ボーナスを得る。</p>"
+			"description": "<p><strong>《招来クリーチャー強化》 Augment Summoning</strong></p><p>君が召喚したクリーチャーはより力強く、頑丈だ。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.V2zY7BltkpSXwejy]{呪文熟練：召喚術}。</p><p><strong>利益：</strong>君がなんらかのサモン呪文で召喚したクリーチャーは、その呪文の持続時間の間、【筋力】と【耐久力】に＋4の強化ボーナスを得る。</p>"
 		},
 		{
 			"id": "Bleeding Critical",
 			"name": "出血化クリティカル",
-			"description": "<p><strong>《出血化クリティカル》（戦闘、クリティカル） Bleeding Critical</strong></p><p>君のクリティカル・ヒットによって相手はおびただしい量の血を流し始める。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>斬撃、あるいは刺突武器によってクリティカル・ヒットを放った時、クリティカルの対象は通常のクリティカル・ダメージを受けるのみならず、2d6ポイントの出血ダメージ（“状態”を参照）を毎ラウンド自分のターンに受ける。出血は難易度15の〈治療〉技能判定か、なんらかの魔法による治癒によって止まる。この特技による効果は累積する。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
+			"description": "<p><strong>《出血化クリティカル》（戦闘、クリティカル） Bleeding Critical</strong></p><p>君のクリティカル・ヒットによって相手はおびただしい量の血を流し始める。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>斬撃、あるいは刺突武器によってクリティカル・ヒットを放った時、クリティカルの対象は通常のクリティカル・ダメージを受けるのみならず、2d6ポイントの出血ダメージ（“状態”を参照）を毎ラウンド自分のターンに受ける。出血は難易度15の〈治療〉技能判定か、なんらかの魔法による治癒によって止まる。この特技による効果は累積する。</p><p><strong>特殊：</strong>@UUID[Compendium.pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "effect",
-					"text": "出血化クリティカル：斬撃、あるいは刺突武器によってクリティカル・ヒットしたとき、相手に[[/r 2d6]]ポイントの出血ダメージを与える"
+					"target": "critical",
+					"text": "@Use[出血化クリティカル;speaker]"
 				}
 			]
 		},
 		{
 			"id": "Blind-Fight",
 			"name": "無視界戦闘",
-			"description": "<p><strong>《無視界戦闘》（戦闘） Blind-Fight</strong></p><p>君ははっきりとは見えない相手と戦うことに秀でている。</p><p><strong>利益：</strong>近接戦闘で視認困難（“戦闘”を参照）のために失敗するたびに、実際に命中したかどうかを調べるための失敗確率の％ロールを1回だけ再ロールできる。</p><p>不可視状態の攻撃側は近接戦闘で君を攻撃する際にボーナスを得ることはない。つまり、君はアーマー・クラスへの【敏捷力】ボーナスを失うことはなく、攻撃側は通常の＋2のボーナスを得られない。ただし遠隔攻撃の場合には、攻撃者が不可視状態であることによるボーナスが適用される。</p><p>君は目が見えない時に全力で移動するための〈軽業〉判定を行う必要がない。</p><p><strong>通常：</strong>不可視状態の攻撃者が君に命中させるための攻撃ロールに通常通り修正値が足され、君はアーマー・クラスへの【敏捷力】ボーナスを失う。暗闇や視界の悪さによる移動速度の低下も通常通り適用される。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.pmAO1Sni8xx71pLF]{無視界戦闘}はブリンク呪文の対象になっているキャラクターに対しては役にたたない。</p>",
+			"description": "<p><strong>《無視界戦闘》（戦闘） Blind-Fight</strong></p><p>君ははっきりとは見えない相手と戦うことに秀でている。</p><p><strong>利益：</strong>近接戦闘で視認困難（“戦闘”を参照）のために失敗するたびに、実際に命中したかどうかを調べるための失敗確率の％ロールを1回だけ再ロールできる。</p><p>不可視状態の攻撃側は近接戦闘で君を攻撃する際にボーナスを得ることはない。つまり、君はアーマー・クラスへの【敏捷力】ボーナスを失うことはなく、攻撃側は通常の＋2のボーナスを得られない。ただし遠隔攻撃の場合には、攻撃者が不可視状態であることによるボーナスが適用される。</p><p>君は目が見えない時に全力で移動するための〈軽業〉判定を行う必要がない。</p><p><strong>通常：</strong>不可視状態の攻撃者が君に命中させるための攻撃ロールに通常通り修正値が足され、君はアーマー・クラスへの【敏捷力】ボーナスを失う。暗闇や視界の悪さによる移動速度の低下も通常通り適用される。</p><p><strong>特殊：</strong>@UUID[Compendium.pf1.feats.pmAO1Sni8xx71pLF]{無視界戦闘}はブリンク呪文の対象になっているキャラクターに対しては役にたたない。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "attack",
+					"target": "attack",
 					"text": "無視界戦闘：視認困難時の失敗確率の％ロールを1回だけ再ロールできる"
 				},
 				{
-					"subTarget": "ac",
+					"target": "ac",
 					"text": "無視界戦闘：不可視状態の攻撃側は近接戦闘で君を攻撃する際にボーナスを得ない"
 				}
 			]
@@ -105,11 +105,11 @@
 		{
 			"id": "Blinding Critical",
 			"name": "盲目化クリティカル",
-			"description": "<p><strong>《盲目化クリティカル》（戦闘、クリティカル） Blinding Critical</strong></p><p>君のクリティカル・ヒットは相手を盲目にする。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋15。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は恒久的に盲目状態になる。ただし頑健セーヴに成功した場合、対象は1d4ラウンド目が眩んだ状態になるだけですむ。セーヴ難易度は10＋君の基本攻撃ボーナスである。この特技は視界を目に頼っていないクリーチャーや、2つより多くの目があるクリーチャーには効果がない（目が多いクリーチャーに関しては、GMの判断によっては複数のクリティカル・ヒットによって目が見えなくなることにしても良い）。盲目状態は@Compendium[pf1.spells.4re1j2w8wkvsvnsi]{ヒール}、@Compendium[pf1.spells.3fbrrckyfagfzyop]{リジェネレイト}、@Compendium[pf1.spells.kundr7ekztiqml5t]{リムーヴ・ブラインドネス／デフネス}やそれに類似した呪文や効果によって癒すことができる。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
+			"description": "<p><strong>《盲目化クリティカル》（戦闘、クリティカル） Blinding Critical</strong></p><p>君のクリティカル・ヒットは相手を盲目にする。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋15。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は恒久的に盲目状態になる。ただし頑健セーヴに成功した場合、対象は1d4ラウンド目が眩んだ状態になるだけですむ。セーヴ難易度は10＋君の基本攻撃ボーナスである。この特技は視界を目に頼っていないクリーチャーや、2つより多くの目があるクリーチャーには効果がない（目が多いクリーチャーに関しては、GMの判断によっては複数のクリティカル・ヒットによって目が見えなくなることにしても良い）。盲目状態は@UUID[Compendium.pf1.spells.4re1j2w8wkvsvnsi]{ヒール}、@UUID[Compendium.pf1.spells.3fbrrckyfagfzyop]{リジェネレイト}、@UUID[Compendium.pf1.spells.kundr7ekztiqml5t]{リムーヴ・ブラインドネス／デフネス}やそれに類似した呪文や効果によって癒すことができる。</p><p><strong>特殊：</strong>@UUID[Compendium.pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "effect",
-					"text": "盲目化クリティカル：クリティカル・ヒット時、相手は頑健セーヴ（難易度 [[10 + @attributes.bab.total]]）に失敗すると恒久的に盲目状態になる。頑健セーヴに成功した場合は [[/r 1d4]]ラウンドの間目が眩んだ状態になる"
+					"target": "critical",
+					"text": "@Use[盲目化クリティカル;speaker]"
 				}
 			]
 		},
@@ -124,7 +124,7 @@
 			"description": "<p><strong>《代用武器の巧み》（戦闘） Catch Off-Guard</strong></p><p>敵は君が正統なものでない、間に合わせの武器を自在に操ることに驚かされる。</p><p><strong>利益：</strong>君は近接代用武器を扱う際にペナルティを受けない。武装していない敵は君の代用武器による攻撃に対して立ちすくみ状態になる。</p><p><strong>通常：</strong>代用武器を扱う際には攻撃ロールに－4のペナルティを受ける。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "attack",
+					"target": "attack",
 					"text": "代用武器の巧み：武装していない敵は君の代用武器による攻撃に対して立ちすくみ状態になる"
 				}
 			]
@@ -137,7 +137,7 @@
 		{
 			"id": "Cleave",
 			"name": "薙ぎ払い",
-			"description": "<p><strong>《薙ぎ払い》（戦闘） Cleave</strong></p><p>君は武器の一薙ぎで隣り合う2人の敵を攻撃できる。</p><p><strong>前提条件：</strong>【筋】13、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>標準アクションで、君の最も高い基本攻撃ボーナスを用いて間合い内の敵を攻撃する。攻撃が当たった場合通常通りにダメージを与え、さらにその敵に隣接し、かつ間合い内にいるもう1人の敵に同じ基本攻撃ボーナスを用いて追加攻撃を行うことができる。この特技を用いての追加攻撃は、1ラウンドに1回までしかできない。この特技を用いた場合、君は次の君のターンまでアーマー・クラスに－2のペナルティを受ける。</p>",
+			"description": "<p><strong>《薙ぎ払い》（戦闘） Cleave</strong></p><p>君は武器の一薙ぎで隣り合う2人の敵を攻撃できる。</p><p><strong>前提条件：</strong>【筋】13、@UUID[Compendium.pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>標準アクションで、君の最も高い基本攻撃ボーナスを用いて間合い内の敵を攻撃する。攻撃が当たった場合通常通りにダメージを与え、さらにその敵に隣接し、かつ間合い内にいるもう1人の敵に同じ基本攻撃ボーナスを用いて追加攻撃を行うことができる。この特技を用いての追加攻撃は、1ラウンドに1回までしかできない。この特技を用いた場合、君は次の君のターンまでアーマー・クラスに－2のペナルティを受ける。</p>",
 			"contextNotes": []
 		},
 		{
@@ -146,7 +146,7 @@
 			"description": "<p><strong>《戦闘発動》 Combat Casting</strong></p><p>君は集中を乱されている時や、攻撃を受けそうな時に呪文を発動することに熟達している。</p><p><strong>利益：</strong>君は防御的発動時、および組みつき状態で呪文や擬似呪文能力を発動するための精神集中判定に＋4のボーナスを得る。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "concentration",
+					"target": "concentration",
 					"text": "戦闘発動：防御的発動時、および組みつき状態で呪文や擬似呪文能力を発動するための精神集中判定に＋[[4]]ボーナス"
 				}
 			]
@@ -159,13 +159,13 @@
 		{
 			"id": "Combat Reflexes",
 			"name": "迎え討ち",
-			"description": "<p><strong>《迎え討ち》（戦闘） Combat Reflexes</strong></p><p>君は追加の機会攻撃を行える。</p><p><strong>利益：</strong>君が1ラウンドに行える機会攻撃の回数は、【敏捷力】修正値回数増加する。また、立ちすくみ状態の時も機会攻撃を行える。</p><p><strong>通常：</strong>この特技を持っていないキャラクターは1ラウンドに1回までしか機会攻撃が行えず、また立ちすくみ状態の時には機会攻撃を行えない。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.h9nHYLxXvIXBTmup]{迎え討ち}を持つローグでも、追い討ちの能力を1ラウンドに2回以上使用することはできない。</p>",
+			"description": "<p><strong>《迎え討ち》（戦闘） Combat Reflexes</strong></p><p>君は追加の機会攻撃を行える。</p><p><strong>利益：</strong>君が1ラウンドに行える機会攻撃の回数は、【敏捷力】修正値回数増加する。また、立ちすくみ状態の時も機会攻撃を行える。</p><p><strong>通常：</strong>この特技を持っていないキャラクターは1ラウンドに1回までしか機会攻撃が行えず、また立ちすくみ状態の時には機会攻撃を行えない。</p><p><strong>特殊：</strong>@UUID[Compendium.pf1.feats.h9nHYLxXvIXBTmup]{迎え討ち}を持つローグでも、追い討ちの能力を1ラウンドに2回以上使用することはできない。</p>",
 			"contextNotes": []
 		},
 		{
 			"id": "Command Undead",
 			"name": "アンデッド威伏",
-			"description": "<p><strong>《アンデッド威伏》 Command Undead</strong></p><p>汚れた死霊の力を用いることで、君はアンデッドに命令し、己の僕とすることができる。</p><p><strong>前提条件：</strong>負のエネルギー放出の能力。</p><p><strong>利益：</strong>標準アクションでエネルギー放出を使用することで、30フィート以内にいるアンデッド1体を奴隷とすることができる。アンデッドは効果を無視するために、難易度10＋クレリック・レベルの1/2＋【魅力】修正値の意志セーヴを行うことができる。セーヴに失敗したアンデッドは君の制御下に入り、@Compendium[pf1.spells.wkp8u7xl1dgpk362]{コントロール・アンデッド}の呪文にかかったかのように全力を尽くして君の命令に従う。君は合計ヒット・ダイスがクレリック・レベルを超えない限り、同時に何体でもアンデッドを操ることができる。君がエネルギー放出をこのように使った場合、それは他の効果（治癒や攻撃）を及ぼさない。もしアンデッド・クリーチャーが他のクリーチャーの制御下にあり、君の命令がなんらかの矛盾や葛藤を引き起こす場合には、対抗【魅力】判定を行わなければならない。</p>"
+			"description": "<p><strong>《アンデッド威伏》 Command Undead</strong></p><p>汚れた死霊の力を用いることで、君はアンデッドに命令し、己の僕とすることができる。</p><p><strong>前提条件：</strong>負のエネルギー放出の能力。</p><p><strong>利益：</strong>標準アクションでエネルギー放出を使用することで、30フィート以内にいるアンデッド1体を奴隷とすることができる。アンデッドは効果を無視するために、難易度10＋クレリック・レベルの1/2＋【魅力】修正値の意志セーヴを行うことができる。セーヴに失敗したアンデッドは君の制御下に入り、@UUID[Compendium.pf1.spells.wkp8u7xl1dgpk362]{コントロール・アンデッド}の呪文にかかったかのように全力を尽くして君の命令に従う。君は合計ヒット・ダイスがクレリック・レベルを超えない限り、同時に何体でもアンデッドを操ることができる。君がエネルギー放出をこのように使った場合、それは他の効果（治癒や攻撃）を及ぼさない。もしアンデッド・クリーチャーが他のクリーチャーの制御下にあり、君の命令がなんらかの矛盾や葛藤を引き起こす場合には、対抗【魅力】判定を行わなければならない。</p>"
 		},
 		{
 			"id": "Craft Magic Arms and Armor",
@@ -200,18 +200,18 @@
 		{
 			"id": "Critical Mastery",
 			"name": "クリティカル体得",
-			"description": "<p><strong>《クリティカル体得》（戦闘） Critical Mastery</strong></p><p>君のクリティカル・ヒットは2つの追加効果を与える。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、2つ以上のクリティカル特技、ファイター・レベル14。</p><p><strong>利益：</strong>クリティカル・ヒットした際、ダメージを与えた上に2つのクリティカル特技の効果を与える。</p><p><strong>通常：</strong>クリティカル・ヒットの際にはダメージの他に1つのクリティカル特技だけを適用できる。</p>",
+			"description": "<p><strong>《クリティカル体得》（戦闘） Critical Mastery</strong></p><p>君のクリティカル・ヒットは2つの追加効果を与える。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、2つ以上のクリティカル特技、ファイター・レベル14。</p><p><strong>利益：</strong>クリティカル・ヒットした際、ダメージを与えた上に2つのクリティカル特技の効果を与える。</p><p><strong>通常：</strong>クリティカル・ヒットの際にはダメージの他に1つのクリティカル特技だけを適用できる。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "effect",
-					"text": "クリティカル体得：クリティカル・ヒットした際、2つのクリティカル特技の効果を与える"
+					"target": "critical",
+					"text": "クリティカル体得：クリティカル・ヒットした際に2つのクリティカル特技の効果を与える"
 				}
 			]
 		},
 		{
 			"id": "Dazzling Display",
 			"name": "威圧演舞",
-			"description": "<p><strong>《威圧演舞》（戦闘） Dazzling Display</strong></p><p>君が得意とする武器を扱う様は敵を恐怖に陥れる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器熟練}、武器への習熟。</p><p><strong>利益：</strong>@Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器熟練}を持っている武器を装備している時、全ラウンド・アクションで敵をうろたえさせる力強い演舞を行うことができる。〈威圧〉技能の成功によって演舞を見ることができる30フィート以内のすべての敵の“士気をくじく”ことができる。</p>"
+			"description": "<p><strong>《威圧演舞》（戦闘） Dazzling Display</strong></p><p>君が得意とする武器を扱う様は敵を恐怖に陥れる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.n250dFlbykAIAg5Z]{武器熟練}、武器への習熟。</p><p><strong>利益：</strong>@UUID[Compendium.pf1.feats.n250dFlbykAIAg5Z]{武器熟練}を持っている武器を装備している時、全ラウンド・アクションで敵をうろたえさせる力強い演舞を行うことができる。〈威圧〉技能の成功によって演舞を見ることができる30フィート以内のすべての敵の“士気をくじく”ことができる。</p>"
 		},
 		{
 			"id": "Deadly Aim",
@@ -221,17 +221,17 @@
 		{
 			"id": "Deadly Stroke",
 			"name": "手ひどい一打",
-			"description": "<p><strong>《手ひどい一打》（戦闘） Deadly Stroke</strong></p><p>良く狙った一撃でもって、君は多くの敵に素早く、痛みに満ちた終焉を迎えさせる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.3cq9YbgcMrAXC76j]{威圧演舞}、@Compendium[pf1.feats.IER2MzJrjSvxMlNS]{上級武器熟練}、@Compendium[pf1.feats.kn854Ovz0BDA2Dgz]{防御崩し}、@Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器熟練}、選択した武器への習熟、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>標準アクションで、君が@Compendium[pf1.feats.IER2MzJrjSvxMlNS]{上級武器熟練}を持つ武器を用いて朦朧状態、あるいは立ちすくみ状態の敵に1回の攻撃を行う。命中した場合、通常の2倍のダメージを与え、さらに【耐久力】に対する1ポイントの出血状態を引き起こさせる（“状態”の章を参照）。クリティカルした場合、2倍したダメージを何倍かするのではなく、通常のクリティカルによるダメージにさらに通常ダメージを加える。クリティカルによって出血ダメージの量は変わらない。</p>",
+			"description": "<p><strong>《手ひどい一打》（戦闘） Deadly Stroke</strong></p><p>良く狙った一撃でもって、君は多くの敵に素早く、痛みに満ちた終焉を迎えさせる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.3cq9YbgcMrAXC76j]{威圧演舞}、@UUID[Compendium.pf1.feats.IER2MzJrjSvxMlNS]{上級武器熟練}、@UUID[Compendium.pf1.feats.kn854Ovz0BDA2Dgz]{防御崩し}、@UUID[Compendium.pf1.feats.n250dFlbykAIAg5Z]{武器熟練}、選択した武器への習熟、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>標準アクションで、君が@UUID[Compendium.pf1.feats.IER2MzJrjSvxMlNS]{上級武器熟練}を持つ武器を用いて朦朧状態、あるいは立ちすくみ状態の敵に1回の攻撃を行う。命中した場合、通常の2倍のダメージを与え、さらに【耐久力】に対する1ポイントの出血状態を引き起こさせる（“状態”の章を参照）。クリティカルした場合、2倍したダメージを何倍かするのではなく、通常のクリティカルによるダメージにさらに通常ダメージを加える。クリティカルによって出血ダメージの量は変わらない。</p>",
 			"contextNotes": []
 		},
 		{
 			"id": "Deafening Critical",
 			"name": "聴覚喪失化クリティカル",
-			"description": "<p><strong>《聴覚喪失化クリティカル》（戦闘、クリティカル） Deafening Critical</strong></p><p>君のクリティカル・ヒットは敵の聴覚を奪う。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋13。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は恒久的に聴覚喪失状態になる。ただし頑健セーヴに成功した場合、聴覚喪失状態は1ラウンドしか継続しない。セーヴ難易度は10＋君の基本攻撃ボーナスである。この特技は音が聞こえないクリーチャーには効果がない。聴覚喪失状態は@Compendium[pf1.spells.4re1j2w8wkvsvnsi]{ヒール}、@Compendium[pf1.spells.3fbrrckyfagfzyop]{リジェネレイト}、@Compendium[pf1.spells.kundr7ekztiqml5t]{リムーヴ・ブラインドネス／デフネス}等々の呪文や効果によって癒すことができる。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
+			"description": "<p><strong>《聴覚喪失化クリティカル》（戦闘、クリティカル） Deafening Critical</strong></p><p>君のクリティカル・ヒットは敵の聴覚を奪う。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋13。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は恒久的に聴覚喪失状態になる。ただし頑健セーヴに成功した場合、聴覚喪失状態は1ラウンドしか継続しない。セーヴ難易度は10＋君の基本攻撃ボーナスである。この特技は音が聞こえないクリーチャーには効果がない。聴覚喪失状態は@UUID[Compendium.pf1.spells.4re1j2w8wkvsvnsi]{ヒール}、@UUID[Compendium.pf1.spells.3fbrrckyfagfzyop]{リジェネレイト}、@UUID[Compendium.pf1.spells.kundr7ekztiqml5t]{リムーヴ・ブラインドネス／デフネス}等々の呪文や効果によって癒すことができる。</p><p><strong>特殊：</strong>@UUID[Compendium.pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "effect",
-					"text": "聴覚喪失化クリティカル：クリティカル・ヒット時、相手は頑健セーヴ（難易度 [[10 + @attributes.bab.total]]）に失敗すると恒久的に聴覚喪失状態になる。頑健セーヴに成功した場合は1ラウンド聴覚喪失状態になる"
+					"target": "critical",
+					"text": "@Use[聴覚喪失化クリティカル;speaker]"
 				}
 			]
 		},
@@ -248,10 +248,10 @@
 		{
 			"id": "Deflect Arrows",
 			"name": "矢止め",
-			"description": "<p><strong>《矢止め》（戦闘） Deflect Arrows</strong></p><p>君は矢などの発射体をはじいてその軌道をそらし、自分への命中を阻止できる。</p><p><strong>前提条件：</strong>【敏】13、@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}。</p><p><strong>利益：</strong>この特技を使うためには、少なくとも片手を自由（何も持たない状態）にしておかなければならない。1ラウンドに1回、普通なら遠隔武器が君に命中するような時に、それをそらしてダメージを受けないようにすることができる。君はその攻撃に気づいていなければならず、立ちすくみ状態であってはならない。この試みはアクションとは見なさない。例外的に大きな遠隔武器（大岩や、バリスタの矢）や、肉体武器や呪文の効果によって生み出された遠隔攻撃に対してはこの特技を使うことはできない。</p>",
+			"description": "<p><strong>《矢止め》（戦闘） Deflect Arrows</strong></p><p>君は矢などの発射体をはじいてその軌道をそらし、自分への命中を阻止できる。</p><p><strong>前提条件：</strong>【敏】13、@UUID[Compendium.pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}。</p><p><strong>利益：</strong>この特技を使うためには、少なくとも片手を自由（何も持たない状態）にしておかなければならない。1ラウンドに1回、普通なら遠隔武器が君に命中するような時に、それをそらしてダメージを受けないようにすることができる。君はその攻撃に気づいていなければならず、立ちすくみ状態であってはならない。この試みはアクションとは見なさない。例外的に大きな遠隔武器（大岩や、バリスタの矢）や、肉体武器や呪文の効果によって生み出された遠隔攻撃に対してはこの特技を使うことはできない。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "ac",
+					"target": "ac",
 					"text": "矢止め：1ラウンドに1回、遠隔武器をそらすことができる。これには片手を自由にしておく必要がある。"
 				}
 			]
@@ -264,10 +264,10 @@
 		{
 			"id": "Diehard",
 			"name": "不屈の闘志",
-			"description": "<p><strong>《不屈の闘志》 Diehard</strong></p><p>君を殺すことは特に難しい。重傷を負っても自動的に容態が安定するだけでなく、死の扉の前にあっても意識を保ち、行動することができるからだ。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.ehqx8txNRGMaNOPt]{持久力}。</p><p><strong>利益：</strong>ヒット・ポイントの合計が0未満であるが死亡状態ではない場合、自動的に容態安定化する。ヒット・ポイントをさらに失わないための【耐久力】判定は必要ない。君は瀕死状態でいる代わりに、満身創痍状態として行動することを選択しても良い。この選択は、ヒット・ポイントがマイナスに突入した瞬間に（例えそれが自分のターンでなくても）成されなければならない。瀕死状態になることを選択した場合には、即座に意識を失う。</p><p>この特技を使って行動する際、君は満身創痍状態である。1回の移動アクションまでなら、自分を傷つけることなくとることができるが、標準アクション（あるいは活発だと見なされる他のアクション、例えば@Compendium[pf1.feats.wFoLrh5FeeqBXsQ8]{呪文高速化}した呪文を発動するなどの即行アクション）を行った場合、アクションが完了した後に1ポイントのダメージを受ける。君のヒット・ポイントが－【耐久力】以下まで減少した場合、即座に死亡する。</p><p><strong>通常：</strong>この特技を持たないキャラクターのヒット・ポイントが－1以下となった場合、そのキャラクターは瀕死状態となり、自動的に意識を失う。</p>",
+			"description": "<p><strong>《不屈の闘志》 Diehard</strong></p><p>君を殺すことは特に難しい。重傷を負っても自動的に容態が安定するだけでなく、死の扉の前にあっても意識を保ち、行動することができるからだ。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.ehqx8txNRGMaNOPt]{持久力}。</p><p><strong>利益：</strong>ヒット・ポイントの合計が0未満であるが死亡状態ではない場合、自動的に容態安定化する。ヒット・ポイントをさらに失わないための【耐久力】判定は必要ない。君は瀕死状態でいる代わりに、満身創痍状態として行動することを選択しても良い。この選択は、ヒット・ポイントがマイナスに突入した瞬間に（例えそれが自分のターンでなくても）成されなければならない。瀕死状態になることを選択した場合には、即座に意識を失う。</p><p>この特技を使って行動する際、君は満身創痍状態である。1回の移動アクションまでなら、自分を傷つけることなくとることができるが、標準アクション（あるいは活発だと見なされる他のアクション、例えば@UUID[Compendium.pf1.feats.wFoLrh5FeeqBXsQ8]{呪文高速化}した呪文を発動するなどの即行アクション）を行った場合、アクションが完了した後に1ポイントのダメージを受ける。君のヒット・ポイントが－【耐久力】以下まで減少した場合、即座に死亡する。</p><p><strong>通常：</strong>この特技を持たないキャラクターのヒット・ポイントが－1以下となった場合、そのキャラクターは瀕死状態となり、自動的に意識を失う。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "conChecks",
+					"target": "conChecks",
 					"text": "不屈の闘志：自動的に容態安定化する"
 				}
 			]
@@ -285,7 +285,7 @@
 		{
 			"id": "Double Slice",
 			"name": "二重斬り",
-			"description": "<p><strong>《二重斬り》（戦闘） Double Slice</strong></p><p>二刀流時に、君は逆手の武器でより強力な一撃を見舞うことができる。</p><p><strong>前提条件：</strong>【敏】15、@Compendium[pf1.feats.Ee7JHADKEK37tTHs]{二刀流}。</p><p><strong>利益：</strong>利き手でない手の武器でのダメージ・ロールに、【筋力】修正値を加える。</p><p><strong>通常：</strong>利き手でない手の武器でのダメージ・ロールには【筋力】修正値の半分の値しか加えられない。</p>"
+			"description": "<p><strong>《二重斬り》（戦闘） Double Slice</strong></p><p>二刀流時に、君は逆手の武器でより強力な一撃を見舞うことができる。</p><p><strong>前提条件：</strong>【敏】15、@UUID[Compendium.pf1.feats.Ee7JHADKEK37tTHs]{二刀流}。</p><p><strong>利益：</strong>利き手でない手の武器でのダメージ・ロールに、【筋力】修正値を加える。</p><p><strong>通常：</strong>利き手でない手の武器でのダメージ・ロールには【筋力】修正値の半分の値しか加えられない。</p>"
 		},
 		{
 			"id": "Elemental Channel",
@@ -315,11 +315,11 @@
 		{
 			"id": "Exhausting Critical",
 			"name": "過労化クリティカル",
-			"description": "<p><strong>《過労化クリティカル》（戦闘、クリティカル） Exhausting Critical</strong></p><p>君のクリティカル・ヒットは相手を過労状態にする。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、@Compendium[pf1.feats.0bpGtfB3ksWHe0lW]{疲労化クリティカル}、基本攻撃ボーナス＋15。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は即座に過労状態になる。この特技は既に過労状態の相手に対しては効果がない。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
+			"description": "<p><strong>《過労化クリティカル》（戦闘、クリティカル） Exhausting Critical</strong></p><p>君のクリティカル・ヒットは相手を過労状態にする。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、@UUID[Compendium.pf1.feats.0bpGtfB3ksWHe0lW]{疲労化クリティカル}、基本攻撃ボーナス＋15。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は即座に過労状態になる。この特技は既に過労状態の相手に対しては効果がない。</p><p><strong>特殊：</strong>@UUID[Compendium.pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "effect",
-					"text": "過労化クリティカル：クリティカル・ヒット時、相手は過労状態になる."
+					"target": "critical",
+					"text": "@Use[過労化クリティカル;speaker]"
 				}
 			]
 		},
@@ -336,7 +336,7 @@
 		{
 			"id": "Extra Channel",
 			"name": "エネルギー放出回数追加",
-			"description": "<p><strong>《エネルギー放出回数追加》 Extra Channel</strong></p><p>君は頻繁に信仰のエネルギーを放出できる。</p><p><strong>前提条件：</strong>“エネルギー放出”のクラス特徴。</p><p><strong>利益：</strong>君は追加で1日に2回エネルギー放出を使用することができる。</p><p><strong>特殊：</strong>この特技を正のエネルギー放出能力を持つパラディンが修得した場合、@Compendium[pf1.class-abilities.WhE4j0Jc82npdMCP]{癒しの手}を追加で1日に4回だけ使用できるようになるが、追加された@Compendium[pf1.class-abilities.WhE4j0Jc82npdMCP]{癒しの手}の使用回数は正のエネルギー放出のためだけに使用できる。この特技をエネルギー放出能力を持つウォープリーストが修得した場合、@Compendium[pf1.class-abilities.Rzexvt4z8taA8dCu]{熱狂}の使用回数を追加で1日に4回分得るが、この追加の使用回数はエネルギー放出のためだけに使用できる。</p>"
+			"description": "<p><strong>《エネルギー放出回数追加》 Extra Channel</strong></p><p>君は頻繁に信仰のエネルギーを放出できる。</p><p><strong>前提条件：</strong>“エネルギー放出”のクラス特徴。</p><p><strong>利益：</strong>君は追加で1日に2回エネルギー放出を使用することができる。</p><p><strong>特殊：</strong>この特技を正のエネルギー放出能力を持つパラディンが修得した場合、@UUID[Compendium.pf1.class-abilities.WhE4j0Jc82npdMCP]{癒しの手}を追加で1日に4回だけ使用できるようになるが、追加された@UUID[Compendium.pf1.class-abilities.WhE4j0Jc82npdMCP]{癒しの手}の使用回数は正のエネルギー放出のためだけに使用できる。この特技をエネルギー放出能力を持つウォープリーストが修得した場合、@UUID[Compendium.pf1.class-abilities.Rzexvt4z8taA8dCu]{熱狂}の使用回数を追加で1日に4回分得るが、この追加の使用回数はエネルギー放出のためだけに使用できる。</p>"
 		},
 		{
 			"id": "Extra Ki",
@@ -346,12 +346,12 @@
 		{
 			"id": "Extra Lay On Hands",
 			"name": "癒しの手回数追加",
-			"description": "<p><strong>《癒しの手回数追加》 Extra Lay On Hands</strong></p><p>君は癒しの手をより頻繁に使える。</p><p><strong>前提条件：</strong>@Compendium[pf1.class-abilities.WhE4j0Jc82npdMCP]{癒しの手}の能力。</p><p><strong>利益：</strong>君は@Compendium[pf1.class-abilities.WhE4j0Jc82npdMCP]{癒しの手}を1日2回追加で使うことができる。</p><p><strong>特殊：</strong>この特技は複数回取得できる。効果は累積する。</p>"
+			"description": "<p><strong>《癒しの手回数追加》 Extra Lay On Hands</strong></p><p>君は癒しの手をより頻繁に使える。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.WhE4j0Jc82npdMCP]{癒しの手}の能力。</p><p><strong>利益：</strong>君は@UUID[Compendium.pf1.class-abilities.WhE4j0Jc82npdMCP]{癒しの手}を1日2回追加で使うことができる。</p><p><strong>特殊：</strong>この特技は複数回取得できる。効果は累積する。</p>"
 		},
 		{
 			"id": "Extra Mercy",
 			"name": "慈悲追加",
-			"description": "<p><strong>《慈悲追加》 Extra Mercy</strong></p><p>君の癒しの手は慈悲による追加効果を得る。</p><p><strong>前提条件：</strong>@Compendium[pf1.class-abilities.WhE4j0Jc82npdMCP]{癒しの手}、@Compendium[pf1.class-abilities.Er8h3fZ2edJEviTv]{慈悲}の能力。</p><p><strong>利益：</strong>君が使用できる@Compendium[pf1.class-abilities.Er8h3fZ2edJEviTv]{慈悲}を1つ選ぶ。君が@Compendium[pf1.class-abilities.WhE4j0Jc82npdMCP]{癒しの手}を使ってクリーチャー1体を治癒した時、対象は選択した@Compendium[pf1.class-abilities.Er8h3fZ2edJEviTv]{慈悲}の効果を追加で受ける。</p><p><strong>特殊：</strong>この特技は複数回取得できるが、効果は累積しない。この特技を取るたびに、新しい@Compendium[pf1.class-abilities.Er8h3fZ2edJEviTv]{慈悲}を選択すること。</p>"
+			"description": "<p><strong>《慈悲追加》 Extra Mercy</strong></p><p>君の癒しの手は慈悲による追加効果を得る。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.WhE4j0Jc82npdMCP]{癒しの手}、@UUID[Compendium.pf1.class-abilities.Er8h3fZ2edJEviTv]{慈悲}の能力。</p><p><strong>利益：</strong>君が使用できる@UUID[Compendium.pf1.class-abilities.Er8h3fZ2edJEviTv]{慈悲}を1つ選ぶ。君が@UUID[Compendium.pf1.class-abilities.WhE4j0Jc82npdMCP]{癒しの手}を使ってクリーチャー1体を治癒した時、対象は選択した@UUID[Compendium.pf1.class-abilities.Er8h3fZ2edJEviTv]{慈悲}の効果を追加で受ける。</p><p><strong>特殊：</strong>この特技は複数回取得できるが、効果は累積しない。この特技を取るたびに、新しい@UUID[Compendium.pf1.class-abilities.Er8h3fZ2edJEviTv]{慈悲}を選択すること。</p>"
 		},
 		{
 			"id": "Extra Performance",
@@ -371,10 +371,10 @@
 		{
 			"id": "Far Shot",
 			"name": "遠射",
-			"description": "<p><strong>《遠射》（戦闘） Far Shot</strong></p><p>君は長距離の射撃においてより正確だ。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.8rsFtye3PwM6CKli]{近距離射撃}。</p><p><strong>利益：</strong>君は遠隔武器を使う時、君と目標との間の距離が1射程単位ぶん増えるたびに－1しかペナルティを受けない。</p><p><strong>通常：</strong>君と目標との距離が射程単位ぶん増えるたびに、攻撃に－2のペナルティを受ける。</p>",
+			"description": "<p><strong>《遠射》（戦闘） Far Shot</strong></p><p>君は長距離の射撃においてより正確だ。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.8rsFtye3PwM6CKli]{近距離射撃}。</p><p><strong>利益：</strong>君は遠隔武器を使う時、君と目標との間の距離が1射程単位ぶん増えるたびに－1しかペナルティを受けない。</p><p><strong>通常：</strong>君と目標との距離が射程単位ぶん増えるたびに、攻撃に－2のペナルティを受ける。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "rangedWeapon",
+					"target": "rangedWeapon",
 					"text": "遠射：君と目標との間の距離が1射程単位ぶん増えるたびに－1しかペナルティを受けない"
 				}
 			]
@@ -392,12 +392,12 @@
 		{
 			"id": "Gorgon's Fist",
 			"name": "ゴルゴンの拳",
-			"description": "<p><strong>《ゴルゴンの拳》（戦闘） Gorgon's Fist</strong></p><p>狙い澄ました一撃で、君は敵をふらつかせることができる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}、@Compendium[pf1.feats.2AfSIVge3bg8r6wr]{蠍の型}、基本攻撃ボーナス＋6。</p><p><strong>利益：</strong>標準アクションで、移動速度が減少している相手（例えば@Compendium[pf1.feats.2AfSIVge3bg8r6wr]{蠍の型}によって）に、1回の素手攻撃を行う。もし攻撃が命中したなら、通常通りにダメージを与えた上、対象は頑健セーヴに成功しない限りよろめき状態になる。セーヴ難易度は10＋キャラクター・レベルの1/2＋【判断力】修正値である。すでによろめき状態になっている相手には、この特技は影響を与えない。</p>"
+			"description": "<p><strong>《ゴルゴンの拳》（戦闘） Gorgon's Fist</strong></p><p>狙い澄ました一撃で、君は敵をふらつかせることができる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}、@UUID[Compendium.pf1.feats.2AfSIVge3bg8r6wr]{蠍の型}、基本攻撃ボーナス＋6。</p><p><strong>利益：</strong>標準アクションで、移動速度が減少している相手（例えば@UUID[Compendium.pf1.feats.2AfSIVge3bg8r6wr]{蠍の型}によって）に、1回の素手攻撃を行う。もし攻撃が命中したなら、通常通りにダメージを与えた上、対象は頑健セーヴに成功しない限りよろめき状態になる。セーヴ難易度は10＋キャラクター・レベルの1/2＋【判断力】修正値である。すでによろめき状態になっている相手には、この特技は影響を与えない。</p>"
 		},
 		{
 			"id": "Great Cleave",
 			"name": "薙ぎ払い強化",
-			"description": "<p><strong>《薙ぎ払い強化》（戦闘） Great Cleave</strong></p><p>君は武器の一薙ぎで隣り合う複数の敵を攻撃できる。</p><p><strong>前提条件：</strong>【筋】13、@Compendium[pf1.feats.Zeq6RWYv5otvg8q7]{薙ぎ払い}、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋4。</p><p><strong>利益：</strong>標準アクションで、君の最も高い基本攻撃ボーナスを用いて間合い内の敵を攻撃する。攻撃が当たった場合通常通りにダメージを与え、さらにその敵に隣接し、かつ間合い内にいるもう1人の敵に同じ基本攻撃ボーナスを用いて追加攻撃を行うことができる。この攻撃も命中した場合、さらに直前の敵に隣接する間合い内の敵に攻撃することができ、範囲内に敵がいる限り追加攻撃を続けることができる。この攻撃アクションの間に、同じ敵を2回以上攻撃することはできない。この特技を用いた場合、君は次の君のターンまでアーマー・クラスに－2のペナルティを受ける。</p>"
+			"description": "<p><strong>《薙ぎ払い強化》（戦闘） Great Cleave</strong></p><p>君は武器の一薙ぎで隣り合う複数の敵を攻撃できる。</p><p><strong>前提条件：</strong>【筋】13、@UUID[Compendium.pf1.feats.Zeq6RWYv5otvg8q7]{薙ぎ払い}、@UUID[Compendium.pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋4。</p><p><strong>利益：</strong>標準アクションで、君の最も高い基本攻撃ボーナスを用いて間合い内の敵を攻撃する。攻撃が当たった場合通常通りにダメージを与え、さらにその敵に隣接し、かつ間合い内にいるもう1人の敵に同じ基本攻撃ボーナスを用いて追加攻撃を行うことができる。この攻撃も命中した場合、さらに直前の敵に隣接する間合い内の敵に攻撃することができ、範囲内に敵がいる限り追加攻撃を続けることができる。この攻撃アクションの間に、同じ敵を2回以上攻撃することはできない。この特技を用いた場合、君は次の君のターンまでアーマー・クラスに－2のペナルティを受ける。</p>"
 		},
 		{
 			"id": "Great Fortitude",
@@ -407,10 +407,10 @@
 		{
 			"id": "Greater Bull Rush",
 			"name": "上級突き飛ばし",
-			"description": "<p><strong>《上級突き飛ばし》（戦闘） Greater Bull Rush</strong></p><p>君に突き飛ばされた敵はバランスを崩す。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.dn2KgHFQRbuoNRx0]{突き飛ばし強化}、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋6、【筋】13。</p><p><strong>利益：</strong>突き飛ばしを行う際の判定に＋2のボーナスを得る。このボーナスは@Compendium[pf1.feats.dn2KgHFQRbuoNRx0]{突き飛ばし強化}によるボーナスと累積する。また、君が突き飛ばしに成功した時、相手の移動は君の味方からの（君は含まない）機会攻撃を誘発する。</p><p><strong>通常：</strong>突き飛ばしによって動かされたクリーチャーは機会攻撃を誘発しない。</p>",
+			"description": "<p><strong>《上級突き飛ばし》（戦闘） Greater Bull Rush</strong></p><p>君に突き飛ばされた敵はバランスを崩す。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.dn2KgHFQRbuoNRx0]{突き飛ばし強化}、@UUID[Compendium.pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋6、【筋】13。</p><p><strong>利益：</strong>突き飛ばしを行う際の判定に＋2のボーナスを得る。このボーナスは@UUID[Compendium.pf1.feats.dn2KgHFQRbuoNRx0]{突き飛ばし強化}によるボーナスと累積する。また、君が突き飛ばしに成功した時、相手の移動は君の味方からの（君は含まない）機会攻撃を誘発する。</p><p><strong>通常：</strong>突き飛ばしによって動かされたクリーチャーは機会攻撃を誘発しない。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "cmb",
+					"target": "cmb",
 					"text": "上級突き飛ばし：突き飛ばしの戦技判定に＋[[2]]ボーナス"
 				}
 			]
@@ -418,10 +418,10 @@
 		{
 			"id": "Greater Disarm",
 			"name": "上級武器落とし",
-			"description": "<p><strong>《上級武器落とし》（戦闘） Greater Disarm</strong></p><p>君は敵の武器を遠くに吹き飛ばすことができる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}、@Compendium[pf1.feats.711B9WNFgpdDKKf2]{武器落とし強化}、基本攻撃ボーナス＋6、【知】13。</p><p><strong>利益：</strong>武器落としを行う際の判定に＋2のボーナスを得る。このボーナスは@Compendium[pf1.feats.711B9WNFgpdDKKf2]{武器落とし強化}によるボーナスと累積する。また、君が武器落としに成功した時、武器はその所持者から15フィート離れたランダムな位置に落ちる。</p><p><strong>通常：</strong>武器落としによって落ちた武器は所持者の足下に落ちる。</p>",
+			"description": "<p><strong>《上級武器落とし》（戦闘） Greater Disarm</strong></p><p>君は敵の武器を遠くに吹き飛ばすことができる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}、@UUID[Compendium.pf1.feats.711B9WNFgpdDKKf2]{武器落とし強化}、基本攻撃ボーナス＋6、【知】13。</p><p><strong>利益：</strong>武器落としを行う際の判定に＋2のボーナスを得る。このボーナスは@UUID[Compendium.pf1.feats.711B9WNFgpdDKKf2]{武器落とし強化}によるボーナスと累積する。また、君が武器落としに成功した時、武器はその所持者から15フィート離れたランダムな位置に落ちる。</p><p><strong>通常：</strong>武器落としによって落ちた武器は所持者の足下に落ちる。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "cmb",
+					"target": "cmb",
 					"text": "上級武器落とし：武器落としの戦技判定に＋[[2]]ボーナス"
 				}
 			]
@@ -429,15 +429,15 @@
 		{
 			"id": "Greater Feint",
 			"name": "上級フェイント",
-			"description": "<p><strong>《上級フェイント》（戦闘） Greater Feint</strong></p><p>君は敵が攻撃に過剰反応するように仕向けることができる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}、@Compendium[pf1.feats.tocde3sKG1O3GKgd]{フェイント強化}、基本攻撃ボーナス＋6、【知】13。</p><p><strong>利益：</strong>君がフェイントによって相手のアーマー・クラスへの【敏捷力】ボーナスを失わせた時、相手は次の君の攻撃に対してボーナスを失うだけでなく、次の君のターンの開始までボーナスを失ったままである。</p><p><strong>通常：</strong>フェイントによってアーマー・クラスへの【敏捷力】ボーナスを失うのは次の攻撃に対してのみである。</p>"
+			"description": "<p><strong>《上級フェイント》（戦闘） Greater Feint</strong></p><p>君は敵が攻撃に過剰反応するように仕向けることができる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}、@UUID[Compendium.pf1.feats.tocde3sKG1O3GKgd]{フェイント強化}、基本攻撃ボーナス＋6、【知】13。</p><p><strong>利益：</strong>君がフェイントによって相手のアーマー・クラスへの【敏捷力】ボーナスを失わせた時、相手は次の君の攻撃に対してボーナスを失うだけでなく、次の君のターンの開始までボーナスを失ったままである。</p><p><strong>通常：</strong>フェイントによってアーマー・クラスへの【敏捷力】ボーナスを失うのは次の攻撃に対してのみである。</p>"
 		},
 		{
 			"id": "Greater Grapple",
 			"name": "上級組みつき",
-			"description": "<p><strong>《上級組みつき》（戦闘） Greater Grapple</strong></p><p>組みつきの維持は、君にとっては第二の天性となっている。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.ZmQkRk93nbHxsQSt]{組みつき強化}、@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}、基本攻撃ボーナス＋6、【敏】13。</p><p><strong>利益：</strong>組みつきを行う際の判定に＋2のボーナスを得る。このボーナスは@Compendium[pf1.feats.ZmQkRk93nbHxsQSt]{組みつき強化}によるボーナスと累積する。また、君がクリーチャーに組みついた場合、組みつきの維持は移動アクションで行える。この特技によって、君は相手を動かしたり、ダメージを与えたり、押さえ込むための組みつき判定を1ラウンドに2回行えるが、2回行わなくても構わない。組みつきを維持するためには、2回の判定のうちどちらか一方に成功すればよい。</p><p><strong>通常：</strong>組みつきを維持するのには標準アクションが必要である。</p>",
+			"description": "<p><strong>《上級組みつき》（戦闘） Greater Grapple</strong></p><p>組みつきの維持は、君にとっては第二の天性となっている。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.ZmQkRk93nbHxsQSt]{組みつき強化}、@UUID[Compendium.pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}、基本攻撃ボーナス＋6、【敏】13。</p><p><strong>利益：</strong>組みつきを行う際の判定に＋2のボーナスを得る。このボーナスは@UUID[Compendium.pf1.feats.ZmQkRk93nbHxsQSt]{組みつき強化}によるボーナスと累積する。また、君がクリーチャーに組みついた場合、組みつきの維持は移動アクションで行える。この特技によって、君は相手を動かしたり、ダメージを与えたり、押さえ込むための組みつき判定を1ラウンドに2回行えるが、2回行わなくても構わない。組みつきを維持するためには、2回の判定のうちどちらか一方に成功すればよい。</p><p><strong>通常：</strong>組みつきを維持するのには標準アクションが必要である。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "cmb",
+					"target": "cmb",
 					"text": "上級組みつき：組みつきの戦技判定に＋[[2]]ボーナス"
 				}
 			]
@@ -445,10 +445,10 @@
 		{
 			"id": "Greater Overrun",
 			"name": "上級蹴散らし",
-			"description": "<p><strong>《上級蹴散らし》（戦闘） Greater Overrun</strong></p><p>敵は君の危険な移動を避けるために飛び退かなければならない。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.go4xOiSUP8R1QJ5N]{蹴散らし強化}、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋6、【筋】13。</p><p><strong>利益：</strong>蹴散らしを行う際の判定に＋2のボーナスを得る。このボーナスは@Compendium[pf1.feats.go4xOiSUP8R1QJ5N]{蹴散らし強化}によるボーナスと累積する。また、君がクリーチャーを蹴散らして伏せ状態にさせた時、機会攻撃を誘発させる。</p><p><strong>通常：</strong>蹴散らしによって伏せ状態になっても機会攻撃は誘発しない。</p>",
+			"description": "<p><strong>《上級蹴散らし》（戦闘） Greater Overrun</strong></p><p>敵は君の危険な移動を避けるために飛び退かなければならない。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.go4xOiSUP8R1QJ5N]{蹴散らし強化}、@UUID[Compendium.pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋6、【筋】13。</p><p><strong>利益：</strong>蹴散らしを行う際の判定に＋2のボーナスを得る。このボーナスは@UUID[Compendium.pf1.feats.go4xOiSUP8R1QJ5N]{蹴散らし強化}によるボーナスと累積する。また、君がクリーチャーを蹴散らして伏せ状態にさせた時、機会攻撃を誘発させる。</p><p><strong>通常：</strong>蹴散らしによって伏せ状態になっても機会攻撃は誘発しない。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "cmb",
+					"target": "cmb",
 					"text": "上級蹴散らし：蹴散らしの戦技判定に＋[[2]]ボーナス"
 				}
 			]
@@ -456,30 +456,36 @@
 		{
 			"id": "Greater Penetrating Strike",
 			"name": "上級貫通打撃",
-			"description": "<p><strong>《上級貫通打撃》（戦闘） Greater Penetrating Strike</strong></p><p>君の攻撃はほとんどの敵の防御を貫通する。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.TGmNCGtnHf0icozK]{貫通打撃}、@Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器熟練}、ファイター・レベル16。</p><p><strong>利益：</strong>@Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器熟練}で指定した武器による攻撃は、ダメージ減少を10ポイントまで無視する。もしダメージ減少がタイプを持たない（ダメージ減少10／―など）場合、5ポイントまでしか無視できない。</p>"
+			"description": "<p><strong>《上級貫通打撃》（戦闘） Greater Penetrating Strike</strong></p><p>君の攻撃はほとんどの敵の防御を貫通する。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.TGmNCGtnHf0icozK]{貫通打撃}、@UUID[Compendium.pf1.feats.n250dFlbykAIAg5Z]{武器熟練}、ファイター・レベル16。</p><p><strong>利益：</strong>@UUID[Compendium.pf1.feats.n250dFlbykAIAg5Z]{武器熟練}で指定した武器による攻撃は、ダメージ減少を10ポイントまで無視する。もしダメージ減少がタイプを持たない（ダメージ減少10／―など）場合、5ポイントまでしか無視できない。</p>"
 		},
 		{
 			"id": "Greater Shield Focus",
 			"name": "上級盾熟練",
-			"description": "<p><strong>《上級盾熟練》（戦闘） Greater Shield Focus</strong></p><p>君は盾によって攻撃を防ぐことに熟練している。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.7mD4ZksvKFaorAfj]{盾熟練}、@Compendium[pf1.feats.WZj7zDvuelEoeXWX]{盾習熟}、基本攻撃ボーナス＋1、ファイター・レベル8。</p><p><strong>利益：</strong>使用している盾によるアーマー・クラスへのボーナスが1上昇する。このボーナスは@Compendium[pf1.feats.7mD4ZksvKFaorAfj]{盾熟練}によるボーナスと累積する。</p>"
+			"description": "<p><strong>《上級盾熟練》（戦闘） Greater Shield Focus</strong></p><p>君は盾によって攻撃を防ぐことに熟練している。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.7mD4ZksvKFaorAfj]{盾熟練}、@UUID[Compendium.pf1.feats.WZj7zDvuelEoeXWX]{盾習熟}、基本攻撃ボーナス＋1、ファイター・レベル8。</p><p><strong>利益：</strong>使用している盾によるアーマー・クラスへのボーナスが1上昇する。このボーナスは@UUID[Compendium.pf1.feats.7mD4ZksvKFaorAfj]{盾熟練}によるボーナスと累積する。</p>"
 		},
 		{
 			"id": "Greater Spell Focus",
 			"name": "上級呪文熟練",
-			"description": "<p><strong>《上級呪文熟練》 Greater Spell Focus</strong></p><p>@Compendium[pf1.feats.V2zY7BltkpSXwejy]{呪文熟練}を持っている魔法系統を1つ選択する。君が発動したその系統の呪文は、抵抗することが非常に難しい。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.V2zY7BltkpSXwejy]{呪文熟練}。</p><p><strong>利益：</strong>選択した魔法系統の呪文を発動する場合、それに対して行われるすべてのセーヴィング・スローの難易度は＋1される。このボーナスは@Compendium[pf1.feats.V2zY7BltkpSXwejy]{呪文熟練}によるボーナスと累積する。</p><p><strong>特殊：</strong>この特技は複数回取得できるが、効果は累積しない。1回取得するたびに、すでに@Compendium[pf1.feats.V2zY7BltkpSXwejy]{呪文熟練}を取得している魔法系統1つに新たに適用される。</p>"
+			"description": "<p><strong>《上級呪文熟練》 Greater Spell Focus</strong></p><p>@UUID[Compendium.pf1.feats.V2zY7BltkpSXwejy]{呪文熟練}を持っている魔法系統を1つ選択する。君が発動したその系統の呪文は、抵抗することが非常に難しい。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.V2zY7BltkpSXwejy]{呪文熟練}。</p><p><strong>利益：</strong>選択した魔法系統の呪文を発動する場合、それに対して行われるすべてのセーヴィング・スローの難易度は＋1される。このボーナスは@UUID[Compendium.pf1.feats.V2zY7BltkpSXwejy]{呪文熟練}によるボーナスと累積する。</p><p><strong>特殊：</strong>この特技は複数回取得できるが、効果は累積しない。1回取得するたびに、すでに@UUID[Compendium.pf1.feats.V2zY7BltkpSXwejy]{呪文熟練}を取得している魔法系統1つに新たに適用される。</p>"
 		},
 		{
 			"id": "Greater Spell Penetration",
 			"name": "上級抵抗破り",
-			"description": "<p><strong>《上級抵抗破り》 Greater Spell Penetration</strong></p><p>君の呪文は容易に呪文抵抗を貫通する。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.nWFr8SNcjcMqsXSH]{抵抗破り}。</p><p><strong>利益：</strong>クリーチャーの呪文抵抗を打ち破るための術者レベル判定（1d20＋術者レベル）に＋2のボーナスを得る。このボーナスは@Compendium[pf1.feats.nWFr8SNcjcMqsXSH]{抵抗破り}によるボーナスと累積する。</p>"
+			"description": "<p><strong>《上級抵抗破り》 Greater Spell Penetration</strong></p><p>君の呪文は容易に呪文抵抗を貫通する。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.nWFr8SNcjcMqsXSH]{抵抗破り}。</p><p><strong>利益：</strong>クリーチャーの呪文抵抗を打ち破るための術者レベル判定（1d20＋術者レベル）に＋2のボーナスを得る。このボーナスは@UUID[Compendium.pf1.feats.nWFr8SNcjcMqsXSH]{抵抗破り}によるボーナスと累積する。</p>",
+			"contextNotes": [
+				{
+					"target": "cl",
+					"text": "上級抵抗破り：術者レベル判定+[[2]]ボーナス"
+				}
+			]
 		},
 		{
 			"id": "Greater Sunder",
 			"name": "上級武器破壊",
-			"description": "<p><strong>《上級武器破壊》（戦闘） Greater Sunder</strong></p><p>君の破壊的な攻撃は武器や鎧を切り裂いてその持ち主にも到達し、一撃でアイテムと所持者双方にダメージを与える。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.lpXdFoT6OqS5vi2X]{武器破壊強化}、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋6、【筋】13。</p><p><strong>利益：</strong>武器破壊を行う際の判定に＋2のボーナスを得る。このボーナスは@Compendium[pf1.feats.lpXdFoT6OqS5vi2X]{武器破壊強化}によるボーナスと累積する。君が武器破壊によって武器、盾、あるいは鎧を破壊した時、超過したダメージはそのアイテムの所持者に与えられる。アイテムを1hp残した状態にすると決めた場合には、ダメージの転送は起きない。</p>",
+			"description": "<p><strong>《上級武器破壊》（戦闘） Greater Sunder</strong></p><p>君の破壊的な攻撃は武器や鎧を切り裂いてその持ち主にも到達し、一撃でアイテムと所持者双方にダメージを与える。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.lpXdFoT6OqS5vi2X]{武器破壊強化}、@UUID[Compendium.pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋6、【筋】13。</p><p><strong>利益：</strong>武器破壊を行う際の判定に＋2のボーナスを得る。このボーナスは@UUID[Compendium.pf1.feats.lpXdFoT6OqS5vi2X]{武器破壊強化}によるボーナスと累積する。君が武器破壊によって武器、盾、あるいは鎧を破壊した時、超過したダメージはそのアイテムの所持者に与えられる。アイテムを1hp残した状態にすると決めた場合には、ダメージの転送は起きない。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "cmb",
+					"target": "cmb",
 					"text": "上級武器破壊：武器破壊の戦技判定に＋[[2]]ボーナス"
 				}
 			]
@@ -487,10 +493,10 @@
 		{
 			"id": "Greater Trip",
 			"name": "上級足払い",
-			"description": "<p><strong>《上級足払い》（戦闘） Greater Trip</strong></p><p>君は転ばせた相手に追撃を行うことができる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}、@Compendium[pf1.feats.gTrGPxzN054GfpkM]{足払い強化}、基本攻撃ボーナス＋6、【知】13</p><p><strong>利益：</strong>足払いを行う際の判定に＋2のボーナスを得る。このボーナスは@Compendium[pf1.feats.gTrGPxzN054GfpkM]{足払い強化}によるボーナスと累積する。また、君が足払いに成功して相手が伏せ状態になった時、相手は機会攻撃を誘発する。</p><p><strong>通常：</strong>足払いされても機会攻撃を誘発しない。</p>",
+			"description": "<p><strong>《上級足払い》（戦闘） Greater Trip</strong></p><p>君は転ばせた相手に追撃を行うことができる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}、@UUID[Compendium.pf1.feats.gTrGPxzN054GfpkM]{足払い強化}、基本攻撃ボーナス＋6、【知】13</p><p><strong>利益：</strong>足払いを行う際の判定に＋2のボーナスを得る。このボーナスは@UUID[Compendium.pf1.feats.gTrGPxzN054GfpkM]{足払い強化}によるボーナスと累積する。また、君が足払いに成功して相手が伏せ状態になった時、相手は機会攻撃を誘発する。</p><p><strong>通常：</strong>足払いされても機会攻撃を誘発しない。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "cmb",
+					"target": "cmb",
 					"text": "上級足払い：足払いの戦技判定に＋[[2]]ボーナス"
 				}
 			]
@@ -498,39 +504,39 @@
 		{
 			"id": "Greater Two-Weapon Fighting",
 			"name": "上級二刀流",
-			"description": "<p><strong>《上級二刀流》（戦闘） Greater Two-Weapon Fighting</strong></p><p>君は2つの武器で同時に戦うことに信じられないような技量を持つ。</p><p><strong>前提条件：</strong>【敏】19、@Compendium[pf1.feats.3fNdl7eIUJ5d5fwg]{二刀流強化}、@Compendium[pf1.feats.Ee7JHADKEK37tTHs]{二刀流}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>君は利き手でない手に持った武器で－10のペナルティを受けて3回目の攻撃を行える。</p>"
+			"description": "<p><strong>《上級二刀流》（戦闘） Greater Two-Weapon Fighting</strong></p><p>君は2つの武器で同時に戦うことに信じられないような技量を持つ。</p><p><strong>前提条件：</strong>【敏】19、@UUID[Compendium.pf1.feats.3fNdl7eIUJ5d5fwg]{二刀流強化}、@UUID[Compendium.pf1.feats.Ee7JHADKEK37tTHs]{二刀流}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>君は利き手でない手に持った武器で－10のペナルティを受けて3回目の攻撃を行える。</p>"
 		},
 		{
 			"id": "Greater Vital Strike",
 			"name": "上級渾身の一打",
-			"description": "<p><strong>《上級渾身の一打》（戦闘） Greater Vital Strike</strong></p><p>君はとてつもないダメージを与える一撃を放つことができる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.DorPGQ2mifJbMKH8]{渾身の一打強化}、@Compendium[pf1.feats.26k1Gi7t5BoqxhIj]{渾身の一打}、基本攻撃ボーナス＋16。</p><p><strong>利益：</strong>君が攻撃アクションを行う際、最も高い基本攻撃ボーナスを用いて1回の攻撃を行う。この攻撃による武器のダメージ・ダイスを4回振り、その結果を【筋力】修正値によるダメージや（フレイミングなどの）武器の能力、（急所攻撃などの）狙いの正確さに基づくダメージやその他のダメージ・ボーナスに加算する。この武器による追加ダメージ・ダイスはクリティカル・ヒットによって倍加せず、単に合計値に加算するだけである。他のダメージへのボーナスは通常通り倍加される。</p>"
+			"description": "<p><strong>《上級渾身の一打》（戦闘） Greater Vital Strike</strong></p><p>君はとてつもないダメージを与える一撃を放つことができる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.DorPGQ2mifJbMKH8]{渾身の一打強化}、@UUID[Compendium.pf1.feats.26k1Gi7t5BoqxhIj]{渾身の一打}、基本攻撃ボーナス＋16。</p><p><strong>利益：</strong>君が攻撃アクションを行う際、最も高い基本攻撃ボーナスを用いて1回の攻撃を行う。この攻撃による武器のダメージ・ダイスを4回振り、その結果を【筋力】修正値によるダメージや（フレイミングなどの）武器の能力、（急所攻撃などの）狙いの正確さに基づくダメージやその他のダメージ・ボーナスに加算する。この武器による追加ダメージ・ダイスはクリティカル・ヒットによって倍加せず、単に合計値に加算するだけである。他のダメージへのボーナスは通常通り倍加される。</p>"
 		},
 		{
 			"id": "Greater Weapon Focus",
 			"name": "上級武器熟練",
-			"description": "<p><strong>《上級武器熟練》（戦闘） Greater Weapon Focus</strong></p><p>すでに@Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器熟練}の対象として選択した1種類の武器を選ぶ（素手打撃や、組みつきも含む）。君はその武器の扱いにおいて達人と呼ぶにふさわしい。</p><p><strong>前提条件：</strong>選択した武器への習熟、選択した武器への@Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器熟練}、基本攻撃ボーナス＋1、ファイター・レベル8。</p><p><strong>利益：</strong>選んだ武器を使って行うすべての攻撃ロールに＋1を加える。このボーナスは、@Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器熟練}によるボーナスを含む他のボーナスと累積する。</p><p><strong>特殊：</strong>この特技は複数回取得できるが、効果は累積しない。この特技を取るたびに、その効果は新しい種類の武器に適用される。</p>"
+			"description": "<p><strong>《上級武器熟練》（戦闘） Greater Weapon Focus</strong></p><p>すでに@UUID[Compendium.pf1.feats.n250dFlbykAIAg5Z]{武器熟練}の対象として選択した1種類の武器を選ぶ（素手打撃や、組みつきも含む）。君はその武器の扱いにおいて達人と呼ぶにふさわしい。</p><p><strong>前提条件：</strong>選択した武器への習熟、選択した武器への@UUID[Compendium.pf1.feats.n250dFlbykAIAg5Z]{武器熟練}、基本攻撃ボーナス＋1、ファイター・レベル8。</p><p><strong>利益：</strong>選んだ武器を使って行うすべての攻撃ロールに＋1を加える。このボーナスは、@UUID[Compendium.pf1.feats.n250dFlbykAIAg5Z]{武器熟練}によるボーナスを含む他のボーナスと累積する。</p><p><strong>特殊：</strong>この特技は複数回取得できるが、効果は累積しない。この特技を取るたびに、その効果は新しい種類の武器に適用される。</p>"
 		},
 		{
 			"id": "Greater Weapon Specialization",
 			"name": "上級武器開眼",
-			"description": "<p><strong>《上級武器開眼》（戦闘） Greater Weapon Specialization</strong></p><p>すでに@Compendium[pf1.feats.YLCvMNeAF9V31m1h]{武器開眼}の対象として選択した1種類の武器を選ぶ（素手打撃や、組みつきも含む）。その武器による君の攻撃はより破壊力を持つ。</p><p><strong>前提条件：</strong>選択した武器への習熟、選択した武器への@Compendium[pf1.feats.IER2MzJrjSvxMlNS]{上級武器熟練}、選択した武器への@Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器熟練}、選択した武器への@Compendium[pf1.feats.YLCvMNeAF9V31m1h]{武器開眼}、ファイター・レベル12。</p><p><strong>利益：</strong>選んだ武器を使って行うすべてのダメージ・ロールに＋2のボーナスを加える。このボーナスは@Compendium[pf1.feats.YLCvMNeAF9V31m1h]{武器開眼}によるボーナスを含む、他のボーナスと累積する。</p><p><strong>特殊：</strong>この特技は複数回取得できるが、効果は累積しない。この特技を取るたびに、その効果は新しい種類の武器に適用される。</p>"
+			"description": "<p><strong>《上級武器開眼》（戦闘） Greater Weapon Specialization</strong></p><p>すでに@UUID[Compendium.pf1.feats.YLCvMNeAF9V31m1h]{武器開眼}の対象として選択した1種類の武器を選ぶ（素手打撃や、組みつきも含む）。その武器による君の攻撃はより破壊力を持つ。</p><p><strong>前提条件：</strong>選択した武器への習熟、選択した武器への@UUID[Compendium.pf1.feats.IER2MzJrjSvxMlNS]{上級武器熟練}、選択した武器への@UUID[Compendium.pf1.feats.n250dFlbykAIAg5Z]{武器熟練}、選択した武器への@UUID[Compendium.pf1.feats.YLCvMNeAF9V31m1h]{武器開眼}、ファイター・レベル12。</p><p><strong>利益：</strong>選んだ武器を使って行うすべてのダメージ・ロールに＋2のボーナスを加える。このボーナスは@UUID[Compendium.pf1.feats.YLCvMNeAF9V31m1h]{武器開眼}によるボーナスを含む、他のボーナスと累積する。</p><p><strong>特殊：</strong>この特技は複数回取得できるが、効果は累積しない。この特技を取るたびに、その効果は新しい種類の武器に適用される。</p>"
 		},
 		{
 			"id": "Heighten Spell",
 			"name": "呪文レベル上昇",
-			"description": "<p><strong>《呪文レベル上昇》（呪文修正） Heighten Spell</strong></p><p>君は呪文をより高いレベルの呪文であるかのように発動できる。</p><p><strong>利益：</strong>レベル上昇済みの呪文は通常よりも高い呪文となる（最高9レベル）。他の呪文修正特技と異なり、@Compendium[pf1.feats.O109YFcItBFUDHvu]{呪文レベル上昇}は修正した呪文の有効レベルを実際に上昇させる。（セーヴィング・スローの難易度や、@Compendium[pf1.spells.exwa9xra4u82j0sx]{レッサー・グローブ・オヴ・インヴァルナラビリティ}を打ち破る能力のような）呪文レベルに依存するすべての効果は、上昇後のレベルに従って計算される。レベル上昇された呪文は、その有効レベルの呪文と同じだけ、準備し発動するのが難しい。つまり、その有効レベルのスロットを使用する。</p>"
+			"description": "<p><strong>《呪文レベル上昇》（呪文修正） Heighten Spell</strong></p><p>君は呪文をより高いレベルの呪文であるかのように発動できる。</p><p><strong>利益：</strong>レベル上昇済みの呪文は通常よりも高い呪文となる（最高9レベル）。他の呪文修正特技と異なり、@UUID[Compendium.pf1.feats.O109YFcItBFUDHvu]{呪文レベル上昇}は修正した呪文の有効レベルを実際に上昇させる。（セーヴィング・スローの難易度や、@UUID[Compendium.pf1.spells.exwa9xra4u82j0sx]{レッサー・グローブ・オヴ・インヴァルナラビリティ}を打ち破る能力のような）呪文レベルに依存するすべての効果は、上昇後のレベルに従って計算される。レベル上昇された呪文は、その有効レベルの呪文と同じだけ、準備し発動するのが難しい。つまり、その有効レベルのスロットを使用する。</p>"
 		},
 		{
 			"id": "Improved Bull Rush",
 			"name": "突き飛ばし強化",
-			"description": "<p><strong>《突き飛ばし強化》（戦闘） Improved Bull Rush</strong></p><p>君は敵をあちこちへ押しやることに長けている。</p><p><strong>前提条件：</strong>【筋】13、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>君は突き飛ばしの戦技を行う時、機会攻撃を誘発しない。さらに、突き飛ばすための判定に＋2のボーナスを得る。また、突き飛ばしに抵抗するための戦技防御値にも＋2のボーナスを得る。</p><p><strong>通常：</strong>突き飛ばしを行う際には機会攻撃を誘発する。</p>",
+			"description": "<p><strong>《突き飛ばし強化》（戦闘） Improved Bull Rush</strong></p><p>君は敵をあちこちへ押しやることに長けている。</p><p><strong>前提条件：</strong>【筋】13、@UUID[Compendium.pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>君は突き飛ばしの戦技を行う時、機会攻撃を誘発しない。さらに、突き飛ばすための判定に＋2のボーナスを得る。また、突き飛ばしに抵抗するための戦技防御値にも＋2のボーナスを得る。</p><p><strong>通常：</strong>突き飛ばしを行う際には機会攻撃を誘発する。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "cmb",
+					"target": "cmb",
 					"text": "突き飛ばし強化：突き飛ばしの戦技判定に＋[[2]]ボーナス"
 				},
 				{
-					"subTarget": "cmd",
+					"target": "cmd",
 					"text": "突き飛ばし強化：突き飛ばしに抵抗するための戦技防御値に＋[[2]]ボーナス"
 				}
 			]
@@ -553,14 +559,14 @@
 		{
 			"id": "Improved Disarm",
 			"name": "武器落とし強化",
-			"description": "<p><strong>《武器落とし強化》（戦闘） Improved Disarm</strong></p><p>君は相手の手から武器を叩き落とすことに長けている。</p><p><strong>前提条件：</strong>【知】13、@Compendium[pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}。</p><p><strong>利益：</strong>君は武器落としの戦技を行う時、機会攻撃を誘発しない。さらに、武器落としのための判定に＋2のボーナスを得る。また、武器落としに抵抗するための戦技防御値にも＋2のボーナスを得る。</p><p><strong>通常：</strong>武器落としを行う際には機会攻撃を誘発する。</p>",
+			"description": "<p><strong>《武器落とし強化》（戦闘） Improved Disarm</strong></p><p>君は相手の手から武器を叩き落とすことに長けている。</p><p><strong>前提条件：</strong>【知】13、@UUID[Compendium.pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}。</p><p><strong>利益：</strong>君は武器落としの戦技を行う時、機会攻撃を誘発しない。さらに、武器落としのための判定に＋2のボーナスを得る。また、武器落としに抵抗するための戦技防御値にも＋2のボーナスを得る。</p><p><strong>通常：</strong>武器落としを行う際には機会攻撃を誘発する。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "cmb",
+					"target": "cmb",
 					"text": "武器落とし強化：武器落としの戦技判定に＋[[2]]ボーナス"
 				},
 				{
-					"subTarget": "cmd",
+					"target": "cmd",
 					"text": "武器落とし強化：武器落としに抵抗するための戦技防御値に＋[[2]]ボーナス"
 				}
 			]
@@ -573,19 +579,19 @@
 		{
 			"id": "Improved Feint",
 			"name": "フェイント強化",
-			"description": "<p><strong>《フェイント強化》（戦闘） Improved Feint</strong></p><p>君は戦闘において相手をだますことに長けている。</p><p><strong>前提条件：</strong>【知】13、@Compendium[pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}。</p><p><strong>利益：</strong>君はフェイントのための〈はったり〉判定を移動アクションで行える。</p><p><strong>通常：</strong>フェイントは標準アクションである。</p>"
+			"description": "<p><strong>《フェイント強化》（戦闘） Improved Feint</strong></p><p>君は戦闘において相手をだますことに長けている。</p><p><strong>前提条件：</strong>【知】13、@UUID[Compendium.pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}。</p><p><strong>利益：</strong>君はフェイントのための〈はったり〉判定を移動アクションで行える。</p><p><strong>通常：</strong>フェイントは標準アクションである。</p>"
 		},
 		{
 			"id": "Improved Grapple",
 			"name": "組みつき強化",
-			"description": "<p><strong>《組みつき強化》（戦闘） Improved Grapple</strong></p><p>君は相手と組み合うことに長けている。</p><p><strong>前提条件：</strong>【敏】13、@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}。</p><p><strong>利益：</strong>君は組みつきの戦技を行う時、機会攻撃を誘発しない。さらに、組みつくための判定に＋2のボーナスを得る。また、相手が君に組みつきを試みるときの戦技防御値にも＋2のボーナスを得る。</p><p><strong>通常：</strong>組みつきを試みる際には機会攻撃を誘発する。</p>",
+			"description": "<p><strong>《組みつき強化》（戦闘） Improved Grapple</strong></p><p>君は相手と組み合うことに長けている。</p><p><strong>前提条件：</strong>【敏】13、@UUID[Compendium.pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}。</p><p><strong>利益：</strong>君は組みつきの戦技を行う時、機会攻撃を誘発しない。さらに、組みつくための判定に＋2のボーナスを得る。また、相手が君に組みつきを試みるときの戦技防御値にも＋2のボーナスを得る。</p><p><strong>通常：</strong>組みつきを試みる際には機会攻撃を誘発する。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "cmb",
+					"target": "cmb",
 					"text": "組みつき強化：組みつきの戦技判定に＋[[2]]ボーナス"
 				},
 				{
-					"subTarget": "cmd",
+					"target": "cmd",
 					"text": "組みつき強化：組みつきに抵抗するための戦技防御値に＋[[2]]ボーナス"
 				}
 			]
@@ -593,7 +599,7 @@
 		{
 			"id": "Improved Great Fortitude",
 			"name": "頑健無比強化",
-			"description": "<p><strong>《頑健無比強化》 Improved Great Fortitude</strong></p><p>君は内なる力を引き出し、病気や毒などに抵抗できる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.fVRnBIHR4Jq6btvm]{頑健無比}。</p><p><strong>利益：</strong>1日1回、頑健セーヴィング・スローを振り直すことができる。この能力は、ロールの結果が明らかになる前に使用を宣言する必要があり、たとえ結果が悪くなっても2回目のロールを使わなければならない。</p>"
+			"description": "<p><strong>《頑健無比強化》 Improved Great Fortitude</strong></p><p>君は内なる力を引き出し、病気や毒などに抵抗できる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.fVRnBIHR4Jq6btvm]{頑健無比}。</p><p><strong>利益：</strong>1日1回、頑健セーヴィング・スローを振り直すことができる。この能力は、ロールの結果が明らかになる前に使用を宣言する必要があり、たとえ結果が悪くなっても2回目のロールを使わなければならない。</p>"
 		},
 		{
 			"id": "Improved Initiative",
@@ -603,24 +609,24 @@
 		{
 			"id": "Improved Iron Will",
 			"name": "鋼の意志強化",
-			"description": "<p><strong>《鋼の意志強化》 Improved Iron Will</strong></p><p>君の澄み切った精神は心理的な攻撃に耐えることを可能にする。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.iAbIGhm7T2OK9Brt]{鋼の意志}。</p><p><strong>利益：</strong>1日1回、意志セーヴィング・スローを振り直すことができる。この能力は、ロールの結果が明らかになる前に使用を宣言する必要があり、たとえ結果が悪くなっても2回目のロールを使わなければならない。</p>"
+			"description": "<p><strong>《鋼の意志強化》 Improved Iron Will</strong></p><p>君の澄み切った精神は心理的な攻撃に耐えることを可能にする。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.iAbIGhm7T2OK9Brt]{鋼の意志}。</p><p><strong>利益：</strong>1日1回、意志セーヴィング・スローを振り直すことができる。この能力は、ロールの結果が明らかになる前に使用を宣言する必要があり、たとえ結果が悪くなっても2回目のロールを使わなければならない。</p>"
 		},
 		{
 			"id": "Improved Lightning Reflexes",
 			"name": "神速の反応強化",
-			"description": "<p><strong>《神速の反応強化》 Improved Lightning Reflexes</strong></p><p>君は身の回りにある様々な危険を回避するコツをつかんでいる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.0bZf3SDkvVOe2ujH]{神速の反応}。</p><p><strong>利益：</strong>1日1回、反応セーヴィング・スローを振り直すことができる。この能力は、ロールの結果が明らかになる前に使用を宣言する必要があり、たとえ結果が悪くなっても2回目のロールを使わなければならない。</p>"
+			"description": "<p><strong>《神速の反応強化》 Improved Lightning Reflexes</strong></p><p>君は身の回りにある様々な危険を回避するコツをつかんでいる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.0bZf3SDkvVOe2ujH]{神速の反応}。</p><p><strong>利益：</strong>1日1回、反応セーヴィング・スローを振り直すことができる。この能力は、ロールの結果が明らかになる前に使用を宣言する必要があり、たとえ結果が悪くなっても2回目のロールを使わなければならない。</p>"
 		},
 		{
 			"id": "Improved Overrun",
 			"name": "蹴散らし強化",
-			"description": "<p><strong>《蹴散らし強化》（戦闘） Improved Overrun</strong></p><p>君は相手を突き倒して進むことに長けている。</p><p><strong>前提条件：</strong>【筋】13、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>君は蹴散らしの戦技を行う時、機会攻撃を誘発しない。さらに、敵1体を蹴散らすためにされた判定に＋2のボーナスを得る。また、敵が君に試みた蹴散らしに対する戦技防御にも＋2のボーナスを得る。君の蹴散らしの対象たちは、君を避ける選択ができない。</p><p><strong>通常：</strong>蹴散らしの戦技を行う際には機会攻撃を誘発する。</p>",
+			"description": "<p><strong>《蹴散らし強化》（戦闘） Improved Overrun</strong></p><p>君は相手を突き倒して進むことに長けている。</p><p><strong>前提条件：</strong>【筋】13、@UUID[Compendium.pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>君は蹴散らしの戦技を行う時、機会攻撃を誘発しない。さらに、敵1体を蹴散らすためにされた判定に＋2のボーナスを得る。また、敵が君に試みた蹴散らしに対する戦技防御にも＋2のボーナスを得る。君の蹴散らしの対象たちは、君を避ける選択ができない。</p><p><strong>通常：</strong>蹴散らしの戦技を行う際には機会攻撃を誘発する。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "cmb",
+					"target": "cmb",
 					"text": "蹴散らし強化：蹴散らしの戦技判定に＋[[2]]ボーナス"
 				},
 				{
-					"subTarget": "cmd",
+					"target": "cmd",
 					"text": "蹴散らし強化：蹴散らしに抵抗するための戦技防御値に＋[[2]]ボーナス"
 				}
 			]
@@ -628,11 +634,10 @@
 		{
 			"id": "Improved Precise Shot",
 			"name": "精密射撃強化",
-			"description": "<p><strong>《精密射撃強化》（戦闘） Improved Precise Shot</strong></p><p>君の射撃は完全視認困難と完全遮蔽以外のすべてを無視する。</p><p><strong>前提条件：</strong>【敏】19、@Compendium[pf1.feats.8rsFtye3PwM6CKli]{近距離射撃}、@Compendium[pf1.feats.53urYIbYYpQuoSLd]{精密射撃}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>君の遠隔攻撃は完全遮蔽未満の遮蔽によってもたらされる目標のアーマー・クラス・ボーナス、および完全視認困難未満の視認困難による失敗確率の影響を受けない。完全遮蔽、完全視認困難による効果は君の遠隔攻撃に対して通常通り適用される。</p><p><strong>通常：</strong>“戦闘”の章にある遮蔽と視認困難の通常のルールを参照。</p>",
+			"description": "<p><strong>《精密射撃強化》（戦闘） Improved Precise Shot</strong></p><p>君の射撃は完全視認困難と完全遮蔽以外のすべてを無視する。</p><p><strong>前提条件：</strong>【敏】19、@UUID[Compendium.pf1.feats.8rsFtye3PwM6CKli]{近距離射撃}、@UUID[Compendium.pf1.feats.53urYIbYYpQuoSLd]{精密射撃}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>君の遠隔攻撃は完全遮蔽未満の遮蔽によってもたらされる目標のアーマー・クラス・ボーナス、および完全視認困難未満の視認困難による失敗確率の影響を受けない。完全遮蔽、完全視認困難による効果は君の遠隔攻撃に対して通常通り適用される。</p><p><strong>通常：</strong>“戦闘”の章にある遮蔽と視認困難の通常のルールを参照。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "ranged",
-					"target": "attacks",
+					"target": "ranged",
 					"text": "精密射撃強化：遠隔攻撃は完全遮蔽未満の遮蔽によってもたらされる目標のアーマー・クラス・ボーナス、および完全視認困難未満の視認困難による失敗確率の影響を受けない"
 				}
 			]
@@ -640,19 +645,19 @@
 		{
 			"id": "Improved Shield Bash",
 			"name": "盾攻撃強化",
-			"description": "<p><strong>《盾攻撃強化》（戦闘） Improved Shield Bash</strong></p><p>君は盾を攻撃と防御に同時に使える。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.WZj7zDvuelEoeXWX]{盾習熟}。</p><p><strong>利益：</strong>君が盾攻撃を行う際にも、アーマー・クラスに盾ボーナスは適用される。</p><p><strong>通常：</strong>この特技を持っていない場合、盾攻撃を行ったキャラクターはその盾によるアーマー・クラスへの盾ボーナスを、次の自分のターンまで失う（“装備”の章を参照）。</p>"
+			"description": "<p><strong>《盾攻撃強化》（戦闘） Improved Shield Bash</strong></p><p>君は盾を攻撃と防御に同時に使える。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.WZj7zDvuelEoeXWX]{盾習熟}。</p><p><strong>利益：</strong>君が盾攻撃を行う際にも、アーマー・クラスに盾ボーナスは適用される。</p><p><strong>通常：</strong>この特技を持っていない場合、盾攻撃を行ったキャラクターはその盾によるアーマー・クラスへの盾ボーナスを、次の自分のターンまで失う（“装備”の章を参照）。</p>"
 		},
 		{
 			"id": "Improved Sunder",
 			"name": "武器破壊強化",
-			"description": "<p><strong>《武器破壊強化》（戦闘） Improved Sunder</strong></p><p>君は敵の武器や鎧にダメージを与えることに長けている。</p><p><strong>前提条件：</strong>【筋】13、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>君は武器破壊の戦技を行う時、機会攻撃を誘発しない。さらに、アイテムを武器破壊するための判定に＋2のボーナスを得る。また、相手が君の装着品に武器破壊するときの戦技防御にも＋2のボーナスを得る。</p><p><strong>通常：</strong>武器破壊の戦技を行う際には機会攻撃を誘発する。</p>",
+			"description": "<p><strong>《武器破壊強化》（戦闘） Improved Sunder</strong></p><p>君は敵の武器や鎧にダメージを与えることに長けている。</p><p><strong>前提条件：</strong>【筋】13、@UUID[Compendium.pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>君は武器破壊の戦技を行う時、機会攻撃を誘発しない。さらに、アイテムを武器破壊するための判定に＋2のボーナスを得る。また、相手が君の装着品に武器破壊するときの戦技防御にも＋2のボーナスを得る。</p><p><strong>通常：</strong>武器破壊の戦技を行う際には機会攻撃を誘発する。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "cmb",
+					"target": "cmb",
 					"text": "武器破壊強化：武器破壊の戦技判定に＋[[2]]ボーナス"
 				},
 				{
-					"subTarget": "cmd",
+					"target": "cmd",
 					"text": "武器破壊強化：武器破壊に抵抗するための戦技防御値に＋[[2]]ボーナス"
 				}
 			]
@@ -660,14 +665,14 @@
 		{
 			"id": "Improved Trip",
 			"name": "足払い強化",
-			"description": "<p><strong>《足払い強化》（戦闘） Improved Trip</strong></p><p>君は敵を地面に転がすことに長けている。</p><p><strong>前提条件：</strong>知】13、@Compendium[pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}。</p><p><strong>利益：</strong>君は足払いの戦技を行う時、機会攻撃を誘発しない。さらに、足払いを行うための判定に＋2のボーナスを得る。また、敵が君に足払いの戦技を行ったときの戦技防御にも＋2のボーナスを得る。</p><p><strong>通常：</strong>足払いの戦技を行う際には機会攻撃を誘発する。</p>",
+			"description": "<p><strong>《足払い強化》（戦闘） Improved Trip</strong></p><p>君は敵を地面に転がすことに長けている。</p><p><strong>前提条件：</strong>知】13、@UUID[Compendium.pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}。</p><p><strong>利益：</strong>君は足払いの戦技を行う時、機会攻撃を誘発しない。さらに、足払いを行うための判定に＋2のボーナスを得る。また、敵が君に足払いの戦技を行ったときの戦技防御にも＋2のボーナスを得る。</p><p><strong>通常：</strong>足払いの戦技を行う際には機会攻撃を誘発する。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "cmb",
+					"target": "cmb",
 					"text": "足払い強化：足払いの戦技判定に＋[[2]]ボーナス"
 				},
 				{
-					"subTarget": "cmd",
+					"target": "cmd",
 					"text": "足払い強化：足払いに抵抗するための戦技防御値に＋[[2]]ボーナス"
 				}
 			]
@@ -675,7 +680,7 @@
 		{
 			"id": "Improved Two-Weapon Fighting",
 			"name": "二刀流強化",
-			"description": "<p><strong>《二刀流強化》（戦闘） Improved Two-Weapon Fighting</strong></p><p>君は二刀で戦うことに長けている。</p><p><strong>前提条件：</strong>【敏】17、@Compendium[pf1.feats.Ee7JHADKEK37tTHs]{二刀流}、基本攻撃ボーナス＋6。</p><p><strong>利益：</strong>利き手でない手に持った武器による通常の1回の追加攻撃に加えて、－5のペナルティを受けて2回目の攻撃を行える。</p><p><strong>通常：</strong>この特技を持っていない場合、利き手でない手に持った武器では1回しか追加攻撃できない。</p>"
+			"description": "<p><strong>《二刀流強化》（戦闘） Improved Two-Weapon Fighting</strong></p><p>君は二刀で戦うことに長けている。</p><p><strong>前提条件：</strong>【敏】17、@UUID[Compendium.pf1.feats.Ee7JHADKEK37tTHs]{二刀流}、基本攻撃ボーナス＋6。</p><p><strong>利益：</strong>利き手でない手に持った武器による通常の1回の追加攻撃に加えて、－5のペナルティを受けて2回目の攻撃を行える。</p><p><strong>通常：</strong>この特技を持っていない場合、利き手でない手に持った武器では1回しか追加攻撃できない。</p>"
 		},
 		{
 			"id": "Improved Unarmed Strike",
@@ -685,12 +690,12 @@
 		{
 			"id": "Improved Vital Strike",
 			"name": "渾身の一打強化",
-			"description": "<p><strong>《渾身の一打強化》（戦闘） Improved Vital Strike</strong></p><p>君は多大なダメージを与える一撃を放つことができる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.26k1Gi7t5BoqxhIj]{渾身の一打}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>君が攻撃アクションを行う際、最も高い基本攻撃ボーナスを用いて1回の攻撃を行う。この攻撃による武器のダメージ・ダイスを3回振り、その結果を【筋力】修正値によるダメージや（フレイミングなどの）武器の能力、（急所攻撃などの）狙いの正確さに基づくダメージやその他のダメージ・ボーナスに加算する。この武器による追加ダメージ・ダイスはクリティカル・ヒットによって倍加せず、単に合計値に加算するだけである。</p>"
+			"description": "<p><strong>《渾身の一打強化》（戦闘） Improved Vital Strike</strong></p><p>君は多大なダメージを与える一撃を放つことができる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.26k1Gi7t5BoqxhIj]{渾身の一打}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>君が攻撃アクションを行う際、最も高い基本攻撃ボーナスを用いて1回の攻撃を行う。この攻撃による武器のダメージ・ダイスを3回振り、その結果を【筋力】修正値によるダメージや（フレイミングなどの）武器の能力、（急所攻撃などの）狙いの正確さに基づくダメージやその他のダメージ・ボーナスに加算する。この武器による追加ダメージ・ダイスはクリティカル・ヒットによって倍加せず、単に合計値に加算するだけである。</p>"
 		},
 		{
 			"id": "Improvised Weapon Mastery",
 			"name": "代用武器体得",
-			"description": "<p><strong>《代用武器体得》（戦闘） Improvised Weapon Mastery</strong></p><p>椅子の脚や小麦小袋、それ以外のどのようなものであっても、君の手にあればそれは恐るべき武器へと変わる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.bZ1YdzkT8NtRIEJ4]{代用武器の巧み}あるいは@Compendium[pf1.feats.gGfXQq0IZrxdcZDx]{万能投擲術}、基本攻撃ボーナス＋8。</p><p><strong>利益：</strong>君は代用武器を使うことによるいかなるペナルティも被らない。さらに、君の手にある代用武器は以下のように強化される。まず、代用武器のダメージ・ダイスを1段階（例えば、1d4から1d6へ）増加させる。ただし最高は1d8（両手持ちの場合2d6）である。さらに、代用武器は19～20のクリティカル可能域と、×2のクリティカル倍率を持つ。</p>"
+			"description": "<p><strong>《代用武器体得》（戦闘） Improvised Weapon Mastery</strong></p><p>椅子の脚や小麦小袋、それ以外のどのようなものであっても、君の手にあればそれは恐るべき武器へと変わる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.bZ1YdzkT8NtRIEJ4]{代用武器の巧み}あるいは@UUID[Compendium.pf1.feats.gGfXQq0IZrxdcZDx]{万能投擲術}、基本攻撃ボーナス＋8。</p><p><strong>利益：</strong>君は代用武器を使うことによるいかなるペナルティも被らない。さらに、君の手にある代用武器は以下のように強化される。まず、代用武器のダメージ・ダイスを1段階（例えば、1d4から1d6へ）増加させる。ただし最高は1d8（両手持ちの場合2d6）である。さらに、代用武器は19～20のクリティカル可能域と、×2のクリティカル倍率を持つ。</p>"
 		},
 		{
 			"id": "Intimidating Prowess",
@@ -705,7 +710,7 @@
 		{
 			"id": "Leadership",
 			"name": "統率力",
-			"description": "<p><strong>《統率力》 Leadership</strong></p><p>君の大義の下には信奉者が集い、冒険に加わる仲間が増える。</p><p><strong>前提条件：</strong>キャラクター・レベル7。</p><p><strong>利益：</strong>この特技は1人の忠実な腹心と、何人かの従者を君のもとに引きつける。腹心は通常クラス・レベルをもったNPCであり、従者は低レベルのNPCである。何レベルの腹心と何人の従者が得られるかについては以下の表：「統率力」を参照。</p><p><strong>統率力への修正値</strong></p><p>いくつかの要素が君の統率力値に影響し、基本の値（キャラクター・レベル＋【魅力】修正値）を上下させる。君の（腹心や従者候補の人たちから見た）評判により、以下のように統率力値を修正する。</p><p><table border='1'><thead><tr><th>リーダーの評判</th><th>統率力修正値</th></tr></thead><tr><td>大きな信望</td><td>＋2</td></tr><tr><td>公平で寛大</td><td>＋1</td></tr><tr><td>特殊なパワー</td><td>＋1</td></tr><tr><td>失敗</td><td>－1</td></tr><tr><td>高慢</td><td>－1</td></tr><tr><td>残酷</td><td>－2</td></tr></table></p><p>以下の表には、腹心を得ようとする時の他の修正値がまとめられている。</p><p><table border='1'><thead><tr><th>リーダーが…</th><th>修正値</th></tr></thead><tr><td>使い魔、特別な乗騎、動物の相棒を持っている</td><td>－2</td></tr><tr><td>属性の異なる腹心を募集している</td><td>－1</td></tr><tr><td>腹心の死の原因となった</td><td>－2*</td></tr></table><p>* 累積する</p><p>従者は腹心とは異なった優先順位を持っているため、従者を引きつける場合には以下の修正値を用いる。</p><p><table border='1'><thead><tr><th>リーダーが…</th><th>修正値</th></tr></thead><tr><td>拠点や基地、ギルドの建物などを所持している</td><td>＋2</td></tr><tr><td>あちこちと移動する</td><td>－1</td></tr><tr><td>他の従者たちの死の原因となった</td><td>－1</td></tr></table></p><p><strong>表：統率力</strong></p><p><table border='1'><thead><tr><th rowspan=\"2\">統率力値</th><th rowspan=\"2\">腹心のレベル</th><th colspan=\"6\">レベルごとの従者の数</th></tr><tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr></thead><tr><td>1以下</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>2</td><td>1</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>3</td><td>2</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>4</td><td>3</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>5</td><td>3</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>6</td><td>4</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>7</td><td>5</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>8</td><td>5</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>9</td><td>6</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>10</td><td>7</td><td>5</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>11</td><td>7</td><td>6</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>12</td><td>8</td><td>8</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>13</td><td>9</td><td>10</td><td>1</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>14</td><td>10</td><td>15</td><td>1</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>15</td><td>10</td><td>20</td><td>2</td><td>1</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>16</td><td>11</td><td>25</td><td>2</td><td>1</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>17</td><td>12</td><td>30</td><td>3</td><td>1</td><td>1</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>18</td><td>12</td><td>35</td><td>3</td><td>1</td><td>1</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>19</td><td>13</td><td>40</td><td>4</td><td>2</td><td>1</td><td>1</td><td>&mdash;</td></tr><tr><td>20</td><td>14</td><td>50</td><td>5</td><td>3</td><td>2</td><td>1</td><td>&mdash;</td></tr><tr><td>21</td><td>15</td><td>60</td><td>6</td><td>3</td><td>2</td><td>1</td><td>1</td></tr><tr><td>22</td><td>15</td><td>75</td><td>7</td><td>4</td><td>2</td><td>2</td><td>1</td></tr><tr><td>23</td><td>16</td><td>90</td><td>9</td><td>5</td><td>3</td><td>2</td><td>1</td></tr><tr><td>24</td><td>17</td><td>110</td><td>11</td><td>6</td><td>3</td><td>2</td><td>1</td></tr><tr><td>25以上</td><td>17</td><td>135</td><td>13</td><td>7</td><td>4</td><td>2</td><td>2</td></tr></table></p><p><strong>統率力値</strong></p><p>君の基本統率力値は、キャラクター・レベル＋【魅力】修正値である。【魅力】が低いキャラクターを考慮して、表は非常に低い統率力値も記載しているが、@Compendium[pf1.feats.R3a1OV18RwDJftvq]{統率力}を取得するためには7レベル以上でなければならない。上記の通り、他の要素も統率力値に影響する。</p><p><strong>腹心のレベル</strong></p><p>このレベルまでの腹心を引きつけることができる。君の統率力値に関係なく、君は自分のレベルより2レベル以上低い腹心のみ採用することができる。腹心はそのレベルにおいて適切な装備を身につけている（“NPCの創造”の章を参照）。腹心はどのような種族でも、クラスでも構わない。腹心の属性は秩序－混沌方向と善－悪方向のどちらでも君の属性と反対であってはならない。また、属性の違う腹心を仲間にしようとする場合には統率力値に－1の修正を受ける。</p><p>腹心はパーティに与えられる経験値を計算する際、パーティ・メンバーとして数える必要はない。代わりに、腹心のレベルを君のレベルで割り、それに君が得た経験値をかけたものが腹心が得る経験値となる。</p><p>もし腹心が君より1レベル低いレベルに到達しそうになった場合は、腹心のレベルは上がらず、その経験値はそのレベルに到達する経験値より1ポイント低い経験値で止まる。</p><p><strong>レベル毎の従者の数</strong></p><p>君はそれぞれのレベルの従者を、示された人数まで率いることができる。従者は腹心と同じように扱うが、彼らはたいていより低いレベルのNPCである。普通5レベル以上離れているため、従者が戦闘において有効であることはほとんどない。</p><p>従者は経験値を得ず、従ってレベルが上がることもない。君のレベルが上がった時に表：統率力を見て、従者が増えたかどうかを判定する。増えた従者のうちの何人かは、既にいる従者達よりレベルが高いかもしれない。しかし、腹心は経験値を得るので、腹心のレベルを表：統率力から判定してはならない。</p>"
+			"description": "<p><strong>《統率力》 Leadership</strong></p><p>君の大義の下には信奉者が集い、冒険に加わる仲間が増える。</p><p><strong>前提条件：</strong>キャラクター・レベル7。</p><p><strong>利益：</strong>この特技は1人の忠実な腹心と、何人かの従者を君のもとに引きつける。腹心は通常クラス・レベルをもったNPCであり、従者は低レベルのNPCである。何レベルの腹心と何人の従者が得られるかについては以下の表：「統率力」を参照。</p><p><strong>統率力への修正値</strong></p><p>いくつかの要素が君の統率力値に影響し、基本の値（キャラクター・レベル＋【魅力】修正値）を上下させる。君の（腹心や従者候補の人たちから見た）評判により、以下のように統率力値を修正する。</p><p><table border='1'><thead><tr><th>リーダーの評判</th><th>統率力修正値</th></tr></thead><tr><td>大きな信望</td><td>＋2</td></tr><tr><td>公平で寛大</td><td>＋1</td></tr><tr><td>特殊なパワー</td><td>＋1</td></tr><tr><td>失敗</td><td>－1</td></tr><tr><td>高慢</td><td>－1</td></tr><tr><td>残酷</td><td>－2</td></tr></table></p><p>以下の表には、腹心を得ようとする時の他の修正値がまとめられている。</p><p><table border='1'><thead><tr><th>リーダーが…</th><th>修正値</th></tr></thead><tr><td>使い魔、特別な乗騎、動物の相棒を持っている</td><td>－2</td></tr><tr><td>属性の異なる腹心を募集している</td><td>－1</td></tr><tr><td>腹心の死の原因となった</td><td>－2*</td></tr></table><p>* 累積する</p><p>従者は腹心とは異なった優先順位を持っているため、従者を引きつける場合には以下の修正値を用いる。</p><p><table border='1'><thead><tr><th>リーダーが…</th><th>修正値</th></tr></thead><tr><td>拠点や基地、ギルドの建物などを所持している</td><td>＋2</td></tr><tr><td>あちこちと移動する</td><td>－1</td></tr><tr><td>他の従者たちの死の原因となった</td><td>－1</td></tr></table></p><p><strong>表：統率力</strong></p><p><table border='1'><thead><tr><th rowspan=\"2\">統率力値</th><th rowspan=\"2\">腹心のレベル</th><th colspan=\"6\">レベルごとの従者の数</th></tr><tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr></thead><tr><td>1以下</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>2</td><td>1</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>3</td><td>2</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>4</td><td>3</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>5</td><td>3</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>6</td><td>4</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>7</td><td>5</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>8</td><td>5</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>9</td><td>6</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>10</td><td>7</td><td>5</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>11</td><td>7</td><td>6</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>12</td><td>8</td><td>8</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>13</td><td>9</td><td>10</td><td>1</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>14</td><td>10</td><td>15</td><td>1</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>15</td><td>10</td><td>20</td><td>2</td><td>1</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>16</td><td>11</td><td>25</td><td>2</td><td>1</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>17</td><td>12</td><td>30</td><td>3</td><td>1</td><td>1</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>18</td><td>12</td><td>35</td><td>3</td><td>1</td><td>1</td><td>&mdash;</td><td>&mdash;</td></tr><tr><td>19</td><td>13</td><td>40</td><td>4</td><td>2</td><td>1</td><td>1</td><td>&mdash;</td></tr><tr><td>20</td><td>14</td><td>50</td><td>5</td><td>3</td><td>2</td><td>1</td><td>&mdash;</td></tr><tr><td>21</td><td>15</td><td>60</td><td>6</td><td>3</td><td>2</td><td>1</td><td>1</td></tr><tr><td>22</td><td>15</td><td>75</td><td>7</td><td>4</td><td>2</td><td>2</td><td>1</td></tr><tr><td>23</td><td>16</td><td>90</td><td>9</td><td>5</td><td>3</td><td>2</td><td>1</td></tr><tr><td>24</td><td>17</td><td>110</td><td>11</td><td>6</td><td>3</td><td>2</td><td>1</td></tr><tr><td>25以上</td><td>17</td><td>135</td><td>13</td><td>7</td><td>4</td><td>2</td><td>2</td></tr></table></p><p><strong>統率力値</strong></p><p>君の基本統率力値は、キャラクター・レベル＋【魅力】修正値である。【魅力】が低いキャラクターを考慮して、表は非常に低い統率力値も記載しているが、@UUID[Compendium.pf1.feats.R3a1OV18RwDJftvq]{統率力}を取得するためには7レベル以上でなければならない。上記の通り、他の要素も統率力値に影響する。</p><p><strong>腹心のレベル</strong></p><p>このレベルまでの腹心を引きつけることができる。君の統率力値に関係なく、君は自分のレベルより2レベル以上低い腹心のみ採用することができる。腹心はそのレベルにおいて適切な装備を身につけている（“NPCの創造”の章を参照）。腹心はどのような種族でも、クラスでも構わない。腹心の属性は秩序－混沌方向と善－悪方向のどちらでも君の属性と反対であってはならない。また、属性の違う腹心を仲間にしようとする場合には統率力値に－1の修正を受ける。</p><p>腹心はパーティに与えられる経験値を計算する際、パーティ・メンバーとして数える必要はない。代わりに、腹心のレベルを君のレベルで割り、それに君が得た経験値をかけたものが腹心が得る経験値となる。</p><p>もし腹心が君より1レベル低いレベルに到達しそうになった場合は、腹心のレベルは上がらず、その経験値はそのレベルに到達する経験値より1ポイント低い経験値で止まる。</p><p><strong>レベル毎の従者の数</strong></p><p>君はそれぞれのレベルの従者を、示された人数まで率いることができる。従者は腹心と同じように扱うが、彼らはたいていより低いレベルのNPCである。普通5レベル以上離れているため、従者が戦闘において有効であることはほとんどない。</p><p>従者は経験値を得ず、従ってレベルが上がることもない。君のレベルが上がった時に表：統率力を見て、従者が増えたかどうかを判定する。増えた従者のうちの何人かは、既にいる従者達よりレベルが高いかもしれない。しかし、腹心は経験値を得るので、腹心のレベルを表：統率力から判定してはならない。</p>"
 		},
 		{
 			"id": "Lightning Reflexes",
@@ -715,7 +720,7 @@
 		{
 			"id": "Lightning Stance",
 			"name": "電光の如き脚",
-			"description": "<p><strong>《電光の如き脚》（戦闘） Lightning Stance</strong></p><p>君の動き回る速度は敵が君を攻撃することをほとんど不可能にしてしまう。</p><p><strong>前提条件：</strong>【敏】17、@Compendium[pf1.feats.JreaiTHdyWFNj3Tb]{回避}、@Compendium[pf1.feats.9p0aAtCyLdcwnftS]{風の如き脚}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>もし君がターン中に2つのアクションを使って移動するか、撤退アクションを行った場合、君は1ラウンドの間50％の視認困難を得る。</p>"
+			"description": "<p><strong>《電光の如き脚》（戦闘） Lightning Stance</strong></p><p>君の動き回る速度は敵が君を攻撃することをほとんど不可能にしてしまう。</p><p><strong>前提条件：</strong>【敏】17、@UUID[Compendium.pf1.feats.JreaiTHdyWFNj3Tb]{回避}、@UUID[Compendium.pf1.feats.9p0aAtCyLdcwnftS]{風の如き脚}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>もし君がターン中に2つのアクションを使って移動するか、撤退アクションを行った場合、君は1ラウンドの間50％の視認困難を得る。</p>"
 		},
 		{
 			"id": "Lunge",
@@ -730,7 +735,7 @@
 		{
 			"id": "Manyshot",
 			"name": "束ね射ち",
-			"description": "<p><strong>《束ね射ち》（戦闘） Manyshot</strong></p><p>君は目標1体に対して同時に複数の矢を射ることができる。</p><p><strong>前提条件：</strong>【敏】17、@Compendium[pf1.feats.8rsFtye3PwM6CKli]{近距離射撃}、@Compendium[pf1.feats.NABgOSBRECIREaha]{速射}、基本攻撃ボーナス＋6。</p><p><strong>利益：</strong>弓で全力攻撃を行う際、君の最初の攻撃は同時に2本の矢を放つ。その攻撃が当たった場合、両方の矢が当たったことになる。狙いの正確さに基づくダメージ（急所攻撃など）とクリティカル・ヒットによるダメージは1本にしか適用されない。コンポジット・ボウでの【筋力】ボーナスやレンジャーの得意な敵のボーナスなどは両方の矢に適用される。ダメージ減少やエネルギーへの抵抗などはそれぞれの矢に適用される。</p>"
+			"description": "<p><strong>《束ね射ち》（戦闘） Manyshot</strong></p><p>君は目標1体に対して同時に複数の矢を射ることができる。</p><p><strong>前提条件：</strong>【敏】17、@UUID[Compendium.pf1.feats.8rsFtye3PwM6CKli]{近距離射撃}、@UUID[Compendium.pf1.feats.NABgOSBRECIREaha]{速射}、基本攻撃ボーナス＋6。</p><p><strong>利益：</strong>弓で全力攻撃を行う際、君の最初の攻撃は同時に2本の矢を放つ。その攻撃が当たった場合、両方の矢が当たったことになる。狙いの正確さに基づくダメージ（急所攻撃など）とクリティカル・ヒットによるダメージは1本にしか適用されない。コンポジット・ボウでの【筋力】ボーナスやレンジャーの得意な敵のボーナスなどは両方の矢に適用される。ダメージ減少やエネルギーへの抵抗などはそれぞれの矢に適用される。</p>"
 		},
 		{
 			"id": "Martial Weapon Proficiency",
@@ -740,7 +745,7 @@
 		{
 			"id": "Master Craftsman",
 			"name": "名匠",
-			"description": "<p><strong>《名匠》 Master Craftsman</strong></p><p>君の卓越した工芸の技を用いれば、単純なものではあるものの魔法の品を作ることができる。</p><p><strong>前提条件：</strong>〈製作〉または〈職能〉5ランク以上。</p><p><strong>利益：</strong>ランクを5ランク以上持っている〈製作〉または〈職能〉を1つ選択する。選択した技能の判定に＋2のボーナスを得る。さらに、@Compendium[pf1.feats.4hNO4OAWYF5vXphH]{魔法の武器防具作成}と@Compendium[pf1.feats.tD76K8QGco9scT0r]{その他の魔法のアイテム作成}の前提条件を考える際に、選択した技能のランクを術者レベルと扱ってよい。君はこれらの特技を使って魔法のアイテムを作ることができ、その場合選択した技能のランクを術者レベルに代替する。魔法のアイテムを作るための判定は〈呪文学〉ではなく）選択した技能で判定する。なお、呪文などその他の前提条件を満たしていないことによる判定難易度の上昇は通常通り起こる（詳細は魔法のアイテムの作成を参照）。この特技を使って呪文解放型や呪文起動型のアイテムを作ることはできない。</p><p><strong>通常：</strong>呪文使いのみが@Compendium[pf1.feats.4hNO4OAWYF5vXphH]{魔法の武器防具作成}と@Compendium[pf1.feats.tD76K8QGco9scT0r]{その他の魔法のアイテム作成}の前提条件を満たす。</p>"
+			"description": "<p><strong>《名匠》 Master Craftsman</strong></p><p>君の卓越した工芸の技を用いれば、単純なものではあるものの魔法の品を作ることができる。</p><p><strong>前提条件：</strong>〈製作〉または〈職能〉5ランク以上。</p><p><strong>利益：</strong>ランクを5ランク以上持っている〈製作〉または〈職能〉を1つ選択する。選択した技能の判定に＋2のボーナスを得る。さらに、@UUID[Compendium.pf1.feats.4hNO4OAWYF5vXphH]{魔法の武器防具作成}と@UUID[Compendium.pf1.feats.tD76K8QGco9scT0r]{その他の魔法のアイテム作成}の前提条件を考える際に、選択した技能のランクを術者レベルと扱ってよい。君はこれらの特技を使って魔法のアイテムを作ることができ、その場合選択した技能のランクを術者レベルに代替する。魔法のアイテムを作るための判定は〈呪文学〉ではなく）選択した技能で判定する。なお、呪文などその他の前提条件を満たしていないことによる判定難易度の上昇は通常通り起こる（詳細は魔法のアイテムの作成を参照）。この特技を使って呪文解放型や呪文起動型のアイテムを作ることはできない。</p><p><strong>通常：</strong>呪文使いのみが@UUID[Compendium.pf1.feats.4hNO4OAWYF5vXphH]{魔法の武器防具作成}と@UUID[Compendium.pf1.feats.tD76K8QGco9scT0r]{その他の魔法のアイテム作成}の前提条件を満たす。</p>"
 		},
 		{
 			"id": "Maximize Spell",
@@ -750,17 +755,17 @@
 		{
 			"id": "Medusa's Wrath",
 			"name": "メドゥサの怒り",
-			"description": "<p><strong>《メドゥサの怒り》（戦闘） Medusa's Wrath</strong></p><p>君は相手の混乱に乗じて何発もの拳をたたき込む。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}、@Compendium[pf1.feats.nhUawPP4jfED3CYV]{ゴルゴンの拳}、@Compendium[pf1.feats.2AfSIVge3bg8r6wr]{蠍の型}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>全力攻撃で最低1回の素手打撃を行う場合、君は最も高い基本攻撃ボーナスを使って2回の素手による追加攻撃を行うことができる。この追加攻撃は、幻惑、立ちすくみ、麻痺、朦朧、よろめき、気絶のいずれかの状態にあるクリーチャーに対して行われなければならない。</p>"
+			"description": "<p><strong>《メドゥサの怒り》（戦闘） Medusa's Wrath</strong></p><p>君は相手の混乱に乗じて何発もの拳をたたき込む。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}、@UUID[Compendium.pf1.feats.nhUawPP4jfED3CYV]{ゴルゴンの拳}、@UUID[Compendium.pf1.feats.2AfSIVge3bg8r6wr]{蠍の型}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>全力攻撃で最低1回の素手打撃を行う場合、君は最も高い基本攻撃ボーナスを使って2回の素手による追加攻撃を行うことができる。この追加攻撃は、幻惑、立ちすくみ、麻痺、朦朧、よろめき、気絶のいずれかの状態にあるクリーチャーに対して行われなければならない。</p>"
 		},
 		{
 			"id": "Mobility",
 			"name": "強行突破",
-			"description": "<p><strong>《強行突破》（戦闘） Mobility</strong></p><p>君は危険な近接戦闘の中を容易に抜けていくことができる。</p><p><strong>前提条件：</strong>【敏】13、@Compendium[pf1.feats.JreaiTHdyWFNj3Tb]{回避}。</p><p><strong>利益：</strong>君は自分が機会攻撃範囲外から外へ、あるいは機会攻撃範囲の中で移動する際に誘発する機会攻撃に対するアーマー・クラスに＋4の回避ボーナスを得る。アーマー・クラスへの【敏捷力】ボーナスを失うような状況では、この回避ボーナスも失う。</p><p>回避ボーナスは通常の他の種類のボーナスとは異なり、お互いに累積する。</p>"
+			"description": "<p><strong>《強行突破》（戦闘） Mobility</strong></p><p>君は危険な近接戦闘の中を容易に抜けていくことができる。</p><p><strong>前提条件：</strong>【敏】13、@UUID[Compendium.pf1.feats.JreaiTHdyWFNj3Tb]{回避}。</p><p><strong>利益：</strong>君は自分が機会攻撃範囲外から外へ、あるいは機会攻撃範囲の中で移動する際に誘発する機会攻撃に対するアーマー・クラスに＋4の回避ボーナスを得る。アーマー・クラスへの【敏捷力】ボーナスを失うような状況では、この回避ボーナスも失う。</p><p>回避ボーナスは通常の他の種類のボーナスとは異なり、お互いに累積する。</p>"
 		},
 		{
 			"id": "Mounted Archery",
 			"name": "騎射",
-			"description": "<p><strong>《騎射》（戦闘） Mounted Archery</strong></p><p>君は騎乗中に遠隔攻撃をすることに優れている。</p><p><strong>前提条件：</strong>〈騎乗〉1ランク、@Compendium[pf1.feats.0spsP9ylE3goD3jc]{騎乗戦闘}。</p><p><strong>利益：</strong>馬上にいて遠隔武器を使う際に君が被るペナルティは半分になる。乗騎が2回移動を行う場合－4ではなく－2、乗騎が疾走しているなら－8ではなく－4となる。</p>"
+			"description": "<p><strong>《騎射》（戦闘） Mounted Archery</strong></p><p>君は騎乗中に遠隔攻撃をすることに優れている。</p><p><strong>前提条件：</strong>〈騎乗〉1ランク、@UUID[Compendium.pf1.feats.0spsP9ylE3goD3jc]{騎乗戦闘}。</p><p><strong>利益：</strong>馬上にいて遠隔武器を使う際に君が被るペナルティは半分になる。乗騎が2回移動を行う場合－4ではなく－2、乗騎が疾走しているなら－8ではなく－4となる。</p>"
 		},
 		{
 			"id": "Mounted Combat",
@@ -770,7 +775,7 @@
 		{
 			"id": "Natural Spell",
 			"name": "化身時発動",
-			"description": "<p><strong>《化身時発動》 Natural Spell</strong></p><p>通常は呪文を使うことができないような姿でいる時でも君は呪文を発動できる。</p><p><strong>前提条件：</strong>【判】13、@Compendium[pf1.class-abilities.sJdBOE9lwz5XAkUi]{自然の化身}の能力。</p><p><strong>利益：</strong>君は@Compendium[pf1.class-abilities.sJdBOE9lwz5XAkUi]{自然の化身}の能力を使用中に呪文の音声要素、動作要素を完遂することができる。様々な鳴き声や身振りで通常の音声要素と動作要素の代わりとすることができるのだ。</p><p>さらに、物質要素や焦点具が現在の形態に溶け込んでいるとしても、それらを使うことができる。この特技は君がその形態では通常使うことができない魔法のアイテムを使えるようにすることはない。また、化身時に会話する能力を得ることもない。</p>"
+			"description": "<p><strong>《化身時発動》 Natural Spell</strong></p><p>通常は呪文を使うことができないような姿でいる時でも君は呪文を発動できる。</p><p><strong>前提条件：</strong>【判】13、@UUID[Compendium.pf1.class-abilities.sJdBOE9lwz5XAkUi]{自然の化身}の能力。</p><p><strong>利益：</strong>君は@UUID[Compendium.pf1.class-abilities.sJdBOE9lwz5XAkUi]{自然の化身}の能力を使用中に呪文の音声要素、動作要素を完遂することができる。様々な鳴き声や身振りで通常の音声要素と動作要素の代わりとすることができるのだ。</p><p>さらに、物質要素や焦点具が現在の形態に溶け込んでいるとしても、それらを使うことができる。この特技は君がその形態では通常使うことができない魔法のアイテムを使えるようにすることはない。また、化身時に会話する能力を得ることもない。</p>"
 		},
 		{
 			"id": "Nimble Moves",
@@ -780,7 +785,7 @@
 		{
 			"id": "Penetrating Strike",
 			"name": "貫通打撃",
-			"description": "<p><strong>《貫通打撃》（戦闘） Penetrating Strike</strong></p><p>君の攻撃は特定のクリーチャーの防御を貫通することがある。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器熟練}、ファイター・レベル12、武器への習熟。</p><p><strong>利益：</strong>@Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器熟練}で指定した武器による攻撃は、ダメージ減少を5ポイントまで無視する。ただしダメージ減少10／―などの種別を持たないダメージ減少に対しては効果がない。</p>"
+			"description": "<p><strong>《貫通打撃》（戦闘） Penetrating Strike</strong></p><p>君の攻撃は特定のクリーチャーの防御を貫通することがある。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.n250dFlbykAIAg5Z]{武器熟練}、ファイター・レベル12、武器への習熟。</p><p><strong>利益：</strong>@UUID[Compendium.pf1.feats.n250dFlbykAIAg5Z]{武器熟練}で指定した武器による攻撃は、ダメージ減少を5ポイントまで無視する。ただしダメージ減少10／―などの種別を持たないダメージ減少に対しては効果がない。</p>"
 		},
 		{
 			"id": "Persuasive",
@@ -790,7 +795,7 @@
 		{
 			"id": "Pinpoint Targeting",
 			"name": "針の目を通す狙い",
-			"description": "<p><strong>《針の目を通す狙い》（戦闘） Pinpoint Targeting</strong></p><p>君は敵の鎧の弱点をピンポイントで狙うことができる。</p><p><strong>前提条件：</strong>【敏】19、@Compendium[pf1.feats.h1vqUG9Kh3f7oKWK]{精密射撃強化}、@Compendium[pf1.feats.8rsFtye3PwM6CKli]{近距離射撃}、@Compendium[pf1.feats.53urYIbYYpQuoSLd]{精密射撃}、基本攻撃ボーナス＋16。</p><p><strong>利益：</strong>標準アクションで、1回の遠隔攻撃を行う。対象はこの攻撃に対して、鎧、外皮、盾によるアーマー・クラスへのボーナスを得られない。もし君がこのラウンドの間に動いたなら、この特技の利益は得られない。</p>"
+			"description": "<p><strong>《針の目を通す狙い》（戦闘） Pinpoint Targeting</strong></p><p>君は敵の鎧の弱点をピンポイントで狙うことができる。</p><p><strong>前提条件：</strong>【敏】19、@UUID[Compendium.pf1.feats.h1vqUG9Kh3f7oKWK]{精密射撃強化}、@UUID[Compendium.pf1.feats.8rsFtye3PwM6CKli]{近距離射撃}、@UUID[Compendium.pf1.feats.53urYIbYYpQuoSLd]{精密射撃}、基本攻撃ボーナス＋16。</p><p><strong>利益：</strong>標準アクションで、1回の遠隔攻撃を行う。対象はこの攻撃に対して、鎧、外皮、盾によるアーマー・クラスへのボーナスを得られない。もし君がこのラウンドの間に動いたなら、この特技の利益は得られない。</p>"
 		},
 		{
 			"id": "Point-Blank Shot",
@@ -806,11 +811,10 @@
 		{
 			"id": "Precise Shot",
 			"name": "精密射撃",
-			"description": "<p><strong>《精密射撃》（戦闘） Precise Shot</strong></p><p>君は近接戦闘している目標に向けて遠隔攻撃を放つことが得意だ。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.8rsFtye3PwM6CKli]{近距離射撃}。</p><p><strong>利益：</strong>近接戦闘に参加している敵に対して、通常受ける－4のペナルティを受けずに、遠隔武器を射撃したり投擲したりできる。</p>",
+			"description": "<p><strong>《精密射撃》（戦闘） Precise Shot</strong></p><p>君は近接戦闘している目標に向けて遠隔攻撃を放つことが得意だ。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.8rsFtye3PwM6CKli]{近距離射撃}。</p><p><strong>利益：</strong>近接戦闘に参加している敵に対して、通常受ける－4のペナルティを受けずに、遠隔武器を射撃したり投擲したりできる。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "ranged",
-					"target": "attacks",
+					"target": "ranged",
 					"text": "精密射撃：近接戦闘に参加している敵に対して行う遠隔攻撃ロールのペナルティを受けない"
 				}
 			]
@@ -828,17 +832,17 @@
 		{
 			"id": "Rapid Reload",
 			"name": "高速装填",
-			"description": "<p><strong>《高速装填》（戦闘） Rapid Reload</strong></p><p>君が習熟している、クロスボウ（ハンド、ライト、ヘヴィ）、片手または両手火器1種類を選択すること。君は迅速にそれらの武器を再装填することができる。</p><p><strong>前提条件：</strong>選んだクロス・ボウへの習熟、または@Compendium[pf1.feats.BJBC4lbo7xGWPsKJ]{特殊武器習熟：火器}。</p><p><strong>利益：</strong>君が選択した種類の武器を再装填するのに必要な時間は、フリー・アクション（ハンドまたはライト・クロスボウ）、移動アクション（ヘヴィ・クロスボウまたは片手火器）または標準アクション（両手火器）に減少する。クロスボウまたは火器の再装填が機会攻撃を誘発することに変わりはない。</p><p>もしハンド・クロスボウかライト・クロスボウを選んだ場合、この特技を使うことで全力攻撃する際に自分の完全な攻撃回数を用いて射撃することができる。</p><p><strong>通常：</strong>この特技を持たないキャラクターは、ハンド・クロスボウとライト・クロスボウの装填には移動アクションを消費し、片手火器の装填には標準アクションを消費し、ヘヴィ・クロスボウまたは両手火器の装填には全ラウンド・アクションを消費する。</p><p><strong>特殊：</strong>この特技は複数回取得できる。この特技を取得する度、それは新しい種類のクロスボウまたは火器に適用される。</p>"
+			"description": "<p><strong>《高速装填》（戦闘） Rapid Reload</strong></p><p>君が習熟している、クロスボウ（ハンド、ライト、ヘヴィ）、片手または両手火器1種類を選択すること。君は迅速にそれらの武器を再装填することができる。</p><p><strong>前提条件：</strong>選んだクロス・ボウへの習熟、または@UUID[Compendium.pf1.feats.BJBC4lbo7xGWPsKJ]{特殊武器習熟：火器}。</p><p><strong>利益：</strong>君が選択した種類の武器を再装填するのに必要な時間は、フリー・アクション（ハンドまたはライト・クロスボウ）、移動アクション（ヘヴィ・クロスボウまたは片手火器）または標準アクション（両手火器）に減少する。クロスボウまたは火器の再装填が機会攻撃を誘発することに変わりはない。</p><p>もしハンド・クロスボウかライト・クロスボウを選んだ場合、この特技を使うことで全力攻撃する際に自分の完全な攻撃回数を用いて射撃することができる。</p><p><strong>通常：</strong>この特技を持たないキャラクターは、ハンド・クロスボウとライト・クロスボウの装填には移動アクションを消費し、片手火器の装填には標準アクションを消費し、ヘヴィ・クロスボウまたは両手火器の装填には全ラウンド・アクションを消費する。</p><p><strong>特殊：</strong>この特技は複数回取得できる。この特技を取得する度、それは新しい種類のクロスボウまたは火器に適用される。</p>"
 		},
 		{
 			"id": "Rapid Shot",
 			"name": "速射",
-			"description": "<p><strong>《速射》（戦闘） Rapid Shot</strong></p><p>君は追加の遠隔攻撃ができる。</p><p><strong>前提条件：</strong>【敏】13、@Compendium[pf1.feats.8rsFtye3PwM6CKli]{近距離射撃}。</p><p><strong>利益：</strong>遠隔武器で全力攻撃をする際、1回の追加攻撃を得ることができる。ただし、その場合すべての攻撃は－2のペナルティを受ける。</p>"
+			"description": "<p><strong>《速射》（戦闘） Rapid Shot</strong></p><p>君は追加の遠隔攻撃ができる。</p><p><strong>前提条件：</strong>【敏】13、@UUID[Compendium.pf1.feats.8rsFtye3PwM6CKli]{近距離射撃}。</p><p><strong>利益：</strong>遠隔武器で全力攻撃をする際、1回の追加攻撃を得ることができる。ただし、その場合すべての攻撃は－2のペナルティを受ける。</p>"
 		},
 		{
 			"id": "Ride-By Attack",
 			"name": "駆け抜け攻撃",
-			"description": "<p><strong>《駆け抜け攻撃》（戦闘） Ride-By Attack</strong></p><p>馬に乗って突撃している時、君は動いた後敵を攻撃し、さらに動き続けることができる。</p><p><strong>前提条件：</strong>〈騎乗〉1ランク、@Compendium[pf1.feats.0spsP9ylE3goD3jc]{騎乗戦闘}。</p><p><strong>利益：</strong>騎乗して突撃アクションを行う時、通常の突撃の場合と同様に移動・攻撃し、その後再び移動できる（突撃の直線上をそのまま移動する）。ただし、そのラウンドにおける移動距離の合計は、乗騎の移動速度の2倍以内でなければならない。君や乗騎は、攻撃する敵からの機会攻撃を誘発しない。</p>"
+			"description": "<p><strong>《駆け抜け攻撃》（戦闘） Ride-By Attack</strong></p><p>馬に乗って突撃している時、君は動いた後敵を攻撃し、さらに動き続けることができる。</p><p><strong>前提条件：</strong>〈騎乗〉1ランク、@UUID[Compendium.pf1.feats.0spsP9ylE3goD3jc]{騎乗戦闘}。</p><p><strong>利益：</strong>騎乗して突撃アクションを行う時、通常の突撃の場合と同様に移動・攻撃し、その後再び移動できる（突撃の直線上をそのまま移動する）。ただし、そのラウンドにおける移動距離の合計は、乗騎の移動速度の2倍以内でなければならない。君や乗騎は、攻撃する敵からの機会攻撃を誘発しない。</p>"
 		},
 		{
 			"id": "Run",
@@ -846,7 +850,7 @@
 			"description": "<p><strong>《疾走》 Run</strong></p><p>君は軽快な足を持っている。</p><p><strong>利益：</strong>君が疾走する時、軽装鎧か中装鎧を着ている時か、鎧を着ていない時、もしくは運んでいる重量が中荷重以下の時には、移動速度の5倍で移動できる。また重装鎧を着ているか、重荷重の時には、移動速度の4倍で移動できる。助走を付けてから跳躍を行う時（〈軽業〉を参照）、〈軽業〉判定に＋4のボーナスを得る。また、疾走している時にもアーマー・クラスへの【敏捷力】ボーナスを失わない。</p><p><strong>通常：</strong>君が疾走する時、軽装鎧か中装鎧を着ている時か、鎧を着ていない時、もしくは運んでいる重量が中荷重以下の時には、移動速度の4倍で移動できる。また重装鎧を着ているか、重荷重の時には、移動速度の3倍で移動できる。疾走している時にはアーマー・クラスへの【敏捷力】ボーナスを失う。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "skill.acr",
+					"target": "skill.acr",
 					"text": "疾走：助走を付けてから跳躍を行う時、軽業判定に+[[4]]ボーナス"
 				}
 			]
@@ -854,7 +858,7 @@
 		{
 			"id": "Scorpion Style",
 			"name": "蠍の型",
-			"description": "<p><strong>《蠍の型》（戦闘） Scorpion Style</strong></p><p>君は相手の移動を大幅に阻害する素手打撃を行うことができる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}。</p><p><strong>利益：</strong>この特技を使うためには君は標準アクションで1回の素手攻撃を行う。攻撃が当たったなら、通常通りダメージを与え、さらに対象の基本地上移動速度は君の【判断力】修正値ラウンドの間5フィートに下がる。対象は難易度10＋キャラクター・レベルの1/2＋【判断力】修正値の頑健セーヴに成功すれば、この効果を受けない。</p>"
+			"description": "<p><strong>《蠍の型》（戦闘） Scorpion Style</strong></p><p>君は相手の移動を大幅に阻害する素手打撃を行うことができる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}。</p><p><strong>利益：</strong>この特技を使うためには君は標準アクションで1回の素手攻撃を行う。攻撃が当たったなら、通常通りダメージを与え、さらに対象の基本地上移動速度は君の【判断力】修正値ラウンドの間5フィートに下がる。対象は難易度10＋キャラクター・レベルの1/2＋【判断力】修正値の頑健セーヴに成功すれば、この効果を受けない。</p>"
 		},
 		{
 			"id": "Scribe Scroll",
@@ -874,41 +878,41 @@
 		{
 			"id": "Shatter Defenses",
 			"name": "防御崩し",
-			"description": "<p><strong>《防御崩し》（戦闘） Shatter Defenses</strong></p><p>すでにうまく防御できなくなりつつある相手を攻撃すれば、君の選択した武器への技術は敵を防御不能にしてしまう。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器熟練}、@Compendium[pf1.feats.3cq9YbgcMrAXC76j]{威圧演舞}、基本攻撃ボーナス＋6、武器への習熟。</p><p><strong>利益：</strong>怯え、恐れ、恐慌のいずれかの状態にある敵に攻撃が命中した場合、次の君のターンの終わりまで、敵は君の攻撃に対して立ちすくみ状態になる。このラウンドの他の攻撃にもこの立ちすくみ状態は適用される。</p>"
+			"description": "<p><strong>《防御崩し》（戦闘） Shatter Defenses</strong></p><p>すでにうまく防御できなくなりつつある相手を攻撃すれば、君の選択した武器への技術は敵を防御不能にしてしまう。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.n250dFlbykAIAg5Z]{武器熟練}、@UUID[Compendium.pf1.feats.3cq9YbgcMrAXC76j]{威圧演舞}、基本攻撃ボーナス＋6、武器への習熟。</p><p><strong>利益：</strong>怯え、恐れ、恐慌のいずれかの状態にある敵に攻撃が命中した場合、次の君のターンの終わりまで、敵は君の攻撃に対して立ちすくみ状態になる。このラウンドの他の攻撃にもこの立ちすくみ状態は適用される。</p>"
 		},
 		{
 			"id": "Shield Focus",
 			"name": "盾熟練",
-			"description": "<p><strong>《盾熟練》（戦闘） Shield Focus</strong></p><p>君は盾で攻撃をはじくことに熟練している。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.WZj7zDvuelEoeXWX]{盾習熟}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>使用している盾によるアーマー・クラスへのボーナスが1上昇する。</p>"
+			"description": "<p><strong>《盾熟練》（戦闘） Shield Focus</strong></p><p>君は盾で攻撃をはじくことに熟練している。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.WZj7zDvuelEoeXWX]{盾習熟}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>使用している盾によるアーマー・クラスへのボーナスが1上昇する。</p>"
 		},
 		{
 			"id": "Shield Master",
 			"name": "盾攻撃の達人",
-			"description": "<p><strong>《盾攻撃の達人》（戦闘） Shield Master</strong></p><p>君の盾への熟練は、盾が君の動きを阻害することなく戦えるようにする。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.qYv70Ch9RQfi1LQQ]{盾攻撃強化}、@Compendium[pf1.feats.WZj7zDvuelEoeXWX]{盾習熟}、@Compendium[pf1.feats.GEo7nDHxddLxi66j]{盾のぶちかまし}、@Compendium[pf1.feats.Ee7JHADKEK37tTHs]{二刀流}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>君は別の武器を持っている時に生じる盾攻撃の攻撃ロールへのペナルティを受けない。また、盾の強化ボーナスを武器の強化ボーナスのように盾攻撃の攻撃ロールとダメージ・ロールに加える。</p>"
+			"description": "<p><strong>《盾攻撃の達人》（戦闘） Shield Master</strong></p><p>君の盾への熟練は、盾が君の動きを阻害することなく戦えるようにする。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.qYv70Ch9RQfi1LQQ]{盾攻撃強化}、@UUID[Compendium.pf1.feats.WZj7zDvuelEoeXWX]{盾習熟}、@UUID[Compendium.pf1.feats.GEo7nDHxddLxi66j]{盾のぶちかまし}、@UUID[Compendium.pf1.feats.Ee7JHADKEK37tTHs]{二刀流}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>君は別の武器を持っている時に生じる盾攻撃の攻撃ロールへのペナルティを受けない。また、盾の強化ボーナスを武器の強化ボーナスのように盾攻撃の攻撃ロールとダメージ・ロールに加える。</p>"
 		},
 		{
 			"id": "Shield Proficiency",
 			"name": "盾習熟",
-			"description": "<p><strong>《盾習熟》（戦闘） Shield Proficiency</strong></p><p>君は盾を適切に扱う方法を知っている。</p><p><strong>利益：</strong>タワー・シールド以外の盾を使う場合、盾の防具による判定ペナルティは【筋力】と【敏捷力】を基準とする技能判定にしかつかない。</p><p><strong>通常：</strong>習熟していない盾を使う場合、君は盾の防具による判定ペナルティを攻撃ロールと、移動に関するすべての技能判定（〈騎乗〉を含む）に被る。</p><p><strong>特殊：</strong>バーバリアン、バード、クレリック、ドルイド、ファイター、パラディン、レンジャーは@Compendium[pf1.feats.WZj7zDvuelEoeXWX]{盾習熟}をボーナス特技として持っているため、改めて選択する必要はない。</p>"
+			"description": "<p><strong>《盾習熟》（戦闘） Shield Proficiency</strong></p><p>君は盾を適切に扱う方法を知っている。</p><p><strong>利益：</strong>タワー・シールド以外の盾を使う場合、盾の防具による判定ペナルティは【筋力】と【敏捷力】を基準とする技能判定にしかつかない。</p><p><strong>通常：</strong>習熟していない盾を使う場合、君は盾の防具による判定ペナルティを攻撃ロールと、移動に関するすべての技能判定（〈騎乗〉を含む）に被る。</p><p><strong>特殊：</strong>バーバリアン、バード、クレリック、ドルイド、ファイター、パラディン、レンジャーは@UUID[Compendium.pf1.feats.WZj7zDvuelEoeXWX]{盾習熟}をボーナス特技として持っているため、改めて選択する必要はない。</p>"
 		},
 		{
 			"id": "Shield Slam",
 			"name": "盾のぶちかまし",
-			"description": "<p><strong>《盾のぶちかまし》（戦闘） Shield Slam</strong></p><p>適切な位置で使えば、君の盾による一撃で敵は吹き飛ばされる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.qYv70Ch9RQfi1LQQ]{盾攻撃強化}、@Compendium[pf1.feats.WZj7zDvuelEoeXWX]{盾習熟}、@Compendium[pf1.feats.Ee7JHADKEK37tTHs]{二刀流}、基本攻撃ボーナス＋6。</p><p><strong>利益：</strong>君の盾攻撃を受けた敵は、同時に君の攻撃ロールの結果を戦技判定の結果と見なした突き飛ばしを受ける（“戦闘”の章を参照）。この突き飛ばしは機会攻撃を誘発しない。壁などの障害物で後ろに下がれない敵は、動ける限り後ろに動いた後で、伏せ状態になる。移動アクションや5フィート・ステップが残っているなら、敵と一緒に動くことを選択しても構わない。</p>"
+			"description": "<p><strong>《盾のぶちかまし》（戦闘） Shield Slam</strong></p><p>適切な位置で使えば、君の盾による一撃で敵は吹き飛ばされる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.qYv70Ch9RQfi1LQQ]{盾攻撃強化}、@UUID[Compendium.pf1.feats.WZj7zDvuelEoeXWX]{盾習熟}、@UUID[Compendium.pf1.feats.Ee7JHADKEK37tTHs]{二刀流}、基本攻撃ボーナス＋6。</p><p><strong>利益：</strong>君の盾攻撃を受けた敵は、同時に君の攻撃ロールの結果を戦技判定の結果と見なした突き飛ばしを受ける（“戦闘”の章を参照）。この突き飛ばしは機会攻撃を誘発しない。壁などの障害物で後ろに下がれない敵は、動ける限り後ろに動いた後で、伏せ状態になる。移動アクションや5フィート・ステップが残っているなら、敵と一緒に動くことを選択しても構わない。</p>"
 		},
 		{
 			"id": "Shot on the Run",
 			"name": "機動射撃",
-			"description": "<p><strong>《機動射撃》（戦闘） Shot on the Run</strong></p><p>君は移動して遠隔武器を射り、敵が反応する前にさらに動くことができる。</p><p><strong>前提条件：</strong>【敏】13、@Compendium[pf1.feats.JreaiTHdyWFNj3Tb]{回避}、@Compendium[pf1.feats.R7L4SlGRlnThqFrP]{強行突破}、@Compendium[pf1.feats.8rsFtye3PwM6CKli]{近距離射撃}、基本攻撃ボーナス＋4。</p><p><strong>利益：</strong>全ラウンド・アクションで、君は君の移動速度分まで動いて、その間の好きな位置で1回の遠隔攻撃を行える。</p><p><strong>通常：</strong>君は射撃の前後両方で移動することはできない。</p>"
+			"description": "<p><strong>《機動射撃》（戦闘） Shot on the Run</strong></p><p>君は移動して遠隔武器を射り、敵が反応する前にさらに動くことができる。</p><p><strong>前提条件：</strong>【敏】13、@UUID[Compendium.pf1.feats.JreaiTHdyWFNj3Tb]{回避}、@UUID[Compendium.pf1.feats.R7L4SlGRlnThqFrP]{強行突破}、@UUID[Compendium.pf1.feats.8rsFtye3PwM6CKli]{近距離射撃}、基本攻撃ボーナス＋4。</p><p><strong>利益：</strong>全ラウンド・アクションで、君は君の移動速度分まで動いて、その間の好きな位置で1回の遠隔攻撃を行える。</p><p><strong>通常：</strong>君は射撃の前後両方で移動することはできない。</p>"
 		},
 		{
 			"id": "Sickening Critical",
 			"name": "不調化クリティカル",
-			"description": "<p><strong>《不調化クリティカル》（戦闘、クリティカル） Sickening Critical</strong></p><p>君のクリティカル・ヒットは相手の気分を悪くさせる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は1分の間不調状態になる。この特技の効果は累積せず、持続時間を1分間延長させる。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
+			"description": "<p><strong>《不調化クリティカル》（戦闘、クリティカル） Sickening Critical</strong></p><p>君のクリティカル・ヒットは相手の気分を悪くさせる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は1分の間不調状態になる。この特技の効果は累積せず、持続時間を1分間延長させる。</p><p><strong>特殊：</strong>@UUID[Compendium.pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "effect",
-					"text": "不調化クリティカル：クリティカル・ヒット時、相手は1分間不調状態になる"
+					"target": "critical",
+					"text": "@Use[不調化クリティカル;speaker]"
 				}
 			]
 		},
@@ -930,7 +934,7 @@
 		{
 			"id": "Snatch Arrows",
 			"name": "矢つかみ",
-			"description": "<p><strong>《矢つかみ》（戦闘） Snatch Arrows</strong></p><p>矢や遠隔攻撃をはじくのではなく、君は戦闘の最中それらをつかみ取ることができる。</p><p><strong>前提条件：</strong>【敏】15、@Compendium[pf1.feats.ACEQfonKVqh0fwkK]{矢止め}、@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}。</p><p><strong>利益：</strong>@Compendium[pf1.feats.ACEQfonKVqh0fwkK]{矢止め}を行う際、君は武器をはじくのではなくつかんでも良い。投擲武器の場合は、即座に（自分のターンでなくても）相手に攻撃として投げ返すことができるし、後で使うために持ったままでも良い。</p><p>この特技を使うためには、少なくとも片手が自由（何も持っていない状態）でなくてはならない。</p>"
+			"description": "<p><strong>《矢つかみ》（戦闘） Snatch Arrows</strong></p><p>矢や遠隔攻撃をはじくのではなく、君は戦闘の最中それらをつかみ取ることができる。</p><p><strong>前提条件：</strong>【敏】15、@UUID[Compendium.pf1.feats.ACEQfonKVqh0fwkK]{矢止め}、@UUID[Compendium.pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}。</p><p><strong>利益：</strong>@UUID[Compendium.pf1.feats.ACEQfonKVqh0fwkK]{矢止め}を行う際、君は武器をはじくのではなくつかんでも良い。投擲武器の場合は、即座に（自分のターンでなくても）相手に攻撃として投げ返すことができるし、後で使うために持ったままでも良い。</p><p>この特技を使うためには、少なくとも片手が自由（何も持っていない状態）でなくてはならない。</p>"
 		},
 		{
 			"id": "Spell Focus",
@@ -940,43 +944,49 @@
 		{
 			"id": "Spell Mastery",
 			"name": "呪文体得",
-			"description": "<p><strong>《呪文体得》 Spell Mastery</strong></p><p>君はいくつかの呪文を完全に修得しており、呪文書無しでそれらを準備できる。</p><p><strong>前提条件：</strong>ウィザード・レベル1。</p><p><strong>利益：</strong>この特技を取得する度に、君の【知力】修正値に等しい数の自分が修得している呪文を選ぶ。以降、それらの呪文は呪文書無しで準備できる。</p><p><strong>通常：</strong>この特技無しでは、@Compendium[pf1.spells.j0bc0iii8zp1jiwr]{リード・マジック}以外の呪文は呪文書から準備しなければならない。</p>"
+			"description": "<p><strong>《呪文体得》 Spell Mastery</strong></p><p>君はいくつかの呪文を完全に修得しており、呪文書無しでそれらを準備できる。</p><p><strong>前提条件：</strong>ウィザード・レベル1。</p><p><strong>利益：</strong>この特技を取得する度に、君の【知力】修正値に等しい数の自分が修得している呪文を選ぶ。以降、それらの呪文は呪文書無しで準備できる。</p><p><strong>通常：</strong>この特技無しでは、@UUID[Compendium.pf1.spells.j0bc0iii8zp1jiwr]{リード・マジック}以外の呪文は呪文書から準備しなければならない。</p>"
 		},
 		{
 			"id": "Spell Penetration",
 			"name": "抵抗破り",
-			"description": "<p><strong>《抵抗破り》 Spell Penetration</strong></p><p>君の呪文は通常より簡単に呪文抵抗を打ち破ることができる。</p><p><strong>利益：</strong>クリーチャーの呪文抵抗を打ち破るための術者レベル判定（1d20＋術者レベル）に＋2のボーナスを得る。</p>"
+			"description": "<p><strong>《抵抗破り》 Spell Penetration</strong></p><p>君の呪文は通常より簡単に呪文抵抗を打ち破ることができる。</p><p><strong>利益：</strong>クリーチャーの呪文抵抗を打ち破るための術者レベル判定（1d20＋術者レベル）に＋2のボーナスを得る。</p>",
+			"contextNotes": [
+				{
+					"target": "cl",
+					"text": "抵抗破り：術者レベル判定+[[2]]ボーナス"
+				}
+			]
 		},
 		{
 			"id": "Spellbreaker",
 			"name": "呪文潰し",
-			"description": "<p><strong>《呪文潰し》（戦闘） Spellbreaker</strong></p><p>君は間合いの中にいる呪文使いが防御的発動に失敗した時、機会攻撃を行うことができる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.QaMwiDFQdDwycTUO]{発動妨害}、ファイター・レベル10。</p><p><strong>利益：</strong>君の機会攻撃の範囲内にいる敵が呪文の防御的発動に失敗した時、対象は君から機会攻撃を誘発する。</p><p><strong>通常：</strong>呪文の防御的発動に失敗した敵は機会攻撃は誘発しない。</p>"
+			"description": "<p><strong>《呪文潰し》（戦闘） Spellbreaker</strong></p><p>君は間合いの中にいる呪文使いが防御的発動に失敗した時、機会攻撃を行うことができる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.QaMwiDFQdDwycTUO]{発動妨害}、ファイター・レベル10。</p><p><strong>利益：</strong>君の機会攻撃の範囲内にいる敵が呪文の防御的発動に失敗した時、対象は君から機会攻撃を誘発する。</p><p><strong>通常：</strong>呪文の防御的発動に失敗した敵は機会攻撃は誘発しない。</p>"
 		},
 		{
 			"id": "Spirited Charge",
 			"name": "猛突撃",
-			"description": "<p><strong>《猛突撃》（戦闘） Spirited Charge</strong></p><p>君の騎乗突撃はとてつもない威力を持つ。</p><p><strong>前提条件：</strong>〈騎乗〉1ランク、@Compendium[pf1.feats.0spsP9ylE3goD3jc]{騎乗戦闘}、@Compendium[pf1.feats.liPAO5urMI9chctT]{駆け抜け攻撃}。</p><p><strong>利益：</strong>騎乗時に突撃を行った場合、近接武器によるダメージが2倍になる（ランスでの場合3倍）。</p>"
+			"description": "<p><strong>《猛突撃》（戦闘） Spirited Charge</strong></p><p>君の騎乗突撃はとてつもない威力を持つ。</p><p><strong>前提条件：</strong>〈騎乗〉1ランク、@UUID[Compendium.pf1.feats.0spsP9ylE3goD3jc]{騎乗戦闘}、@UUID[Compendium.pf1.feats.liPAO5urMI9chctT]{駆け抜け攻撃}。</p><p><strong>利益：</strong>騎乗時に突撃を行った場合、近接武器によるダメージが2倍になる（ランスでの場合3倍）。</p>"
 		},
 		{
 			"id": "Spring Attack",
 			"name": "一撃離脱",
-			"description": "<p><strong>《一撃離脱》（戦闘） Spring Attack</strong></p><p>君は巧みに敵へと近寄り、攻撃して、相手が反応する前に去る。</p><p><strong>前提条件：</strong>【敏】13、@Compendium[pf1.feats.JreaiTHdyWFNj3Tb]{回避}、@Compendium[pf1.feats.R7L4SlGRlnThqFrP]{強行突破}、基本攻撃ボーナス＋4。</p><p><strong>利益：</strong>全ラウンド・アクションとして、君は移動速度まで移動して、その攻撃の目標から機会攻撃を誘発することなく1回の近接攻撃を行うことができる。君は攻撃の前後に移動を行うこともできるが、少なくとも10フィートは攻撃の前に動かねばならず、全移動距離は移動速度を超えてはならない。君はこの特技を使って、ターン開始時に隣接していた敵を攻撃することはできない。</p><p><strong>通常：</strong>攻撃の前後両方で動くことはできない。</p>"
+			"description": "<p><strong>《一撃離脱》（戦闘） Spring Attack</strong></p><p>君は巧みに敵へと近寄り、攻撃して、相手が反応する前に去る。</p><p><strong>前提条件：</strong>【敏】13、@UUID[Compendium.pf1.feats.JreaiTHdyWFNj3Tb]{回避}、@UUID[Compendium.pf1.feats.R7L4SlGRlnThqFrP]{強行突破}、基本攻撃ボーナス＋4。</p><p><strong>利益：</strong>全ラウンド・アクションとして、君は移動速度まで移動して、その攻撃の目標から機会攻撃を誘発することなく1回の近接攻撃を行うことができる。君は攻撃の前後に移動を行うこともできるが、少なくとも10フィートは攻撃の前に動かねばならず、全移動距離は移動速度を超えてはならない。君はこの特技を使って、ターン開始時に隣接していた敵を攻撃することはできない。</p><p><strong>通常：</strong>攻撃の前後両方で動くことはできない。</p>"
 		},
 		{
 			"id": "Staggering Critical",
 			"name": "よろめき化クリティカル",
-			"description": "<p><strong>《よろめき化クリティカル》（戦闘、クリティカル） Staggering Critical</strong></p><p>君のクリティカル・ヒットは相手の動きを遅くする。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋13。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は1d4＋1ラウンドの間よろめき状態になる。ただし頑健セーヴに成功した場合、よろめき状態は1ラウンドしか継続しない。セーヴ難易度は10＋君の基本攻撃ボーナスである。この特技の効果は累積せず、持続時間を延長させるだけである。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
+			"description": "<p><strong>《よろめき化クリティカル》（戦闘、クリティカル） Staggering Critical</strong></p><p>君のクリティカル・ヒットは相手の動きを遅くする。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋13。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は1d4＋1ラウンドの間よろめき状態になる。ただし頑健セーヴに成功した場合、よろめき状態は1ラウンドしか継続しない。セーヴ難易度は10＋君の基本攻撃ボーナスである。この特技の効果は累積せず、持続時間を延長させるだけである。</p><p><strong>特殊：</strong>@UUID[Compendium.pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "effect",
-					"text": "よろめき化クリティカル：クリティカル・ヒット時、相手は頑健セーヴ（難易度 [[10 + @attributes.bab.total]]）に失敗すると[[/r 1d4+1]]ラウンドの間よろめき状態になる。頑健セーヴに成功すると1ラウンドよろめき状態になる"
+					"target": "critical",
+					"text": "@Use[よろめき化クリティカル;speaker]"
 				}
 			]
 		},
 		{
 			"id": "Stand Still",
 			"name": "足止め",
-			"description": "<p><strong>《足止め》（戦闘） Stand Still</strong></p><p>君を通り過ぎようとした敵は足止めされる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.h9nHYLxXvIXBTmup]{迎え討ち}。</p><p><strong>利益：</strong>敵が君に隣接するマスを通り抜けようとして機会攻撃を誘発した場合、君は機会攻撃として戦技判定を行うことができる。もし判定に成功したなら、敵はそのターンの間移動することができなくなる。敵は他のアクションを通常通り取ることができるが、移動はできない。この特技の効果は、君に隣接するマスから出ようとして機会攻撃を誘発した相手に対しても使うことができる。</p>"
+			"description": "<p><strong>《足止め》（戦闘） Stand Still</strong></p><p>君を通り過ぎようとした敵は足止めされる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.h9nHYLxXvIXBTmup]{迎え討ち}。</p><p><strong>利益：</strong>敵が君に隣接するマスを通り抜けようとして機会攻撃を誘発した場合、君は機会攻撃として戦技判定を行うことができる。もし判定に成功したなら、敵はそのターンの間移動することができなくなる。敵は他のアクションを通常通り取ることができるが、移動はできない。この特技の効果は、君に隣接するマスから出ようとして機会攻撃を誘発した相手に対しても使うことができる。</p>"
 		},
 		{
 			"id": "Stealthy",
@@ -1001,18 +1011,18 @@
 		{
 			"id": "Stunning Critical",
 			"name": "朦朧化クリティカル",
-			"description": "<p><strong>《朦朧化クリティカル》（戦闘、クリティカル） Stunning Critical</strong></p><p>君のクリティカル・ヒットは相手の意識をも断つ。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、@Compendium[pf1.feats.nVNkWyzh4EVyxouV]{よろめき化クリティカル}、基本攻撃ボーナス＋17。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は1d4ラウンドの間朦朧状態になる。ただし頑健セーヴに成功した場合、1d4ラウンドの間よろめき状態になる。頑健セーヴの難易度は10＋君の基本攻撃ボーナスである。この特技の効果は累積せず、持続時間を延長させるだけである。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
+			"description": "<p><strong>《朦朧化クリティカル》（戦闘、クリティカル） Stunning Critical</strong></p><p>君のクリティカル・ヒットは相手の意識をも断つ。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、@UUID[Compendium.pf1.feats.nVNkWyzh4EVyxouV]{よろめき化クリティカル}、基本攻撃ボーナス＋17。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は1d4ラウンドの間朦朧状態になる。ただし頑健セーヴに成功した場合、1d4ラウンドの間よろめき状態になる。頑健セーヴの難易度は10＋君の基本攻撃ボーナスである。この特技の効果は累積せず、持続時間を延長させるだけである。</p><p><strong>特殊：</strong>@UUID[Compendium.pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "effect",
-					"text": "朦朧化クリティカル：クリティカル・ヒット時、相手は頑健セーヴ（難易度 [[10 + @attributes.bab.total]]）に失敗すると[[/r 1d4]]ラウンドの間朦朧状態になる。頑健セーヴに成功すると[[/r 1d4]]ラウンドの間よろめき状態になる"
+					"target": "critical",
+					"text": "@Use[朦朧化クリティカル;speaker]"
 				}
 			]
 		},
 		{
 			"id": "Stunning Fist",
 			"name": "朦朧化打撃",
-			"description": "<p><strong>《朦朧化打撃》（戦闘） Stunning Fist</strong></p><p>君は相手を朦朧とさせるにはどこを殴ったらよいのか理解している。</p><p><strong>前提条件：</strong>【敏】13、【判】13、@Compendium[pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}、基本攻撃ボーナス＋8。</p><p><strong>利益：</strong>君はこの特技の使用を攻撃ロールの前に宣言する（つまり、攻撃ロールに失敗した場合、試みは失敗する）。@Compendium[pf1.feats.GsjouI6B8X7BA5wN]{朦朧化打撃}は君の素手攻撃でダメージを受けた相手に難易度10＋キャラクター・レベルの1/2＋【判断力】修正値の頑健セーヴを要求し、もし失敗したなら1ラウンドの間（君の次のターンの直前まで）、朦朧状態となる。朦朧状態のクリーチャーは保持しているものをすべて落とし、アクションを取れず、アーマー・クラスへの【敏捷力】ボーナスを失い、さらにアーマー・クラスに－2のペナルティを受ける。君は@Compendium[pf1.feats.GsjouI6B8X7BA5wN]{朦朧化打撃}を1日につき4キャラクター・レベル毎に1回行える（ただし特殊を参照）。ただし、1ラウンドに複数回は行えない。人造、粘体、植物、アンデッド、非実体のクリーチャーと、クリティカル・ヒットの効果を受けないクリーチャーは朦朧状態になることはない。</p><p><strong>特殊：</strong>モンクは@Compendium[pf1.feats.GsjouI6B8X7BA5wN]{朦朧化打撃}を1レベルの時にボーナス特技として得る（前提条件を満たしている必要はない）。さらに、モンクは1日にモンク・レベル回＋モンク以外のレベル4レベルにつき1回まで@Compendium[pf1.feats.GsjouI6B8X7BA5wN]{朦朧化打撃}を試みることができる。</p>"
+			"description": "<p><strong>《朦朧化打撃》（戦闘） Stunning Fist</strong></p><p>君は相手を朦朧とさせるにはどこを殴ったらよいのか理解している。</p><p><strong>前提条件：</strong>【敏】13、【判】13、@UUID[Compendium.pf1.feats.2aTFNMs3pW6nUBlr]{素手打撃強化}、基本攻撃ボーナス＋8。</p><p><strong>利益：</strong>君はこの特技の使用を攻撃ロールの前に宣言する（つまり、攻撃ロールに失敗した場合、試みは失敗する）。@UUID[Compendium.pf1.feats.GsjouI6B8X7BA5wN]{朦朧化打撃}は君の素手攻撃でダメージを受けた相手に難易度10＋キャラクター・レベルの1/2＋【判断力】修正値の頑健セーヴを要求し、もし失敗したなら1ラウンドの間（君の次のターンの直前まで）、朦朧状態となる。朦朧状態のクリーチャーは保持しているものをすべて落とし、アクションを取れず、アーマー・クラスへの【敏捷力】ボーナスを失い、さらにアーマー・クラスに－2のペナルティを受ける。君は@UUID[Compendium.pf1.feats.GsjouI6B8X7BA5wN]{朦朧化打撃}を1日につき4キャラクター・レベル毎に1回行える（ただし特殊を参照）。ただし、1ラウンドに複数回は行えない。人造、粘体、植物、アンデッド、非実体のクリーチャーと、クリティカル・ヒットの効果を受けないクリーチャーは朦朧状態になることはない。</p><p><strong>特殊：</strong>モンクは@UUID[Compendium.pf1.feats.GsjouI6B8X7BA5wN]{朦朧化打撃}を1レベルの時にボーナス特技として得る（前提条件を満たしている必要はない）。さらに、モンクは1日にモンク・レベル回＋モンク以外のレベル4レベルにつき1回まで@UUID[Compendium.pf1.feats.GsjouI6B8X7BA5wN]{朦朧化打撃}を試みることができる。</p>"
 		},
 		{
 			"id": "Throw Anything",
@@ -1022,11 +1032,11 @@
 		{
 			"id": "Tiring Critical",
 			"name": "疲労化クリティカル",
-			"description": "<p><strong>《疲労化クリティカル》（戦闘、クリティカル） Tiring Critical</strong></p><p>君のクリティカル・ヒットは相手を疲労させる。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋13。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は疲労状態になる。既に疲労状態であったり、過労状態のクリーチャーには効果がない。</p><p><strong>特殊：</strong>@Compendium[pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
+			"description": "<p><strong>《疲労化クリティカル》（戦闘、クリティカル） Tiring Critical</strong></p><p>君のクリティカル・ヒットは相手を疲労させる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.JNlMhMhcDO8wkXiw]{クリティカル熟練}、基本攻撃ボーナス＋13。</p><p><strong>利益：</strong>君がクリティカル・ヒットを放った時、相手は疲労状態になる。既に疲労状態であったり、過労状態のクリーチャーには効果がない。</p><p><strong>特殊：</strong>@UUID[Compendium.pf1.feats.lRWXptGqGabk1vfH]{クリティカル体得}を持っていない限り、1回のクリティカル・ヒットに対して適用できるクリティカル特技は1つだけである。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "effect",
-					"text": "疲労化クリティカル：クリティカル・ヒット時、相手は疲労状態になる"
+					"target": "critical",
+					"text": "@Use[疲労化クリティカル;speaker]"
 				}
 			]
 		},
@@ -1038,12 +1048,12 @@
 		{
 			"id": "Tower Shield Proficiency",
 			"name": "タワー・シールド習熟",
-			"description": "<p><strong>《タワー・シールド習熟》（戦闘） Tower Shield Proficiency</strong></p><p>君はタワー・シールドを適切に使うトレーニングを受けた。</p><p><strong>前提条件：</strong>@Compendium[pf1.feats.WZj7zDvuelEoeXWX]{盾習熟}。</p><p><strong>利益：</strong>タワー・シールドを使う場合、盾の防具による判定ペナルティは【筋力】と【敏捷力】を基準とする技能判定にしかつかない。</p><p><strong>通常：</strong>習熟していない盾を使う場合、君は盾の防具による判定ペナルティを攻撃ロールと、移動に関するすべての技能判定（〈騎乗〉を含む）に被る。</p><p><strong>特殊：</strong>ファイターは@Compendium[pf1.feats.PxwM4Uf4mcYs3Auq]{タワー・シールド習熟}をボーナス特技として持っているため、改めて選択する必要はない。</p>"
+			"description": "<p><strong>《タワー・シールド習熟》（戦闘） Tower Shield Proficiency</strong></p><p>君はタワー・シールドを適切に使うトレーニングを受けた。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.WZj7zDvuelEoeXWX]{盾習熟}。</p><p><strong>利益：</strong>タワー・シールドを使う場合、盾の防具による判定ペナルティは【筋力】と【敏捷力】を基準とする技能判定にしかつかない。</p><p><strong>通常：</strong>習熟していない盾を使う場合、君は盾の防具による判定ペナルティを攻撃ロールと、移動に関するすべての技能判定（〈騎乗〉を含む）に被る。</p><p><strong>特殊：</strong>ファイターは@UUID[Compendium.pf1.feats.PxwM4Uf4mcYs3Auq]{タワー・シールド習熟}をボーナス特技として持っているため、改めて選択する必要はない。</p>"
 		},
 		{
 			"id": "Trample",
 			"name": "騎乗蹂躙",
-			"description": "<p><strong>《騎乗蹂躙》（戦闘） Trample</strong></p><p>騎乗している時、君は敵を馬で引き倒し、さらに踏みつけることができる。</p><p><strong>前提条件：</strong>〈騎乗〉1ランク、@Compendium[pf1.feats.0spsP9ylE3goD3jc]{騎乗戦闘}。</p><p><strong>利益：</strong>騎乗時に敵に蹴散らしを行う際、相手は君を避けようとすることができない。敵を打ち倒した場合、君の乗騎はその敵に1回の蹄攻撃を行うことができる。これには、伏せ状態の対象に対する攻撃ロールに通常付く＋4のボーナスが付く。</p>"
+			"description": "<p><strong>《騎乗蹂躙》（戦闘） Trample</strong></p><p>騎乗している時、君は敵を馬で引き倒し、さらに踏みつけることができる。</p><p><strong>前提条件：</strong>〈騎乗〉1ランク、@UUID[Compendium.pf1.feats.0spsP9ylE3goD3jc]{騎乗戦闘}。</p><p><strong>利益：</strong>騎乗時に敵に蹴散らしを行う際、相手は君を避けようとすることができない。敵を打ち倒した場合、君の乗騎はその敵に1回の蹄攻撃を行うことができる。これには、伏せ状態の対象に対する攻撃ロールに通常付く＋4のボーナスが付く。</p>"
 		},
 		{
 			"id": "Turn Undead",
@@ -1053,7 +1063,7 @@
 		{
 			"id": "Two-Weapon Defense",
 			"name": "二刀の守り",
-			"description": "<p><strong>《二刀の守り》（戦闘） Two-Weapon Defense</strong></p><p>君は二刀を構えている時に効果的に身を守る術を知る。</p><p><strong>前提条件：</strong>【敏】15、@Compendium[pf1.feats.Ee7JHADKEK37tTHs]{二刀流}。</p><p><strong>利益：</strong>双頭武器か2本武器を構えている時（肉体武器や素手打撃は含まない）、君はアーマー・クラスに＋1の盾ボーナスを得る。</p><p>君が防御的戦闘や防御専念を行っている時、盾ボーナスは＋2に増加する。</p>"
+			"description": "<p><strong>《二刀の守り》（戦闘） Two-Weapon Defense</strong></p><p>君は二刀を構えている時に効果的に身を守る術を知る。</p><p><strong>前提条件：</strong>【敏】15、@UUID[Compendium.pf1.feats.Ee7JHADKEK37tTHs]{二刀流}。</p><p><strong>利益：</strong>双頭武器か2本武器を構えている時（肉体武器や素手打撃は含まない）、君はアーマー・クラスに＋1の盾ボーナスを得る。</p><p>君が防御的戦闘や防御専念を行っている時、盾ボーナスは＋2に増加する。</p>"
 		},
 		{
 			"id": "Two-Weapon Fighting",
@@ -1063,12 +1073,12 @@
 		{
 			"id": "Two-Weapon Rend",
 			"name": "二刀のかきむしり",
-			"description": "<p><strong>《二刀のかきむしり》（戦闘） Two-Weapon Rend</strong></p><p>2本の武器で同時に攻撃することにより、相手に酷い傷を負わせることができる。</p><p><strong>前提条件：</strong>【敏】17、@Compendium[pf1.feats.VK8TgwfjeomMwGjd]{二重斬り}、@Compendium[pf1.feats.3fNdl7eIUJ5d5fwg]{二刀流強化}、@Compendium[pf1.feats.Ee7JHADKEK37tTHs]{二刀流}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>君が利き手の武器と利き手でない方の武器を両方命中させた時、君は追加の1d10＋【筋力】修正値の1.5倍（切り捨て）の追加ダメージを与える。君はこの追加ダメージを1ラウンドに1回までしか与えることはできない。</p>"
+			"description": "<p><strong>《二刀のかきむしり》（戦闘） Two-Weapon Rend</strong></p><p>2本の武器で同時に攻撃することにより、相手に酷い傷を負わせることができる。</p><p><strong>前提条件：</strong>【敏】17、@UUID[Compendium.pf1.feats.VK8TgwfjeomMwGjd]{二重斬り}、@UUID[Compendium.pf1.feats.3fNdl7eIUJ5d5fwg]{二刀流強化}、@UUID[Compendium.pf1.feats.Ee7JHADKEK37tTHs]{二刀流}、基本攻撃ボーナス＋11。</p><p><strong>利益：</strong>君が利き手の武器と利き手でない方の武器を両方命中させた時、君は追加の1d10＋【筋力】修正値の1.5倍（切り捨て）の追加ダメージを与える。君はこの追加ダメージを1ラウンドに1回までしか与えることはできない。</p>"
 		},
 		{
 			"id": "Unseat",
 			"name": "突き落とし",
-			"description": "<p><strong>《突き落とし》（戦闘） Unseat</strong></p><p>君は敵を落馬させることを得意とする。</p><p><strong>前提条件：</strong>【筋】13、〈騎乗〉1ランク、@Compendium[pf1.feats.0spsP9ylE3goD3jc]{騎乗戦闘}、@Compendium[pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、@Compendium[pf1.feats.dn2KgHFQRbuoNRx0]{突き飛ばし強化}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>ランスを持ち騎乗した状態で目標に突撃を行う際に、君は通常通り攻撃を行う。もしその攻撃が命中したなら、それは通常通りダメージを与えるだけでなく、君は即座にアクションを消費することなく突き飛ばしを試みることができる。突き飛ばしが成功した場合、相手は馬から落ち、君と反対側で馬に隣接したマスで伏せ状態になる。</p>"
+			"description": "<p><strong>《突き落とし》（戦闘） Unseat</strong></p><p>君は敵を落馬させることを得意とする。</p><p><strong>前提条件：</strong>【筋】13、〈騎乗〉1ランク、@UUID[Compendium.pf1.feats.0spsP9ylE3goD3jc]{騎乗戦闘}、@UUID[Compendium.pf1.feats.FUW5mIXHNBBIQ1Sq]{強打}、@UUID[Compendium.pf1.feats.dn2KgHFQRbuoNRx0]{突き飛ばし強化}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>ランスを持ち騎乗した状態で目標に突撃を行う際に、君は通常通り攻撃を行う。もしその攻撃が命中したなら、それは通常通りダメージを与えるだけでなく、君は即座にアクションを消費することなく突き飛ばしを試みることができる。突き飛ばしが成功した場合、相手は馬から落ち、君と反対側で馬に隣接したマスで伏せ状態になる。</p>"
 		},
 		{
 			"id": "Vital Strike",
@@ -1088,12 +1098,12 @@
 		{
 			"id": "Weapon Specialization",
 			"name": "武器開眼",
-			"description": "<p><strong>《武器開眼》（戦闘） Weapon Specialization</strong></p><p>君はある武器でダメージを与えることを得意としている。@Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器熟練}を持っている武器（素手打撃と組みつきを含む）を1種類選択する。その武器を使っている時、追加のダメージを与えられる。</p><p><strong>前提条件：</strong>選択した武器への習熟、選択した武器への@Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器熟練}、ファイター・レベル4。</p><p><strong>利益：</strong>選んだ武器を使って行うすべてのダメージ・ロールに＋2のボーナスを得る。</p><p><strong>特殊：</strong>この特技は複数回取得できるが、効果は累積しない。この特技を取るたびに、その効果は新しい種類の武器に適用される。</p>"
+			"description": "<p><strong>《武器開眼》（戦闘） Weapon Specialization</strong></p><p>君はある武器でダメージを与えることを得意としている。@UUID[Compendium.pf1.feats.n250dFlbykAIAg5Z]{武器熟練}を持っている武器（素手打撃と組みつきを含む）を1種類選択する。その武器を使っている時、追加のダメージを与えられる。</p><p><strong>前提条件：</strong>選択した武器への習熟、選択した武器への@UUID[Compendium.pf1.feats.n250dFlbykAIAg5Z]{武器熟練}、ファイター・レベル4。</p><p><strong>利益：</strong>選んだ武器を使って行うすべてのダメージ・ロールに＋2のボーナスを得る。</p><p><strong>特殊：</strong>この特技は複数回取得できるが、効果は累積しない。この特技を取るたびに、その効果は新しい種類の武器に適用される。</p>"
 		},
 		{
 			"id": "Whirlwind Attack",
 			"name": "大旋風",
-			"description": "<p><strong>《大旋風》（戦闘） Whirlwind Attack</strong></p><p>君は間合い内の全ての敵を同時に攻撃できる。</p><p><strong>前提条件：</strong>【敏】13、【知】13、@Compendium[pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}、@Compendium[pf1.feats.JreaiTHdyWFNj3Tb]{回避}、@Compendium[pf1.feats.R7L4SlGRlnThqFrP]{強行突破}、@Compendium[pf1.feats.ugQyUpqPBDsqLyra]{一撃離脱}、基本攻撃ボーナス＋4。</p><p><strong>利益：</strong>全力攻撃アクションを行う際に、自分の通常の攻撃をあきらめ、その代わりに一番高い基本攻撃ボーナスを用いて間合いの中にいるすべての敵に対して1回ずつ近接攻撃を行うことができる。それぞれの敵に対して、別々の攻撃ロールを行うこと。</p><p>@Compendium[pf1.feats.UnmST9BvRhxT4vq3]{大旋風}を行う場合、他の特技や呪文、能力によって得られた追加攻撃を行うことはできない。</p>"
+			"description": "<p><strong>《大旋風》（戦闘） Whirlwind Attack</strong></p><p>君は間合い内の全ての敵を同時に攻撃できる。</p><p><strong>前提条件：</strong>【敏】13、【知】13、@UUID[Compendium.pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}、@UUID[Compendium.pf1.feats.JreaiTHdyWFNj3Tb]{回避}、@UUID[Compendium.pf1.feats.R7L4SlGRlnThqFrP]{強行突破}、@UUID[Compendium.pf1.feats.ugQyUpqPBDsqLyra]{一撃離脱}、基本攻撃ボーナス＋4。</p><p><strong>利益：</strong>全力攻撃アクションを行う際に、自分の通常の攻撃をあきらめ、その代わりに一番高い基本攻撃ボーナスを用いて間合いの中にいるすべての敵に対して1回ずつ近接攻撃を行うことができる。それぞれの敵に対して、別々の攻撃ロールを行うこと。</p><p>@UUID[Compendium.pf1.feats.UnmST9BvRhxT4vq3]{大旋風}を行う場合、他の特技や呪文、能力によって得られた追加攻撃を行うことはできない。</p>"
 		},
 		{
 			"id": "Widen Spell",
@@ -1103,7 +1113,7 @@
 		{
 			"id": "Wind Stance",
 			"name": "風の如き脚",
-			"description": "<p><strong>《風の如き脚》（戦闘） Wind Stance</strong></p><p>君の捕らえがたい動きは敵が君の位置を見極めることを難しくする。</p><p><strong>前提条件：</strong>【敏】15、@Compendium[pf1.feats.JreaiTHdyWFNj3Tb]{回避}、基本攻撃ボーナス＋6。</p><p><strong>利益：</strong>君がこのターンに10フィート以上動いたなら、君は遠隔攻撃に対して1ラウンドの間20％の視認困難を得る。</p>"
+			"description": "<p><strong>《風の如き脚》（戦闘） Wind Stance</strong></p><p>君の捕らえがたい動きは敵が君の位置を見極めることを難しくする。</p><p><strong>前提条件：</strong>【敏】15、@UUID[Compendium.pf1.feats.JreaiTHdyWFNj3Tb]{回避}、基本攻撃ボーナス＋6。</p><p><strong>利益：</strong>君がこのターンに10フィート以上動いたなら、君は遠隔攻撃に対して1ラウンドの間20％の視認困難を得る。</p>"
 		},
 		{
 			"id": "Improved Steal",
@@ -1111,14 +1121,534 @@
 			"description": "<p><strong>《盗み取り強化》（戦闘） Improved Steal</strong></p><p>君は道具を敵から盗み取るためのコツを心得ている。</p><p><strong>前提条件：</strong>【知】13、@UUID[Compendium.pf1.feats.NFxHebU1XhEs5WJh]{攻防一体}。</p><p><strong>利益：</strong>君は“盗み取り”戦技を使用する際に機会攻撃を誘発しない。加えて敵からアイテムを盗み取る際の戦技判定に＋2ボーナスを得る。君はまた、相手が君からアイテムを盗み取ろうとする際に戦技防御に＋2ボーナスを得る。</p><p><strong>通常：</strong>君は“盗み取り”戦技を試みる際、機会攻撃を誘発する。</p>",
 			"contextNotes": [
 				{
-					"subTarget": "cmb",
+					"target": "cmb",
 					"text": "盗み取り強化：盗み取りの戦技判定に＋[[2]]ボーナス"
 				},
 				{
-					"subTarget": "cmd",
+					"target": "cmd",
 					"text": "盗み取り強化：盗み取り戦技に対する戦技防御値に＋[[2]]ボーナス"
 				}
 			]
+		},
+		{
+			"id": "Ability Focus",
+			"name": "能力熟練",
+			"description": "<p><strong>《能力熟練》 Ability Focus</strong></p><p>クリーチャーの特殊攻撃の1つがとりわけ抵抗困難なものになる。</p><p><strong>前提条件：</strong>特殊攻撃。</p><p><strong>利益：</strong>クリーチャーの特殊攻撃の1つを選択すること。クリーチャーが《能力熟練》を適用した1つの特殊攻撃に関する全てのセーヴィング・スローの難易度が＋2上昇する。</p><p><strong>特殊：</strong>この特技は複数回取得できる。効果は累積しない。クリーチャーが1回修得するたびに、この特技が別の1つの特殊攻撃に適用される。</p>"
+		},
+		{
+			"id": "Amateur Gunslinger",
+			"name": "素人ガンスリンガー",
+			"description": "<p><strong>《素人ガンスリンガー》（戦闘） Amateur Gunslinger</strong></p><p>君はガンスリンガーではないが、気概を持ち使用することができる。</p><p><strong>前提条件：</strong>“気概”のクラス特徴を持つクラスのレベルを持たないこと。</p><p><strong>利益：</strong>君は、少量の気概とガンスリンガー発露クラスの特徴から1レベルの発露1つを使用する能力を得る。1日の初めに、君は1気概ポイントを得る。しかし、1日を通して上限である【判断力】修正値（最小1）まで、君は気概ポイントを得ることができる。君はガンスリンガーの気概クラスの特徴（9ページを参照）のためのルールを使用し、気概を回復することができる。君はこの特技を取得する際に選択した1レベルの発露を使用するためにこの気概を使用することができる。また、君が特技や魔法のアイテムを通して得た他の発露全てを使用する際にも、同様に使用することができる。</p><p><strong>特殊：</strong>君が気概のクラスの特徴を与えるクラス・レベルを得るならば、君は直ちにこの特技を@UUID[Compendium.pf1.feats.Item.dahncmkl8bFmFlmi]{気概追加}特技と交換することができる。</p>"
+		},
+		{
+			"id": "Amateur Investigator",
+			"name": "素人インヴェスティゲーター",
+			"description": "<p><strong>《素人インヴェスティゲーター》 Amateur Investigator</strong></p><p>君の知識はただの知性ではない――閃きがある。</p><p><strong>前提条件：</strong>【知】13、少なくとも1種類の〈知識〉技能1ランク、“閃き”を有するクラスのレベルを持たない。</p><p><strong>利益：</strong>インヴェスティゲーターのように、君は〈知識〉、〈言語学〉、〈呪文学〉の技能判定を増強する能力を得る。君は【知力】修正値に等しい閃きプールを得る。フリー・アクションとして閃きを1回分消費することで、修得している〈言語学〉、〈呪文学〉、〈知識〉の判定に1d6を追加することができる（これは出目10や出目20を選択した場合であっても行える）。この能力は判定の後、結果が明らかになる前に使用するかどうか決めなければならない。君の閃きプールは毎日、通常は前日に十分な睡眠を得た後に回復する。</p><p><strong>特殊：</strong>もし君が閃きのクラス特徴を有するクラス・レベルを得たなら、この特技は直ちに@UUID[Compendium.pf1.feats.Item.4VUSgCTR3kUUtKxp]{閃き追加}と交換してよい。</p>"
+		},
+		{
+			"id": "Amateur Swashbuckler",
+			"name": "素人スワッシュバックラー",
+			"description": "<p><strong>《素人スワッシュバックラー》（戦闘） Amateur Swashbuckler</strong></p><p>君はスワッシュバックラーではないが、心意気を持ち、使うことができる。</p><p><strong>前提条件：</strong>“心意気”を有するクラスのレベルを持たない。</p><p><strong>利益：</strong>君はわずかな心意気を得、1レベルのスワッシュバックラーの発露を1つだけ使用することができる。スワッシュバックラーのクラス特徴から1レベルの発露を1つ選択すること（野送りは選択できない）。一度選択すると、この発露を変更することはできない。</p><p>1日の開始時に、君は心意気を1ポイント得る。1日の間に君の心意気ポイントは、君の【魅力】修正値を最大値（最低1）として増やすことができる。君はスワッシュバックラーのクラス特徴と同様に、心意気ポイントを回復することができる。特技や魔法のアイテムから得た他の発露と同様に、君は心意気ポイントを消費し、この特技によって修得した1レベルの発露を使用できる。</p><p><strong>特殊：</strong>もし君が心意気のクラス特徴を有するクラスのレベルを得たなら、この特技は直ちに@UUID[Compendium.pf1.feats.Item.vxDz1Rt1XKfFvWBV]{心意気追加}と交換することができる。</p>"
+		},
+		{
+			"id": "Aspect of the Beast",
+			"name": "野獣の化身",
+			"description": "<p><strong>《野獣の化身》 Aspect of the Beast</strong></p><p>魔法によるものか血の呪いか、君のいくつかの部分は人というより、むしろ野獣のようだ。</p><p><strong>前提条件：</strong>“自然の化身”クラス特徴、特殊を参照。</p><p><strong>利益：</strong>君の獣の肉体は以下に示す顕現の1つを発現させる。君はこの特技を選択した際にこの顕現を選択する。その後これを変えることはできない。</p><ul><li><strong>夜の知覚（変則）Night Senses：</strong>基本種族の視覚が通常なら、夜目を得る。夜目なら暗視30フィートを得る。暗視なら有効距離が30フィート伸びる。</li><li><strong>獣の爪（変則）Claws of the Beast：</strong>爪を一組生やす。これらのひっかき攻撃は主要攻撃として扱い、1d4（君が小型なら1d3）ポイントのダメージを与える。</li><li><strong>捕食者の跳躍（変則）Predator's Leap：</strong>君は跳躍の前に10フィートの助走がなくても走り幅跳びを行なうことができる。</li><li><strong>野生の勘（変則）Wild Instinct：</strong>イニシアチブ判定と〈生存〉技能判定に＋2のボーナスを得る。</li></ul><p><strong>特殊：</strong>もし君がライカンスロピーに罹患しているなら、前提を無視してこの特技を修得できる。肉体武器の戦闘スタイルを選択したレンジャーもまた、（ボーナス特技として《野獣の化身》特技を修得しない場合であっても）前提を無視してこの特技を修得できる。</p>"
+		},
+		{
+			"id": "Awesome Blow",
+			"name": "ふっとばし攻撃",
+			"description": "<p><strong>《ふっとばし攻撃》（戦闘） Awesome Blow</strong></p><p>クリーチャーは敵をふっとばしてしまえる。</p><p><strong>前提条件：</strong>【筋力】25、@UUID[Compendium.pf1.feats.Item.FUW5mIXHNBBIQ1Sq]{強打}、@UUID[Compendium.pf1.feats.Item.dn2KgHFQRbuoNRx0]{突き飛ばし強化}、サイズ分類大型以上。</p><p><strong>利益：</strong>1回の標準アクションとして、このクリーチャーは“ふっとばし攻撃”戦技を行うことができる。自らより小さな実体のある敵に戦技を成功させたなら、敵はダメージを受け（通常は叩きつけのダメージ＋【筋力】ボーナス）、さらに攻撃側クリーチャーの選択した方向に10フィート吹っ飛ばされ、倒れて伏せ状態になる。攻撃側クリーチャーは敵を直線状に押しやることしかできず、敵は開始時にいたマス目より近い場所に移動することはできない。障害物によって敵の移動の完遂が妨げられる場合、敵と障害物の双方が1d6ポイントのダメージを受け、敵は障害物に隣接するマス目で伏せ状態になる。</p>"
+		},
+		{
+			"id": "Bodyguard",
+			"name": "ボディガード",
+			"description": "<p><strong>《ボディガード》（戦闘） Bodyguard</strong></p><p>君の迅速な打撃は、近くの味方を攻撃している敵を防ぐ。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.Item.h9nHYLxXvIXBTmup]{迎え討ち}。</p><p><strong>利益：</strong>隣接する味方が攻撃された際、機会攻撃の回数を使用して仲間のアーマー・クラスを上げるために援護アクションをとることができる。この援護アクションを使用して、仲間の攻撃ロールを増加するために援護アクションを行うことはできない。</p><p><strong>通常：</strong>援護は標準アクションである。</p>"
+		},
+		{
+			"id": "Brilliant Planner",
+			"name": "妙策の立案者",
+			"description": "<p><strong>《妙策の立案者》 Brilliant Planner</strong></p><p>君の経験と知性は素晴らしい計画と予見を生み出してくれる。</p><p><strong>前提条件：</strong>【知】13、キャラクター・レベル5。</p><p><strong>利益：</strong>君は将来を予見して準備することができる。準備の内容は明らかにされるまで説明する必要はない。この準備の一部として、最低でも24時間いる居住区で、君は8時間かけ、キャラクター・レベルごとに50GPまで消費することができる。消費したGPは妙策の原資となる。妙策の原資を保持している限り、君は妙策の原資を決定する前であっても、追加で20ポンドを運んでいるものとして扱う。</p><p>1日1回、君は妙策を定めるために10分をかけることができる。君が訪れた居住区で使用できるアイテムを取り出したり、一般的なサービスの提供となる。いずれにせよ、君のキャラクターが事前に準備したものだ。計画を定めたなら、アイテムあるいはサービスの市価が原資から引かれる。取り出すアイテムは10ポンド以下のものでなければならない。同様に、この特技で得た魔法のものでないサービスが選択した場所で適切なものかどうかをGMが判断しなければならない。</p><p>妙策の原資の額を全て消費するかこの特技で取り出したものの総重量が20ポンドになったなら、妙策の原資を再度積み立てるまでこの特技を使用できなくなる。</p>"
+		},
+		{
+			"id": "Craft Construct",
+			"name": "人造クリーチャー作成",
+			"description": "<p><strong>《人造クリーチャー作成》（アイテム作成） Craft Construct</strong></p><p>君はゴーレムのような人造クリーチャーを作成することができる。</p><p><strong>前提条件：</strong>術者レベル1以上、@UUID[Compendium.pf1.feats.Item.4hNO4OAWYF5vXphH]{魔法の武器防具作成}、@UUID[Compendium.pf1.feats.Item.tD76K8QGco9scT0r]{その他の魔法のアイテム作成}。</p><p><strong>利益：</strong>君は前提条件を満たすことのできる全ての人造クリーチャーを作成することができる。人造クリーチャーに魔力をふきこむには市価1,000gpにつき1日を要する。人造クリーチャーを作成するためには、君は人造クリーチャーの基本価格の半分のコストの原材料と、人造クリーチャーの基本的な身体を作成するための完全なコストを調達しなければならない。人造クリーチャーはそれぞれの項にコストとその他の前提条件がまとめられている。新たに作成された人造クリーチャーは、そのヒット・ダイスに応じた平均値のヒット・ポイントを持つ。</p>"
+		},
+		{
+			"id": "Craft Cybernetics",
+			"name": "サイバー技術作成",
+			"description": "<p><strong>《サイバー技術作成》 Craft Cybernetics</strong></p><p>君はサイバーウェアを作成し、作成者の身体にそれを組み込むことができる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.Item.1foaZv9wfqZVrZ90]{科学技術者}、〈知識：工学〉9ランク、〈治療〉9ランク</p><p><strong>利益：</strong>君はサイバー技術を作成することができる。サイバー技術1つを作成する際、そのアイテムの市価1,000gp毎に1日かかる。物体を作成する際、合計市価の半分に相当する原材料を使用しなければならない。詳細な情報は先端科学技術アイテムの作成を参照のこと。</p><p>君はかつて作成したことがある破損状態のサイバー技術を修理することもできる。その場合、最初から作成した場合に比べて、半分の原材料費と半分の時間を必要とする。</p><p>君はサイバー技術をクリーチャーの肉体に組み込むこともできる。サイバー技術の項を参照し、サイバーウェアの組み込みについての詳細な情報を参照のこと。</p>"
+		},
+		{
+			"id": "Craft Pharmaceutical",
+			"name": "調合薬作成",
+			"description": "<p><strong>《調合薬作成》 Craft Pharmaceutical</strong></p><p>君は調合薬を作成することができる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.Item.1foaZv9wfqZVrZ90]{科学技術者}、〈知識：自然〉9ランク、〈治療〉9ランク</p><p><strong>利益：</strong>君は任意の調合薬もしくはポーションを作成することができる。調合薬の作成には、その基本価格が250gp以下であれば2時間かかる。そうでなければ、調合薬の作成には、そのアイテムの市価1,000gp毎に1日かかる。調合薬もしくはポーションを作成する際、合計市価の半分に相当する原材料を使用しなければならない。詳細な情報は先端科学技術アイテムの作成を参照のこと。</p>"
+		},
+		{
+			"id": "Craft Technological Arms and Armor",
+			"name": "科学技術武器防具作成",
+			"description": "<p><strong>《科学技術武器防具作成》 Craft Technological Arms and Armor</strong></p><p>君は科学技術武器及び科学技術防具を作成することができる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.Item.1foaZv9wfqZVrZ90]{科学技術者}、〈製作：機械〉7ランク、〈知識：工学〉7ランク</p><p><strong>利益：</strong>君は科学技術武器と科学技術防具を作成することができる。科学技術武器1つもしくは科学技術防具一揃いを作成する際、そのアイテムの市価1,000gp毎に1日かかる。物体を作成する際、合計市価の半分に相当する原材料を使用しなければならない。詳細な情報は先端科学技術アイテムの作成を参照のこと。</p><p>君はかつて作成したことがある破損状態の科学技術武器及び科学技術防具を修理することもできる。その場合、最初から作成した場合に比べて、半分の原材料費と半分の時間を必要とする。</p>"
+		},
+		{
+			"id": "Craft Technological Item",
+			"name": "科学技術アイテム作成",
+			"description": "<p><strong>《科学技術アイテム作成》 Craft Technological Item</strong></p><p>君は科学技術の装備とアイテムを作成することができる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.Item.1foaZv9wfqZVrZ90]{科学技術者}、〈製作：機械〉5ランク、〈知識：工学〉5ランク</p><p><strong>利益：</strong>君は科学技術装備を作成することができる。科学技術装備1つを作成する際、そのアイテムの市価1,000gp毎に1日かかる。物体を作成する際、合計市価の半分に相当する原材料を使用しなければならない。詳細な情報は先端科学技術アイテムの作成を参照のこと。</p><p>君はかつて作成したことがある破損状態の科学技術アイテムを修理することもできる。その場合、最初から作成した場合に比べて、半分の原材料費と半分の時間を必要とする。</p>"
+		},
+		{
+			"id": "Empower Spell-Like Ability",
+			"name": "擬似呪文能力威力強化",
+			"description": "<p><strong>《擬似呪文能力威力強化》 Empower Spell-Like Ability</strong></p><p>クリーチャーの擬似呪文能力の1つは通常よりも効果が大きく強力である。</p><p><strong>前提条件：</strong>術者レベル6以上の擬似呪文能力。</p><p><strong>利益：</strong>クリーチャーの擬似呪文能力を1つ選択すること。ただし選択可能な擬似呪文能力は下記のように制限を受ける。クリーチャーはその能力を1日に3回まで威力強化された擬似呪文能力として使用できる（その能力がもともと1日に1回か2回しか使用できない場合は威力強化して使用できる回数もそれに応じて少なくなる）。</p><p>クリーチャーが威力強化された擬似呪文能力を使用する場合、その擬似呪文能力の変数となっている数値的な効果は全て1/2だけ増加する（＋50％）。セーヴィング・スローや対抗ロールには特に作用を与えない。ランダムな変数のない擬似呪文能力は作用を受けない。</p><p>クリーチャーは自らの術者レベルの半分（端数切捨て）－2以下の呪文レベルの呪文を複製する擬似呪文能力しか選択することができない。《擬似呪文能力高速化》特技の項に一覧としてまとめた表があるので参照のこと。</p><p><strong>特殊：</strong>この特技は複数回修得できる。クリーチャーは1回修得するたびに、この特技を別の1つの擬似呪文能力に適応することができる。</p><p><table border='1'><caption><strong>《擬似呪文能力威力強化》と《擬似呪文能力高速化》</strong></caption><thead><tr><th>呪文レベル</th><th>威力強化に必要な術者レベル</th><th>高速化に必要な術者レベル</th></tr></thead><tr><td>0</td><td>4</td><td>8</td></tr><tr><td>1</td><td>6</td><td>10</td></tr><tr><td>2</td><td>8</td><td>12</td></tr><tr><td>3</td><td>10</td><td>14</td></tr><tr><td>4</td><td>12</td><td>16</td></tr><tr><td>5</td><td>14</td><td>18</td></tr><tr><td>6</td><td>16</td><td>20</td></tr><tr><td>7</td><td>18</td><td>─</td></tr><tr><td>8</td><td>20</td><td>─</td></tr><tr><td>9</td><td>─</td><td>─</td></tr></table></p>"
+		},
+		{
+			"id": "Extra Amplification",
+			"name": "心的増幅追加",
+			"description": "<p><strong>《心的増幅追加》 Extra Amplification</strong></p><p>君は増幅した効果を生み出すため、精神エネルギーを操ることに熟達した。</p><p><strong>前提条件：</strong>心的増幅クラス特徴。</p><p><strong>利益：</strong>君は心的増幅を追加で1つ得る。君は上級増幅を選択できない。</p><p><strong>特殊：</strong>君はこの特技を複数回修得できる。修得するたびに、君は異なる心的増幅を1つ得る。</p>"
+		},
+		{
+			"id": "Extra Arcana",
+			"name": "メイガスの秘奥追加",
+			"description": "<p><strong>《メイガスの秘奥追加》 Extra Arcana</strong></p><p>君は新しいメイガスの秘奥の秘密を解明した。</p><p><strong>前提条件：</strong>メイガスの秘奥のクラス特徴。</p><p><strong>利益：</strong>君は1つの追加のメイガスの秘奥を得る。追加されるこのメイガスの秘奥はすべての前提条件を満たさなければならない。</p><p><strong>特殊：</strong>君は複数回この特技を得ることができる。その効果は累積し、君がこの特技を得るたびに新しいメイガスの秘奥を与える。</p>"
+		},
+		{
+			"id": "Extra Arcane Pool",
+			"name": "秘術集積追加",
+			"description": "<p><strong>《秘術集積追加》 Extra Arcane Pool</strong></p><p>君はどのようにして、より多くの力を秘術集積から汲み上げるかを学んだ。</p><p><strong>前提条件：</strong>秘術集積のクラス特徴。</p><p><strong>利益：</strong>君の秘術集積は2増加する。</p><p><strong>特殊：</strong>君はこの特技を複数回修得できる。特技を修得するたびに秘術集積は増加し、その効果は累積する。</p>"
+		},
+		{
+			"id": "Extra Arcanist Exploit",
+			"name": "アーケイニストの秘技追加",
+			"description": "<p><strong>《アーケイニストの秘技追加》 Extra Arcanist Exploit</strong></p><p>アーケイニストの秘技のレパートリーを拡張する。</p><p><strong>前提条件：</strong>“アーケイニストの秘技”のクラス特徴。</p><p><strong>利益：</strong>アーケイニストの秘技を追加で1つ得る。そのアーケイニストの秘技の前提条件は満たしていなければならない。</p><p><strong>特殊：</strong>この特技は複数回修得できる。修得するたび、別のアーケイニストの秘技を1つ得る。</p>"
+		},
+		{
+			"id": "Extra Bane",
+			"name": "滅ぼし時間追加",
+			"description": "<p><strong>《滅ぼし時間追加》 Extra Bane</strong></p><p>君は通常よりも頻繁に滅ぼし能力を使用することができる。</p><p><strong>前提条件：</strong>“滅ぼし”のクラス特徴。</p><p><strong>利益：</strong>君は1日あたり追加で3ラウンド、“滅ぼし”の能力を使用することができる。</p>"
+		},
+		{
+			"id": "Extra Bombs",
+			"name": "爆弾追加",
+			"description": "<p><strong>《爆弾追加》 Extra Bombs</strong></p><p>君は1日により多くの爆弾を投擲できる。</p><p><strong>前提条件：</strong>“爆弾”クラス特徴。</p><p><strong>利益：</strong>1日に追加で2回“爆弾”を投擲できる。</p><p><strong>特殊：</strong>君は《爆弾追加》を複数回修得できる。効果は累積する。</p>"
+		},
+		{
+			"id": "Extra Cantrips or Orisons",
+			"name": "0レベル呪文追加",
+			"description": "<p><strong>《0レベル呪文追加》 Extra Cantrips or Orisons</strong></p><p>君は下級呪文に精通している。</p><p><strong>前提条件：</strong>初級秘術呪文または祈りを発動する能力。</p><p><strong>利益：</strong>君の修得している初級秘術呪文へ2つの初級秘術呪文を、あるいは君の修得している祈りへ2つの祈りを追加する。</p><p><strong>特殊：</strong>君は複数回この特技を修得できる。君がこの特技を修得する度に、2つの初級秘術呪文または祈りを君の修得呪文に追加すること。</p>"
+		},
+		{
+			"id": "Extra Discovery",
+			"name": "発見追加",
+			"description": "<p><strong>《発見追加》 Extra Discovery</strong></p><p>君は新しい錬金術の発見をした。</p><p><strong>前提条件：</strong>“発見”クラス特徴。</p><p><strong>利益：</strong>“発見”を1つ追加で獲得する。この“発見”の前提条件は満たさなければならない。</p><p><strong>特殊：</strong>君は《発見追加》を複数回修得できる。</p>"
+		},
+		{
+			"id": "Extra Evolution",
+			"name": "進化追加",
+			"description": "<p><strong>《進化追加》 Extra Evolution</strong></p><p>君の幻獣はより多くの進化を持つ。</p><p><strong>前提条件：</strong>幻獣のクラス特徴。</p><p><strong>利益：</strong>君の幻獣の進化プールは＋1増加する。</p><p><strong>特殊：</strong>この進化は1レベルの時点で1回、加えて5、10、15、20レベルの時点で再び取得することができる。</p>"
+		},
+		{
+			"id": "Extra Focus Power",
+			"name": "念能力追加",
+			"description": "<p><strong>《念能力追加》 Extra Focus Power</strong></p><p>君は装具から追加で1つ念能力を得る。</p><p><strong>前提条件：</strong>念能力クラス特徴。</p><p><strong>利益：</strong>君は選択した装具系統で使用できる念能力から1つを追加で獲得する。前提条件を満たしたものを選択しなければならない。</p><p><strong>特殊：</strong>君はこの特技を装具系統を得るたびに1回選択することができ、18レベルの時点で上限は最大の7回となる。追加で習得するたびに、君は異なる念能力を1つ選択する。同じ装具系統を複数回選択した場合、その系統を選択するたびに、その系統の念能力を1回選択することができるようになる。</p>"
+		},
+		{
+			"id": "Extra Grit",
+			"name": "気概追加",
+			"description": "<p><strong>《気概追加》（気概） Extra Grit</strong></p><p>君はありふれたガンスリンガーより気概を持っている。</p><p><strong>前提条件：</strong>“気概”のクラス特徴または@UUID[Compendium.pf1.feats.Item.nxfb1Cxl628nYR3L]{素人ガンスリンガー}。</p><p><strong>利益：</strong>君は1日の開始時に追加で2気概ポイントを得る。君の気概の最大値は2増加する。</p><p><strong>通常：</strong>君がガンスリンガーであるならば、1日の開始時に【判断力】修正値に等しい気概ポイントを得る（それは君の気概の最大値でもある）。君が《素人ガンスリンガー》特技を修得しているならば、君は1日の開始時に1気概ポイントを得て、【判断力】修正値に等しい気概の最大値を持つ。</p><p><strong>特殊：</strong>君がガンスリンガーのクラス・レベルを持つならば、君は複数回この特技を修得することができる。</p>"
+		},
+		{
+			"id": "Extra Hex",
+			"name": "呪術追加",
+			"description": "<p><strong>《呪術追加》 Extra Hex</strong></p><p>君は新たな呪術の秘密を学んだ。</p><p><strong>前提条件：</strong>“呪術”のクラス特徴。</p><p><strong>利益：</strong>君は追加で1つの呪術を得る。君はその呪術の前提条件を満たしていなくてはならない。もし君がシャーマンなら、その呪術は浮遊霊からではなく霊から与えられるものではなくてはならない。</p><p><strong>特殊：</strong>この特技は複数回修得できる。1回修得するたび、別の呪術を1つ得る。</p>"
+		},
+		{
+			"id": "Extra Inspiration",
+			"name": "閃き追加",
+			"description": "<p><strong>《閃き追加》 Extra Inspiration</strong></p><p>君はより多くの閃きを引き出すことができる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.Item.SS99IHuvIvzQ1v92]{素人インヴェスティゲーター}または“閃き”のクラス特徴。</p><p><strong>利益：</strong>君は閃きプールに追加で1日3回の使用回数を得る。</p><p><strong>特殊：</strong>君がインヴェスティゲーターのクラス・レベルを持っているなら、この特技を複数回修得できる。1回修得するたび、1日の閃き使用回数を3回得る。</p>"
+		},
+		{
+			"id": "Extra Investigator Talent",
+			"name": "インヴェスティゲーターの技追加",
+			"description": "<p><strong>《インヴェスティゲーターの技追加》 Extra Investigator Talent</strong></p><p>君は訓練と閃きによって新たなやり方を学んだ。</p><p><strong>前提条件：</strong>“インヴェスティゲーターの技”のクラス特徴。</p><p><strong>利益：</strong>追加でインヴェスティゲーターの技を1つ得る。君はそのインヴェスティゲーターの技の前提条件を満たしておく必要がある。</p><p><strong>特殊：</strong>この特技は複数回修得できる。修得するたびに、君は別のインヴェスティゲーターの技を1つ得る。</p>"
+		},
+		{
+			"id": "Extra Martial Flexibility",
+			"name": "多様なる武術追加",
+			"description": "<p><strong>《多様なる武術追加》 Extra Martial Flexibility</strong></p><p>戦闘において君はすこぶる多芸である。</p><p><strong>前提条件：</strong>“多様なる武術”のクラス特徴。</p><p><strong>利益：</strong>君は追加で1日に3回、多様なる武術能力を使用できる。</p>"
+		},
+		{
+			"id": "Extra Mental Focus",
+			"name": "念集積追加",
+			"description": "<p><strong>《念集積追加》 Extra Mental Focus</strong></p><p>君は高めた念集積を身につけている。</p><p><strong>前提条件：</strong>念集積クラス特徴。</p><p><strong>利益：</strong>君は念集積を追加で2ポイント得る。</p>"
+		},
+		{
+			"id": "Extra Mesmerist Tricks",
+			"name": "メスメリストの技使用回数追加",
+			"description": "<p><strong>《メスメリストの技使用回数追加》 Extra Mesmerist Tricks</strong></p><p>君は通常より多くのメスメリストの技を使用することができる。</p><p><strong>前提条件：</strong>メスメリストの技クラス特徴。</p><p><strong>利益：</strong>君は1日に追加で2回、メスメリストの技を埋め込むことができる。</p><p><strong>特殊：</strong>君は《メスメリストの技使用回数追加》を複数回修得できる。効果は累積する。</p>"
+		},
+		{
+			"id": "Extra Panache",
+			"name": "心意気追加",
+			"description": "<p><strong>《心意気追加》（心意気） Extra Panache</strong></p><p>そこらのスワッシュバックラーより、君の方が心意気がある。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.Item.Vov43JkBzhtPn2T9]{素人スワッシュバックラー}または“心意気”のクラス特徴。</p><p><strong>利益：</strong>1日の開始時に君は2ポイント多く心意気ポイントを得、君の心意気の最大値が2だけ増加する。</p><p><strong>特殊：</strong>君がスワッシュバックラーのクラス・レベルを持っているなら、この特技を複数回修得できる。1回修得するたび、これらの利益は2ずつ上昇する。この効果は累積する。</p>"
+		},
+		{
+			"id": "Extra Rage Power",
+			"name": "激怒パワー追加",
+			"description": "<p><strong>《激怒パワー追加》 Extra Rage Power</strong></p><p>君は激怒する間に使う、新しい能力を解放した。</p><p><strong>前提条件：</strong>“激怒パワー”クラス特徴。</p><p><strong>利益：</strong>“激怒パワー”を1つ追加で獲得する。前提条件は満たさなければならない。</p><p><strong>特殊：</strong>この特技は複数回修得でき、効果は累積する。</p>"
+		},
+		{
+			"id": "Extra Reservoir",
+			"name": "秘術蓄積追加",
+			"description": "<p><strong>《秘術蓄積追加》 Extra Reservoir</strong></p><p>君が蓄積できる秘術エネルギーは並のものより多い。</p><p><strong>前提条件：</strong>“秘術蓄積”のクラス特徴。</p><p><strong>利益：</strong>君は秘術蓄積を追加で3ポイント得る。秘術蓄積の最大値は3増加する。</p><p><strong>特殊：</strong>この特技は複数回修得できる。この効果は累積する。</p>"
+		},
+		{
+			"id": "Extra Revelation",
+			"name": "啓示追加",
+			"description": "<p><strong>《啓示追加》 Extra Revelation</strong></p><p>君は啓示の新しい面を発見した。</p><p><strong>前提条件：</strong>“啓示”クラス特徴。</p><p><strong>利益：</strong>“啓示”を1つ追加で獲得する。前提条件は満たさなければならない。</p><p><strong>特殊：</strong>君は《啓示追加》を複数回修得できる。</p>"
+		},
+		{
+			"id": "Extra Slayer Talent",
+			"name": "スレイヤーの技追加",
+			"description": "<p><strong>《スレイヤーの技追加》 Extra Slayer Talent</strong></p><p>長い訓練を経て、君は特別な技の魅せ方を学んだ。</p><p><strong>前提条件：</strong>“スレイヤーの技”のクラス特徴。</p><p><strong>利益：</strong>君は追加でスレイヤーの技を1つ得る。君はそのスレイヤーの技の前提条件を満たしておく必要がある。</p><p><strong>特殊：</strong>この特技は複数回修得できる。1回修得するたび、別のスレイヤーの技を1つ得る。</p>"
+		},
+		{
+			"id": "Fleshwarper",
+			"name": "フレッシュウォープ作成",
+			"description": "<p><strong>《フレッシュウォープ作成》（アイテム作成） Fleshwarper</strong></p><p>君は忌まわしい錬金術のプロセスを介して、クリーチャーを製作できる。</p><p><strong>前提条件：</strong>〈製作：錬金術〉5ランク、〈治療〉5ランク、悪属性。</p><p><strong>利益：</strong>君はフレッシュウォープ化クリーチャーとフレッシュクラフトの移植片を製作できる（詳細はフレッシュウォープ化参照、ページ165）。新しく製作されたフレッシュウォープ化クリーチャーはヒット・ダイスの平均値のヒット・ポイントを持つ。</p>"
+		},
+		{
+			"id": "Flyby Attack",
+			"name": "かすめ飛び攻撃",
+			"description": "<p><strong>《かすめ飛び攻撃》 Flyby Attack</strong></p><p>クリーチャーは飛行中移動の途中で攻撃することができる。</p><p><strong>前提条件：</strong>飛行速度。</p><p><strong>利益：</strong>飛行中、クリーチャーは1回の移動アクションに加えて、1回の標準アクションを移動の途中の好きな地点で行うことができる。かすめ飛び攻撃を行ったラウンドの間は、そのクリーチャーは2回目の移動アクションをとることはできない。</p><p><strong>通常：</strong>この特技を持たない場合、クリーチャーは1回の標準アクションを、移動の前か後に行うことができる。</p>"
+		},
+		{
+			"id": "Following Step",
+			"name": "追尾強化",
+			"description": "<p><strong>《追尾強化》（戦闘） Following Step</strong></p><p>君は通常移動を妨げずに、敵が移動しようとする距離を縮めることができる。</p><p><strong>前提条件：</strong>【敏】13、@UUID[Compendium.pf1.feats.Item.Mz8ZG6nqW3NKFZhK]{追尾}。</p><p><strong>利益：</strong>隣接した敵を追いかけるために《追尾》特技を使用する際、10フィートまで移動してもよい。君は依然として次のターンに5フィート・ステップを行うことができ、この特技を使用した移動が次のターンの間に君が移動する距離から引かれるということもない。</p><p><strong>通常：</strong>@UUID[Compendium.pf1.feats.Item.Mz8ZG6nqW3NKFZhK]{追尾}を使用して敵を追いかける際には、5フィート・ステップしか行えない。</p>"
+		},
+		{
+			"id": "Furious Focus",
+			"name": "狂乱集中",
+			"description": "<p><strong>《狂乱集中》（戦闘） Furious Focus</strong></p><p>強烈で激しい打撃の最中でさえ、君は暴虐の中での勘所を見出せ、君の一見乱暴な一撃は急所を突ける。</p><p><strong>前提条件：</strong>【筋】13、@UUID[Compendium.pf1.feats.Item.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>両手武器か片手武器を両手で持って@UUID[Compendium.pf1.feats.Item.FUW5mIXHNBBIQ1Sq]{強打}特技を使用する際、ターン毎に最初の1回の攻撃は@UUID[Compendium.pf1.feats.Item.FUW5mIXHNBBIQ1Sq]{強打}によるペナルティを無視できる。それ以外の追加攻撃は機会攻撃も含め、通常のペナルティを受ける。</p>"
+		},
+		{
+			"id": "Greater Dirty Trick",
+			"name": "上級裏技",
+			"description": "<p><strong>《上級裏技》（戦闘） Greater Dirty Trick</strong></p><p>君が裏技を使うとき、敵は本当に妨害される。</p><p><strong>前提条件：</strong>【知】13、@UUID[Compendium.pf1.feats.Item.NFxHebU1XhEs5WJh]{攻防一体}、@UUID[Compendium.pf1.feats.Item.LUOETW7Fm0oPKKWj]{裏技強化}、基本攻撃ボーナス＋6。</p><p><strong>利益：</strong>敵に裏技を仕掛ける際の戦技判定に＋2ボーナスを得る。この効果は《裏技強化》の効果と累積する。裏技の試みが成功した場合、与えるペナルティは1d4ラウンド持続する。戦技判定の達成値が戦技防御値を5上回るごとに、さらに持続時間が1ラウンド延びる。加えて、裏技により与えた状態を解除するために、目標は標準アクションを使用しなければならない。</p>"
+		},
+		{
+			"id": "Greater Drag",
+			"name": "上級引きずり",
+			"description": "<p><strong>《上級引きずり》（戦闘） Greater Drag</strong></p><p>君が引きずる敵は、バランスがとれていない状態で投げられる。</p><p><strong>前提条件：</strong>【筋】13、@UUID[Compendium.pf1.feats.Item.FUW5mIXHNBBIQ1Sq]{強打}、@UUID[Compendium.pf1.feats.Item.e1zIVW9AcrmRrYvx]{引きずり強化}、基本攻撃ボーナス＋6。</p><p><strong>利益：</strong>君が敵を引きずる際の判定に＋2のボーナスを得る。このボーナスは《引きずり強化》のボーナスと累積する。君が敵に引きずりを行なった際、敵の移動は君の仲間全て（君自身を除く）からの機会攻撃を誘発する。</p><p><strong>通常：</strong>引きずりによって移動させられたクリーチャーは機会攻撃を誘発しない。</p>"
+		},
+		{
+			"id": "Greater Reposition",
+			"name": "上級位置ずらし",
+			"description": "<p><strong>《上級位置ずらし》（戦闘） Greater Reposition</strong></p><p>君が位置ずらしをした時、敵は君の仲間の攻撃に無防備で晒される。</p><p><strong>前提条件：</strong>【知】13、@UUID[Compendium.pf1.feats.Item.NFxHebU1XhEs5WJh]{攻防一体}、@UUID[Compendium.pf1.feats.Item.CYHloH6aEnfgdxAV]{位置ずらし強化}、基本攻撃ボーナス＋6。</p><p><strong>利益：</strong>敵に位置ずらしを仕掛ける際の戦技判定に＋2ボーナスを得る。この効果は《位置ずらし強化》のボーナスと累積する。位置ずらしによる対象の移動は、君の仲間（君自身を除く）からの機会攻撃を誘発する。</p>"
+		},
+		{
+			"id": "Greater Steal",
+			"name": "上級盗み取り",
+			"description": "<p><strong>《上級盗み取り》（戦闘） Greater Steal</strong></p><p>君は戦闘中、敵からアイテムを奪うコツを心得ている。</p><p><strong>前提条件：</strong>【知】13、@UUID[Compendium.pf1.feats.Item.NFxHebU1XhEs5WJh]{攻防一体}、@UUID[Compendium.pf1.feats.Item.Kbuy0bkPlOYz5yaO]{盗み取り強化}、基本攻撃ボーナス＋6。</p><p><strong>利益：</strong>敵に“盗み取り”を仕掛ける際の戦技判定に＋2ボーナスを得る。この効果は@UUID[Compendium.pf1.feats.Item.Kbuy0bkPlOYz5yaO]{盗み取り強化}の効果と累積する。戦闘中に相手からアイテムを盗むことに成功したなら、アイテムを使用しようとするまで目標はアイテムが無くなったことに気付かない。</p><p><strong>通常：</strong>クリーチャーは“盗み取り”戦技によりアイテムが奪われたことに自動的に気づく。</p>"
+		},
+		{
+			"id": "Hover",
+			"name": "ホバリング",
+			"description": "<p><strong>《ホバリング》 Hover</strong></p><p>クリーチャーは空中に静止することができ、塵と破片の雲を巻き起こすことができる。</p><p><strong>前提条件：</strong>飛行速度。</p><p><strong>利益：</strong>この特技を持つクリーチャーは、飛行中に移動を止め、〈飛行〉判定をする必要なく空中に静止することができる。</p><p>この特技を持つ大型サイズ以上のクリーチャーが地表から20フィート以内でホバリングしており、地表に固定されていない飛び散りやすいものが散乱しているなら、翼の巻き起こす風により半径60フィートの半球状の雲が出来上がる。この風は松明や小さな焚き火、覆われてないランタンなど、魔法によるものでない小さな覆われていない火を吹き消してしまう。この雲の中では良好な視界は10フィートに制限される。15～20フィートの距離にいるクリーチャーは視認困難（20％の失敗確率）を得る。25フィート以上の距離では、クリーチャーは完全視認困難（失敗確率50％に加え、敵はクリーチャーの位置を特定するのに視覚を使用できない）を得る。</p><p><strong>通常：</strong>この特技なしでは、クリーチャーはホバリングするためには〈飛行〉判定をしなければならない。また飛び散りやすいもので雲を作り出すことはできない。</p>"
+		},
+		{
+			"id": "Improved Dirty Trick",
+			"name": "裏技強化",
+			"description": "<p><strong>《裏技強化》（戦闘） Improved Dirty Trick</strong></p><p>君は、敵に使う裏技に熟練している。</p><p><strong>前提条件：</strong>【知】13、@UUID[Compendium.pf1.feats.Item.NFxHebU1XhEs5WJh]{攻防一体}。</p><p><strong>利益：</strong>君は裏技の戦技を使用する際に機会攻撃を誘発しない。加えて、君は裏技の戦技判定に＋2ボーナスを得る。さらに君は敵から裏技の戦技を試みられる際の戦技防御値に＋2ボーナスを得る。</p>"
+		},
+		{
+			"id": "Improved Drag",
+			"name": "引きずり強化",
+			"description": "<p><strong>《引きずり強化》（戦闘） Improved Drag</strong></p><p>君は、戦場で敵を引きずる事に熟練している。</p><p><strong>前提条件：</strong>【筋】13、@UUID[Compendium.pf1.feats.Item.FUW5mIXHNBBIQ1Sq]{強打}、基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>君は引きずりの戦技を試みる際に機会攻撃を誘発しない。加えて、君は敵を引きずる際の判定に＋2のボーナスを得る。君はまた、敵が君を引きずろうという試みに対する戦技防御値に＋2のボーナスを得る。</p><p><strong>通常：</strong>君は引きずりの戦技を試みる際に機会攻撃を誘発する。</p>"
+		},
+		{
+			"id": "Improved Ki Throw",
+			"name": "合気投げ強化",
+			"description": "<p><strong>《合気投げ強化》（戦闘） Improved Ki Throw</strong></p><p>君の手にかかれば敵も生きた武器になる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.Item.IWcbDa0ITsDdiHjo]{合気投げ}、@UUID[Compendium.pf1.feats.Item.dn2KgHFQRbuoNRx0]{突き飛ばし強化}。</p><p><strong>利益：</strong>君が@UUID[Compendium.pf1.feats.Item.IWcbDa0ITsDdiHjo]{合気投げ}特技を使用する際、君が機会攻撃範囲に収めている、他のクリーチャーが占めるマスに投げてもよい。この二次目標に対して、判定に－5のペナルティを受けた上で“突き飛ばし”を行なう。成功したなら、投げられたクリーチャーは二次目標がいたマスに移動し、二次目標は隣接マスに押しやられ伏せ状態になる。判定に失敗したなら、投げられたクリーチャーは君が機会攻撃範囲に収めている、二次目標に隣接したマスに移動し、伏せ状態となる。もし大型かそれより大きいクリーチャーを複数の二次目標がいるマスに投げようとするなら、初めの判定以降1体毎に－4のペナルティを受ける。</p><p><strong>特殊：</strong>モンクはこの特技を14レベルの時点でボーナス特技として獲得できる。</p>"
+		},
+		{
+			"id": "Improved Natural Armor",
+			"name": "外皮強化",
+			"description": "<p><strong>《外皮強化》 Improved Natural Armor</strong></p><p>クリーチャーの外皮はほとんどの個体のものよりも丈夫である。</p><p><strong>前提条件：</strong>外皮、【耐久力】13。</p><p><strong>利益：</strong>クリーチャーの外皮ボーナスは1上昇する。</p><p><strong>特殊：</strong>クリーチャーはこの特技を複数回修得できる。クリーチャーがこの特技を修得するたびに、その外皮ボーナスはもう1ポイント上昇する。</p>"
+		},
+		{
+			"id": "Improved Natural Attack",
+			"name": "肉体攻撃強化",
+			"description": "<p><strong>《肉体攻撃強化》 Improved Natural Attack</strong></p><p>クリーチャーの肉体攻撃の1つはぶっそうなダメージを与える。</p><p><strong>前提条件：</strong>肉体武器、基本攻撃ボーナス＋4。</p><p><strong>利益：</strong>クリーチャーの肉体攻撃形態の1つ（素手打撃を除く）を選択する。その肉体武器のダメージは、まるでクリーチャーのサイズ分類が1段階大きくなったかのように1ステップ上昇する。各ステップは1d2、1d3、1d4、1d6、1d8、2d6、3d6、4d6、6d6、8d6、12d6という具合に大きくなっていく。</p><p>1d10ポイントのダメージを与える武器や攻撃は以下のように大きくなっていく：1d10、2d8、3d8、4d8、6d8、8d8、12d8。</p><p><strong>特殊：</strong>この特技は複数回取得できる。効果は累積しない。クリーチャーが1回修得するたびに、この特技が別の1つの肉体武器に適用される。</p>"
+		},
+		{
+			"id": "Improved Reposition",
+			"name": "位置ずらし強化",
+			"description": "<p><strong>《位置ずらし強化》（戦闘） Improved Reposition</strong></p><p>君は敵を戦場で強制的に移動させる術を学んだ。</p><p><strong>前提条件：</strong>【知】13、@UUID[Compendium.pf1.feats.Item.NFxHebU1XhEs5WJh]{攻防一体}。</p><p><strong>利益：</strong>君は位置ずらしの戦技の試みにおいて機会攻撃を誘発しない。加えて、位置ずらしの判定に＋2ボーナスを得る。また敵が君を位置ずらしする際の戦技防御値に＋2ボーナスを得る。</p>"
+		},
+		{
+			"id": "Improved Swap Places",
+			"name": "位置入れ替え強化",
+			"description": "<p><strong>《位置入れ替え強化》（戦闘、チームワーク） Improved Swap Places</strong></p><p>君が仲間と位置を入れ替えるとき、君のサイズは問題ではない。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.Item.4FheAz49TCHTCl6O]{位置入れ替え}。</p><p><strong>利益：</strong>君と仲間が@UUID[Compendium.pf1.feats.Item.4FheAz49TCHTCl6O]{位置入れ替え}を使用するとき、君の仲間が君よりも1段階大きいか小さい場合でも使用でき、君が仲間のマスへ移動しても機会攻撃を誘発しない。もし君の仲間が君が元いた場所に収まらず、仲間の残りの部分を収めるために使える隣接マスがない場合、仲間は無理矢理入り込んでいることになる。もしくは、移動の一部として、君の仲間は占有したいマスにいるクリーチャーに対して、突き飛ばし戦技を試みることができる。この突き飛ばしでは、そのクリーチャーを5フィート以上移動させることはできない。</p><p><strong>通常：</strong>@UUID[Compendium.pf1.feats.Item.4FheAz49TCHTCl6O]{位置入れ替え}は君と仲間が同じサイズでなければならず、君が仲間のマスに進入する移動は機会攻撃を誘発する。</p>"
+		},
+		{
+			"id": "Ki Throw",
+			"name": "合気投げ",
+			"description": "<p><strong>《合気投げ》（戦闘） Ki Throw</strong></p><p>身体制御と体さばきによって、君は敵を投げることができる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.Item.gTrGPxzN054GfpkM]{足払い強化}、@UUID[Compendium.pf1.feats.Item.2aTFNMs3pW6nUBlr]{素手打撃強化}。</p><p><strong>利益：</strong>武器を使用しない足払いに成功し、目標が君と同じかそれより小さいなら、目標を君が機会攻撃範囲に収めるマスに移動させる。これにより機会攻撃は誘発しない。また、移動先は他のクリーチャーにより占められていないマスでなければならない。</p><p><strong>特殊：</strong>モンクはこの特技を10レベルの時点でボーナス特技として獲得できる。この特技を有するモンクは、1気ポイントを支払うごとに君より1段階大きいクリーチャーにこの特技の効果を及ぼすことができる。</p>"
+		},
+		{
+			"id": "Lingering Performance",
+			"name": "持続する呪芸",
+			"description": "<p><strong>《持続する呪芸》 Lingering Performance</strong></p><p>君が演奏をやめた後にさえ、バードの呪芸の効果は持続する。</p><p><strong>前提条件：</strong>“バードの呪芸”クラス特徴。</p><p><strong>利益：</strong>“バードの呪芸”のボーナス及びペナルティは、呪芸の終了後2ラウンドの間持続する。間合いや特別な状態といったそれ以外の要素については、通常通りの持続時間となる。君がこの持続時間に新しい呪芸を使用したなら、以前の呪芸によって持続している効果は直ちに終了する。</p>"
+		},
+		{
+			"id": "Magical Tail",
+			"name": "魔法の尾",
+			"description": "<p><strong>《魔法の尾》 Magical Tail</strong></p><p>君は自らの魔法の力が成長したことを示す追加の尾を生やす。</p><p><strong>前提条件：</strong>キツネ。</p><p><strong>利益：</strong>君は新しい擬似呪文能力を1つ得る。これらはそれぞれ1日に2回ずつ使用することができ、以下のリストから順番に選択する：@UUID[Compendium.pf1.spells.Item.oj36nfak6jc2s5ky]{ディスガイズ・セルフ}、@UUID[Compendium.pf1.spells.Item.tjog6bufg5b08lvq]{チャーム・パースン}、@UUID[Compendium.pf1.spells.Item.8nrt26t37v7koqr8]{ミスディレクション}、@UUID[Compendium.pf1.spells.Item.oylikodnyku2zewu]{インヴィジビリティ}、@UUID[Compendium.pf1.spells.Item.zqj5qzyl46af27v0]{サジェスチョン}、@UUID[Compendium.pf1.spells.Item.r190q9zxmei82lmv]{ディスプレイスメント}、@UUID[Compendium.pf1.spells.Item.n0bsyxchnigkkuqo]{コンフュージョン}、@UUID[Compendium.pf1.spells.Item.q070n0zoq3zojpas]{ドミネイト・パースン}。例えばこの特技を初めて選択したなら、君は@UUID[Compendium.pf1.spells.Item.oj36nfak6jc2s5ky]{ディスガイズ・セルフ} 2／日を得る。この特技を2回目に選択したなら、君は@UUID[Compendium.pf1.spells.Item.tjog6bufg5b08lvq]{チャーム・パースン} 2／日を得る。これらの呪文の術者レベルは、君のヒット・ダイスに等しい。これらの能力の難易度は【魅力】を基準とする。</p><p><strong>特殊：</strong>君はこの能力を8回まで選択できる。修得するたびに記載したように追加の能力を獲得する。</p>"
+		},
+		{
+			"id": "Multiattack",
+			"name": "複数回攻撃",
+			"description": "<p><strong>《複数回攻撃》（戦闘） Multiattack</strong></p><p>クリーチャーは肉体武器で攻撃することに熟練している。</p><p><strong>前提条件：</strong>3回かそれ以上の肉体攻撃。</p><p><strong>利益：</strong>クリーチャーの肉体武器を使った二次的攻撃は－2のペナルティしか受けない。</p><p><strong>通常：</strong>この特技なしでは、クリーチャーの肉体武器を使った二次的攻撃は－5のペナルティを受ける。</p>"
+		},
+		{
+			"id": "Outflank",
+			"name": "協調挟撃",
+			"description": "<p><strong>《協調挟撃》（戦闘、チームワーク） Outflank</strong></p><p>君は敵を挟撃するときに、それぞれの刃の先を見る。</p><p><strong>前提条件：</strong>基本攻撃ボーナス＋4。</p><p><strong>利益：</strong>この特技を修得している仲間とともに同じ敵を挟撃しているなら、挟撃による攻撃ロールへのボーナスは＋4に向上する。加えて、この特技を修得している仲間と同じ敵を挟撃している際にこの敵にクリティカル・ヒットを与えたのなら、この敵は仲間の機会攻撃を誘発する。</p>"
+		},
+		{
+			"id": "Pack Attack",
+			"name": "集団攻撃",
+			"description": "<p><strong>《集団攻撃》（戦闘、チームワーク） Pack Attack</strong></p><p>君は君の敵を取り囲むことに熟練している。</p><p><strong>前提条件：</strong>基本攻撃ボーナス＋1。</p><p><strong>利益：</strong>君がこの特技を有する味方と隣接しているとき、君は相手への最初の近接攻撃を行う際に割り込みアクションを消費することで、君がそのラウンドにその他の移動を行なっていた場合であっても5フィート・ステップを行うことができる。</p><p><strong>通常：</strong>君はこのラウンド中、他に移動していない場合に限り5フィート・ステップを行うことができる。</p>"
+		},
+		{
+			"id": "Paired Opportunists",
+			"name": "機会を見逃さぬ相棒",
+			"description": "<p><strong>《機会を見逃さぬ相棒》（戦闘、チームワーク） Paired Opportunists</strong></p><p>君は敵に怠慢な防御のツケをどのように払わせるかを知っている。</p><p><strong>利益：</strong>この特技を修得している仲間と隣接しているとき、この仲間とともに機会攻撃範囲に収めている敵に対する機会攻撃に＋4の状況ボーナスを得る。この仲間の機会攻撃を誘発させた敵は、君がその敵を機会攻撃範囲に収めている限り（君が本来機会攻撃を行えない状況や能力であったとしても）君からの機会攻撃も誘発させる。この特技を修得したからといって、君が1体のクリーチャーが行なう1回のアクションに対して機会攻撃を複数回行えるようにはならない。</p>"
+		},
+		{
+			"id": "Precise Strike",
+			"name": "精密なる協調攻撃",
+			"description": "<p><strong>《精密なる協調攻撃》（戦闘、チームワーク） Precise Strike</strong></p><p>仲間が敵の気を散らす限り、君は攻撃をする事に熟練している。</p><p><strong>前提条件：</strong>【敏】13、基本攻撃ボーナス＋1</p><p><strong>利益：</strong>この特技を修得している仲間と君が同じ敵を挟撃しているなら、この敵に対して近接攻撃が成功するごとに＋1d6の精密さによるダメージを追加する。このボーナスは急所攻撃のような、他の精密さによるダメージと累積する。このダメージはクリティカル・ヒットによって増加することは無い。</p>"
+		},
+		{
+			"id": "Psychic Sensitivity",
+			"name": "念術感応",
+			"description": "<p><strong>《念術感応》 Psychic Sensitivity</strong></p><p>君は心霊世界に至る、秘密の扉を開く。</p><p><strong>利益：</strong>君は自分が関連する技能を持つ心霊技能解放を使用できるようになる。適切な技能のランクを有していない場合、例えその技能が未訓練でも使用できるものであっても、君はその心霊技能解放を使用できない。</p><p><strong>通常：</strong>心霊技能解放を使用するためには、君は念術呪文発動能力を有していなければならない。</p>"
+		},
+		{
+			"id": "Quick Stow",
+			"name": "早収め",
+			"description": "<p><strong>《早収め》（戦闘） Quick Stow</strong></p><p>君はアイテムや武器を簡単に収めることができる。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.Item.WKIVfdosc5SqYzmP]{早抜き}、基本攻撃ボーナス ＋1。</p><p><strong>利益：</strong>君は武器を収めるとき機会攻撃を誘発せず、通常の移動アクションで、通常の移動と武器の収納を組み合わせることができる。この方法で、君は同じ移動アクションの一部として、武器を収めると同時に抜くことができる。@UUID[Compendium.pf1.feats.Item.Ee7JHADKEK37tTHs]{二刀流}特技を持つ場合、君は通常1つの武器を収めるのにかかる時間で、2つの軽い武器または片手武器を収めることができる。</p><p>また、君は背負い袋など身に着けているか持ち運んでいる収容物にアイテムを素早く収納することもできる。アイテムを拾うためのアクションを使用するのに成功したとき（これには〈手先の早業〉判定や盗み取りの戦技判定に成功してアイテムを盗み取ることも含まれる）、アイテムを取得するのに使用したのと同じアクションでアイテムを収めることができる。君はこの物体を隠そうとするために、すべての相手の〈知覚〉判定の結果に対して、－20のペナルティを受けて対抗〈手先の早業〉判定を試みることができる。</p>"
+		},
+		{
+			"id": "Quicken Spell-Like Ability",
+			"name": "擬似呪文能力高速化",
+			"description": "<p><strong>《擬似呪文能力高速化》 Quicken Spell-Like Ability</strong></p><p>クリーチャーは擬似呪文能力の1つをほとんど何の努力もせずに使用することができる。</p><p><strong>前提条件：</strong>術者レベル10以上の擬似呪文能力。</p><p><strong>利益：</strong>クリーチャーの擬似呪文能力を1つ選択すること。ただし選択可能な擬似呪文能力は下記のように制限を受ける。クリーチャーはその能力を1日に3回まで高速化された擬似呪文能力として使用できる（その能力がもともと1日に1回か2回しか使用できない場合は高速化して使用できる回数もそれに応じて少なくなる）。</p><p>高速化した擬似呪文能力の使用は即行アクションであり、機会攻撃を誘発しない。クリーチャーは高速化した擬似呪文能力を使用したのと同じラウンドに、もう1つ別のアクションを行うことができる。これにより、擬似呪文能力をもう一度使用することもできる。クリーチャーは高速化した擬似呪文能力を1ラウンドに1回しか使用できない。</p><p>クリーチャーは自らの術者レベルの半分（端数切捨て）－4以下の呪文レベルの呪文を複製する擬似呪文能力しか選択することができない。以下に一覧としてまとめた表があるので参照のこと。</p><p>発動時間が1全ラウンドよりも長い呪文を複製する擬似呪文能力は高速化することができない。</p><p><strong>通常：</strong>通常、擬似呪文能力を使用する行為は（少なくとも）標準アクションであり、機会攻撃を誘発する。</p><p><strong>特殊：</strong>この特技は複数回修得できる。クリーチャーは1回修得するたびに、この特技を別の1つの擬似呪文能力に適応することができる。</p><p><table border='1'><caption><strong>《擬似呪文能力威力強化》と《擬似呪文能力高速化》</strong></caption><thead><tr><th>呪文レベル</th><th>威力強化に必要な術者レベル</th><th>高速化に必要な術者レベル</th></tr></thead><tr><td>0</td><td>4</td><td>8</td></tr><tr><td>1</td><td>6</td><td>10</td></tr><tr><td>2</td><td>8</td><td>12</td></tr><tr><td>3</td><td>10</td><td>14</td></tr><tr><td>4</td><td>12</td><td>16</td></tr><tr><td>5</td><td>14</td><td>18</td></tr><tr><td>6</td><td>16</td><td>20</td></tr><tr><td>7</td><td>18</td><td>─</td></tr><tr><td>8</td><td>20</td><td>─</td></tr><tr><td>9</td><td>─</td><td>─</td></tr></table></p>"
+		},
+		{
+			"id": "Robot's Bane",
+			"name": "ロボット殺し",
+			"description": "<p><strong>《ロボット殺し》 Robot's Bane</strong></p><p>君はロボットや科学技術が行う攻撃や効果を避け、効率的にこれらと闘う方法を訓練した。</p><p><strong>前提条件：</strong>〈知識：工学〉5ランク</p><p><strong>利益：</strong>君は（ロボット）の副種別を持つクリーチャーに対する攻撃ロールとダメージ・ロールに＋1のボーナスを得る。加えて、君はロボットが行う攻撃や効果に対して、アーマー・クラスに＋1の回避ボーナスとセーヴィング・スローに＋1のボーナスを得る。君が〈知識：工学〉を11ランク以上持つ場合、これらのボーナスは＋2に増加する。君が〈知識：工学〉を17ランク以上持つなら、これらのボーナスは＋3に増加する。</p><p><strong>特殊：</strong>君が人造を得意な敵に選んだ場合、君はこの特技によって得られたボーナスの代わりに、（もし高ければ）人造に対する得意な敵ボーナスを用いることができる。これらのボーナスはもう一方の能力から与えられたボーナスと累積しない。君は得意な敵のボーナスを用いながら、この特技のアーマー・クラスやセーヴィング・スローのボーナスを加えることができる。</p>"
+		},
+		{
+			"id": "Scavenger's Luck",
+			"name": "ガラクタ集めの幸運",
+			"description": "<p><strong>《ガラクタ集めの幸運》 Scavenger's Luck</strong></p><p>君は経年劣化した科学技術からより良い振る舞いを引き出す。</p><p><strong>前提条件：</strong>〈知識：工学〉1ランク</p><p><strong>利益：</strong>君が経年劣化した科学技術を用いて判定し、その結果が突発異常をもたらしたなら、君は再ロールを行うことができる。特定の突発異常を決定する前に、再ロールするかどうかを決定しなければならない。また、例えより悪い結果になったとしても、2回目にロールした結果を用いなければならない。君が経年劣化した科学技術を使用する際、出目1で自動的に突発異常が起きることはない。</p>"
+		},
+		{
+			"id": "Shake It Off",
+			"name": "振り払い",
+			"description": "<p><strong>《振り払い》（チームワーク） Shake It Off</strong></p><p>君は仲間を支え、彼らが不自由な効果の影響下から脱するのを手伝う。</p><p><strong>利益：</strong>この特技を持つ1人以上の仲間に君が隣接している時、君はセーヴィング・スローにこの仲間の人数に等しいボーナス（最大＋4）を得る。</p>"
+		},
+		{
+			"id": "Signature Skill",
+			"name": "二つ名たる技能",
+			"description": "<p><strong>《二つ名たる技能》（一般） Signature Skill</strong></p><p>君が特定の技能に示す能力は伝説の類いである。君は他人ができないことをこの技能で成し遂げることができる。</p><p><strong>前提条件：</strong>選択する技能5ランク。</p><p><strong>利益：</strong>技能1つを選択する。君はその技能の5ランクの項に書かれている能力を得る。選択した技能により高いランクを得たなら、君は追加の能力を得る。君が既に選択した技能を10ランク以上有している場合、君は直ちに適切な能力を得る。選択した技能が〈芸能〉、〈職能〉、〈製作〉、〈知識〉の場合、君はこの技能の1分野（〈製作：弓作り〉など）の能力のみを得る。この特技は1回だけしか修得できないが、ローグの超越技能能力や超越技能追加ローグの技と累積する。</p><p>各技能の技能開放については@UUID[Compendium.pf1.rules.JournalEntry.x175kVqUfLGPt8tC]{ルール：技能}を参照。</p>"
+		},
+		{
+			"id": "Signature Skill (Acrobatics)",
+			"name": "二つ名たる技能：軽業",
+			"description": "<p><strong>《二つ名たる技能：軽業》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈軽業〉5ランク</p><p>〈軽業〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>君は機会攻撃を誘発させずに敵の機会攻撃範囲を通常の速度で通過する際、敵の機会攻撃範囲の1マスごとに、〈軽業〉判定の難易度を（通常の10ではなく）5だけ増加させる。君は難易度20以下の〈軽業〉判定を試みる際、【敏捷力】ボーナスを失わない。</p><p><strong>10ランク：</strong>君は－10のペナルティを受けて〈軽業〉判定を試み、その結果を足払い戦技に対する戦技防御値として使用することができる。君は同様に、落下を避けるために行う反応セーヴの代わりに、－10のペナルティを受けた〈軽業〉判定を試みることができる。この能力を使用するかどうかは、足払いの試みや反応セーヴがロールされる前に宣言しなければならない。難易度20の〈軽業〉判定に成功することで、君は故意でない落下の落下距離を10フィート減少させることができる。この時、難易度を10上回る毎に、落下距離を追加で10フィートずつ減少させること。</p><p><strong>15ランク：</strong>君は@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.VbagnIPQS523dwxa]{伏せ状態}から立ち上がる際、機会攻撃を誘発しない。</p><p><strong>20ランク：</strong>君は跳躍の際、〈軽業〉判定の結果を2倍にする。加えて、意識を保っている限り、落下後に@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.VbagnIPQS523dwxa]{伏せ状態}にならない。</p>"
+		},
+		{
+			"id": "Signature Skill (Appraise)",
+			"name": "二つ名たる技能：鑑定",
+			"description": "<p><strong>《二つ名たる技能：鑑定》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈鑑定〉5ランク</p><p>〈鑑定〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>難易度20の〈鑑定〉判定に成功すれば、そのアイテムが魔法のものであるかどうかが分かる。もう一度判定を行い（難易度＝25＋アイテムの術者レベル）、成功すればその特性がわかる。君は〈鑑定〉を使用して、文書以外の捏造や偽造に気付くことができる。</p><p><strong>10ランク：</strong>標準アクションで難易度20の〈鑑定〉判定に成功することで、君はクリーチャーが（一辺5フィートの立方体の中で）身に着けていたり装備しているもののうち、最も高価な物体を識別することができる。君はそのアイテムの価値をおおまかに見積もることはできない。</p><p><strong>15ランク：</strong>移動アクションにより、上述の最も高価な物体を識別する事ができるようになる。君は（虚像）もしくは（幻覚）効果に対する意志セーヴを、－10のペナルティを受けた〈鑑定〉判定で代用することができる。</p><p><strong>20ランク：</strong>上述の最も高価な物体を識別する行為は移動アクションで済む。この判定に成功すれば、その物体に盗み取り戦技や武器落とし戦技を試みる際の戦技判定に＋2の状況ボーナスを得る。このボーナスは1分間持続する。</p>"
+		},
+		{
+			"id": "Signature Skill (Bluff)",
+			"name": "二つ名たる技能：はったり",
+			"description": "<p><strong>《二つ名たる技能：はったり》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈はったり〉5ランク</p><p>〈はったり〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>判定に失敗した後にクリーチャー1体に〈はったり〉を使用する際に受けるペナルティは半減する。ただし、5以上の差で失敗した場合は通常のままである。</p><p><strong>10ランク：</strong>判定に失敗した後にクリーチャー1体に〈はったり〉を使用する際、君はペナルティを受けない。ただし、5以上の差で失敗した場合は通常のままである。</p><p><strong>15ランク：</strong>魔法を用いて、君の思考を読もうとしたり、属性を識別したり、君が嘘を付いていることを暴こうとするクリーチャーは、術者レベル判定（難易度＝11＋〈はったり〉の技能ランク）を行わねばならず、失敗するとこの効果は何の情報ももたらさない。</p><p><strong>20ランク：</strong>全ラウンド・アクションとして、君は30フィート以内のクリーチャー1体に@UUID[Compendium.pf1.spells.zqj5qzyl46af27v0]{サジェスチョン}（最大の持続時間は1時間）呪文と同様の示唆を行うことができる（意志・無効、難易度＝15＋君の【魅力】修正値）。この@UUID[Compendium.pf1.spells.zqj5qzyl46af27v0]{サジェスチョン}に対するセーヴに成功したクリーチャーは、この効果に対して24時間の間完全耐性を持つ。示唆を受けたクリーチャーが君の指示を疑うような事態に陥れば、再度セーヴィング・スローを行う。これは［精神作用］（強制）の変則的能力である。</p>"
+		},
+		{
+			"id": "Signature Skill (Climb)",
+			"name": "二つ名たる技能：登攀",
+			"description": "<p><strong>《二つ名たる技能：登攀》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈登攀〉5ランク</p><p>〈登攀〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>君は登攀時、【敏捷力】ボーナスを失わない。</p><p><strong>10ランク：</strong>君は生来の登攀移動速度10フィートを得る（ただし〈登攀〉判定に＋8の種族ボーナスは得られない）。この効果は〈登攀〉難易度が20以下の面に対してのみ機能する。</p><p><strong>15ランク：</strong>〈登攀〉難易度が20以下の面において、君は自分の基本移動速度に等しい、生来の登攀移動速度を得る（ただし〈登攀〉判定に＋8の種族ボーナスは得られない）。〈登攀〉難易度が20を超える面では、代わりに登攀移動速度10フィートを得る。</p><p><strong>20ランク：</strong>君はいかなる面であっても、基本移動速度に等しい生来の登攀移動速度を得る。両手が空いているなら、君は〈登攀〉判定に＋8の種族ボーナスを得る。</p>"
+		},
+		{
+			"id": "Signature Skill (Craft)",
+			"name": "二つ名たる技能：製作",
+			"description": "<p><strong>《二つ名たる技能：製作》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈製作〉5ランク</p><p>〈製作〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>一週間の進捗を決定する際、アイテムの難易度によって結果を増加させる前に、〈製作〉判定の結果を2倍にする。</p><p><strong>10ランク：</strong>判定を10以上の差で失敗しないかぎり、原材料を失わない。</p><p><strong>15ランク：</strong>進捗を決定する際、判定の結果を用いて銀貨（sp）換算で毎日どれだけ仕事が完了したかを算出する。</p><p><strong>20ランク：</strong>魔法の防具、魔法の武器、魔法の指輪、その他の魔法のアイテムを作成する際、そのアイテムが自分の〈製作〉の種別に適合するならば、通常の〈製作〉のルールに従い作成することができる。</p>"
+		},
+		{
+			"id": "Signature Skill (Diplomacy)",
+			"name": "二つ名たる技能：交渉",
+			"description": "<p><strong>《二つ名たる技能：交渉》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈交渉〉5ランク</p><p>〈交渉〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>クリーチャーの態度を改善したり情報収集を行ったりする際に必要な時間が半分で済む。</p><p><strong>10ランク：</strong>君はクリーチャーの態度を1ラウンドで改善しようと試みることができる。この判定には－10のペナルティを受ける。クリーチャーの態度を改善するために1分かけるならば、変更した態度が持続する期間が、【魅力】ボーナス＋1につき1時間だけ増加する。</p><p><strong>15ランク：</strong>君はペナルティを受けることなく、クリーチャーの態度を1ラウンドで改善しようと試みることができる。クリーチャーの態度を改善するために1分かけるならば、変更した態度が持続する期間が、【魅力】ボーナス＋1につき（1時間ではなく）1日だけ増加する。君は－5のペナルティを受けることで、情報収集を10分で行うことができる。</p><p><strong>20ランク：</strong>君はペナルティを受けることなく、クリーチャーの態度を1ラウンドで改善しようと試みることができる。クリーチャーの態度を改善するために1分かけるならば、変更した態度が持続する期間が、【魅力】ボーナス＋1につき（1時間ではなく）1週間だけ増加する。君はペナルティを受けることなく、情報収集を1d4分で行うことができる。</p>"
+		},
+		{
+			"id": "Signature Skill (Disable Device)",
+			"name": "二つ名たる技能：装置無力化",
+			"description": "<p><strong>《二つ名たる技能：装置無力化》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈装置無力化〉5ランク</p><p>〈装置無力化〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>罠の解除や解錠の際、〈装置無力化〉判定に－5のペナルティを受けることで、必要な時間を1段階縮めることができる。必要な時間の段階は以下のとおり：2d4ラウンド、1d4ラウンド、1ラウンド、標準アクション、移動アクション、即行アクション。</p><p><strong>10ランク：</strong>君が罠探し能力を有していない場合でも、－10のペナルティを受けることで魔法の罠を解除することができる。罠探し能力を有しているならば、魔法の罠を解除するとき、君は罠を起動することはなくなる（シンボルを見るなど、起動させる行為を行った場合でも起動しない）。判定に失敗すると依然として君は罠を起動させてしまう。また、君はこの能力を使用して罠を回避することはできない。</p><p><strong>15ランク：</strong>罠によって攻撃された際、君は割り込みアクションとして〈装置無力化〉判定を試みることができる（もしあれば、この判定には罠感知のボーナスが加えられる）。この判定は罠の攻撃ロールかセーヴ難易度に対する対抗判定となる。成功すれば、君はダメージを半分しか受けない（難易度より10以上高い結果となれば、一切のダメージを受けない）。</p><p><strong>20ランク：</strong>5ランクの時点で得た素早い解除を試みる際、そのペナルティを半減させる。君が罠探し能力を持ち、15ランクの時点で得た解除能力を行う際に－20のペナルティを受けるなら、近くにいる仲間全てがその利益を得る。加えて、君は割り込みアクションで起動される前に罠を解除することができる。これにはその罠の難易度を最低でも10以上上回らなければならない。</p>"
+		},
+		{
+			"id": "Signature Skill (Disguise)",
+			"name": "二つ名たる技能：変装",
+			"description": "<p><strong>《二つ名たる技能：変装》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈変装〉5ランク</p><p>〈変装〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>君は1d3分で変装することができる。</p><p><strong>10ランク：</strong>君は1d3ラウンドで変装することができる。君が自分の姿を変える際通常の時間を費やすなら、君は性差、種族、年齢段階の異なる姿に変装する際にペナルティを受けない。</p><p><strong>15ランク：</strong>君は全ラウンド・アクションで変装することができる。</p><p><strong>20ランク：</strong>君は標準アクションで変装することができる。また、全ラウンド・アクションとして変装と同時に@UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.kRK5XwVBvcMi35w2]{はったり}判定を行い、隠れるための隙を作り出すことができる。</p>"
+		},
+		{
+			"id": "Signature Skill (Escape Artist)",
+			"name": "二つ名たる技能：脱出術",
+			"description": "<p><strong>《二つ名たる技能：脱出術》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈脱出術〉5ランク</p><p>〈脱出術〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>－10のペナルティを受けるなら、この技能に必要な時間は半分で済む。すなわち、@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.i4gHNAVajJWs4cFI]{組みつき状態}や@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.poCq8gXdDi5leaMT]{押さえ込まれた状態}から逃れるには移動アクション、ネット、@UUID[Compendium.pf1.spells.7k5ypftnzy9r7mzz]{アニメイト・ロープ}、@UUID[Compendium.pf1.spells.wi9uvm8p12qvq616]{コマンド・プランツ}、@UUID[Compendium.pf1.spells.szzwom7utm3sm15z]{コントロール・プランツ}呪文から逃れるには標準アクションとなる。</p><p><strong>10ランク：</strong>@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.oxmugd8SoxVjvRRl]{絡みつかれた状態}を与える効果から逃れるために、君は〈脱出術〉判定（難易度＝効果のセーヴ難易度＋10）を試みることができる。クリーチャー1体をロープや拘束具から逃がすために、君は〈脱出術〉判定（同じ難易度を用いる）を試みることができる。全ラウンド・アクションを用いるなら、君はこの判定に＋10のボーナスを得る。</p><p><strong>15ランク：</strong>君は移動アクションにより、（上述の）@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.oxmugd8SoxVjvRRl]{絡みつかれた状態}を与える効果から逃れることができる。標準アクションを用いた〈脱出術〉判定に成功すれば、君は1ラウンドの間スロー効果や@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.24p2Koq4FFCLDKnj]{麻痺状態}を与える効果を1ラウンドの間抑止することができる（難易度＝効果のセーヴ難易度＋20）。難易度を5上回る毎に、追加で1ラウンド抑止することができる。これは全くの精神的な行為であると見なされ、@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.24p2Koq4FFCLDKnj]{麻痺状態}であっても行うことができる。</p><p><strong>20ランク：</strong>君は割り込みアクションで〈脱出術〉判定を行い、@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.poCq8gXdDi5leaMT]{押さえ込まれた状態}、@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.oxmugd8SoxVjvRRl]{絡みつかれた状態}、@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.i4gHNAVajJWs4cFI]{組みつき状態}から逃れようと試みることができる（難易度＝効果の難易度もしくは攻撃したものの戦技ボーナス＋10）。君は標準アクションにより、1ラウンドの間スロー効果や@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.24p2Koq4FFCLDKnj]{麻痺状態}を与える効果を1ラウンドの間抑止することができる（難易度は10だけ増加する）。この行為は代わりに、移動アクション（難易度は15だけ増加する）や割り込みアクション（難易度は20だけ増加する）で行うこともできる。</p>"
+		},
+		{
+			"id": "Signature Skill (Fly)",
+			"name": "二つ名たる技能：飛行",
+			"description": "<p><strong>《二つ名たる技能：飛行》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈飛行〉5ランク</p><p>〈飛行〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>難易度20の〈飛行〉判定に成功すれば、君は移動速度を減少させることなく、45度の旋回を行うことができる。</p><p><strong>10ランク：</strong>難易度30の〈飛行〉判定に成功すれば、君は移動速度を減少させることなく、45度の角度で上昇することができる。君は空中で何かと衝突しても、難易度10の〈飛行〉判定に成功すれば落下距離を10フィート減少させることができる。難易度を10上回る毎に、追加で10フィート減少する。</p><p><strong>15ランク：</strong>難易度30の〈飛行〉判定に成功すれば、君は移動速度を減少させることなく90度の旋回を行うか、移動速度を5フィート減少させて180度旋回することができる。君は〈飛行〉判定において風力効果を考慮する際、サイズが1段階大きいものと見なされる。</p><p><strong>20ランク：</strong>難易度35の〈飛行〉判定に成功すれば、君は移動速度を減少させることなく、真上に上昇することができる。君は〈飛行〉判定において風力効果を考慮する際、サイズが2段階大きいものと見なされる。</p>"
+		},
+		{
+			"id": "Signature Skill (Handle Animal)",
+			"name": "二つ名たる技能：動物使い",
+			"description": "<p><strong>《二つ名たる技能：動物使い》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈動物使い〉5ランク</p><p>〈動物使い〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>君に隣接している間、君が訓練したクリーチャーは意志セーヴに＋2のボーナスを得る。</p><p><strong>10ランク：</strong>君が30フィート以内にいてはっきりと姿が見えるのであれば、君が訓練したクリーチャーは意志セーヴに＋2のボーナスを得る。君は難易度を20だけ増加させることで、1日で芸1つを教えることができる。</p><p><strong>15ランク：</strong>君は1週間訓練して難易度30の〈動物使い〉判定に成功することで、動物1体を訓練し、@UUID[Compendium.pf1.spells.ct9fhh8uawn8e4md]{スピーク・ウィズ・アニマルズ}のように君の言葉を理解させることができる。この行為は依然として【知性】の制限を受ける。君は難易度を10だけ増加させることで、1日で芸1つを教えることができる。難易度を20だけ増加させるなら、1時間で芸1つを教えることができる。</p><p><strong>20ランク：</strong>君は24時間をかけ難易度30の〈動物使い〉判定に成功することで、いかなる動物であっても君の言葉を理解させることができる。難易度40の判定に成功すれば、魔獣や蟲にこの効果を適用できる。君は1日で芸1つを教えることができる。1時間あるいは1分で芸1つを教えることもできるが、1時間しかかけないならば難易度は10だけ、1分しかかけないならば難易度20だけ増加する。</p>"
+		},
+		{
+			"id": "Signature Skill (Heal)",
+			"name": "二つ名たる技能：治療",
+			"description": "<p><strong>《二つ名たる技能：治療》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈治療〉5ランク</p><p>〈治療〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>傷の治療の際、目標は丸一日休息したかのように、ヒット・ポイントと能力値ダメージを回復する。</p><p><strong>10ランク：</strong>傷の治療の際、目標は長期的な看護の下、丸一日休息したかのようにヒット・ポイントを回復する。</p><p><strong>15ランク：</strong>傷の治療の際、目標は3日間休息したかのようにヒット・ポイントと能力値ダメージを回復する。</p><p><strong>20ランク：</strong>傷の治療の際、目標は長期的な看護の下、3日間休息したかのようにヒット・ポイントと能力値ダメージを回復する。</p>"
+		},
+		{
+			"id": "Signature Skill (Intimidate)",
+			"name": "二つ名たる技能：威圧",
+			"description": "<p><strong>《二つ名たる技能：威圧》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈威圧〉5ランク</p><p>〈威圧〉のランクが条件を満たしている場合、下記の能力を得るアスタリスク（*）は合計持続時間は1ラウンド＋君が難易度を5上回るたびに1ラウンドを超えることはできないことを意味する。</p><p><strong>5ランク：</strong>目標の士気をくじくための難易度を10以上上回ったなら、目標は1ラウンドの間@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.uqpJ7ZMnWF5qjOTl]{恐れ状態}となり、以降*は@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.XxLUswkCuXnXmA5T]{怯え状態}となる。意志セーヴ（難易度＝10＋君の〈威圧〉ランク）に成功すれば、この@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.uqpJ7ZMnWF5qjOTl]{恐れ状態}を無効にできるが、強固能力を有していたとしても、目標は@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.XxLUswkCuXnXmA5T]{怯え状態}のままである。</p><p><strong>10ランク：</strong>目標の士気をくじくための難易度を10以上上回ったなら、目標は1ラウンドの間@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.nGTsTfpWcJTTU3rk]{恐慌状態}となるか1d4ラウンドの間@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.uqpJ7ZMnWF5qjOTl]{恐れ状態}となり（使用者が選択する）、以降*は@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.XxLUswkCuXnXmA5T]{怯え状態}となる。意志セーヴ（難易度＝10＋君の〈威圧〉ランク）に成功すれば、この@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.nGTsTfpWcJTTU3rk]{恐慌状態}と@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.uqpJ7ZMnWF5qjOTl]{恐れ状態}を無視できるが、強固能力を有していたとしても、目標は@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.XxLUswkCuXnXmA5T]{怯え状態}のままである。</p><p><strong>15ランク：</strong>目標の士気をくじくための難易度を20以上上回ったなら、目標は1ラウンドの間@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.eNW5geiJqrnAjjNu]{戦慄状態}となるか1d4ラウンドの間@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.nGTsTfpWcJTTU3rk]{恐慌状態}となり（使用者が選択する）、以降*は@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.uqpJ7ZMnWF5qjOTl]{恐れ状態}となる。意志セーヴ（難易度＝10＋君の〈威圧〉ランク）に成功すれば、この@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.eNW5geiJqrnAjjNu]{戦慄状態}、@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.nGTsTfpWcJTTU3rk]{恐慌状態}、@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.uqpJ7ZMnWF5qjOTl]{恐れ状態}を無視できるが、強固能力を有していたとしても、目標は@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.XxLUswkCuXnXmA5T]{怯え状態}のままである。</p><p><strong>20ランク：</strong>目標の士気をくじくための難易度を20以上上回ったなら、目標は1d4ラウンドの間@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.eNW5geiJqrnAjjNu]{戦慄状態}となり、以降*は@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.nGTsTfpWcJTTU3rk]{恐慌状態}となる。意志セーヴ（難易度＝10＋君の〈威圧〉ランク）に成功すれば、この@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.eNW5geiJqrnAjjNu]{戦慄状態}と@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.nGTsTfpWcJTTU3rk]{恐慌状態}を無視できるが、強固能力を有していたとしても、目標は@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.XxLUswkCuXnXmA5T]{怯え状態}のままである。</p>"
+		},
+		{
+			"id": "Signature Skill (Knowledge)",
+			"name": "二つ名たる技能：知識",
+			"description": "<p><strong>《二つ名たる技能：知識》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈知識〉5ランク</p><p>〈知識〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>クリーチャーの識別に成功したなら、君はこの〈知識〉技能5ランクごとに追加で1つの情報を得る。</p><p><strong>10ランク：</strong>クリーチャーの識別に成功したなら、君は1分の間、この種類のクリーチャー（グラブレズゥ・デーモンなど。他のデーモンや悪の来訪者には適用されない）に対する攻撃ロール、対抗能力値判定、技能判定、術者レベル判定に＋1の技量ボーナスを得る。このボーナスは君が10ランクを超える5ランクを有する毎に、1ずつ増加する。</p><p><strong>15ランク：</strong>〈知識〉判定に失敗した場合、君はこの判定に－10のペナルティを受けて再ロールを行うことができる。上述の技量ボーナスは、識別したクリーチャーが使用した変則的能力、擬似呪文能力、超常能力に対するセーヴィング・スローにも適用される。</p><p><strong>20ランク：</strong>〈知識〉判定を試みる際、君は2回ロールしてより良い結果を選択する。</p>"
+		},
+		{
+			"id": "Signature Skill (Linguistics)",
+			"name": "二つ名たる技能：言語学",
+			"description": "<p><strong>《二つ名たる技能：言語学》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈言語学〉5ランク</p><p>〈言語学〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>（@UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.kRK5XwVBvcMi35w2]{はったり}技能による）秘密のメッセージのやり取りに気づき理解する際、君は@UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.ka0VQGItdrWw3paO]{真意看破}の代わりに〈言語学〉を使用することができる。君は文書に仕掛けられた魔法の罠を識別し解除するために行う@UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.cSdUATLHBFfw3v4s]{装置無力化}判定と@UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.2h6hz5AkTDxKPFxr]{知覚}判定に＋1の洞察ボーナスを得る。このボーナスは〈言語学〉の5ランクを超える5ランク毎に1ずつ増加する。</p><p><strong>10ランク：</strong>文書を読み解く際に行う〈言語学〉判定に10以上の差で成功したならば、君は一般的な内容以上の正確な意味を理解することができる。また、君は判定に失敗しても決して誤った結論に到達しない。難易度30の〈言語学〉判定に成功すれば、君は発言の一般的な内容を明らかにすることができる。難易度35の〈言語学〉判定に成功すれば、特定の意図を1d4個暴くことができ、難易度40の〈言語学〉判定に成功すれば正確な意味を理解することができる。</p><p><strong>15ランク：</strong>〈言語学〉判定（難易度＝25＋術者レベル）に成功すれば、君は（@UUID[Compendium.pf1.spells.j0bc0iii8zp1jiwr]{リード・マジック}のように）魔法の書物を読み解くことができる。このようにして文書の魔法の罠を識別したならば、君はその罠を解除するために行う@UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.cSdUATLHBFfw3v4s]{装置無力化}判定に＋2の状況ボーナスを得る。</p><p><strong>20ランク：</strong>君は1ラウンドに1ページの速度で、魔法の文書や通常の文書を読み解こうと試みることができる。1ページに1分を費やすなら、2回ロールしてより良い出目を使用することができる。</p>"
+		},
+		{
+			"id": "Signature Skill (Perception)",
+			"name": "二つ名たる技能：知覚",
+			"description": "<p><strong>《二つ名たる技能：知覚》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈知覚〉5ランク</p><p>〈知覚〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>君は眠っていても音に警戒し続けることができ、睡眠している間、〈知覚〉判定に対する難易度増加を半減する。〈知覚〉判定の難易度における距離の修正は、20フィート毎に＋1に減少する。</p><p><strong>10ランク：</strong>〈知覚〉判定の難易度における距離の修正は、30フィート毎に＋1に減少する。加えて、君は@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.Wr2ZWUZcyVWQ4GtX]{不可視状態}のクリーチャーや物体に気づいたり、それらの位置を知るために行う〈知覚〉判定に＋5のボーナスを得る。</p><p><strong>15ランク：</strong>君は眠っていても音に警戒し続けることができ、睡眠している間、〈知覚〉判定に対する難易度増加を受けない。〈知覚〉判定の難易度における距離の修正は、40フィート毎に＋1に減少する。</p><p><strong>20ランク：</strong>君は@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.Wr2ZWUZcyVWQ4GtX]{不可視状態}のクリーチャーや物体に気づいたり、それらの位置を知るために行う〈知覚〉判定に＋10のボーナスを得る。〈知覚〉判定の難易度における距離の修正は、60フィート毎に＋1に減少する。</p>"
+		},
+		{
+			"id": "Signature Skill (Perform)",
+			"name": "二つ名たる技能：芸能",
+			"description": "<p><strong>《二つ名たる技能：芸能》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈芸能〉5ランク</p><p>芸能〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>君が@UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.KNn8uxHu23phKC0y]{威圧}、@UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.uB9Fy36RUjibxqvt]{交渉}、@UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.IrVgSeMcAM8rAh2B]{動物使い}、@UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.kRK5XwVBvcMi35w2]{はったり}を試みる際、君は難易度20の〈芸能〉判定を行うことができる。この判定に成功したなら、君はそれらの判定に＋2の状況ボーナスを得る。</p><p><strong>10ランク：</strong>［感情］もしくは［言語依存］の補足説明を持つ呪文を発動する際、君は難易度25の〈芸能〉判定を行うことができる。この判定に成功したなら、発動しようとした呪文のセーヴ難易度を1だけ増加させる。</p><p><strong>15ランク：</strong>［感情］もしくは［言語依存］の補足説明を持つ呪文を発動する際、君は難易度30の〈芸能〉判定を行うことができる。この判定に成功したなら、発動しようとした呪文の術者レベルは1だけ増加する。呪文を発動する際、君はこの能力を使用するか、それとも10ランクの技能解放の能力を使用するか、一方だけを選択しなければならない。</p><p><strong>20ランク：</strong>@UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.KNn8uxHu23phKC0y]{威圧}、@UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.uB9Fy36RUjibxqvt]{交渉}、@UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.kRK5XwVBvcMi35w2]{はったり}から1つを選択する。選択した技能で技能判定を試みる際、君は同時に〈芸能〉判定を試み、両方の結果からより良い結果を使用することができる。</p>"
+		},
+		{
+			"id": "Signature Skill (Profession)",
+			"name": "二つ名たる技能：職能",
+			"description": "<p><strong>《二つ名たる技能：職能》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈職能〉5ランク</p><p>〈職能〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>〈職能〉判定を用いて毎週の収入を得る際、判定の結果に等しい金貨（gp）を得る。</p><p><strong>10ランク：</strong>〈職能〉判定を試みる際、君は2回ロールしてより良い出目を使用することができる。〈職能〉に関する質問に答える際、君は常に出目10を選択することができる。</p><p><strong>15ランク：</strong>君は1週間に1回ではなく、1日に1回収入を稼ぐことができる。</p><p><strong>20ランク：</strong>〈職能〉判定を試みる際、君は2回ロールする代わりに1回だけロールすることができる。そのようにして出目が10を下回った場合、その出目を10と置き換えること。〈職能〉に関する質問に答える際、君は常に出目20を選択することができる。</p>"
+		},
+		{
+			"id": "Signature Skill (Ride)",
+			"name": "二つ名たる技能：騎乗",
+			"description": "<p><strong>《二つ名たる技能：騎乗》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈騎乗〉5ランク</p><p>〈騎乗〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>君は@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.AVaxTNildXRzYnQm]{疲労状態}あるいは@UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.ITxxh53qgl74wWcE]{過労状態}を避けるために行う頑健セーヴと【耐久力】判定に、＋2のボーナスを得る。このボーナスは君が〈騎乗〉を5ランクを超える5ランク得る毎に1ずつ増加する。</p><p><strong>10ランク：</strong>乗騎に拍車をかける際、移動速度は20フィート増加し、乗騎は反応セーヴに＋2のボーナスとアーマー・クラスに＋2の回避ボーナスを得る。</p><p><strong>15ランク：</strong>騎乗している間に君もしくは乗騎が足払い、位置ずらし、蹴散らし、突き飛ばし、引きずりのいずれかの戦技を受けたなら、君は君（もしくは乗騎）の戦技防御値を〈騎乗〉判定の結果で代用することができる。</p><p><strong>20ランク：</strong>乗騎に拍車をかける際、移動速度は30フィート増加し、乗騎は反応セーヴに＋4のボーナスとアーマー・クラスに＋4の回避ボーナスを得る。</p>"
+		},
+		{
+			"id": "Signature Skill (Sense Motive)",
+			"name": "二つ名たる技能：真意看破",
+			"description": "<p><strong>《二つ名たる技能：真意看破》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈真意看破〉5ランク</p><p>〈真意看破〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>君がイニシアチブ判定の前に敵に気づいている場合（敵を急襲したり、交渉を戦闘で中断したりした場合など。ただし互いが偶然であったり、不意討ちを受けた場合は含まない）、君は〈真意看破〉判定（難易度＝11＋敵の中で最も高い@UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.kRK5XwVBvcMi35w2]{はったり}修正、もしくは難易度15のいずれか高い方）をイニシアチブ判定の一部として試みることができる。君が成功したなら、君はイニシアチブ判定に＋1のボーナスを得る。結果が難易度を5上回る毎に、このボーナスを追加で＋1ずつ増加させること。</p><p><strong>10ランク：</strong>1分間会話した後、君は（@UUID[Compendium.pf1.spells.xllxylvvqr82o2d5]{ディテクト・ソウツ}のように）クリーチャー1体の表面的な思考を読み解くことができる。その場合、－20のペナルティを受けて〈真意看破〉判定を試み、そのクリーチャーの@UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.kRK5XwVBvcMi35w2]{はったり}判定と対決しなければならない。</p><p><strong>15ランク：</strong>君は1分後に上述の表面的な思考の解読を行うことができる。加えて、攻撃を受けた際、君は割り込みアクションとして目標の攻撃ロールに対して対抗〈真意看破〉判定を試みることができる。判定に成功すれば、以降1分の間、君はその特定の敵による攻撃に対するアーマー・クラスに＋2の洞察ボーナスを得る。</p><p><strong>20ランク：</strong>君は標準アクションで上述の表面的な思考の解読を行うことができる。アーマー・クラスに洞察ボーナスを得るための判定に成功したなら、同時にこの能力を発生させた攻撃を無効化する。</p>"
+		},
+		{
+			"id": "Signature Skill (Sleight of Hand)",
+			"name": "二つ名たる技能：手先の早業",
+			"description": "<p><strong>《二つ名たる技能：手先の早業》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈手先の早業〉5ランク</p><p>〈手先の早業〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>君が武器落としあるいは盗み取りの戦技を試みる際、目標の戦技防御値に対する〈手先の早業〉判定に成功することで、この戦技判定に＋2の状況ボーナスを得る。</p><p><strong>10ランク：</strong>〈手先の早業〉判定を移動アクションで行う際のペナルティは－10に減少する。これにより、移動アクションで隠しておいた武器を抜くこともできる。</p><p><strong>15ランク：</strong>君は－20のペナルティを受けることで、〈手先の早業〉判定を即行アクションで行うことができる。これには隠しておいた武器を抜くことも含まれる。</p><p><strong>20ランク：</strong>君は移動アクションで〈手先の早業〉を使用する際にペナルティを受けることはなく、即行アクションで使用する場合でも－10のペナルティしか受けない。</p>"
+		},
+		{
+			"id": "Signature Skill (Spellcraft)",
+			"name": "二つ名たる技能：呪文学",
+			"description": "<p><strong>《二つ名たる技能：呪文学》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈呪文学〉5ランク</p><p>〈呪文学〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>魔法のアイテムは1全ラウンドで済む。呪文書から呪文を学ぶために必要な時間は半分になる。</p><p><strong>10ランク：</strong>君は@UUID[Compendium.pf1.spells.uqh87jz757r2cb7r]{ディテクト・マジック}を使用することなく魔法のアイテムを識別することができる。ただしその際、難易度は10増加する。</p><p><strong>15ランク：</strong>魔法のアイテムの識別は標準アクションで済む。呪文書から呪文を学ぶために必要な時間は呪文レベル毎に1分に減少する。</p><p><strong>20ランク：</strong>術者レベル判定を試みる際、－20のペナルティを受けた〈呪文学〉判定（同じ難易度を用いる）を試みること。この〈呪文学〉判定に成功したなら、術者レベル判定に＋2の状況ボーナスを得る。</p>"
+		},
+		{
+			"id": "Signature Skill (Stealth)",
+			"name": "二つ名たる技能：隠密",
+			"description": "<p><strong>《二つ名たる技能：隠密》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈隠密〉5ランク</p><p>〈隠密〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>狙撃における〈隠密〉へのペナルティを10だけ軽減する。</p><p><strong>10ランク：</strong>素早く移動することによる〈隠密〉へのペナルティは半減する。これには、〈隠密〉5ランクの技能解放能力、通常速度での移動、気を逸らした後に視認困難を得ることが含まれる。</p><p><strong>15ランク：</strong>〈隠密〉を成功させた後に行った攻撃に成功すれば、君は自分のターンの終了までに行う全ての攻撃に対して、（訳注：おそらくアーマー・クラスに対する）その目標の【敏捷力】ボーナスを無視する。</p><p><strong>20ランク：</strong>〈隠密〉を成功させた後に行った攻撃に成功すれば、君は次の自分のターンの開始までに行う全ての攻撃に対して、（訳注：おそらくアーマー・クラスに対する）その目標の【敏捷力】ボーナスを無視する。</p>"
+		},
+		{
+			"id": "Signature Skill (Survival)",
+			"name": "二つ名たる技能：生存",
+			"description": "<p><strong>《二つ名たる技能：生存》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈生存〉5ランク</p><p>〈生存〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>熱気や冷気、飢え、渇きによる全ての非致傷ダメージを、君の〈生存〉5ランクごとに1ポイントだけ減少させる。</p><p><strong>10ランク：</strong>君は飛行したり泳いだりするクリーチャーや跡無き足取りあるいはパス・ウィズアウト・トレイスを用いたクリーチャーなどの、痕跡を残さないクリーチャーを追跡することができる。この〈生存〉判定には－20のペナルティを受ける。</p><p><strong>15ランク：</strong>1日1回、君は1時間を費やして難易度30の〈生存〉判定を試みることができる。成功すると、君は［火炎］もしくは［氷雪］に対する抵抗5を得る。この効果は24時間続く。この判定の結果が難易度を5上回る毎に、追加で仲間1人にこの効果を与えることができる。</p><p><strong>20ランク：</strong>痕跡を残さないクリーチャーを追跡する際のペナルティが－10で済む。</p>"
+		},
+		{
+			"id": "Signature Skill (Swim)",
+			"name": "二つ名たる技能：水泳",
+			"description": "<p><strong>《二つ名たる技能：水泳》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈水泳〉5ランク</p><p>〈水泳〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>君は水泳移動速度10フィートを得る。ただし〈水泳〉難易度が15以下の水の中に限られる。</p><p><strong>10ランク：</strong>〈水泳〉難易度が15以下の水の中では、君は基本移動速度に等しい水泳移動速度を得る。それ以外の水の中では、10フィートの水泳移動速度を得る。いずれの水泳移動速度も、〈水泳〉判定に＋8の種族ボーナスを与えることはない。</p><p><strong>15ランク：</strong>君は@UUID[Compendium.pf1.spells.lvzq2mwkqmozolpl]{フリーダム・オヴ・ムーヴメント}の影響を受けているかのように、ペナルティを受けることなく水中で斬撃武器や殴打武器を使用することができる。</p><p><strong>20ランク：</strong>君はいかなる水の中でも基本移動速度に等しい水泳移動速度を得る。両手が自由なら、〈水泳〉判定に＋8の種族ボーナスを得る。</p>"
+		},
+		{
+			"id": "Signature Skill (Use Magic Device)",
+			"name": "二つ名たる技能：魔法装置使用",
+			"description": "<p><strong>《二つ名たる技能：魔法装置使用》</strong></p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.class-abilities.Item.iyYyc3rKW0cBZ1cs]{超越技能}のクラス能力、または@UUID[Compendium.pf1.feats.Item.zOxJqI5CG4VoycmQ]{二つ名たる技能}、〈魔法装置使用〉5ランク</p><p>〈魔法装置使用〉のランクが条件を満たしている場合、下記の能力を得る。</p><p><strong>5ランク：</strong>君は援護アクションを用いることで、他のクリーチャーの〈魔法装置使用〉判定に協力することができる。この際、そのアイテムを使用するために必要な〈魔法装置使用〉の難易度に対して判定を行うこと。</p><p><strong>10ランク：</strong>アイテムを起動する際に出目1をロールしたなら、24時間の間起動することができなくなるのではなく、24時間の間そのアイテムに対する〈魔法装置使用〉判定に－10のペナルティを受ける。このペナルティは出目1をロールするたびに累積する。</p><p><strong>15ランク：</strong>君はこの技能を使用して、同時に2つの種族あるいは2つの属性を模倣することができる。</p><p><strong>20ランク：</strong>アイテムを起動する際に出目1をロールしたなら、－10のペナルティを受けることでそのアイテムを起動するために再ロールを行うことができる。例え結果が悪くなっても二度目の結果を用いること。この結果をさらに再ロールすることはできない。</p>"
+		},
+		{
+			"id": "Snatch",
+			"name": "ひっつかみ",
+			"description": "<p><strong>《ひっつかみ》 Snatch</strong></p><p>クリーチャーは他のクリーチャーを楽々と捕らえることができる。</p><p><strong>前提条件：</strong>超大型サイズ以上。</p><p><strong>利益：</strong>このクリーチャーが爪か噛みつき攻撃を命中させたなら、つかみの特殊能力を持っているかのように組みつきをはじめることができる。自分より3段階以上サイズ分類の小さなクリーチャーに組みついたなら、組みつき判定に成功することで圧搾することにより毎ラウンド自動的に噛みつきか爪のダメージを与えることができる。ひっつかまれた敵が口で捕らえられているなら、クリーチャーのブレス攻撃（もしあれば）に対しては反応セーヴィング・スローを行うことができない。</p><p>クリーチャーはひっつかんだ1体のクリーチャーを1回のフリー・アクションで落っことすか、あるいは1回の標準アクションとして放り投げることができる。放り投げられたクリーチャーは1d6×10フィート飛び、飛んだ距離10フィートごとに1d6ポイントのダメージを受ける。クリーチャーが飛行中にひっつかんだ敵を放り投げたなら、敵はこのダメージか落下ダメージのうち、どちらか大きい方を受ける。</p>"
+		},
+		{
+			"id": "Spit Venom",
+			"name": "毒吐き",
+			"description": "<p><strong>《毒吐き》（戦闘） Spit Venom</strong></p><p>君は敵の目に毒の唾を吹き付ける、ナガジの戦士の技を身につけている。</p><p><strong>前提条件：</strong>ナガジ。</p><p><strong>利益：</strong>全ラウンド・アクションとして、君は10フィートまで届く遠隔接触攻撃として毒の唾を吐くことができる。命中した場合、目標は頑健セーヴを行わなければならず、失敗した場合は1d6ラウンドの間盲目状態になる。このセーヴの難易度は10＋君の合計ヒット・ダイス数の1/2＋君の【耐久力】修正値に等しい。君はこの能力を1日に1回と、それに加えて3ヒット・ダイスごとに追加で1日1回使用することができる。</p>"
+		},
+		{
+			"id": "Step Up and Strike",
+			"name": "追尾打撃",
+			"description": "<p><strong>《追尾打撃》（戦闘） Step Up and Strike</strong></p><p>敵が移動しようとする時に、君は追いかけた上に攻撃できる。</p><p><strong>前提条件：</strong>【敏】13、@UUID[Compendium.pf1.feats.Item.Mz8ZG6nqW3NKFZhK]{追尾}、@UUID[Compendium.pf1.feats.Item.QvfsBWvx7Rfb9Wb7]{追尾強化}、基本攻撃ボーナス＋6。</p><p><strong>利益：</strong>隣接した敵を追いかけるために《追尾》もしくは《追尾強化》特技を使用する際、君は最も高い基本攻撃ボーナスを使用して、その敵に1回の近接攻撃を行ってもよい。この攻撃はそのラウンドにおける1回の機会攻撃として数えられる。この特技を使用することは君がラウンドごとに通常行えるアクションの総数としてはカウントされない。</p><p><strong>通常：</strong>君は通常、毎ラウンド1回の標準アクションと1回の5フィート・ステップのみを行うことができる。</p>"
+		},
+		{
+			"id": "Swap Places",
+			"name": "位置入れ替え",
+			"description": "<p><strong>《位置入れ替え》（戦闘、チームワーク） Swap Places</strong></p><p>君は乱戦の中、仲間と場所を交代する事に熟練している。</p><p><strong>利益：</strong>君がこの特技を修得している仲間に隣接しているなら、君はその仲間のマスに通常の移動の一部として進入することができる。この時、仲間は割り込みアクションとして君の元々いたマスに移動できる。君とその仲間はこの特技による利益を得ることに同意しており、また移動することができなければならない。この特技を適用するには、君の仲間は君と同じサイズでなければならない。この特技によって君の仲間が行う移動は機会攻撃を誘発しないが、君の移動は通常通り機会攻撃を誘発する。この移動を行なっても、仲間の次のターンの移動速度としては数えられない。</p>"
+		},
+		{
+			"id": "Tail Terror",
+			"name": "脅威的な尾撃",
+			"description": "<p><strong>《脅威的な尾撃》（戦闘） Tail Terror</strong></p><p>君は尾で叩きつけ攻撃を行えるほどに尾を鍛えた。</p><p><strong>前提条件：</strong>基本攻撃ボーナス＋1、コボルド。</p><p><strong>利益：</strong>君は尾を使用して尾による叩きつけ攻撃を行うことができる。これは二次的肉体攻撃であり、1d4ポイントの殴打ダメージを与える。さらに、君はコボルドの尾アタッチメントを使用して尾による叩きつけ攻撃を補強することができる。武器特技の目的において、君は全てのコボルドの尾アタッチメントに習熟しているものと見なされる。</p>"
+		},
+		{
+			"id": "Technologist",
+			"name": "科学技術者",
+			"description": "<p><strong>《科学技術者》 Technologist</strong></p><p>君は科学技術の基本的な仕組みに慣れ親しんでいる。</p><p><strong>利益：</strong>君は科学技術に関する事柄に対して技能を使用する際、常に訓練済みと見なされる。科学技術以外の事柄に対して使用する際でも訓練済みでなければならない技能に対しては、《科学技術者》の利益を得るために、その技能にランクを割り振っていなければならない。</p><p><strong>通常：</strong>君は科学技術に対して行う全ての技能判定を、訓練していない技能判定であるかのように扱う。これは、例えその技能にランクを有していたとしても、特定の技能判定を試みることができないことを意味する。</p>"
+		},
+		{
+			"id": "Technology Adept",
+			"name": "科学技術の熟達者",
+			"description": "<p><strong>《科学技術の熟達者》（戦闘） Technology Adept</strong></p><p>君はハイテク火器を使って最高の効果を与える。</p><p><strong>前提条件：</strong>【敏】13、@UUID[Compendium.pf1.feats.Item.8rsFtye3PwM6CKli]{近距離射撃}、@UUID[Compendium.pf1.feats.Item.BJBC4lbo7xGWPsKJ]{特殊武器習熟：火器}</p><p><strong>利益：</strong>君がチャージを消費する科学技術の火器で攻撃を行う際、その火器による効果のセーヴ難易度が1だけ増加する。@UUID[Compendium.pf1.feats.Item.8rsFtye3PwM6CKli]{近距離射撃}から適用されたボーナスを得ているなら、そのボーナスは2に増加する。</p>"
+		},
+		{
+			"id": "Technophobe",
+			"name": "ハイテク嫌い",
+			"description": "<p><strong>《ハイテク嫌い》 Technophobe</strong></p><p>忌み嫌う科学技術を破壊すると、君は楽しくて堪らない。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.Item.lpXdFoT6OqS5vi2X]{武器破壊強化}</p><p><strong>利益：</strong>君がロボットのヒット・ポイントを0にまで減少させるか敵が所有している科学技術アイテムを破壊したなら、君は能力値判定、攻撃ロール、セーヴィング・スロー、技能判定に＋2の士気ボーナスを得る。このボーナスは君の【判断力】ボーナスに等しいラウンド（最低1ラウンド）だけ持続する。1ラウンド以内に敵が所有していた物体ならば、君は誰も所有していない物体を破壊することでもこのボーナスを得る。</p>"
+		},
+		{
+			"id": "Vicious Stomp",
+			"name": "危険な踏みつけ",
+			"description": "<p><strong>《危険な踏みつけ》（戦闘） Vicious Stomp</strong></p><p>敵が倒れた時の一瞬の有利さを利用して、君は残酷に敵を蹴りつける。</p><p><strong>前提条件：</strong>@UUID[Compendium.pf1.feats.Item.2aTFNMs3pW6nUBlr]{素手打撃強化}、@UUID[Compendium.pf1.feats.Item.h9nHYLxXvIXBTmup]{迎え討ち}。</p><p><strong>利益：</strong>君に隣接している敵が倒れて伏せ状態になった時はいつでも、その敵は君からの機会攻撃を誘発する。この攻撃は素手打撃でなくてはならない。</p>"
+		},
+		{
+			"id": "Wingover",
+			"name": "急旋回",
+			"description": "<p><strong>《急旋回》 Wingover</strong></p><p>クリーチャーは飛行中、素早く向きを変えることができる。</p><p><strong>前提条件：</strong>飛行速度。</p><p><strong>利益：</strong>この特技を持つクリーチャーは各ラウンドに1回、フリー・アクションとして〈飛行〉判定なしで180度まで向きを変えることができる。この旋回はクリーチャーの移動距離をなんら余分に消費しない。</p><p><strong>通常：</strong>飛行しているクリーチャーは難易度15の〈飛行〉判定に成功し飛行移動のうち5フィートを消費することによって、90度までの旋回を行うことができる。飛行しているクリーチャーは難易度20の〈飛行〉判定に成功し飛行移動のうち10フィートを消費することによって、180度までの旋回を行うことができる。</p>"
+		},
+		{
+			"id": "Wrest Charge",
+			"name": "チャージ強奪",
+			"description": "<p><strong>《チャージ強奪》 Wrest Charge</strong></p><p>君は別の枯渇した技術からチャージを吸い出すことができる。</p><p><strong>前提条件：</strong>〈装置無力化〉5ランク、〈知識：工学〉 5ランク</p><p><strong>利益：</strong>難易度20の〈装置無力化〉判定に成功すれば、使い切った（しかし破壊されていない）バッテリー1つを間に合わせで用いて、1チャージ多く引き出すことができる。このチャージを使用したり、この判定で5以上の差で失敗すると、このバッテリーは永続的に使い切ったままとなってしまう。</p><p>君は経年劣化した科学技術をチャージ消費する際に最後の1チャージを加えるために、同様の判定を試みることができる。その結果にかかわらず、ただ1人であっても、他にどのような試みを行うこともできない。この特技を使用するには1分間かかる。君はこの判定に－10のペナルティを受けることで、この特技を移動アクションで試みることができる。この特技は、チャージを再利用することのできる効果とは累積しない。</p>"
 		}
 	]
 }
