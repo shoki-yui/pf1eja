@@ -2005,12 +2005,12 @@
     "SubDomain": "副領域",
     "CastingTime": "発動時間",
     "Components": "構成要素",
-    "SpellRangeShort": "(25 ft. + 5 ft./2 levels)",
-    "SpellRangeMedium": "(100 ft. + 10 ft./level)",
-    "SpellRangeLong": "(400 ft. + 40 ft./level)",
-    "SpellRangeShortMetric": "(7.5 m + 1.5 m/2 levels)",
-    "SpellRangeMediumMetric": "(30 m + 3 m/level)",
-    "SpellRangeLongMetric": "(120 m + 12 m/level)",
+    "SpellRangeShort": "25 ft. + 5 ft./2 levels",
+    "SpellRangeMedium": "100 ft. + 10 ft./level",
+    "SpellRangeLong": "400 ft. + 40 ft./level",
+    "SpellRangeShortMetric": "7.5 m + 1.5 m/2 levels",
+    "SpellRangeMediumMetric": "30 m + 3 m/level",
+    "SpellRangeLongMetric": "120 m + 12 m/level",
     "Aura": {
       "Single": "オーラ",
       "Plural": "オーラ",
@@ -2610,7 +2610,7 @@
             "reachLimit": {
               "Label": "リーチハイライトの距離制限",
               "Hint": "遠隔攻撃の距離を表示するようなリーチハイライトが描画される最大範囲を正方形で表します。デフォルトでは60(300ft)です。この設定に関わらず、最初の射程分は完全に表示されます。10未満の値ではリーチハイライトが完全に無効になります"
-             }
+            }
           }
         },
         "Health": {

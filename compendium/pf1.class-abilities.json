@@ -16373,7 +16373,7 @@
 		{
 			"id": "Natural Weapon",
 			"name": "戦闘スタイル：肉体武器",
-			"description": "<p><strong>肉体武器／Natural Weapon：</strong></p><p>“肉体武器”を選択した場合、レンジャーが戦闘スタイル特技を得ることができる時には、以下のリストから選択できる：《野獣の化身》、《爪のかきむしり》、《肉体攻撃強化》、@UUID[Compendium.pf1.feats.Item.n250dFlbykAIAg5Z]{武器熟練}。<br>クラス・レベル6の時点で、《魔力の爪》と@UUID[Compendium.pf1.feats.Item.26k1Gi7t5BoqxhIj]{渾身の一打}がリストに追加される。<br>クラス・レベル10の時点で、@UUID[Compendium.pf1.feats.Item.DorPGQ2mifJbMKH8]{渾身の一打強化}と《複数回攻撃》がリストに追加される。</p>"
+			"description": "<p><strong>肉体武器／Natural Weapon：</strong></p><p>“肉体武器”を選択した場合、レンジャーが戦闘スタイル特技を得ることができる時には、以下のリストから選択できる：@UUID[Compendium.pf1.feats.Item.dPLj98GIzbwcoOjn]{野獣の化身}、《爪のかきむしり》、@UUID[Compendium.pf1.feats.Item.8viuSwNbDvZZaiak]{肉体攻撃強化}、@UUID[Compendium.pf1.feats.Item.n250dFlbykAIAg5Z]{武器熟練}。<br>クラス・レベル6の時点で、《魔力の爪》と@UUID[Compendium.pf1.feats.Item.26k1Gi7t5BoqxhIj]{渾身の一打}がリストに追加される。<br>クラス・レベル10の時点で、@UUID[Compendium.pf1.feats.Item.DorPGQ2mifJbMKH8]{渾身の一打強化}と《複数回攻撃》がリストに追加される。</p>"
 		},
 		{
 			"id": "Thrown Weapon",
@@ -16393,7 +16393,7 @@
 		{
 			"id": "Mk3Gx6A3pLcgsLSQ",
 			"name": "戦闘スタイル：狡猾",
-			"description": "<p><strong>狡猾／Underhanded：</strong></p><p>レンジャーが狡猾を選択したなら、戦闘スタイル特技を得る際、以下の一覧から特技を選択できる。@UUID[Compendium.pf1.feats.Item.NFxHebU1XhEs5WJh]{攻防一体}を選択する場合、レンジャーはこの特技と@UUID[Compendium.pf1.feats.Item.NFxHebU1XhEs5WJh]{攻防一体}を前提条件とする時、【知力】が13以上あるものとして扱う：@UUID[Compendium.pf1.feats.Item.NFxHebU1XhEs5WJh]{攻防一体}、@UUID[Compendium.pf1.feats.Item.JreaiTHdyWFNj3Tb]{回避}、《裏技強化》、@UUID[Compendium.pf1.feats.Item.Kbuy0bkPlOYz5yaO]{盗み取り強化}。<br>6レベルの時点で、この一覧に《上級裏技》と《上級盗み取り》を加える。<br>10レベルの時点で、この一覧に《迅速な裏技》と《迅速な盗み取り》を加える。</p>"
+			"description": "<p><strong>狡猾／Underhanded：</strong></p><p>レンジャーが狡猾を選択したなら、戦闘スタイル特技を得る際、以下の一覧から特技を選択できる。@UUID[Compendium.pf1.feats.Item.NFxHebU1XhEs5WJh]{攻防一体}を選択する場合、レンジャーはこの特技と@UUID[Compendium.pf1.feats.Item.NFxHebU1XhEs5WJh]{攻防一体}を前提条件とする時、【知力】が13以上あるものとして扱う：@UUID[Compendium.pf1.feats.Item.NFxHebU1XhEs5WJh]{攻防一体}、@UUID[Compendium.pf1.feats.Item.JreaiTHdyWFNj3Tb]{回避}、@UUID[Compendium.pf1.feats.Item.LUOETW7Fm0oPKKWj]{裏技強化}、@UUID[Compendium.pf1.feats.Item.Kbuy0bkPlOYz5yaO]{盗み取り強化}。<br>6レベルの時点で、この一覧に@UUID[Compendium.pf1.feats.Item.mY29nl8eCF5GjchB]{上級裏技}と@UUID[Compendium.pf1.feats.Item.XxZgIRc2UMLXHtZh]{上級盗み取り}を加える。<br>10レベルの時点で、この一覧に《迅速な裏技》と《迅速な盗み取り》を加える。</p>"
 		},
 		{
 			"id": "Weapon and Shield",
