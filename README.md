@@ -25,14 +25,20 @@ https://gitlab.com/riccisi/foundryvtt-babele
 lib-wrapper：  
 https://github.com/ruipin/fvtt-lib-wrapper/  
 
-## その他機能
+## PF1e用MODの日本語化
 システム付属の辞典以外に **Pathfinder 1e Statblock Library MOD** のBestiary1～6のクリーチャー名を日本語化しています。
 上記MODを使用してクリーチャーを生成する場合は **SBC | StatBlock-Converter for Pathfinder 1e MOD** も有効にしてください。
 
 Pathfinder 1e Statblock Library：  
 https://foundryvtt.com/packages/statblock-library  
 SBC | StatBlock-Converter for Pathfinder 1e：  
-https://foundryvtt.com/packages/pf1-statblock-converter
+https://foundryvtt.com/packages/pf1-statblock-converter  
+
+また以下のMODも日本語化しています。  
+Pathfinder 1e Alt Sheet：  
+https://foundryvtt.com/packages/pf1-alt-sheet  
+Koboldworks - Health Monitor for Pathfinder 1e：  
+https://gitlab.com/koboldworks/pf1/health-monitor  
 
 ## 謝辞
 PRDJがなければこのMODは実現しませんでした。  

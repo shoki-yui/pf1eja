@@ -1,0 +1,28 @@
+{
+	"Koboldworks": {
+		"HealthMonitor": {
+			"UnownedCharacter": "Unowned character",
+			"Card": {
+				"Prelude": "...",
+				"Lose": "は減少した",
+				"Gain": "は得た",
+				"Suffer": "は受けた"
+			},
+			"SkipRest": "Skip rest",
+			"SkipRestHint": "Skip update to health caused by resting. Enabling this may cause health logging to be skipped in case rest is cancelled by modules.",
+			"Transparency": {
+				"Label": "権限による表示制限",
+				"Hint": "チャットにどの権限レベルまでのキャラクターのダメージ等を表示するか",
+				"Secret": "シークレット - GMにのみ表示",
+				"Owned": "所有者（Owner） – PL所有のキャラクターを表示",
+				"Observer": "閲覧者（Observer） – PLが閲覧できるキャラクターを表示",
+				"Public": "パブリック - 全て公開",
+				"RollMode": "Roll mode – Mimic current roll mode."
+			},
+			"Extend": {
+				"TempHP": "一時的HP",
+				"TempVigor": "一時的活力"
+			}
+		}
+	}
+}

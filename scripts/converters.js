@@ -18,20 +18,26 @@ class Converters {
 		value.forEach((type, index) => {
 			const data = translations[index];
 
+			if (value[index].duration?.value && data?.duration) {
+				value[index].duration.value = data.duration;
+			}
 			if (value[index].save?.description && data?.save) {
 				value[index].save.description = data.save;
 			}
 			if (value[index].target?.value && data?.target) {
 				value[index].target.value = data.target;
 			}
-			if (data?.area) {
+			if (value[index].range?.value && data?.range) {
+				value[index].range.value = data.range;
+			}
+			if (value[index].area && data?.area) {
 				value[index].area = data.area;
 			}
-			if (data?.effect) {
+			if (value[index].effect && data?.effect) {
 				value[index].effect = data.effect;
 			}
-			if (data?.effectNotes) {
-				value[index].effectNotes = data.effectNotes;
+			if (value[index].notes?.effect && data?.effectNotes) {
+				value[index].notes.effect = data.effectNotes;
 			}
 		});
 		return value;
