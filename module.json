@@ -2,7 +2,7 @@
 	"id": "pf1eja",
 	"title": "日本語化（Pathfinder RPG 1e）",
 	"description": "FVTT用パスファインダーRPG1eシステムの翻訳ファイルおよびBabele用の辞典翻訳ファイルを組み込むMOD",
-	"version": "5.7",
+	"version": "5.8",
 	"compatibility": {
 		"minimum": "12",
 		"verified": "12"
@@ -44,6 +44,6 @@
 		}
 	],
 	"url" : "https://github.com/shoki-yui/pf1eja",
-	"download" : "https://github.com/shoki-yui/pf1eja/releases/download/5.7/pf1eja-5.7.zip",
+	"download" : "https://github.com/shoki-yui/pf1eja/releases/download/5.8/pf1eja-5.8.zip",
 	"manifest" : "https://github.com/shoki-yui/pf1eja/releases/latest/download/module.json"
 }
