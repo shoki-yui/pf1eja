@@ -25,6 +25,9 @@ https://gitlab.com/riccisi/foundryvtt-babele
 lib-wrapper：  
 https://github.com/ruipin/fvtt-lib-wrapper/  
 
+## このMODで追加される辞典
+Bestiary（日本語資料）
+
 ## PF1e用MODの日本語化
 システム付属の辞典以外に **Pathfinder 1e Statblock Library MOD** のBestiary1～6のクリーチャー名を日本語化しています。
 上記MODを使用してクリーチャーを生成する場合は **SBC | StatBlock-Converter for Pathfinder 1e MOD** も有効にしてください。

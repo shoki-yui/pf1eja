@@ -2,12 +2,25 @@
 	"id": "pf1eja",
 	"title": "日本語化（Pathfinder RPG 1e）",
 	"description": "FVTT用パスファインダーRPG1eシステムの翻訳ファイルおよびBabele用の辞典翻訳ファイルを組み込むMOD",
-	"version": "5.8",
+	"version": "5.9",
 	"compatibility": {
 		"minimum": "12",
 		"verified": "12"
 	},
-	"author": "Brother Sharp, Chiikun, shoki, Yuu",
+	"authors": [
+		{
+			"name": "shoki"
+		},
+		{
+			"name": "Brother Sharp"
+		},
+		{
+			"name": "Chiikun"
+		},
+		{
+			"name": "Yuu"
+		}
+	],
 	"languages": [
 		{
 			"lang": "ja",
@@ -30,20 +43,41 @@
 	],
 	"esmodules": ["scripts/register-babele.js"],
 	"styles" : ["./pf.css"],
-	"packs": [],
-	"dependencies": [
+	"packs": [
 		{
-			"id": "babele",
-			"manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-			"type": "module"
-		},
-		{
-			"id": "lib-wrapper",
-			"manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json",
-			"type": "module"
+			"name": "bestiary-jp",
+			"label": "Bestiary（日本語資料）",
+			"type": "JournalEntry",
+			"ownership": {
+				"PLAYER": "OBSERVER"
+			}
 		}
 	],
+	"relationships": {
+		"systems": [
+			{
+				"id": "pf1",
+				"type": "system",
+				"manifest": "https://gitlab.com/foundryvtt_pathfinder1e/foundryvtt-pathfinder1/-/releases/permalink/latest/downloads/system.json",
+				"compatibility": {
+					"minimum": "11"
+				}
+			}
+		],
+		"requires": [
+			{
+				"id": "babele",
+				"type": "module",
+				"manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
+			},
+			{
+				"id": "lib-wrapper",
+				"type": "module",
+				"manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json"
+			}
+		]
+	},
 	"url" : "https://github.com/shoki-yui/pf1eja",
-	"download" : "https://github.com/shoki-yui/pf1eja/releases/download/5.8/pf1eja-5.8.zip",
+	"download" : "https://github.com/shoki-yui/pf1eja/releases/download/5.9/pf1eja-5.9.zip",
 	"manifest" : "https://github.com/shoki-yui/pf1eja/releases/latest/download/module.json"
 }

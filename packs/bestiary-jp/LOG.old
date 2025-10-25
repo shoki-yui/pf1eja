@@ -1,0 +1,25 @@
+2025/10/26-00:14:38.594 ad08 Recovering log #6
+2025/10/26-00:14:38.597 ad08 Level-0 table #9: started
+2025/10/26-00:14:38.607 ad08 Level-0 table #9: 977673 bytes OK
+2025/10/26-00:14:38.609 ad08 Delete type=0 #6
+2025/10/26-00:14:38.609 ad08 Delete type=3 #2
+2025/10/26-00:14:39.775 b428 Compacting 1@0 + 1@1 files
+2025/10/26-00:14:39.809 b428 Generated table #11@0: 1675 keys, 2121756 bytes
+2025/10/26-00:14:39.843 b428 Generated table #12@0: 561 keys, 2117623 bytes
+2025/10/26-00:14:39.849 b428 Generated table #13@0: 80 keys, 266303 bytes
+2025/10/26-00:14:39.849 b428 Compacted 1@0 + 1@1 files => 4505682 bytes
+2025/10/26-00:14:39.849 b428 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/10/26-00:14:39.850 b428 Delete type=2 #7
+2025/10/26-00:14:39.850 b428 Delete type=2 #9
+2025/10/26-00:14:39.904 b428 Expanding@1 1+1 (2117623+3178325 bytes) to 3+1 (4505682+3178325 bytes)
+2025/10/26-00:14:39.904 b428 Compacting 3@1 + 1@2 files
+2025/10/26-00:14:39.936 b428 Generated table #14@1: 2467 keys, 2128827 bytes
+2025/10/26-00:14:39.964 b428 Generated table #15@1: 540 keys, 2119232 bytes
+2025/10/26-00:14:39.994 b428 Generated table #16@1: 557 keys, 2120374 bytes
+2025/10/26-00:14:40.010 b428 Generated table #17@1: 361 keys, 1334476 bytes
+2025/10/26-00:14:40.010 b428 Compacted 3@1 + 1@2 files => 7702909 bytes
+2025/10/26-00:14:40.010 b428 compacted to: files[ 0 0 4 0 0 0 0 ]
+2025/10/26-00:14:40.011 b428 Delete type=2 #5
+2025/10/26-00:14:40.011 b428 Delete type=2 #11
+2025/10/26-00:14:40.011 b428 Delete type=2 #12
+2025/10/26-00:14:40.012 b428 Delete type=2 #13
