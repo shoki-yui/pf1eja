@@ -20,10 +20,10 @@ https://github.com/shoki-yui/pf1eja/releases/latest/download/module.json
 
 辞典の翻訳には **Babele MOD** を利用しており、このMODのインストール時に自動的にインストールされます。またBabele MODの動作に必要な **lib-wrapper** も同様にインストールされます。
 
-Babele：  
-https://gitlab.com/riccisi/foundryvtt-babele  
-lib-wrapper：  
-https://github.com/ruipin/fvtt-lib-wrapper/  
+Babele  
+https://foundryvtt.com/packages/babele/  
+lib-wrapper  
+https://foundryvtt.com/packages/lib-wrapper  
 
 ## このMODで追加される辞典
 Bestiary（日本語資料）
@@ -32,9 +32,9 @@ Bestiary（日本語資料）
 システム付属の辞典以外に **Pathfinder 1e Statblock Library MOD** のBestiary1～6のクリーチャー名を日本語化しています。
 上記MODを使用してクリーチャーを生成する場合は **SBC | StatBlock-Converter for Pathfinder 1e MOD** も有効にしてください。
 
-Pathfinder 1e Statblock Library：  
+Pathfinder 1e Statblock Library  
 https://foundryvtt.com/packages/statblock-library  
-SBC | StatBlock-Converter for Pathfinder 1e：  
+SBC | StatBlock-Converter for Pathfinder 1e  
 https://foundryvtt.com/packages/pf1-statblock-converter  
 
 また以下のMODも日本語化しています。  
@@ -42,9 +42,9 @@ Advanced Templates Pf1
 https://foundryvtt.com/packages/ckl-advanced-templates-pf1  
 Buff Activation for Pathfinder 1e  
 https://gitlab.com/mkahvi/fvtt-micro-modules/-/tree/master/pf1-buff-activator  
-Koboldworks - Health Monitor for Pathfinder 1e：  
+Koboldworks - Health Monitor for Pathfinder 1e  
 https://gitlab.com/koboldworks/pf1/health-monitor  
-Pathfinder 1e Alt Sheet：  
+Pathfinder 1e Alt Sheet  
 https://foundryvtt.com/packages/pf1-alt-sheet  
 Resource Drain for Pathfinder 1e  
 https://gitlab.com/mkahvi/fvtt-micro-modules/-/tree/master/pf1-resource-drain  
@@ -58,9 +58,9 @@ PRDJがなければこのMODは実現しませんでした。
 PRDJの翻訳文の使用を許可して下さった管理人様、そして翻訳者の皆様にお礼申し上げます。
 
 ## スクリプト引用元
-Pathfinder 1 - Traduction FR (Babele)：  
+Pathfinder 1 - Traduction FR (Babele)  
 https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele  
-Pathfinder 1e: Deutsch：  
+Pathfinder 1e: Deutsch  
 https://gitlab.com/arkanamirium/foundryvtt-pf1e-de
 
 ## リンク
