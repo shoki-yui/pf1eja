@@ -1175,7 +1175,7 @@
       "InvalidInput": "無効な値"
     },
     "NotificationCreatedAttack": "{item}の攻撃を生成しました",
-    "Info_FirstClass": "{html}からドラッグ＆ドロップ\nまたは上の'＋'ボタンをクリック",
+    "Info_FirstClass": "{browser}からドラッグ＆ドロップ\nまたは上の'＋'ボタンをクリック",
     "Info_FirstClass_Compendium": "クラス辞典",
     "Info_MissingClass": "このキャタクターにはクラスが設定されていません。キャラクターシートの[概要]タブにある[クラス]項目で設定してください。",
     "CMDNotes": "戦技防御値メモ",

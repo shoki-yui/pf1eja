@@ -38,10 +38,20 @@ SBC | StatBlock-Converter for Pathfinder 1e：
 https://foundryvtt.com/packages/pf1-statblock-converter  
 
 また以下のMODも日本語化しています。  
-Pathfinder 1e Alt Sheet：  
-https://foundryvtt.com/packages/pf1-alt-sheet  
+Advanced Templates Pf1  
+https://foundryvtt.com/packages/ckl-advanced-templates-pf1  
+Buff Activation for Pathfinder 1e  
+https://gitlab.com/mkahvi/fvtt-micro-modules/-/tree/master/pf1-buff-activator  
 Koboldworks - Health Monitor for Pathfinder 1e：  
 https://gitlab.com/koboldworks/pf1/health-monitor  
+Pathfinder 1e Alt Sheet：  
+https://foundryvtt.com/packages/pf1-alt-sheet  
+Resource Drain for Pathfinder 1e  
+https://gitlab.com/mkahvi/fvtt-micro-modules/-/tree/master/pf1-resource-drain  
+Spontaneous Casting for Pathfinder 1  
+https://gitlab.com/mkahvi/fvtt-micro-modules/-/tree/master/pf1-spontaneous-casting  
+Token Action HUD Pathfinder 1e  
+https://foundryvtt.com/packages/token-action-hud-pf1
 
 ## 謝辞
 PRDJがなければこのMODは実現しませんでした。  

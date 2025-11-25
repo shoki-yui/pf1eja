@@ -1,0 +1,115 @@
+{
+    "ckl-advanced-templates-pf1": {
+        "advanced-templates": "Advanced Templates",
+        "cone": "円錐形",
+        "line": "直線状",
+        "rotation": "Rotation",
+        "hints": {
+            "chooseStart": "左クリックで起点を選択してください。",
+            "mouseWheelRotate": "左クリックで決定、マウスホイールで回転します。",
+            "restart": "左クリックで決定、右クリックで起点を再選択できます。",
+            "restart-no-target": "左クリックで決定、右クリックで起点を再選択できます。グリッドの無いシーン内での直線状のターゲット設定は非常に負荷が高いため、直線状の位置が確定するまでターゲットは表示されません。"
+        },
+        "settings": {
+            "cone15Alternate": {
+                "name": "グリッドの交点から15ftの円錐形を発生できるようにする",
+                "hint": "有効にすると、円錐形テンプレートを斜めではなく左/右/上/下に向ける時に標準の15ft円錐グリッドの輪郭線だけでなく、グリッド線の中点から発生する15ft円錐形を使用できます（通常の円錐形配置ルールで説明されていますが、15ftの図ではオプションとして表示されていません）。"
+            },
+            "coneAlternate": {
+                "name": "グリッド線の中点を円錐形の起点とすることを許可する",
+                "hint": "有効にすると、グリッドの交点だけでなく、グリッド線の中点（15ft円錐のルール図に示す通り）から円錐形テンプレートを配置できるようになります。"
+            },
+            "coneRotation": {
+                "name": "非標準の円錐形の回転を許可する。",
+                "hint": "この数値を設定すると、マウスホイールで円錐形テンプレートを回転させることが出来ます。この数値は回転の増分値を決定します。0に設定すると円錐形は常に「使用者から離れた方向」を向きます。最適な結果を得るには、この数値を45以下かつ45の約数（例：45、22.5、9、5など）に設定してください。これにより非常に奇妙な円錐形が作成される場合がありますが、円錐形の配置の自由度が向上します。"
+            },
+            "debug": {
+                "name": "デバッグログを有効にする",
+                "hint": "有効にすると、デバッグを支援するために様々なログメッセージがコンソールに記録されます。何かが期待通りに動作しない場合にのみ有用です。"
+            },
+            "defaultLineWidth": {
+                "name": "直線状のデフォルトの幅",
+                "hint": "直線状テンプレートのデフォルトの幅。主に見た目の問題ですが、自動アニメーションを使用している場合は、直線アニメーションが狭いテンプレート内で押しつぶされないように、5のままにしておくことを推奨します。"
+            },
+            "disableHints": {
+                "name": "テンプレート配置時のヒントを無効にする",
+                "hint": "無効にすると、回転、起点位置の再選択、最終的なテンプレートの配置に関するヒントは表示されません。"
+            },
+            "reExpand": {
+                "name": "折りたたんだシートの再展開",
+                "hint": "有効にすると、テンプレートを配置する時に折りたたまれたシートが、テンプレートの配置後に再度展開されます。"
+            },
+            "target": {
+                "name": "テンプレート内のコマをターゲット状態にする",
+                "hint": "有効にすると、テンプレートを配置する時にコマがターゲット状態になります。"
+            }
+        },
+        "templates": {
+            "circle": {
+                "placement": {
+                    "grid.label": "グリッドの交点",
+                    "self.label": "使用者を中心",
+                    "splash.label": "飛散武器",
+                    "type": {
+                        "label": "効果の種別",
+                        "burst": "爆発",
+                        "spread": "拡散",
+                        "emanation": "放射"
+                    },
+                    "attachToToken": "使用者に付属"
+                }
+            },
+            "cone": {
+                "placement": {
+                    "self.label": "使用者から発生",
+                    "selectTargetSquare.label": "選択した起点から発生"
+                }
+            },
+            "line": {
+                "default": "デフォルトの幅",
+                "overrideWidth": "幅を変更",
+                "uses same labels as cone": "",
+                "widthLabel": "幅の設定",
+                "widthOverride": "変更後の幅"
+            },
+            "rect": {
+                "placement": {
+                    "centered.label": "カーソルを中心"
+                },
+                "height": {
+                    "name": "縦のサイズの式 (ft)",
+                    "hint": "{value}（横と同じ）"
+                },
+                "width": {
+                    "name": "横のサイズの式 (ft)",
+                    "hint": "0"
+                }
+            },
+            "deletion": {
+                "label": "削除するタイミング",
+                "doNotDelete": "削除しない",
+                "endOfTurn": "ターン終了時",
+                "timespan": "持続時間"
+            },
+            "chooseOptions": "オプションを選択",
+            "colorGroupLabel": "描画設定",
+            "colorAlpha.label": "色の透過度",
+            "hideOutline.label": "アウトラインを非表示",
+            "ignoreRange": "範囲制限を無視",
+            "modalTitle": "{itemName}テンプレート",
+            "placement.selection.label": "ターゲット方法",
+            "placement.useSystem.label": "システムのデフォルトを使用",
+            "textureGroupLabel": "テクスチャ設定",
+            "textureAlpha.label": "テクスチャの透過度",
+            "textureScale.label": "テクスチャのスケール"
+        },
+        "cancel": "キャンセル",
+        "coneStart": "円錐形の起点",
+        "lineStart": "直線状の起点",
+        "ok": "OK",
+        "range": "{range} {unit}",
+        "errors": {
+            "outOfRange": "ターゲットは射程外です。"
+        }
+    }
+}

@@ -2,7 +2,7 @@
 	"id": "pf1eja",
 	"title": "日本語化（Pathfinder RPG 1e）",
 	"description": "FVTT用パスファインダーRPG1eシステムの翻訳ファイルおよびBabele用の辞典翻訳ファイルを組み込むMOD",
-	"version": "5.9",
+	"version": "5.10",
 	"compatibility": {
 		"minimum": "12",
 		"verified": "12"
@@ -39,6 +39,36 @@
 			"module":"koboldworks-pf1-health-monitor",
 			"name": "日本語",
 			"path": "lang/koboldworks-pf1-health-monitor-ja.json"
+		},
+		{
+			"lang": "ja",
+			"module":"mkah-pf1-buff-activator",
+			"name": "日本語",
+			"path": "lang/mkah-pf1-buff-activator-ja.json"
+		},
+		{
+			"lang": "ja",
+			"module":"ckl-advanced-templates-pf1",
+			"name": "日本語",
+			"path": "lang/ckl-advanced-templates-pf1-ja.json"
+		},
+		{
+			"lang": "ja",
+			"module":"token-action-hud-pf1",
+			"name": "日本語",
+			"path": "lang/token-action-hud-pf1-ja.json"
+		},
+		{
+			"lang": "ja",
+			"module":"pf1-spontaneous-casting",
+			"name": "日本語",
+			"path": "lang/pf1-spontaneous-casting-ja.json"
+		},
+		{
+			"lang": "ja",
+			"module":"mkah-pf1-resource-drain",
+			"name": "日本語",
+			"path": "lang/mkah-pf1-resource-drain-ja.json"
 		}
 	],
 	"esmodules": ["scripts/register-babele.js"],
@@ -78,6 +108,6 @@
 		]
 	},
 	"url" : "https://github.com/shoki-yui/pf1eja",
-	"download" : "https://github.com/shoki-yui/pf1eja/releases/download/5.9/pf1eja-5.9.zip",
+	"download" : "https://github.com/shoki-yui/pf1eja/releases/download/5.10/pf1eja-5.10.zip",
 	"manifest" : "https://github.com/shoki-yui/pf1eja/releases/latest/download/module.json"
 }

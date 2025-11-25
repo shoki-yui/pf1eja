@@ -1,0 +1,19 @@
+{
+	"ResourceDrain": {
+		"Title": "Resource Drain",
+		"Resource": "参照するリソース",
+		"NoSelection": "なし",
+		"Formula": "リソース消費数の式",
+		"Refund": "バフを終了しリソースを戻す",
+		"RefundHint": "バフを終了し、このラウンドに消費されたリソースを差し戻します。",
+		"LastRound": "リソースが尽きました！",
+		"RefundCard": "Refund card",
+		"RefundCardHint": "Display a chat card when refund option is chosen.",
+		"FormulaHint": "この式の数字が参照するリソースから差し引かれます。",
+		"ActorNotFound": "キャラクターが見つかりません",
+		"ResourceNotFound": "リソースが見つかりません",
+		"BuffNotFound": "バフが見つかりません",
+		"OutOfResources": "{resource} のリソースが不足しています",
+		"MissingResource": "リソースが選択されていません。"
+	}
+}

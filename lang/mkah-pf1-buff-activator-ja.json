@@ -1,0 +1,10 @@
+{
+	"BuffActivator": {
+		"Title": "Buff Activation",
+		"Activate": "有効にするバフ",
+		"ActivateHint": "この能力を使用時に有効にするバフを設定します。",
+		"Deactivate": "無効にするバフ",
+		"DeactivateHint": "この能力を使用時に無効にするバフを設定します。",
+		"NonAction": "この能力はバフの発動制御に必要な行動として認識されません。"
+	}
+}

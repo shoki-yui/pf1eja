@@ -1,0 +1,52 @@
+{
+	"SpellSubstitution": {
+		"Title": "任意発動",
+		"Button": {
+			"Hint": "任意発動"
+		},
+		"Config": {
+			"Card": {
+				"Label": "チャットカードに表示",
+				"Hint": "任意発動の置換に関してチャットカードに表示します。"
+			},
+			"RemoveCard": {
+				"Label": "キャンセル時にチャットカードを削除",
+				"Hint": "有効にすると、任意発動をキャンセルした時に置換に関するチャットカードの表示が削除されます。"
+			},
+			"SacrificeDomain": {
+				"Label": "領域呪文を置換対象として許可する",
+				"Hint": "有効にすると、任意発動で領域呪文を置換の対象とすることができます。"
+			},
+			"Debug": {
+				"Label": "Debug",
+				"Hint": "Print additional debug output in console."
+			}
+		},
+		"Book": {
+			"Enabled": "有効にする",
+			"Cast": {
+				"Domain": "領域呪文",
+				"Marked": "マークした呪文",
+				"Any": "全ての呪文",
+				"Matched": "Cast matched",
+				"MatchedHint": "Regular expression."
+			},
+			"Unsupported": "Unsupported spellbook configuration."
+		},
+		"Item": {
+			"Enable": "任意発動を有効にする",
+			"Hint": "有効にするとこの呪文に電球マークが表示され、他の呪文を消費して任意発動できるようになります。任意発動したい場合は電球マークをクリックしてください。"
+		},
+		"Dialog": {
+			"AvailableLevels": "置換可能なレベル一覧",
+			"Level": "{level}レベル",
+			"AvailableSpells": "置換可能な呪文一覧",
+			"Submit": "呪文を発動"
+		},
+		"Card": {
+			"Sacrifice": "置換する呪文：",
+			"For": "発動する呪文：",
+			"SacrificedLevelSlot": "{level}レベル・スロット"
+		}
+	}
+}
