@@ -214,7 +214,7 @@
 			"description": "<p>@UUID[Compendium.pf1.spells.wa0zb2pncesmm9lz]{ブレス}</p><p>ブレスは術者の味方の心を勇気で満たす。味方はそれぞれ、攻撃ロールと［恐怖］効果に対するセーヴィング・スローに＋1の士気ボーナスを得る。</p><p>ブレスは@UUID[Compendium.pf1.spells.3etxlex8u32g0hrx]{ベイン}を相殺し、解呪する。</p>",
 			"contextNotes": [
 				{
-					"text": "ブレス［恐怖］効果に対するセーヴに＋[[1]]士気ボーナス"
+					"text": "ブレス：［恐怖］効果に対するセーヴに＋[[1]]士気ボーナス"
 				}
 			]
 		},
