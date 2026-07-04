@@ -1,384 +1,445 @@
 {
 	"label": "バフ",
 	"mapping": {
-			"instructions": "system.description.instructions",
-			"contextNotes": "system.contextNotes"
+		"instructions": "system.description.instructions",
+		"contextNotes": {
+			"path": "system.contextNotes",
+			"converter": "contextNotes"
+		}
 	},
 	"folders": {
-		"Class Abilities": "クラス特徴",
-		"Alchemist": "アルケミスト",
 		"Barbarian": "バーバリアン",
-		"Bard": "バード",
-		"Witch": "ウィッチ",
 		"Placeholder Buffs": "Placeholder Buffs",
+		"Technology": "Technology",
+		"Bard": "バード",
 		"Spells": "呪文",
-		"Technology": "Technology"
+		"Alchemist": "アルケミスト",
+		"Witch": "ウィッチ",
+		"Class Abilities": "クラス特徴"
 	},
-	"entries": [
-		{
-			"id": "Fighting Defensively",
-			"name": "防御的戦闘",
-			"description": "<p>攻撃を行う際、防御的戦闘を選択することができる。そうすれば、君は次の君のターン開始まですべての攻撃に－4のペナルティを受け、代わりにその間アーマー・クラスに＋2のボーナスを得る。</p>"
-		},
-		{
-			"id": "Mutagen, Con",
-			"name": "変異薬：耐久力",
-			"description": "<p>アルケミストは変異薬を調合したとき、彼は身体的能力値――【筋力】、【敏捷力】、【耐久力】――から1つを選択する。変異薬を飲むのは標準アクションである。変異薬を飲むと、アルケミストはより大柄で獣のような存在にし、＋2の外皮ボーナスと選択した能力値に＋4の錬金術ボーナスを与える。この効果はアルケミスト・レベルにつき10分間持続する。</p><p>加えて、変異薬が効果を発揮しているとき、アルケミストは精神能力値の1つに－2のペナルティを被る。変異薬が【筋力】を強化する場合、そのペナルティは【知力】に適用される。【敏捷力】の場合、そのペナルティは【判断力】に適用される。【耐久力】の場合、そのペナルティは【魅力】に適用される。</p>",
-			"instructions": "このバフのレベルにアルケミストのレベルを入力する。"
-		},
-		{
-			"id": "Mutagen, Dex",
-			"name": "変異薬：敏捷力",
-			"description": "<p>アルケミストは変異薬を調合したとき、彼は身体的能力値――【筋力】、【敏捷力】、【耐久力】――から1つを選択する。変異薬を飲むのは標準アクションである。変異薬を飲むと、アルケミストはより大柄で獣のような存在にし、＋2の外皮ボーナスと選択した能力値に＋4の錬金術ボーナスを与える。この効果はアルケミスト・レベルにつき10分間持続する。</p><p>加えて、変異薬が効果を発揮しているとき、アルケミストは精神能力値の1つに－2のペナルティを被る。変異薬が【筋力】を強化する場合、そのペナルティは【知力】に適用される。【敏捷力】の場合、そのペナルティは【判断力】に適用される。【耐久力】の場合、そのペナルティは【魅力】に適用される。</p>",
-			"instructions": "このバフのレベルにアルケミストのレベルを入力する。"
-		},
-		{
-			"id": "Mutagen, Str",
-			"name": "変異薬：筋力",
-			"description": "<p>アルケミストは変異薬を調合したとき、彼は身体的能力値――【筋力】、【敏捷力】、【耐久力】――から1つを選択する。変異薬を飲むのは標準アクションである。変異薬を飲むと、アルケミストはより大柄で獣のような存在にし、＋2の外皮ボーナスと選択した能力値に＋4の錬金術ボーナスを与える。この効果はアルケミスト・レベルにつき10分間持続する。</p><p>加えて、変異薬が効果を発揮しているとき、アルケミストは精神能力値の1つに－2のペナルティを被る。変異薬が【筋力】を強化する場合、そのペナルティは【知力】に適用される。【敏捷力】の場合、そのペナルティは【判断力】に適用される。【耐久力】の場合、そのペナルティは【魅力】に適用される。</p>",
-			"instructions": "このバフのレベルにアルケミストのレベルを入力する。"
-		},
-		{
-			"id": "Total Defense",
-			"name": "防御専念",
-			"description": "<p>標準アクションとして、防御に専念することができる。君は1ラウンドの間、自らのアーマー・クラスに＋4の回避ボーナスを得る。君のアーマー・クラスの上昇はこのラウンドの開始時点から始まる。防御専念は、防御的戦闘と組み合わせたり、《攻防一体》特技の利益と組み合わせたりすることはできない。防御専念を行っている間は、機会攻撃を行うことはできない。</p>"
-		},
-		{
-			"id": "Owl's Wisdom",
-			"name": "アウルズ・ウィズダム",
-			"description": "<p>@UUID[Compendium.pf1.spells.b9ggsagifzk4fwut]{アウルズ・ウィズダム}</p><p>【判断力】への＋4強化ボーナスを得る。</p>"
-		},
-		{
-			"id": "Eagle's Splendor",
-			"name": "イーグルズ・スプレンダー",
-			"description": "<p>@UUID[Compendium.pf1.spells.d4oubr5bdoo8w1ev]{イーグルズ・スプレンダー}</p><p>【魅力】への＋4強化ボーナスを得る。</p>"
-		},
-		{
-			"id": "Aid",
-			"name": "エイド",
-			"description": "<p>@UUID[Compendium.pf1.spells.ibk7jrc5rwubpia6]{エイド}</p><p>攻撃ロールと［恐怖］効果に対するセーヴに＋1の士気ボーナスを得る。</p>",
+	"entries": {
+		"Hard Light Shield": {
+			"name": "Hard Light Shield",
+			"description": "<p>+2 shield AC [force effect] as per @UUID[Compendium.pf1.technology.Item.alQVMlHc89hMxK2M].</p>",
 			"contextNotes": [
 				{
-					"formula": "",
-					"operator": "+",
-					"target": "savingThrows",
-					"subTarget": "allSavingThrows",
-					"modifier": "",
-					"priority": 0,
-					"value": 0,
-					"text": "エイド：［恐怖］効果に対するセーヴに＋[[1]]の士気ボーナス"
+					"target": "ac",
+					"text": "+[[2]] against touch AC from beam and ray attacks"
 				}
 			]
 		},
-		{
-			"id": "Cat's Grace",
-			"name": "キャッツ・グレイス",
-			"description": "<p>@UUID[Compendium.pf1.spells.ns8jbp0ilbvbvuif]{キャッツ・グレイス}</p><p>【敏捷力】への＋4強化ボーナスを得る。</p>"
+		"Chameleon Suit": {
+			"name": "Chameleon Suit",
+			"description": "<p>+10 competence bonus on Stealth checks as per @UUID[Compendium.pf1.technology.Item.Nnrom1FPNcjBJRK8].</p>",
+			"contextNotes": [
+				{
+					"target": "skill.ste",
+					"text": "@UUID[Compendium.pf1.class-abilities.Item.ytotO22rp5ji6rT1]{Hide in Plain Sight} as ranger in his favored terrain."
+				}
+			]
 		},
-		{
-			"id": "Shield",
-			"name": "シールド",
-			"description": "<p>@UUID[Compendium.pf1.spells.sz7j540uypmqqvti]{シールド}</p><p>シールドは術者の正面を浮遊する、力場でできた不可視の盾を作り出す。この盾は術者に向けられた@UUID[Compendium.pf1.spells.49yc9dpr4kvgki2s]{マジック・ミサイル}の攻撃を無効化し、また術者のアーマー・クラスに＋4の盾ボーナスを与える。この効果は［力場］効果であるので、ボーナスは非実体接触攻撃に対しても適用される。このシールドは防具による判定ペナルティも秘術呪文失敗確率もない。</p>"
+		"Veemod (Green)": {
+			"name": "Veemod (Green)",
+			"description": "<p>Grants +10 competence bonus on Perception checks while active as per @UUID[Compendium.pf1.technology.Item.0BtaS9u6bxDBaKhH] with @UUID[Compendium.pf1.technology.Item.9dvLuZUA2Wy1TBht].</p>"
 		},
-		{
-			"id": "Shield of Faith",
-			"name": "シールド・オヴ・フェイス",
-			"description": "<p>@UUID[Compendium.pf1.spells.y2uhoqr4itdbw5g4]{シールド・オヴ・フェイス}</p><p>この呪文は対象の周囲に、ちらちらと輝き攻撃を防いだり、そらしたりする魔法のフィールドを作り出す。この呪文は対象のアーマー・クラスに＋2反発ボーナスを与え、さらに術者レベル6レベルごとに＋1がボーナスに追加される（18レベル時に、最大＋5の反発ボーナス）。</p>",
-			"instructions": "このバフのレベルに術者レベルを入力する。"
+		"Owl's Wisdom": {
+			"name": "アウルズ・ウィズダム",
+			"description": "<p>@UUID[Compendium.pf1.spells.b9ggsagifzk4fwut]{アウルズ・ウィズダム}</p><p>【判断力】への＋4強化ボーナスを得る。</p>"
 		},
-		{
-			"id": "Slow",
-			"name": "スロー",
-			"description": "<p>@UUID[Compendium.pf1.spells.jcr72piqo6g549e1]{スロー}</p><p>この呪文が作用したクリーチャーはきわめてゆっくりとした速度で移動し、攻撃する。この呪文の影響を受けたクリーチャーはよろめき状態となり、毎ターン、1回の移動アクションか標準アクションのみしか行なえず、両方を行なうことができなくなる（全ラウンド・アクションを取ることもできなくなる）。さらに、そのクリーチャーはアーマー・クラス、近接攻撃ロール、反応セーヴに－1のペナルティを被る。減速状態のクリーチャーは通常の移動速度の半分の移動速度（端数は5フィート単位に切り下げ）で移動する。これは通常の移動速度の減少と同様に、クリーチャーの跳躍できる距離に作用する。</p><p>複数のスロー呪文の効果は累積しない。スローは@UUID[Compendium.pf1.spells.s9amdo5398alb5p0]{ヘイスト}を相殺し解呪する。</p>"
+		"Enlarge Person": {
+			"name": "エンラージ・パースン",
+			"description": "<p>@UUID[Compendium.pf1.spells.jnlr9cuepka1l26e]{エンラージ・パースン}</p><p>この呪文は人型生物1体を即座に拡大し、身長を2倍、体重を8倍にする。こうして拡大することで、そのクリーチャーのサイズ分類は1段階大きなものとなる。目標はサイズの増加によって、【筋力】に＋2サイズ・ボーナスを得、【敏捷力】に－2サイズ・ペナルティ（最低でも1まで）、攻撃ロールとアーマー・クラスに－1のペナルティを受ける。</p><p>大型サイズになった人型生物は、接敵面10フィート、生来の間合い10フィートとなる。この呪文によって、目標の移動速度が変化することはない。</p><p>望むだけの拡大に充分な空間がない場合、クリーチャーはその空間で広がれる最も大きなサイズになり、その過程で周囲を取り囲む物質を突き破るために（上昇後の【筋力】を使用して）【筋力】判定を行なうことができる。この判定に失敗した場合、周囲を取り囲む物質によって害を受けることなく閉じ込められる―この呪文を使い、クリーチャーを巨大化させて潰すことはできないのだ。</p><p>クリーチャーが着用するか運搬しているすべての装備もこの呪文によって拡大される。この呪文の作用を受けた近接武器はダメージが上昇する（『表：Tiny and Large Weapon Damage』を参照）。その他の魔法的な特質には、この呪文は作用しない。巨大化したクリーチャーの身から離れた巨大化したアイテム（矢弾や投擲武器を含む）は即座に本来のサイズに戻る。従って、投擲武器や射出武器は通常通りのダメージを与えるというわけである。</p><p>サイズを拡大する複数の魔法効果は累積しない。</p><p>エンラージ・パースンは@UUID[Compendium.pf1.spells.2y9e1l6zso9tdg0a]{リデュース・パースン}を相殺し、解呪する。</p><p>エンラージ・パースンは@UUID[Compendium.pf1.spells.nsxngq65mbrzgwnm]{パーマネンシイ}呪文で永続化させることができる。</p>"
 		},
-		{
-			"id": "Divine Favor",
+		"Fox's Cunning": {
+			"name": "フォクセス・カニング",
+			"description": "<p>@UUID[Compendium.pf1.spells.743anqr1ahefv8zd]{フォクセス・カニング}</p><p>【知力】への＋4強化ボーナスを得る。</p>"
+		},
+		"Divine Favor": {
 			"name": "ディヴァイン・フェイヴァー",
 			"description": "<p>@UUID[Compendium.pf1.spells.21bxbzdaawjrnvyo]{ディヴァイン・フェイヴァー}</p><p>神格の力と知恵を呼び降ろして、攻撃ロールと武器のダメージ・ロールに、術者レベル3レベルごとに＋1の幸運ボーナスを得る（最低でも＋1、最高で＋3のボーナスが付く）。このボーナスは呪文によるダメージには適用されない。</p>",
 			"instructions": "このバフのレベルに術者レベルを入力する。"
 		},
-		{
-			"id": "Barkskin",
-			"name": "バークスキン",
-			"description": "<p>@UUID[Compendium.pf1.spells.la7kuehewu85ybnt]{バークスキン}</p><p>バークスキンはクリーチャーの皮膚を頑丈にする。この効果はそのクリーチャーがすでに有している外皮ボーナスに、＋2の強化ボーナスを加える。この強化ボーナスは術者レベルが3レベルを超える3レベルごとに1上昇し、術者レベル12で最大の＋5となる。</p><p>バークスキンの与える強化ボーナスは目標の外皮ボーナスと累積するが、外皮へのこれ以外の強化ボーナスとは累積しない。普通の服しか着ていないキャラクターの鎧ボーナスが±0であるように、外皮を持たぬクリーチャーの外皮ボーナスは事実上、±0である。</p>",
-			"instructions": "このバフのレベルに術者レベルを入力する。"
-		},
-		{
-			"id": "Heroism",
-			"name": "ヒロイズム",
-			"description": "<p>@UUID[Compendium.pf1.spells.vqfrp8t0c1lw1jna]{ヒロイズム}</p><p>この呪文は1体のクリーチャーに戦場での偉大な勇気と高い士気を与える。目標クリーチャーは攻撃ロール、セーヴ、技能判定に＋2の士気ボーナスを得る。</p>"
-		},
-		{
-			"id": "Fox's Cunning",
-			"name": "フォクセス・カニング",
-			"description": "<p>@UUID[Compendium.pf1.spells.743anqr1ahefv8zd]{フォクセス・カニング}</p><p>【知力】への＋4強化ボーナスを得る。</p>"
-		},
-		{
-			"id": "Bull's Strength",
-			"name": "ブルズ・ストレンクス",
-			"description": "<p>@UUID[Compendium.pf1.spells.05i5rxwim12hwktu]{ブルズ・ストレンクス}</p><p>【筋力】への＋4強化ボーナスを得る。</p>"
-		},
-		{
-			"id": "Bless",
-			"name": "ブレス",
-			"description": "<p>@UUID[Compendium.pf1.spells.wa0zb2pncesmm9lz]{ブレス}</p><p>ブレスは術者の味方の心を勇気で満たす。味方はそれぞれ、攻撃ロールと［恐怖］効果に対するセーヴィング・スローに＋1の士気ボーナスを得る。</p><p>ブレスは@UUID[Compendium.pf1.spells.3etxlex8u32g0hrx]{ベイン}を相殺し、解呪する。</p>",
+		"Inspire Courage": {
+			"name": "勇気鼓舞の呪芸",
+			"description": "<p>バードは1レベル時点で、自身の芸能でもって味方（自分自身を含む）の勇気を鼓舞し、恐怖をうち払い、戦闘能力を向上させることができる。この作用を受ける仲間は、バードの芸能を知覚することができなければならない。作用を受けた仲間は（魅惑）および［恐怖］効果に対するセーヴィング・スローに＋1の士気ボーナスと、攻撃ロールおよび武器ダメージ・ロールに＋1の技量ボーナスを得る。レベル5の時点および、以後6レベル毎に、このボーナスは＋1ずつ増加していき、最大で17レベル時の＋4となる。勇気鼓舞の呪芸は［精神作用］の能力である。勇気鼓舞の呪芸には音声要素と視覚要素のどちらでも使用できる。ただし、バードは自身の芸能を演じ始める前にどちらの要素を使用するか決定せねばならない。</p>",
 			"contextNotes": [
 				{
-					"formula": "",
-					"operator": "+",
-					"target": "savingThrows",
-					"subTarget": "allSavingThrows",
-					"modifier": "",
-					"priority": 0,
-					"value": 0,
-					"text": "ブレス：［恐怖］効果に対するセーヴィング・スローに＋[[1]]の士気ボーナス"
+					"text": "（魅惑）および［恐怖］効果に対するセーヴィング・スローに+[[1 + max(0, floor((@item.level + 1) / 6))]]の士気ボーナス"
+				}
+			],
+			"instructions": "このバフのレベルにバード・レベルを入力する。"
+		},
+		"Taunting Stance": {
+			"name": "嘲りの構え",
+			"description": "<p>バーバリアンは恐るべき反撃を準備し、自らの隙を敵に晒す。バーバリアンがこの構えを取る間、敵はバーバリアンに対する攻撃ロールとダメージ・ロールに＋4のボーナスを得るが、バーバリアンに対するすべての攻撃はバーバリアンからの機会攻撃を誘発する。この機会攻撃は、機会攻撃を誘発した攻撃より前に解決される。これは構え激怒パワーである。この激怒パワーを選択するには、バーバリアンは最低でも12レベルでなければならない。</p><hr><p><span class=\"notImp\">このバフはバフの状態を追跡するためにのみ機能し、アクターの値を変更しません。</span></p>"
+		},
+		"Veemod (Red)": {
+			"name": "Veemod (Red)",
+			"description": "<p>Grants Darkvision 60 ft. while active as per @UUID[Compendium.pf1.technology.Item.0BtaS9u6bxDBaKhH] with @UUID[Compendium.pf1.technology.Item.dNF5qq8D1cSJHsEA].</p>"
+		},
+		"Veemod (Brown)": {
+			"name": "Veemod (Brown)",
+			"description": "<p>Grants +1 circumstance bonus on all saving throws against bright light effects that cause dazzling or blindness while active as per @UUID[Compendium.pf1.technology.Item.0BtaS9u6bxDBaKhH] with @UUID[Compendium.pf1.technology.Item.jJfwLVduz8FtcgEg].</p>",
+			"contextNotes": [
+				{
+					"target": "allSavingThrows",
+					"text": "+[[1]] circumstance bonus against bright light effects that cause dazzling or blindness."
 				}
 			]
 		},
-		{
-			"id": "Prayer (Negative)",
-			"name": "プレイヤー (Negative)",
-			"description": "<p>@UUID[Compendium.pf1.spells.hu8179fdqfkl0bqj]{プレイヤー}</p><p>攻撃ロール、武器のダメージ・ロール、セーヴ、技能判定に＋1のペナルティーを受ける。</p>"
+		"Age Resistance": {
+			"name": "エイジ・レジスタンス",
+			"description": "<p>@UUID[Compendium.pf1.spells.Item.li8zwqjorsww6o82]</p><p>この呪文は、中年および老年の【筋力】、【敏捷力】、および【耐久力】へのペナルティを無視することを除き、@UUID[Compendium.pf1.spells.w8v617tw8wjlcl53]{レッサー・エイジ・レジスタンス}と同様に働く。</p>"
 		},
-		{
-			"id": "Prayer (Positive)",
-			"name": "プレイヤー (Positive)",
-			"description": "<p>@UUID[Compendium.pf1.spells.hu8179fdqfkl0bqj]{プレイヤー}</p><p>攻撃ロール、武器のダメージ・ロール、セーヴ、技能判定に＋1の幸運ボーナスを得る。</p>"
+		"Age Resistance, Lesser": {
+			"name": "レッサー・エイジ・レジスタンス",
+			"description": "<p>@UUID[Compendium.pf1.spells.Item.li8zwqjorsww6o82]</p><p>術者は中年化による肉体的損傷を無視する。この呪文は術者の外見を若くしたり老衰による死亡を防いだりしないが、呪文の効果中は、術者は中年になる事によって生じる【筋力】、【敏捷力】、【耐久力】への－1ペナルティを無視する。術者は呪文の影響下でも【知力】、【判断力】、【魅力】への年齢効果によるボーナスは維持する。 術者が、老年、古稀になることによって生じる追加のペナルティは全て適用される。</p>"
 		},
-		{
-			"id": "Haste",
-			"name": "ヘイスト",
-			"description": "<p>@UUID[Compendium.pf1.spells.s9amdo5398alb5p0]{ヘイスト}</p><p>変成されたクリーチャーは、加速状態となり通常より速く動き速く行動する。この速度の上昇には複数の効果がある。</p><p>全力攻撃アクションをとる際、加速状態のクリーチャーは、1つの肉体武器または人工的武器によって1回の追加攻撃を行なえる。この攻撃にはそのクリーチャーの最大基本攻撃ボーナスを用い、現在の状況で適用されるすべての修正を適用する（この効果は、“スピード”能力のある武器など、同様の効果をもたらす他の効果とは累積しない。また、追加のアクションを与えるものではない。従ってこの呪文の対象となるクリーチャーはこの効果を、2度目の呪文を発動するといったように、追加のアクションをこのラウンドに行なうために使用することはできない）。</p><p>この呪文の対象となったクリーチャーは、攻撃ロールに＋1のボーナスを、またアーマー・クラスと反応セーヴに＋1の回避ボーナスを受ける。アーマー・クラスへの【敏捷力】ボーナスが失われるような状況下ではこれらの回避ボーナスもまた失われる。</p><p>この呪文の対象となったクリーチャーの移動モード（これには地上の移動および、穴掘り、登攀、飛行、水泳が含まれる）はすべて30フィート増加する。その上限は対象の持つそれぞれの移動方法について通常の移動速度の2倍までである。この移動速度の増加は強化ボーナスである。通常の移動速度の増加と同様に、クリーチャーの跳躍距離に作用する。複数回のヘイストの効果は累積しない。ヘイストは@UUID[Compendium.pf1.spells.jcr72piqo6g549e1]{スロー}を相殺し、解呪する。</p>",
-			"instructions": "攻撃プロンプトのヘイストにチェックを入れて全力攻撃をすると追加攻撃を行う。"
+		"Veemod (Blue)": {
+			"name": "Veemod (Blue)",
+			"description": "<p>Grants all-around vision (cannot be flanked) while active as per @UUID[Compendium.pf1.technology.Item.0BtaS9u6bxDBaKhH] with @UUID[Compendium.pf1.technology.Item.vbJhd1aeLHgPsA6e].</p>",
+			"contextNotes": [
+				{
+					"target": "ac",
+					"text": "Cannot be flanked."
+				}
+			]
 		},
-		{
-			"id": "Bear's Endurance",
-			"name": "ベアズ・エンデュアランス",
-			"description": "<p>@UUID[Compendium.pf1.spells.usdv1eqvibmxun6x]{ベアズ・エンデュアランス}</p><p>【耐久力】への＋4強化ボーナスを得る。</p>"
+		"Neraplast Armor": {
+			"name": "Neraplast Armor",
+			"description": "<p>+3 competence bonus on Stealth checks in current terrain as per @UUID[Compendium.pf1.technology.Item.tYUaP6Yx45ekrOdR].</p>"
 		},
-		{
-			"id": "Bane",
+		"Dire Prophecy": {
+			"name": "恐ろしい予言",
+			"description": "<p>ウィッチは目標を呪い死を運命づける（意志・無効）。呪いが持続する限り、目標はアーマー・クラス、攻撃ロール、セーヴ、能力値判定、技能判定に－4ペナルティを受ける。呪いが持続する間、ウィッチは犠牲者に呪いの完全な力を一気にもたらして呪いを終了させることができる。この場合犠牲者はウィッチの術者レベルに等しいペナルティをアーマー・クラスまたはいずれか1回の攻撃ロール、戦技判定、対抗能力値あるいは技能判定、セーヴィング・スローに受ける。ウィッチはロールが行われる前にこのペナルティを適用するか決めなければならない。ウィッチの目標への視線が遮られた場合、呪いの完全な力はGMが最も適切だと考える致命的な状況で下される。目標は1度に1つの恐ろしい予言しか被らない。目標となったクリーチャーはセーヴが成功したかどうかに拘わらず、1日の間この呪術の目標にならない。これは［呪い］効果である。</p>"
+		},
+		"Accurate Stance": {
+			"name": "精密さの構え",
+			"description": "<p>バーバリアンは打撃に意識を集中することができる。バーバリアンは近接攻撃ロールと投擲武器による攻撃ロールに＋1の技量ボーナスを得る。このボーナスはバーバリアン・レベル4毎に1ずつ増加する。これは構え激怒パワーである。</p>"
+		},
+		"Bull's Strength": {
+			"name": "ブルズ・ストレンクス",
+			"description": "<p>@UUID[Compendium.pf1.spells.05i5rxwim12hwktu]{ブルズ・ストレンクス}</p><p>【筋力】への＋4強化ボーナスを得る。</p>"
+		},
+		"Bane": {
 			"name": "ベイン",
 			"description": "<p>@UUID[Compendium.pf1.spells.3etxlex8u32g0hrx]{ベイン}</p><p>攻撃ロールに－1のペナルティと、［恐怖］効果に対するセーヴィング・スローに－1のペナルティを受ける。</p>",
 			"contextNotes": [
 				{
-					"formula": "",
-					"operator": "+",
-					"target": "savingThrows",
-					"subTarget": "allSavingThrows",
-					"modifier": "",
-					"priority": 0,
-					"value": 0,
-					"text": "ベイン：［恐怖］効果に対するセーヴィング・スローに－[[1]]のペナルティ"
+					"text": "［恐怖］効果に対するセーヴィング・スローに－[[1]]のペナルティ"
 				}
 			]
 		},
-		{
-			"id": "Mage Armor",
-			"name": "メイジ・アーマー",
-			"description": "<p>@UUID[Compendium.pf1.spells.ucc0a31d1y86oleh]{メイジ・アーマー}</p><p>不可視だが実体のある力場がメイジ・アーマーの対象を取り巻き、アーマー・クラスに＋4の鎧ボーナスを与える。</p><p>魔法によらない鎧とは異なり、メイジ・アーマーには防具による判定ペナルティも秘術呪文失敗確率もなく、移動速度も低下しない。メイジ・アーマーは力場でできているため、非実体クリーチャーは通常の鎧の場合のように素通りすることはできない。</p>"
+		"Total Defense": {
+			"name": "防御専念",
+			"description": "<p>標準アクションとして、防御に専念することができる。君は1ラウンドの間、自らのアーマー・クラスに＋4の回避ボーナスを得る。君のアーマー・クラスの上昇はこのラウンドの開始時点から始まる。防御専念は、防御的戦闘と組み合わせたり、《攻防一体》特技の利益と組み合わせたりすることはできない。防御専念を行っている間は、機会攻撃を行うことはできない。</p>"
 		},
-		{
-			"id": "Inspire Courage",
-			"name": "勇気鼓舞の呪芸",
-			"description": "<p>バードは1レベル時点で、自身の芸能でもって味方（自分自身を含む）の勇気を鼓舞し、恐怖をうち払い、戦闘能力を向上させることができる。この作用を受ける仲間は、バードの芸能を知覚することができなければならない。作用を受けた仲間は（魅惑）および［恐怖］効果に対するセーヴィング・スローに＋1の士気ボーナスと、攻撃ロールおよび武器ダメージ・ロールに＋1の技量ボーナスを得る。レベル5の時点および、以後6レベル毎に、このボーナスは＋1ずつ増加していき、最大で17レベル時の＋4となる。勇気鼓舞の呪芸は［精神作用］の能力である。勇気鼓舞の呪芸には音声要素と視覚要素のどちらでも使用できる。ただし、バードは自身の芸能を演じ始める前にどちらの要素を使用するか決定せねばならない。</p>",
-			"instructions": "このバフのレベルにバード・レベルを入力する。",
+		"Force Field": {
+			"name": "Force Field",
+			"description": "<p>Grants Temporary HP as per @UUID[Compendium.pf1.technology.Item.AmUgZQmCcIxg3DhV]{Force Field}.</p>",
+			"instructions": "<p>Set Item Level according to color code for correct amount of temp. HP</p><table><thead><tr><th>Level</th><th>Color</th><th>Temp HP</th></tr></thead><tbody><tr><td>1</td><td>Brown</td><td>5</td></tr><tr><td>2</td><td>Black</td><td>10</td></tr><tr><td>3</td><td>White</td><td>15</td></tr><tr><td>4</td><td>Gray</td><td>20</td></tr><tr><td>5</td><td>Green</td><td>25</td></tr><tr><td>6</td><td>Red</td><td>30</td></tr><tr><td>7</td><td>Blue</td><td>35</td></tr><tr><td>8</td><td>Orange</td><td>40</td></tr><tr><td>10</td><td>Prismatic</td><td>60</td></tr></tbody></table>"
+		},
+		"Filter Mask": {
+			"name": "Filter Mask",
+			"description": "<p>Adds context note that target is immune to inhaled toxins or diseases as per @UUID[Compendium.pf1.technology.Item.3SHwrxfV7GG51ajY].</p>",
 			"contextNotes": [
 				{
-					"text": "（魅惑）および［恐怖］効果に対するセーヴィング・スローに+[[1 + max(0, floor((@item.level + 1) / 6))]]の士気ボーナス",
-					"target": "savingThrows",
-					"subTarget": "allSavingThrows"
+					"target": "allSavingThrows",
+					"text": "Immune to inhaled toxins or diseases"
 				}
 			]
 		},
-		{
-			"id": "Elemental Stance",
-			"name": "元素の構え",
-			"description": "<p>この構えを開始する際、バーバリアンはエネルギー種別（［強酸］、［雷撃］、［火炎］、［氷雪］のいずれか）を1つ選択する。バーバリアンの近接攻撃は、追加で1ポイントの選択したエネルギー種別のダメージを与える。8レベルの時点で、このダメージは1d6ポイントに増加する。12レベルの時点で、バーバリアンのクリティカル・ヒットは追加で1d10ポイント（クリティカル・ヒットで×3ダメージを与える武器なら2d10、クリティカル・ヒットで×4ダメージを与える武器なら3d10）の選択したエネルギー種別のダメージを追加で与える。これは構え激怒パワーである。この激怒パワーを選択するには、バーバリアンは最低でも4レベルでなければならない。</p><hr><p><span class=\"notImp\">このバフはバフの状態を追跡するためにのみ機能し、アクターの値を変更しません。</span></p>"
+		"Veemod (White)": {
+			"name": "Veemod (White)",
+			"description": "<p>Grants +5 competence bonus on Perception checks while active as per @UUID[Compendium.pf1.technology.Item.0BtaS9u6bxDBaKhH] with @UUID[Compendium.pf1.technology.Item.CgwAhfGBEFSqA9Lo].</p>"
 		},
-		{
-			"id": "Knockdown Stance",
-			"name": "打ち倒しの構え",
-			"description": "<p>バーバリアンは敵を転ばすことに意識を傾けることができる。1ラウンドに1回、バーバリアンは近接攻撃1回を目標1体に対する足払い攻撃に置き換えることができる。成功すると、目標は倒れて伏せ状態になる。この足払いの試みは機会攻撃を誘発しない。これは構え激怒パワーである。</p><hr><p><span class=\"notImp\">このバフはバフの状態を追跡するためにのみ機能し、アクターの値を変更しません。</span></p>"
+		"Veemod (Black)": {
+			"name": "Veemod (Black)",
+			"description": "<p>Grants +2 competence bonus on Perception checks while active as per @UUID[Compendium.pf1.technology.Item.0BtaS9u6bxDBaKhH] with @UUID[Compendium.pf1.technology.Item.jhIfmOlvPbwZwCq1].</p>"
 		},
-		{
-			"id": "Regenerative Stance",
-			"name": "再生の構え",
-			"description": "<p>バーバリアンは継続的にその身を精気で満たすことができる。自分のターンの開始時に、バーバリアンは4レベル毎に一時的ヒット・ポイント1（最大でラウンドごとに5ヒット・ポイント）を回復する。しかし、この一時的ヒット・ポイントは激怒で得られる一時的ヒット・ポイントの最大値を上回ることはない。これは構え激怒パワーである。この激怒パワーを選択するには、バーバリアンは最低でも4レベルでなければならない。</p><hr><p><span class=\"notImp\">このバフはバフの状態を追跡するためにのみ機能し、アクターの値を変更しません。</span></p>"
-		},
-		{
-			"id": "Taunting Stance",
-			"name": "嘲りの構え",
-			"description": "<p>バーバリアンは恐るべき反撃を準備し、自らの隙を敵に晒す。バーバリアンがこの構えを取る間、敵はバーバリアンに対する攻撃ロールとダメージ・ロールに＋4のボーナスを得るが、バーバリアンに対するすべての攻撃はバーバリアンからの機会攻撃を誘発する。この機会攻撃は、機会攻撃を誘発した攻撃より前に解決される。これは構え激怒パワーである。この激怒パワーを選択するには、バーバリアンは最低でも12レベルでなければならない。</p><hr><p><span class=\"notImp\">このバフはバフの状態を追跡するためにのみ機能し、アクターの値を変更しません。</span></p>"
-		},
-		{
-			"id": "Accurate Stance",
-			"name": "精密さの構え",
-			"description": "<p>バーバリアンは打撃に意識を集中することができる。バーバリアンは近接攻撃ロールと投擲武器による攻撃ロールに＋1の技量ボーナスを得る。このボーナスはバーバリアン・レベル4毎に1ずつ増加する。これは構え激怒パワーである。</p>"
-		},
-		{
-			"id": "Calm Stance",
-			"name": "平静の構え",
-			"description": "<p>バーバリアンは平静なる心境に入る。この構えを使用している間、バーバリアンは激怒から一時的ヒット・ポイント以外の利益を得なくなるが、激怒のペナルティを一切受けない（ここにはアーマー・クラスへのペナルティや行えないアクションの制限も含まれる）。平静の構えを使用している間に経過したラウンド数も、1日の激怒のラウンド数に含まれる。これは構え激怒パワーである。</p>",
-			"contextNotes": [
-				{
-					"target": "skills",
-					"text": "平静の構え：激怒中の技能の制限を解除する"
-				},
-				{
-					"target": "allChecks",
-					"text": "平静の構え：激怒中の行動の制限を解除する"
-				}
-			]
-		},
-		{
-			"id": "Dire Prophecy",
-			"name": "恐ろしい予言",
-			"description": "<p>ウィッチは目標を呪い死を運命づける（意志・無効）。呪いが持続する限り、目標はアーマー・クラス、攻撃ロール、セーヴ、能力値判定、技能判定に－4ペナルティを受ける。呪いが持続する間、ウィッチは犠牲者に呪いの完全な力を一気にもたらして呪いを終了させることができる。この場合犠牲者はウィッチの術者レベルに等しいペナルティをアーマー・クラスまたはいずれか1回の攻撃ロール、戦技判定、対抗能力値あるいは技能判定、セーヴィング・スローに受ける。ウィッチはロールが行われる前にこのペナルティを適用するか決めなければならない。ウィッチの目標への視線が遮られた場合、呪いの完全な力はGMが最も適切だと考える致命的な状況で下される。目標は1度に1つの恐ろしい予言しか被らない。目標となったクリーチャーはセーヴが成功したかどうかに拘わらず、1日の間この呪術の目標にならない。これは［呪い］効果である。</p>"
-		},
-		{
-			"id": "Enlarge Person",
-			"name": "エンラージ・パースン",
-			"description": "<p>@UUID[Compendium.pf1.spells.jnlr9cuepka1l26e]{エンラージ・パースン}</p><p>この呪文は人型生物1体を即座に拡大し、身長を2倍、体重を8倍にする。こうして拡大することで、そのクリーチャーのサイズ分類は1段階大きなものとなる。目標はサイズの増加によって、【筋力】に＋2サイズ・ボーナスを得、【敏捷力】に－2サイズ・ペナルティ（最低でも1まで）、攻撃ロールとアーマー・クラスに－1のペナルティを受ける。</p><p>大型サイズになった人型生物は、接敵面10フィート、生来の間合い10フィートとなる。この呪文によって、目標の移動速度が変化することはない。</p><p>望むだけの拡大に充分な空間がない場合、クリーチャーはその空間で広がれる最も大きなサイズになり、その過程で周囲を取り囲む物質を突き破るために（上昇後の【筋力】を使用して）【筋力】判定を行なうことができる。この判定に失敗した場合、周囲を取り囲む物質によって害を受けることなく閉じ込められる―この呪文を使い、クリーチャーを巨大化させて潰すことはできないのだ。</p><p>クリーチャーが着用するか運搬しているすべての装備もこの呪文によって拡大される。この呪文の作用を受けた近接武器はダメージが上昇する（『表：Tiny and Large Weapon Damage』を参照）。その他の魔法的な特質には、この呪文は作用しない。巨大化したクリーチャーの身から離れた巨大化したアイテム（矢弾や投擲武器を含む）は即座に本来のサイズに戻る。従って、投擲武器や射出武器は通常通りのダメージを与えるというわけである。</p><p>サイズを拡大する複数の魔法効果は累積しない。</p><p>エンラージ・パースンは@UUID[Compendium.pf1.spells.2y9e1l6zso9tdg0a]{リデュース・パースン}を相殺し、解呪する。</p><p>エンラージ・パースンは@UUID[Compendium.pf1.spells.nsxngq65mbrzgwnm]{パーマネンシイ}呪文で永続化させることができる。</p>"
-		},
-		{
-			"id": "Guarded Stance",
-			"name": "慎重なる構え（アンチェインド）",
-			"description": "<p>バーバリアンはより防御的な姿勢を取ることができる。これにより、バーバリアンは現在の激怒の間、アーマー・クラスに＋1の回避ボーナスを得る。このボーナスはバーバリアン・レベル4ごとに1ずつ増加する。これは構え激怒パワーである。</p>"
-		},
-		{
-			"id": "Long Arm",
+		"Long Arm": {
 			"name": "ロング・アーム",
 			"description": "<p>@UUID[Compendium.pf1.spells.steozrynqopyxiua]{ロング・アーム}</p><p>術者の腕は一時的に長く伸び、四肢を用いた間合いは5フィートだけ増加する。</p>"
 		},
-		{
-			"id": "Powerful Stance",
+		"Powerful Stance": {
 			"name": "剛力の構え",
 			"description": "<p>バーバリアンは暴力的な思いに身を委ねることができる。バーバリアンは近接ダメージ・ロールと投擲武器によるダメージ・ロールに＋1のボーナスを得る。このボーナスはバーバリアン・レベル4毎に1ずつ増加する。これは構え激怒パワーである。</p>"
 		},
-		{
-			"id": "Rage",
+		"Regenerative Stance": {
+			"name": "再生の構え",
+			"description": "<p>バーバリアンは継続的にその身を精気で満たすことができる。自分のターンの開始時に、バーバリアンは4レベル毎に一時的ヒット・ポイント1（最大でラウンドごとに5ヒット・ポイント）を回復する。しかし、この一時的ヒット・ポイントは激怒で得られる一時的ヒット・ポイントの最大値を上回ることはない。これは構え激怒パワーである。この激怒パワーを選択するには、バーバリアンは最低でも4レベルでなければならない。</p><hr><p><span class=\"notImp\">このバフはバフの状態を追跡するためにのみ機能し、アクターの値を変更しません。</span></p>"
+		},
+		"Mage Armor": {
+			"name": "メイジ・アーマー",
+			"description": "<p>@UUID[Compendium.pf1.spells.ucc0a31d1y86oleh]{メイジ・アーマー}</p><p>不可視だが実体のある力場がメイジ・アーマーの対象を取り巻き、アーマー・クラスに＋4の鎧ボーナスを与える。</p><p>魔法によらない鎧とは異なり、メイジ・アーマーには防具による判定ペナルティも秘術呪文失敗確率もなく、移動速度も低下しない。メイジ・アーマーは力場でできているため、非実体クリーチャーは通常の鎧の場合のように素通りすることはできない。</p>"
+		},
+		"Darkvision, Greater": {
+			"name": "グレーター・ダークヴィジョン",
+			"description": "<p>@UUID[Compendium.pf1.spells.Item.nntvnla4qnawr0xn]</p><p>この呪文は目標の暗視の有効距離が120フィートであることを除き、@UUID[Compendium.pf1.spells.mz9yr5yhr0f3oqtp]{ダークヴィジョン}と同様に働く。</p>",
+			"instructions": "このバフのレベルに術者レベルを入力する。"
+		},
+		"Reckless Stance": {
+			"name": "無謀なる構え",
+			"description": "<p>バーバリアンは防御を捨てて思い切り攻撃する。バーバリアンは攻撃ロールに＋1のボーナスを得るが、アーマー・クラスに－1のペナルティを受ける。このボーナスとペナルティは4レベルの時点と、以降4レベル毎に1ずつ増加する。これは構え激怒パワーである。</p>"
+		},
+		"Blessing of the Mole": {
+			"name": "ブレッシング・オヴ・ザ・モール",
+			"description": "<p>@UUID[Compendium.pf1.spells.Item.mnsqk035k4hr8vjs] </p><p>目標は暗視30フィートおよび〈隠密〉判定に＋2の技量ボーナスを得る。</p>",
+			"instructions": "このバフのレベルに術者レベルを入力する。"
+		},
+		"Eagle's Splendor": {
+			"name": "イーグルズ・スプレンダー",
+			"description": "<p>@UUID[Compendium.pf1.spells.d4oubr5bdoo8w1ev]{イーグルズ・スプレンダー}</p><p>【魅力】への＋4強化ボーナスを得る。</p>"
+		},
+		"Mutagen, Con": {
+			"name": "変異薬：耐久力",
+			"description": "<p>アルケミストは変異薬を調合したとき、彼は身体的能力値――【筋力】、【敏捷力】、【耐久力】――から1つを選択する。変異薬を飲むのは標準アクションである。変異薬を飲むと、アルケミストはより大柄で獣のような存在にし、＋2の外皮ボーナスと選択した能力値に＋4の錬金術ボーナスを与える。この効果はアルケミスト・レベルにつき10分間持続する。</p><p>加えて、変異薬が効果を発揮しているとき、アルケミストは精神能力値の1つに－2のペナルティを被る。変異薬が【筋力】を強化する場合、そのペナルティは【知力】に適用される。【敏捷力】の場合、そのペナルティは【判断力】に適用される。【耐久力】の場合、そのペナルティは【魅力】に適用される。</p>",
+			"instructions": "このバフのレベルにアルケミストのレベルを入力する。"
+		},
+		"Prayer (Negative)": {
+			"name": "プレイヤー (Negative)",
+			"description": "<p>@UUID[Compendium.pf1.spells.hu8179fdqfkl0bqj]{プレイヤー}</p><p>攻撃ロール、武器のダメージ・ロール、セーヴ、技能判定に＋1のペナルティーを受ける。</p>"
+		},
+		"Haste": {
+			"name": "ヘイスト",
+			"description": "<p>@UUID[Compendium.pf1.spells.s9amdo5398alb5p0]{ヘイスト}</p><p>変成されたクリーチャーは、加速状態となり通常より速く動き速く行動する。この速度の上昇には複数の効果がある。</p><p>全力攻撃アクションをとる際、加速状態のクリーチャーは、1つの肉体武器または人工的武器によって1回の追加攻撃を行なえる。この攻撃にはそのクリーチャーの最大基本攻撃ボーナスを用い、現在の状況で適用されるすべての修正を適用する（この効果は、“スピード”能力のある武器など、同様の効果をもたらす他の効果とは累積しない。また、追加のアクションを与えるものではない。従ってこの呪文の対象となるクリーチャーはこの効果を、2度目の呪文を発動するといったように、追加のアクションをこのラウンドに行なうために使用することはできない）。</p><p>この呪文の対象となったクリーチャーは、攻撃ロールに＋1のボーナスを、またアーマー・クラスと反応セーヴに＋1の回避ボーナスを受ける。アーマー・クラスへの【敏捷力】ボーナスが失われるような状況下ではこれらの回避ボーナスもまた失われる。</p><p>この呪文の対象となったクリーチャーの移動モード（これには地上の移動および、穴掘り、登攀、飛行、水泳が含まれる）はすべて30フィート増加する。その上限は対象の持つそれぞれの移動方法について通常の移動速度の2倍までである。この移動速度の増加は強化ボーナスである。通常の移動速度の増加と同様に、クリーチャーの跳躍距離に作用する。複数回のヘイストの効果は累積しない。ヘイストは@UUID[Compendium.pf1.spells.jcr72piqo6g549e1]{スロー}を相殺し、解呪する。</p>",
+			"instructions": "攻撃プロンプトのヘイストにチェックを入れて全力攻撃をすると追加攻撃を行う。"
+		},
+		"Slow": {
+			"name": "スロー",
+			"description": "<p>@UUID[Compendium.pf1.spells.jcr72piqo6g549e1]{スロー}</p><p>この呪文が作用したクリーチャーはきわめてゆっくりとした速度で移動し、攻撃する。この呪文の影響を受けたクリーチャーはよろめき状態となり、毎ターン、1回の移動アクションか標準アクションのみしか行なえず、両方を行なうことができなくなる（全ラウンド・アクションを取ることもできなくなる）。さらに、そのクリーチャーはアーマー・クラス、近接攻撃ロール、反応セーヴに－1のペナルティを被る。減速状態のクリーチャーは通常の移動速度の半分の移動速度（端数は5フィート単位に切り下げ）で移動する。これは通常の移動速度の減少と同様に、クリーチャーの跳躍できる距離に作用する。</p><p>複数のスロー呪文の効果は累積しない。スローは@UUID[Compendium.pf1.spells.s9amdo5398alb5p0]{ヘイスト}を相殺し解呪する。</p>"
+		},
+		"Bless": {
+			"name": "ブレス",
+			"description": "<p>@UUID[Compendium.pf1.spells.wa0zb2pncesmm9lz]{ブレス}</p><p>ブレスは術者の味方の心を勇気で満たす。味方はそれぞれ、攻撃ロールと［恐怖］効果に対するセーヴィング・スローに＋1の士気ボーナスを得る。</p><p>ブレスは@UUID[Compendium.pf1.spells.3etxlex8u32g0hrx]{ベイン}を相殺し、解呪する。</p>",
+			"contextNotes": [
+				{
+					"text": "［恐怖］効果に対するセーヴィング・スローに＋[[1]]の士気ボーナス"
+				}
+			]
+		},
+		"Blood Rage (Spell)": {
+			"name": "ブラッド・レイジ",
+			"description": "<p>@UUID[Compendium.pf1.spells.Item.g09p4w3w8enp5tki]</p><p>この呪文の目標は戦うにつれて怒り、傷の痛みがさらに彼らの力を煽る。影響を受けたクリーチャーは呪文の持続時間の間、5ポイントのダメージ毎に【筋力】に対する累積する＋2の士気ボーナスとアーマー・クラスに対する累積する－1のペナルティを受ける（最大＋10【筋力】、－5AC）。これらのボーナスは、呪文が終了するか、目標が気絶状態となるまで持続する。</p>",
+			"instructions": "<p>Set item level to caster level and limited uses to your current remaining HP when casting the spell.</p>"
+		},
+		"Heroism, Greater": {
+			"name": "グレーター・ヒロイズム",
+			"description": "<p>@UUID[Compendium.pf1.spells.Item.z0duc2v2n3ioynta]</p><p>この呪文は@UUID[Compendium.pf1.spells.vqfrp8t0c1lw1jna]{ヒロイズム}と同様に働くが、対象となったクリーチャーは攻撃ロール、セーヴ、技能判定に＋4の士気ボーナス、［恐怖］効果に対する完全耐性、そして術者の術者レベルに等しい一時的ヒット・ポイント（最大20ポイント）を得る。</p>"
+		},
+		"Age Resistance, Greater": {
+			"name": "グレーター・エイジ・レジスタンス",
+			"description": "<p>@UUID[Compendium.pf1.spells.Item.eqrqv2ofspk574d3]</p><p>この呪文は、中年、老年、および古稀の【筋力】、【敏捷力】、および【耐久力】へのペナルティを無視することを除き、@UUID[Compendium.pf1.spells.w8v617tw8wjlcl53]{レッサー・エイジ・レジスタンス}と同様に働く。</p>"
+		},
+		"See Invisibility": {
+			"name": "シー・インヴィジビリティ",
+			"description": "<p>@UUID[Compendium.pf1.spells.Item.nokru6mxk9p3r513]</p><p>術者は自分の視覚範囲内にあるすべての不可視状態の物体や存在を、エーテル状態のものも含めて、それらがあたかも通常通り可視状態であるかのように見ることができる。そうしたクリーチャーは、術者にとって半透明の姿として見え、可視状態のクリーチャー、不可視状態のクリーチャー、エーテル状態のクリーチャーの違いは簡単に識別できる。</p><p>この呪文では、不可視状態になるために用いた手段を知ることはできない。幻術を見破ったり、不透明な物体を透かして見ることはできない。単に隠れていたり、視認困難であったり、その他の理由で見るのが難しいクリーチャーを発見することもできない。</p><p>シー・インヴィジビリティは@UUID[Compendium.pf1.spells.nsxngq65mbrzgwnm]{パーマネンシイ}呪文によって永続化できる。</p>",
+			"instructions": "このバフのレベルに術者レベルを入力する。"
+		},
+		"Guarded Stance": {
+			"name": "慎重なる構え（アンチェインド）",
+			"description": "<p>バーバリアンはより防御的な姿勢を取ることができる。これにより、バーバリアンは現在の激怒の間、アーマー・クラスに＋1の回避ボーナスを得る。このボーナスはバーバリアン・レベル4ごとに1ずつ増加する。これは構え激怒パワーである。</p>"
+		},
+		"Rage": {
 			"name": "激怒",
 			"description": "<p>バーバリアンは自己の内に眠る力と凶暴さを呼び覚ますことで、戦闘において一層活躍することができる。1レベル時点で、バーバリアンは1日に4＋【耐久力】修正値に等しいラウンド間、激怒することができる。それ以降は、1レベル上昇するごとに、2ラウンドずつ激怒を延長することができる。激怒や@UUID[Compendium.pf1.spells.usdv1eqvibmxun6x]{ベアズ・エンデュアランス}等の呪文による一時的な【耐久力】の上昇によってバーバリアンが1日の内に激怒可能なラウンド数が増加することはない。バーバリアンはフリー・アクションとして激怒を開始することができる。1日に激怒可能なラウンド数は8時間の休息により回復する。この休息時間は連続している必要はない。</p><p>激怒状態の間、バーバリアンは【筋力】および【耐久力】に＋4の士気ボーナスを、意志セーヴに＋2の士気ボーナスを得る。また、アーマー・クラスには－2のペナルティを受ける。【耐久力】の上昇により、バーバリアンのヒット・ポイントはヒット・ダイス毎に2ポイント上昇するが、この分のヒット・ポイントは激怒が終了すると同時に失われてしまう。また、一時的ヒット・ポイントと異なり、この追加ヒット・ポイントは先に失われるわけではない。激怒状態の間、バーバリアンは【魅力】、【敏捷力】、【知力】が対応能力値の技能（〈威圧〉、〈軽業〉、〈騎乗〉、〈飛行〉は除く）およびその他の根気や集中力を必要とするすべての能力を一切使用することができない。</p><p>バーバリアンはフリー・アクションで激怒を終了させることができ、その時点から、激怒したラウンドの2倍に等しい値のラウンド数、疲労状態になる。疲労状態の間、バーバリアンは再び激怒することはできないが、疲労状態を脱していれば、同一遭遇、あるいは同一戦闘中に複数回激怒することができる。バーバリアンが気絶状態になると、その激怒は即座に終了し、その結果バーバリアンは死亡の危険に晒される。</p>",
 			"contextNotes": [
 				{
 					"target": "skills",
-					"text": "激怒：激怒状態の間、バーバリアンは【魅力】、【敏捷力】、【知力】が対応能力値の技能（〈威圧〉、〈軽業〉、〈騎乗〉、〈飛行〉は除く）およびその他の根気や集中力を必要とするすべての能力を一切使用することができない"
+					"text": "A barbarian cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except Acrobatics, Fly, Intimidate, and Ride) or any ability that requires patience or concentration while raging."
 				},
 				{
 					"target": "allChecks",
-					"text": "激怒：激怒状態の間、バーバリアンは【魅力】、【敏捷力】、【知力】が対応能力値の技能（〈威圧〉、〈軽業〉、〈騎乗〉、〈飛行〉は除く）およびその他の根気や集中力を必要とするすべての能力を一切使用することができない"
+					"text": "A barbarian cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except Acrobatics, Fly, Intimidate, and Ride) or any ability that requires patience or concentration while raging."
 				}
 			]
 		},
-		{
-			"id": "Rage (Unchained)",
+		"Fighting Defensively": {
+			"name": "防御的戦闘",
+			"description": "<p>攻撃を行う際、防御的戦闘を選択することができる。そうすれば、君は次の君のターン開始まですべての攻撃に－4のペナルティを受け、代わりにその間アーマー・クラスに＋2のボーナスを得る。</p>"
+		},
+		"Veemod (Powered Armor)": {
+			"name": "Veemod (Powered Armor)",
+			"description": "<p>Grants +10 competence bonus on Perception checks, Low-Light Vision and Darkvision 120 ft. while active as per @UUID[Compendium.pf1.technology.Item.eecEg8w7FECEclV5].</p>"
+		},
+		"Shield of Faith": {
+			"name": "シールド・オヴ・フェイス",
+			"description": "<p>@UUID[Compendium.pf1.spells.y2uhoqr4itdbw5g4]{シールド・オヴ・フェイス}</p><p>この呪文は対象の周囲に、ちらちらと輝き攻撃を防いだり、そらしたりする魔法のフィールドを作り出す。この呪文は対象のアーマー・クラスに＋2反発ボーナスを与え、さらに術者レベル6レベルごとに＋1がボーナスに追加される（18レベル時に、最大＋5の反発ボーナス）。</p>",
+			"instructions": "このバフのレベルに術者レベルを入力する。"
+		},
+		"Veemod (Orange)": {
+			"name": "Veemod (Orange)",
+			"description": "<p>Grants see in darkness while active as per @UUID[Compendium.pf1.technology.Item.0BtaS9u6bxDBaKhH] with @UUID[Compendium.pf1.technology.Item.eyohSXJlccmDl3Ve].</p>"
+		},
+		"Reduce Person": {
+			"name": "リデュース・パースン",
+			"description": "<p>@UUID[Compendium.pf1.spells.2y9e1l6zso9tdg0a]{リデュース・パースン}</p><p>この呪文は人型生物1体を即座に縮小し、身長や縦横の長さを半分、体重を1/8にする。こうして縮小することで、そのクリーチャーのサイズ分類は1段階小さなものとなる。目標はサイズの減少によって、【敏捷力】に＋2サイズ・ボーナスを得、【筋力】に－2サイズ・ペナルティ（最低でも1まで）を受け、攻撃ロールとアーマー・クラスに＋1のボーナスを得る。</p><p>サイズが超小型になってしまった小型サイズの人型生物は、接敵面2と1/2フィート、生来の間合い0フィートとなる（従って、攻撃するためには敵のマスに入らなければならなくなる）。サイズが中型になってしまった大型サイズの人型生物は、接敵面5フィート、生来の間合い5フィートとなる。この呪文によって、目標の移動速度が変化することはない。</p><p>クリーチャーが着用するか運搬しているすべての装備もこの呪文によって縮小される。</p><p>この呪文の影響を受けた近接武器や射出武器はダメージが減少する。この呪文はその他の魔法的な特質には作用しない。縮小されたクリーチャーの身から離れた縮小されたアイテム（矢弾や投擲武器を含む）は即座に本来のサイズに戻る。従って、投擲武器は通常通りのダメージを与える（矢弾はそれを射出した武器のサイズに基づいたダメージを与える）というわけである。</p><p>サイズを縮小する複数の魔法効果は累積しない。</p><p>リデュース・パースンは@UUID[Compendium.pf1.spells.jnlr9cuepka1l26e]{エンラージ・パースン}を相殺し、解呪する。</p><p>リデュース・パースンは@UUID[Compendium.pf1.spells.nsxngq65mbrzgwnm]{パーマネンシイ}呪文で永続化させることができる。</p>"
+		},
+		"Mutagen, Str": {
+			"name": "変異薬：筋力",
+			"description": "<p>アルケミストは変異薬を調合したとき、彼は身体的能力値――【筋力】、【敏捷力】、【耐久力】――から1つを選択する。変異薬を飲むのは標準アクションである。変異薬を飲むと、アルケミストはより大柄で獣のような存在にし、＋2の外皮ボーナスと選択した能力値に＋4の錬金術ボーナスを与える。この効果はアルケミスト・レベルにつき10分間持続する。</p><p>加えて、変異薬が効果を発揮しているとき、アルケミストは精神能力値の1つに－2のペナルティを被る。変異薬が【筋力】を強化する場合、そのペナルティは【知力】に適用される。【敏捷力】の場合、そのペナルティは【判断力】に適用される。【耐久力】の場合、そのペナルティは【魅力】に適用される。</p>",
+			"instructions": "このバフのレベルにアルケミストのレベルを入力する。"
+		},
+		"Invisibility, Greater": {
+			"name": "グレーター・インヴィジビリティ",
+			"description": "<p>@UUID[Compendium.pf1.spells.cxgi0ub77t6aink1]{グレーター・インヴィジビリティ}</p><p>@UUID[Compendium.pf1.spells.oylikodnyku2zewu]{インヴィジビリティ}と同様だが、対象が攻撃を行なっても呪文は終了しない。</p>",
+			"instructions": "このバフのレベルに術者レベルを入力する。"
+		},
+		"Jetpack": {
+			"name": "Jetpack",
+			"description": "<p>Grants a fly speed of 60 feet as per @UUID[Compendium.pf1.technology.Item.4FRBfHoD1W9SsrDr].</p>",
+			"instructions": "<p>Set poor maneuverability on actor.</p>"
+		},
+		"Strength Stance": {
+			"name": "筋力の構え",
+			"description": "<p>バーバリアンは圧倒的な筋力を呼び出すことができる。バーバリアンは戦技判定と戦技防御値に＋1の技量ボーナスを得る。このボーナスはバーバリアン・レベル4毎に1ずつ増加する。加えて、バーバリアンは物体を運んだり、押したり、曲げたり、破壊したりするために行う【筋力】判定に＋8の技量ボーナスを得る（このボーナスは戦技には適用されない）。これは構え激怒パワーである。</p>"
+		},
+		"Mutagen, Dex": {
+			"name": "変異薬：敏捷力",
+			"description": "<p>アルケミストは変異薬を調合したとき、彼は身体的能力値――【筋力】、【敏捷力】、【耐久力】――から1つを選択する。変異薬を飲むのは標準アクションである。変異薬を飲むと、アルケミストはより大柄で獣のような存在にし、＋2の外皮ボーナスと選択した能力値に＋4の錬金術ボーナスを与える。この効果はアルケミスト・レベルにつき10分間持続する。</p><p>加えて、変異薬が効果を発揮しているとき、アルケミストは精神能力値の1つに－2のペナルティを被る。変異薬が【筋力】を強化する場合、そのペナルティは【知力】に適用される。【敏捷力】の場合、そのペナルティは【判断力】に適用される。【耐久力】の場合、そのペナルティは【魅力】に適用される。</p>",
+			"instructions": "このバフのレベルにアルケミストのレベルを入力する。"
+		},
+		"Rage (Unchained)": {
 			"name": "激怒（アンチェインド）",
 			"description": "<p>バーバリアンは自己の内に眠る力と凶暴さを呼び覚まし、さらなる戦闘力を得ることができる。1レベルの時点で、バーバリアンは1日に4＋【耐久力】修正値に等しいラウンド間、激怒することができる。2レベル以降レベルを獲得するたびに、バーバリアンは1日に追加で2ラウンドの間激怒できるようになる。@UUID[Compendium.pf1.spells.usdv1eqvibmxun6x]{ベアズ・エンデュアランス}等の呪文による一時的な【耐久力】の上昇によってバーバリアンが1日の内に激怒可能なラウンド数が増加することはない。バーバリアンはフリー・アクションとして激怒を開始することができる。1日に激怒可能なラウンド数は8時間の休息により回復する。この休息時間は連続している必要はない。</p><p>激怒している間、バーバリアンは近接攻撃ロール、近接ダメージ・ロール、投擲武器のダメージ・ロール、意志セーヴィング・スローに＋2のボーナスを得る。加えて、バーバリアンはアーマー・クラスに－2のペナルティを受け、ヒット・ダイス毎に一時的ヒット・ポイント2を得る。この一時的ヒット・ポイントはキャラクターがダメージを受けると最初に失われ、激怒が終了すると消滅する。また、直前の激怒から1分以内に再度激怒を使用した場合、この一時的ヒット・ポイントは回復しない。激怒中、バーバリアンは【魅力】基準、【敏捷力】基準、【知力】基準の技能（〈威圧〉、〈軽業〉、〈騎乗〉、〈飛行〉を除く）や、忍耐や精神集中を必要とする能力（呪文発動など）を使用したりすることができない。</p><p>バーバリアンはフリー・アクションで激怒を終了することができるが、その後1分間疲労状態となる。疲労状態や過労状態の間、バーバリアンは再度激怒を使用することはできないが、そうでなければ1日に複数回激怒を使用することができる。バーバリアンが意識を失うと、激怒は直ちに終了する。</p>",
 			"contextNotes": [
 				{
 					"target": "skills",
-					"text": "激怒：激怒中、バーバリアンは【魅力】基準、【敏捷力】基準、【知力】基準の技能（〈威圧〉、〈軽業〉、〈騎乗〉、〈飛行〉を除く）や、忍耐や精神集中を必要とする能力（呪文発動など）を使用したりすることができない"
+					"text": "A barbarian cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except Acrobatics, Fly, Intimidate, and Ride) or any ability that requires patience or concentration while raging."
 				},
 				{
 					"target": "allChecks",
-					"text": "激怒：激怒中、バーバリアンは【魅力】基準、【敏捷力】基準、【知力】基準の技能（〈威圧〉、〈軽業〉、〈騎乗〉、〈飛行〉を除く）や、忍耐や精神集中を必要とする能力（呪文発動など）を使用したりすることができない"
+					"text": "A barbarian cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except Acrobatics, Fly, Intimidate, and Ride) or any ability that requires patience or concentration while raging."
 				}
 			]
 		},
-		{
-			"id": "Reckless Stance",
-			"name": "無謀なる構え",
-			"description": "<p>バーバリアンは防御を捨てて思い切り攻撃する。バーバリアンは攻撃ロールに＋1のボーナスを得るが、アーマー・クラスに－1のペナルティを受ける。このボーナスとペナルティは4レベルの時点と、以降4レベル毎に1ずつ増加する。これは構え激怒パワーである。</p>"
+		"Cat's Grace": {
+			"name": "キャッツ・グレイス",
+			"description": "<p>@UUID[Compendium.pf1.spells.ns8jbp0ilbvbvuif]{キャッツ・グレイス}</p><p>【敏捷力】への＋4強化ボーナスを得る。</p>"
 		},
-		{
-			"id": "Reduce Person",
-			"name": "リデュース・パースン",
-			"description": "<p>@UUID[Compendium.pf1.spells.2y9e1l6zso9tdg0a]{リデュース・パースン}</p><p>この呪文は人型生物1体を即座に縮小し、身長や縦横の長さを半分、体重を1/8にする。こうして縮小することで、そのクリーチャーのサイズ分類は1段階小さなものとなる。目標はサイズの減少によって、【敏捷力】に＋2サイズ・ボーナスを得、【筋力】に－2サイズ・ペナルティ（最低でも1まで）を受け、攻撃ロールとアーマー・クラスに＋1のボーナスを得る。</p><p>サイズが超小型になってしまった小型サイズの人型生物は、接敵面2と1/2フィート、生来の間合い0フィートとなる（従って、攻撃するためには敵のマスに入らなければならなくなる）。サイズが中型になってしまった大型サイズの人型生物は、接敵面5フィート、生来の間合い5フィートとなる。この呪文によって、目標の移動速度が変化することはない。</p><p>クリーチャーが着用するか運搬しているすべての装備もこの呪文によって縮小される。</p><p>この呪文の影響を受けた近接武器や射出武器はダメージが減少する。この呪文はその他の魔法的な特質には作用しない。縮小されたクリーチャーの身から離れた縮小されたアイテム（矢弾や投擲武器を含む）は即座に本来のサイズに戻る。従って、投擲武器は通常通りのダメージを与える（矢弾はそれを射出した武器のサイズに基づいたダメージを与える）というわけである。</p><p>サイズを縮小する複数の魔法効果は累積しない。</p><p>リデュース・パースンは@UUID[Compendium.pf1.spells.jnlr9cuepka1l26e]{エンラージ・パースン}を相殺し、解呪する。</p><p>リデュース・パースンは@UUID[Compendium.pf1.spells.nsxngq65mbrzgwnm]{パーマネンシイ}呪文で永続化させることができる。</p>"
-		},
-		{
-			"id": "Strength Stance",
-			"name": "筋力の構え",
-			"description": "<p>バーバリアンは圧倒的な筋力を呼び出すことができる。バーバリアンは戦技判定と戦技防御値に＋1の技量ボーナスを得る。このボーナスはバーバリアン・レベル4毎に1ずつ増加する。加えて、バーバリアンは物体を運んだり、押したり、曲げたり、破壊したりするために行う【筋力】判定に＋8の技量ボーナスを得る（このボーナスは戦技には適用されない）。これは構え激怒パワーである。</p>"
-		},
-		{
-			"id": "Ward",
+		"Ward": {
 			"name": "護り",
 			"description": "<p>ウィッチはこの呪術をクリーチャー1体に保護の護りをかけることに使用できる。守られたクリーチャーはアーマー・クラスに＋2の反発ボーナスを、セーヴィング・スローに＋2の抵抗ボーナスを得る。この護りは護られたクリーチャーに攻撃が命中するか、セーヴィング・スローに失敗するまで持続する。ウィッチは護られたクリーチャーがもはや保護されていなくなるときそれを知る。ウィッチは一度に1つの護りしか起動できない。ウィッチがこの能力を再び使用した場合、これまでの護りは即座に終了する。ウィッチはこの能力を自身に使用できない。8レベルおよび16レベルの時点で、この護りによるボーナスは＋1上昇する。</p>",
 			"instructions": "このバフのレベルにウィッチのレベルを入力する。"
 		},
-		{
-			"id": "Age Resistance",
-			"name": "エイジ・レジスタンス",
-			"description": "<p>@UUID[Compendium.pf1.spells.Item.li8zwqjorsww6o82]</p><p>この呪文は、中年および老年の【筋力】、【敏捷力】、および【耐久力】へのペナルティを無視することを除き、@UUID[Compendium.pf1.spells.w8v617tw8wjlcl53]{レッサー・エイジ・レジスタンス}と同様に働く。</p>"
+		"Magboots": {
+			"name": "Magboots",
+			"description": "<p>+10 circumstance bonus while climbing metal surfaces as per @UUID[Compendium.pf1.technology.Item.nK3XfCurRf9nRZiD].</p>",
+			"contextNotes": [
+				{
+					"target": "skill.clm",
+					"text": "+[[10]] circumstance bonus while climbing scaling metal surfaces."
+				}
+			]
 		},
-		{
-			"id": "Age Resistance, Greater",
-			"name": "グレーター・エイジ・レジスタンス",
-			"description": "<p>@UUID[Compendium.pf1.spells.Item.eqrqv2ofspk574d3]</p><p>この呪文は、中年、老年、および古稀の【筋力】、【敏捷力】、および【耐久力】へのペナルティを無視することを除き、@UUID[Compendium.pf1.spells.w8v617tw8wjlcl53]{レッサー・エイジ・レジスタンス}と同様に働く。</p>"
-		},
-		{
-			"id": "Age Resistance, Lesser",
-			"name": "レッサー・エイジ・レジスタンス",
-			"description": "<p>@UUID[Compendium.pf1.spells.Item.li8zwqjorsww6o82]</p><p>術者は中年化による肉体的損傷を無視する。この呪文は術者の外見を若くしたり老衰による死亡を防いだりしないが、呪文の効果中は、術者は中年になる事によって生じる【筋力】、【敏捷力】、【耐久力】への－1ペナルティを無視する。術者は呪文の影響下でも【知力】、【判断力】、【魅力】への年齢効果によるボーナスは維持する。 術者が、老年、古稀になることによって生じる追加のペナルティは全て適用される。</p>"
-		},
-		{
-			"id": "Blessing of the Mole",
-			"name": "ブレッシング・オヴ・ザ・モール",
-			"description": "<p>@UUID[Compendium.pf1.spells.Item.mnsqk035k4hr8vjs] </p><p>目標は暗視30フィートおよび〈隠密〉判定に＋2の技量ボーナスを得る。</p>",
-			"instructions": "このバフのレベルに術者レベルを入力する。"
-		},
-		{
-			"id": "Blood Rage (Spell)",
-			"name": "ブラッド・レイジ",
-			"description": "<p>@UUID[Compendium.pf1.spells.Item.g09p4w3w8enp5tki]</p><p>この呪文の目標は戦うにつれて怒り、傷の痛みがさらに彼らの力を煽る。影響を受けたクリーチャーは呪文の持続時間の間、5ポイントのダメージ毎に【筋力】に対する累積する＋2の士気ボーナスとアーマー・クラスに対する累積する－1のペナルティを受ける（最大＋10【筋力】、－5AC）。これらのボーナスは、呪文が終了するか、目標が気絶状態となるまで持続する。</p>"
-		},
-		{
-			"id": "Darkvision",
+		"Darkvision": {
 			"name": "ダークヴィジョン",
 			"description": "<p>@UUID[Compendium.pf1.spells.Item.mz9yr5yhr0f3oqtp]</p><p>対象は完全な暗闇の中でも60フィートまで見通す能力を得る。暗視は白黒でしか見えないが、それ以外は通常の視覚と同様である。</p><p>ダークヴィジョンは@UUID[Compendium.pf1.spells.nsxngq65mbrzgwnm]{パーマネンシイ}呪文で永続化させることができる。</p>",
 			"instructions": "このバフのレベルに術者レベルを入力する。"
 		},
-		{
-			"id": "Darkvision, Greater",
-			"name": "グレーター・ダークヴィジョン",
-			"description": "<p>@UUID[Compendium.pf1.spells.Item.nntvnla4qnawr0xn]</p><p>この呪文は目標の暗視の有効距離が120フィートであることを除き、@UUID[Compendium.pf1.spells.mz9yr5yhr0f3oqtp]{ダークヴィジョン}と同様に働く。</p>",
-			"instructions": "このバフのレベルに術者レベルを入力する。"
+		"Knockdown Stance": {
+			"name": "打ち倒しの構え",
+			"description": "<p>バーバリアンは敵を転ばすことに意識を傾けることができる。1ラウンドに1回、バーバリアンは近接攻撃1回を目標1体に対する足払い攻撃に置き換えることができる。成功すると、目標は倒れて伏せ状態になる。この足払いの試みは機会攻撃を誘発しない。これは構え激怒パワーである。</p><hr><p><span class=\"notImp\">このバフはバフの状態を追跡するためにのみ機能し、アクターの値を変更しません。</span></p>",
+			"contextNotes": [
+				{
+					"target": "attack",
+					"text": "Free @Use[Knockdown Stance;speaker] once per round in place of attack."
+				}
+			]
 		},
-		{
-			"id": "Heroism, Greater",
-			"name": "グレーター・ヒロイズム",
-			"description": "<p>@UUID[Compendium.pf1.spells.Item.z0duc2v2n3ioynta]</p><p>この呪文は@UUID[Compendium.pf1.spells.vqfrp8t0c1lw1jna]{ヒロイズム}と同様に働くが、対象となったクリーチャーは攻撃ロール、セーヴ、技能判定に＋4の士気ボーナス、［恐怖］効果に対する完全耐性、そして術者の術者レベルに等しい一時的ヒット・ポイント（最大20ポイント）を得る。</p>"
-		},
-		{
-			"id": "See Invisibility",
-			"name": "シー・インヴィジビリティ",
-			"description": "<p>@UUID[Compendium.pf1.spells.Item.nokru6mxk9p3r513]</p><p>術者は自分の視覚範囲内にあるすべての不可視状態の物体や存在を、エーテル状態のものも含めて、それらがあたかも通常通り可視状態であるかのように見ることができる。そうしたクリーチャーは、術者にとって半透明の姿として見え、可視状態のクリーチャー、不可視状態のクリーチャー、エーテル状態のクリーチャーの違いは簡単に識別できる。</p><p>この呪文では、不可視状態になるために用いた手段を知ることはできない。幻術を見破ったり、不透明な物体を透かして見ることはできない。単に隠れていたり、視認困難であったり、その他の理由で見るのが難しいクリーチャーを発見することもできない。</p><p>シー・インヴィジビリティは@UUID[Compendium.pf1.spells.nsxngq65mbrzgwnm]{パーマネンシイ}呪文によって永続化できる。</p>",
-			"instructions": "このバフのレベルに術者レベルを入力する。"
-		},
-		{
-			"id": "True Seeing",
+		"True Seeing": {
 			"name": "トゥルー・シーイング",
 			"description": "<p>@UUID[Compendium.pf1.spells.Item.jbqo4o2b2tmdz7wv] </p><p>術者は対象に、ありとあらゆるものの真の姿を見ぬく能力を与える。対象は通常の闇と魔法の闇を見通し、魔法によって隠された隠し扉に気付き、@UUID[Compendium.pf1.spells.18kryvj2dfuymk9d]{ブラー}や@UUID[Compendium.pf1.spells.r190q9zxmei82lmv]{ディスプレイスメント}の影響下にあるクリーチャーや物体の正確な位置を知り、不可視状態のクリーチャーや物体を通常通り見ることができ、幻術を見破り、変身・変化・変成させられたものの真の姿を見抜く。さらに対象は視覚をエーテル界に合わせることもできる（ただし異次元空間を覗くことはできない）。トゥルー・シーイングによって与えられる視力で見える範囲は120フィートである。</p><p>トゥルー・シーイングで固体の向こう側を見通すことはできない。エックス線視力やそれに類する能力を与えるわけではないのだ。霧などによる視認困難を解消することもない。トゥルー・シーイングは見る者が、魔法によらない変装を見破ったり、単に隠れているだけのクリーチャーを見つけたり、魔法によらない手段で隠された隠し扉に気付いたりする助けにはならない。さらに、既知の魔法によってこの呪文の効果をこれ以上強化することはできない。従って、クリスタル・ボールを通じて、あるいは、@UUID[Compendium.pf1.spells.6kmkxepwgsbta6ui]{クレアオーディエンス／クレアヴォイアンス}と組み合わせてトゥルー・シーイングを使うことはできない。</p>",
 			"instructions": "このバフのレベルに術者レベルを入力する。"
 		},
-		{
-			"id": "Fly",
-			"name": "フライ",
-			"description": "<p>@UUID[Compendium.pf1.spells.7d6sv5ecvi7kho3m]{フライ}</p><p>対象は60フィート（対象が中装鎧や重装鎧を着ている場合や、中荷重や重荷重を運搬している場合は40フィート）の移動速度で飛行できる。対象は半分の速度で上昇したり、2倍の速度で降下することができ、飛行機動性は良好である。フライ呪文の使用には歩くのと同じくらいの精神集中しか必要としないため、対象は通常通り攻撃したり、呪文を発動したりできる。フライ呪文の対象は突撃はできるが疾走はできないし、最大荷重＋着用している鎧の重さを上回る重量を持って飛行することもできない。対象は〈飛行〉技能判定に術者レベルの1/2のボーナスを得る。</p><p>対象が飛行している最中に呪文の持続時間が切れた場合、魔法はゆっくりと効力を失う。対象は1d6ラウンドの間、1ラウンドに60フィートずつ降下する。この時間内に地面につけば、安全に着地できる。そうでなければ、残りの距離を落下することになり、10フィートの落下ごとに1d6ポイントのダメージを被る。呪文を解呪すれば呪文は実質上終了するため、フライ呪文が解呪された場合も、対象は上記のようにして安全に落下する。ただし、@UUID[Compendium.pf1.spells.niqxt53lhxrjfaty]{アンティマジック・フィールド}によって無効化された場合はその限りではない。</p>",
-			"instructions": "このバフのレベルに術者レベルを入力する。バフを有効にした時に手動で飛行機動性を良好に変更し、解除する時に元に戻す。"
+		"Powered Armor": {
+			"name": "Powered Armor",
+			"description": "<p>Grants:</p><ul><li>+2 to strength checks</li><li>+6 enh. to strength</li><li>+6 enh. to dexterity</li><li>+10 ft. land speed</li><li>20 ft. fly speed</li></ul><p>See @UUID[Compendium.pf1.technology.Item.eecEg8w7FECEclV5] for more details.</p>",
+			"contextNotes": [
+				{
+					"target": "skill.fly",
+					"text": "Fly speed increases to 60 feet (average) in area of no gravity"
+				}
+			],
+			"instructions": "<p>Set poor maneuverability on actor.</p>"
 		},
-		{
-			"id": "Invisibility",
+		"Barkskin": {
+			"name": "バークスキン",
+			"description": "<p>@UUID[Compendium.pf1.spells.la7kuehewu85ybnt]{バークスキン}</p><p>バークスキンはクリーチャーの皮膚を頑丈にする。この効果はそのクリーチャーがすでに有している外皮ボーナスに、＋2の強化ボーナスを加える。この強化ボーナスは術者レベルが3レベルを超える3レベルごとに1上昇し、術者レベル12で最大の＋5となる。</p><p>バークスキンの与える強化ボーナスは目標の外皮ボーナスと累積するが、外皮へのこれ以外の強化ボーナスとは累積しない。普通の服しか着ていないキャラクターの鎧ボーナスが±0であるように、外皮を持たぬクリーチャーの外皮ボーナスは事実上、±0である。</p>",
+			"instructions": "このバフのレベルに術者レベルを入力する。"
+		},
+		"Prayer (Positive)": {
+			"name": "プレイヤー (Positive)",
+			"description": "<p>@UUID[Compendium.pf1.spells.hu8179fdqfkl0bqj]{プレイヤー}</p><p>攻撃ロール、武器のダメージ・ロール、セーヴ、技能判定に＋1の幸運ボーナスを得る。</p>"
+		},
+		"Veemod (Gray)": {
+			"name": "Veemod (Gray)",
+			"description": "<p>Grants Low-Light Vision while active as per @UUID[Compendium.pf1.technology.Item.0BtaS9u6bxDBaKhH] with @UUID[Compendium.pf1.technology.Item.djUaPaLmCemzz8eu].</p>"
+		},
+		"Bear's Endurance": {
+			"name": "ベアズ・エンデュアランス",
+			"description": "<p>@UUID[Compendium.pf1.spells.usdv1eqvibmxun6x]{ベアズ・エンデュアランス}</p><p>【耐久力】への＋4強化ボーナスを得る。</p>"
+		},
+		"Calm Stance": {
+			"name": "平静の構え",
+			"description": "<p>バーバリアンは平静なる心境に入る。この構えを使用している間、バーバリアンは激怒から一時的ヒット・ポイント以外の利益を得なくなるが、激怒のペナルティを一切受けない（ここにはアーマー・クラスへのペナルティや行えないアクションの制限も含まれる）。平静の構えを使用している間に経過したラウンド数も、1日の激怒のラウンド数に含まれる。これは構え激怒パワーである。</p>",
+			"contextNotes": [
+				{
+					"target": "skills",
+					"text": "Calm Stance removes action restriction on skills while raging"
+				},
+				{
+					"target": "allChecks",
+					"text": "Calm Stance removes action restriction on abilities while raging"
+				}
+			]
+		},
+		"Shield": {
+			"name": "シールド",
+			"description": "<p>@UUID[Compendium.pf1.spells.sz7j540uypmqqvti]{シールド}</p><p>シールドは術者の正面を浮遊する、力場でできた不可視の盾を作り出す。この盾は術者に向けられた@UUID[Compendium.pf1.spells.49yc9dpr4kvgki2s]{マジック・ミサイル}の攻撃を無効化し、また術者のアーマー・クラスに＋4の盾ボーナスを与える。この効果は［力場］効果であるので、ボーナスは非実体接触攻撃に対しても適用される。このシールドは防具による判定ペナルティも秘術呪文失敗確率もない。</p>"
+		},
+		"Scatterlight suit": {
+			"name": "Scatterlight suit",
+			"description": "<p>Grants touch AC against beam weapons and rays as per various @UUID[Compendium.pf1.technology.Item.gTyNHqZf2jkmtTbC].</p>",
+			"contextNotes": [
+				{
+					"target": "ac",
+					"text": "+[[@item.level]] to touch AC against beam weapons and rays."
+				}
+			],
+			"instructions": "<p>Set Item Level according to color code for correct amount of touch AC Bonus</p><table><thead><tr><th>Level</th><th>Color</th><th>Bonus</th></tr></thead><tbody><tr><td>1</td><td>Brown</td><td>+1</td></tr><tr><td>2</td><td>Black</td><td>+2</td></tr><tr><td>3</td><td>White</td><td>+3</td></tr><tr><td>4</td><td>Gray</td><td>+4</td></tr><tr><td>5</td><td>Green</td><td>+5</td></tr><tr><td>6</td><td>Red</td><td>+6</td></tr><tr><td>7</td><td>Blue</td><td>+7</td></tr><tr><td>8</td><td>Orange</td><td>+8</td></tr><tr><td>9</td><td>Prismatic</td><td>+9</td></tr></tbody></table>"
+		},
+		"Veemod (Prismatic)": {
+			"name": "Veemod (Prismatic)",
+			"description": "<p>Grants X-ray vision while active as per @UUID[Compendium.pf1.technology.Item.0BtaS9u6bxDBaKhH] with @UUID[Compendium.pf1.technology.Item.s7otjXVeYmKuS1ra].</p>",
+			"instructions": "<p>Buff serves as placeholder to track duration. But does not grant effects.</p>"
+		},
+		"Aid": {
+			"name": "エイド",
+			"description": "<p>@UUID[Compendium.pf1.spells.ibk7jrc5rwubpia6]{エイド}</p><p>攻撃ロールと［恐怖］効果に対するセーヴに＋1の士気ボーナスを得る。</p>",
+			"contextNotes": [
+				{
+					"text": "［恐怖］効果に対するセーヴに＋[[1]]の士気ボーナス"
+				}
+			]
+		},
+		"Invisibility": {
 			"name": "インヴィジビリティ",
 			"description": "<p>@UUID[Compendium.pf1.spells.oylikodnyku2zewu]{インヴィジビリティ}</p><p>術者が接触したクリーチャーあるいは物体は人々の視界から消える。呪文の受け手が装備を持っているクリーチャーの場合、装備もまた消える。術者が誰か他人に呪文をかける場合、対象の姿は術者やその仲間にも見えなくなる。もっとも、もとから不可視のものを見る能力があったり、魔法を使って不可視のものを見る能力を得たりすれば話は別である。</p><p>不可視化したクリーチャーが地面に下ろした物や落とした物は、目に見えるようになる。拾った物は服の中に押し込んだり、着用しているポーチの中に入れたりすれば不可視になる。光は決して不可視にはならないが、光源は不可視になり得る（結果として、光源の見当たらない光があるという状態になる）。対象が運搬している物体の一部が本体から10フィート以上離れている場合、その部分は見える。</p><p>もちろん、この呪文が対象の立てる音まで消してくれるわけではない。それに、その他の条件によって、この呪文のかかった者が探知可能になることもあるだろう（たとえば水の中を泳いでいたり、泥んこに足跡を残している場合など）。判定が必要な場合、静止している不可視のクリーチャーは〈隠密〉判定に＋40のボーナスを得る。クリーチャーが動いている場合は、このボーナスは＋20に減る。この呪文は対象が何らかのクリーチャーを攻撃した瞬間に解ける。ここでいう“攻撃”には、敵を目標とした呪文や、呪文の効果範囲や効果内に敵を含む呪文も入る。誰が“敵”であるかは、不可視化したキャラクターの認識による。誰も装備中でない物体に対して何らかの行動をしても、それで呪文が解けることはない。また、間接的に害をなすことは“攻撃”ではない。従って、不可視化した存在は扉を開け、話をし、物を食べ、階段を登り、怪物を召喚して攻撃を行なわせ、敵が吊り橋を渡っている最中に橋を支えるロープを切り落とし、遠くから罠を作動させ、落とし格子を上げて猛犬をけしかけても差し支えない。しかし、不可視化した存在が直接攻撃を行なえば、本体も装備も即座に目に見えるようになる。@UUID[Compendium.pf1.spells.wa0zb2pncesmm9lz]{ブレス}など、もっぱら味方に作用を及ぼし、敵には作用を及ぼさない呪文は、たとえ敵を効果範囲に収めていても、“攻撃”とは見なされないので注意。</p><p>インヴィジビリティは@UUID[Compendium.pf1.spells.nsxngq65mbrzgwnm]{パーマネンシイ}の呪文によって、物体に対してのみその効果を永続化させることができる。</p>",
 			"instructions": "このバフのレベルに術者レベルを入力し、攻撃的なアクション後にバフを解除する。"
 		},
-		{
-			"id": "Invisibility, Greater",
-			"name": "グレーター・インヴィジビリティ",
-			"description": "<p>@UUID[Compendium.pf1.spells.cxgi0ub77t6aink1]{グレーター・インヴィジビリティ}</p><p>@UUID[Compendium.pf1.spells.oylikodnyku2zewu]{インヴィジビリティ}と同様だが、対象が攻撃を行なっても呪文は終了しない。</p>",
-			"instructions": "このバフのレベルに術者レベルを入力する。"
+		"Fly": {
+			"name": "フライ",
+			"description": "<p>@UUID[Compendium.pf1.spells.7d6sv5ecvi7kho3m]{フライ}</p><p>対象は60フィート（対象が中装鎧や重装鎧を着ている場合や、中荷重や重荷重を運搬している場合は40フィート）の移動速度で飛行できる。対象は半分の速度で上昇したり、2倍の速度で降下することができ、飛行機動性は良好である。フライ呪文の使用には歩くのと同じくらいの精神集中しか必要としないため、対象は通常通り攻撃したり、呪文を発動したりできる。フライ呪文の対象は突撃はできるが疾走はできないし、最大荷重＋着用している鎧の重さを上回る重量を持って飛行することもできない。対象は〈飛行〉技能判定に術者レベルの1/2のボーナスを得る。</p><p>対象が飛行している最中に呪文の持続時間が切れた場合、魔法はゆっくりと効力を失う。対象は1d6ラウンドの間、1ラウンドに60フィートずつ降下する。この時間内に地面につけば、安全に着地できる。そうでなければ、残りの距離を落下することになり、10フィートの落下ごとに1d6ポイントのダメージを被る。呪文を解呪すれば呪文は実質上終了するため、フライ呪文が解呪された場合も、対象は上記のようにして安全に落下する。ただし、@UUID[Compendium.pf1.spells.niqxt53lhxrjfaty]{アンティマジック・フィールド}によって無効化された場合はその限りではない。</p>",
+			"instructions": "このバフのレベルに術者レベルを入力する。バフを有効にした時に手動で飛行機動性を良好に変更し、解除する時に元に戻す。"
+		},
+		"Heroism": {
+			"name": "ヒロイズム",
+			"description": "<p>@UUID[Compendium.pf1.spells.vqfrp8t0c1lw1jna]{ヒロイズム}</p><p>この呪文は1体のクリーチャーに戦場での偉大な勇気と高い士気を与える。目標クリーチャーは攻撃ロール、セーヴ、技能判定に＋2の士気ボーナスを得る。</p>"
+		},
+		"Elemental Stance": {
+			"name": "元素の構え",
+			"description": "<p>この構えを開始する際、バーバリアンはエネルギー種別（［強酸］、［雷撃］、［火炎］、［氷雪］のいずれか）を1つ選択する。バーバリアンの近接攻撃は、追加で1ポイントの選択したエネルギー種別のダメージを与える。8レベルの時点で、このダメージは1d6ポイントに増加する。12レベルの時点で、バーバリアンのクリティカル・ヒットは追加で1d10ポイント（クリティカル・ヒットで×3ダメージを与える武器なら2d10、クリティカル・ヒットで×4ダメージを与える武器なら3d10）の選択したエネルギー種別のダメージを追加で与える。これは構え激怒パワーである。この激怒パワーを選択するには、バーバリアンは最低でも4レベルでなければならない。</p><hr><p><span class=\"notImp\">このバフはバフの状態を追跡するためにのみ機能し、アクターの値を変更しません。</span></p>"
 		}
-	]
+	}
 }

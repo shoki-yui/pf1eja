@@ -28,6 +28,7 @@ Hooks.on('init', () => {
 // https://gitlab.com/arkanamirium/foundryvtt-pf1e-de/-/blob/develop/scripts/babele.js
 	Babele.get().registerConverters({
 		'actions': (value, translations) => converters.actions(value, translations),
+		'contextNotes': (originalContextNotes, translatedContextNotes) => converters.contextNotes(originalContextNotes, translatedContextNotes),
 		learnedAt: (learnedAt) => {
 			const domainsMap = new Map([
 				["Air", "風"],
