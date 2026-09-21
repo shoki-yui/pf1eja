@@ -6084,7 +6084,7 @@
 			"description": "<p>Elemental rage powers can be selected by any barbarian or skald who is at least 6th level and has the @UUID[Compendium.pf1.class-abilities.Item.EKF5SHvuXhOjf2K6]{elemental stance}, @UUID[Compendium.pf1.class-abilities.Item.Xko4IAyi99g3ED4R]{lesser elemental rage}, or @UUID[Compendium.pf1.class-abilities.Item.GO8UFCvveERbDZoG]{lesser elemental blood} rage power. A barbarian or skald can use only one of these rage powers at a time, and an unchained barbarian must adopt the elemental stance to do so.</p><p>When raging, the barbarian can use Stealth, and she gains a bonus equal to 1/2 her barbarian level on Stealth checks plus the benefits of concealment against ranged attacks and attacks of opportunity.</p>"
 		},
 		"Universal": {
-			"name": "元素：統合",
+			"name": "元素：総合",
 			"description": "<h2>総合 Universal</h2><p>以下の元力は全てのキネティシストが修得することができる。</p><h3>注入元力（†マーク）と汎用元力</h3><ul><li>1レベル ― @UUID[Compendium.pf1.class-abilities.fhte9PquTF3A9srJ]{エクステンデッド・レンジ}†、@UUID[Compendium.pf1.class-abilities.nt1WGEuycyBpCuYk]{キネティック・ブレード}†、@UUID[Compendium.pf1.class-abilities.46k194zXN7eLBQ19]{キネティック・フィスト}†、@UUID[Compendium.pf1.class-abilities.Fco6DxlXEWyW90YF]{スキルド・キネティシスト}、@UUID[Compendium.pf1.class-abilities.e4F2gMzv9CwjBZqv]{ドレイニング・インフュージョン}†</li><li>2レベル ― @UUID[Compendium.pf1.class-abilities.ODKtlYuEUzzXiWTL]{グレーター・スキルド・キネティシスト}</li><li>3レベル ― @UUID[Compendium.pf1.class-abilities.4lNgChxjExmqUpwP]{イクストリーム・レンジ}†、@UUID[Compendium.pf1.class-abilities.kaB6R8qXKoOZ95Lr]{エレメンタル・グリップ}、@UUID[Compendium.pf1.class-abilities.bYP0k1103HwPoCjr]{キネティック・ウィップ}†、@UUID[Compendium.pf1.class-abilities.ZJ70N20O57K9WTLy]{スネーク}†、@UUID[Compendium.pf1.class-abilities.pOgl1vGzDbwSPvlk]{フラリー・オヴ・ブラスツ}†、@UUID[Compendium.pf1.class-abilities.MTAA0R6INzvdLQs4]{モービル・ブラスト}†</li><li>4レベル ― @UUID[Compendium.pf1.class-abilities.v4QMlpULGkg7KL8s]{イクスパンディッド・ディフェンス}</li><li>5レベル ― @UUID[Compendium.pf1.class-abilities.GUWkXys0fsFEx33D]{ウォール}†、@UUID[Compendium.pf1.class-abilities.n58pFUeWWGNyOSYy]{キネティック・フォーム}、@UUID[Compendium.pf1.class-abilities.Ah0k65fajVE804wu]{グラップリング・インフュージョン}†、@UUID[Compendium.pf1.class-abilities.ZEjDTuTGaSUXZ1RP]{スパーク・オヴ・ライフ}</li><li>6レベル ― @UUID[Compendium.pf1.class-abilities.HQgbqhlaaG9LFJFS]{ライド・ザ・ブラスト}</li><li>8レベル ― @UUID[Compendium.pf1.class-abilities.au4nrzixAm91TYoI]{リヴァース・シフト}</li></ul>"
 		},
 		"Experience Across Ages": {
@@ -6664,7 +6664,7 @@
 			"description": "<p><strong>乗騎（変則）／Mount：</strong></p><p>幻獣は戦闘訓練を受けた乗騎として適切に扱える姿となり、その能力に熟達する。幻獣は乗り手より1サイズ段階以上大きくなければならない。</p><p><strong>必要条件：</strong>エレメンタル、ダイモン、デヴィル、デーモン、プロティアンの副種別； 四足獣あるいは蛇体の基本形態。</p>"
 		},
 		"Metamagic Mastery": {
-			"name": "呪文修正体得（秘術系統：統合術）",
+			"name": "呪文修正体得（秘術系統：総合術）",
 			"description": "<p><strong>呪文修正体得（超常）／Metamagic Mastery：</strong></p><p>8レベルの時点で、ウィザードは発動しようとした呪文1つに対して修得している呪文修正特技1つを適用できる。これにより、呪文レベルや発動時間の増加は発生しない。ウィザードはこの能力をレベル8の時点で1日に1回だけ使用でき、以降2レベル毎に1日の使用回数が1回だけ増える。この能力によって呪文レベルを2レベル以上増加させる呪文修正特技を適用する時は、1レベルを超えるレベル毎に1回分の呪文修正体得の使用数を追加で消費しなければならない。この能力は実際には呪文レベルを修正しないが、特技を適用した結果、修正された呪文レベルがウィザードの発動できる呪文レベルを超える場合には、この能力を適用することはできない。</p>"
 		},
 		"Acid Dart": {
@@ -11782,7 +11782,7 @@
 			"description": "<p>Hobgoblins have long taken advantage of the tactical edge darkvision gives them when fighting in darkness, particularly against elves, humans, and samsarans. As the ruling class of Kaoling, hobgoblin samurai have adopted the benefit of darkness as a spiritual alliance that forms a guiding principle in not only how they fight, but every aspect of their lives. This has given rise to the order of the eclipse, a respected samurai order devoted to darkness itself. Although the order is not officially restricted to hobgoblins, its edicts make it difficult for any samurai without darkvision to operate in its ranks.<p><b>Edicts:</b> The samurai cannot create light where it is not necessary—anything that can be done in darkness should be. The samurai must belong to a military organization (within Kaoling this is likely to be a warband commanded by a senior samurai, who in turn answers to Warlord Tsung-cha Kavangaki or one of the Council of Nine). The samurai must enforce his place within this order and societies that recognize its authority, obeying those senior to him without question and demanding total obedience from those beneath him. The samurai must take every opportunity to extinguish the lights of his foes.<p><b>Challenge:</b> The order of the eclipse samurai gains a +1 bonus on all Intimidate checks made against the target of his challenge. This bonus increases by 1 for every four levels the samurai possesses.<p><b>Skills:</b> An order of the eclipse samurai adds Perception (Wis) and Survival (Wis) to his list of class skills. In addition, whenever he makes a Perception check to notice an invisible creature or object, he receives a bonus on the check equal to 1/2 his samurai level (minimum +1).</p>"
 		},
 		"Weapon Training (Talent)": {
-			"name": "武器訓練（Talent）",
+			"name": "武器訓練／武器修練（Talent）",
 			"description": "<p><strong>武器訓練／Weapon Training：</strong></p><p>この技を選択したキャラクターは、ボーナス特技として@UUID[Compendium.pf1.feats.n250dFlbykAIAg5Z]{武器熟練}を得る。</p>"
 		},
 		"Bestial Swimmer": {
@@ -15178,7 +15178,7 @@
 			"description": "<p><strong>邪眼（超常）／Evil Eye：</strong></p><p>シャーマンは自分が見ることができる30フィート以内の敵1体の精神に不信の感情を這わせることができる。その目標は－2のペナルティをアーマー・クラス、能力値判定、攻撃ロール、セーヴィング・スロー、技能判定のいずれか1つに与える（シャーマンが選択する）。この呪術は3＋シャーマンの【判断力】修正値に等しいラウンドだけ持続する。意志セーヴに成功すれば、この効果は1ラウンドに減少する。8レベルの時点で、このペナルティは－4に上昇する。これは［精神作用］効果である。</p>"
 		},
 		"Hand of the Apprentice": {
-			"name": "徒弟の手（秘術系統：統合術）",
+			"name": "徒弟の手（秘術系統：総合術）",
 			"description": "<p><strong>徒弟の手（超常）／Hand of the Apprentice：</strong></p><p>ウィザードは近接武器を飛ばして敵を打ち、即座に手元に戻すことができる。標準アクションとして、ウィザードは近接武器1つを用いて、射程30フィートの遠隔攻撃を行うことができる。この攻撃は投擲武器による遠隔攻撃として扱うが、攻撃ロールには【敏捷力】修正値の代わりに【知力】修正値を加える（ダメージには通常通り【筋力】修正値を加算する）。この能力は戦技に用いることはできない。この能力は1日に3＋【知力】修正値に等しい回数だけ使用できる。</p>"
 		},
 		"Maneuver Training (BRA)": {
@@ -17231,7 +17231,7 @@
 			"description": "<p><strong>呪文：</strong>ウォープリーストはクレリック呪文リストから選択して呪文を使用する。しかし、属性によっては、その信仰の道徳的または規律的信条に反するという理由から、ある種の呪文を発動することができない。詳しくは後述の悪、混沌、秩序、善の呪文の項を参照。ウォープリーストは事前に呪文を選択し、準備しなければならない。</p><p>ウォープリーストは呪文レベルが6までの呪文を使用できる。7レベル以上のクレリック呪文はウォープリーストの呪文リストには存在しない。そのため、ウォープリーストは7レベル以上のクレリック呪文の呪文完成型および呪文解放型の魔法のアイテムを（〈魔法装置使用〉判定を用いることなく）使用することはできない。</p><p>呪文を準備し発動するには、ウォープリーストは少なくとも10＋呪文レベルの【判断力】を有していなければならない。ウォープリーストの呪文に対するセーヴィング・スロー難易度は、10＋呪文レベル＋ウォープリーストの【判断力】修正値である。</p><p>他の呪文の使い手と同様、ウォープリーストはそれぞれの呪文レベルの呪文を、1日に一定の回数ずつしか発動できない。1日に発動できる呪文の数の基本値は、上述の表に記されている。さらに、高い【判断力】能力値を持つならば、ウォープリーストはボーナス呪文数を得ることができる。</p><p>ウォープリーストは瞑想や祈りによって呪文を準備する。ウォープリーストが1日の呪文を準備するためには、毎日自分で決めた時間に1時間、瞑想、あるいは祈願を行わなければならない。ウォープリーストは自分の発動できる呪文レベルの呪文ならば、ウォープリースト呪文リストの中の任意の呪文を準備し、発動することができる。ただし、準備する呪文の選択は、毎日の瞑想中に決めなければならない。</p>"
 		},
 		"Universalist School": {
-			"name": "秘術系統：統合術",
+			"name": "秘術系統：総合術",
 			"description": "<h2>総合術 Universalist School</h2><p>専門化しないウィザード（総合術士と呼ばれる）は全ての秘術呪文使いの中で最も多様性がある。</p><ul><li>@UUID[Compendium.pf1.class-abilities.n11lJHH3cBKXdRdj]{徒弟の手}</li><li>@UUID[Compendium.pf1.class-abilities.L4sgpJ5DxgYddhem]{呪文修正体得}</li></ul>"
 		},
 		"Tiger Aspect": {

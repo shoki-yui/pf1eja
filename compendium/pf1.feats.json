@@ -105,7 +105,7 @@
 			"contextNotes": [
 				{
 					"target": "cl",
-					"text": "+[[2]] spell penetration"
+					"text": "上級抵抗破り：術者レベル判定+[[2]]ボーナス"
 				}
 			]
 		},
@@ -143,7 +143,7 @@
 			"contextNotes": [
 				{
 					"target": "spellEffect",
-					"text": "[[-10]]% arcane spell failure"
+					"text": "秘術呪文失敗確率[[-10]]%"
 				}
 			]
 		},
@@ -285,7 +285,7 @@
 			"contextNotes": [
 				{
 					"target": "attack",
-					"text": "+1 bonus on attack and damage rolls with ranged weapons at ranges of up to 30 feet."
+					"text": "近距離射撃：30フィート以内の遠隔攻撃の対象に攻撃ロールとダメージに＋[[1]]ボーナス "
 				}
 			]
 		},
@@ -977,7 +977,7 @@
 			"contextNotes": [
 				{
 					"target": "spellEffect",
-					"text": "[[-20]]% arcane spell failure. This bonus replaces Arcane Armor Training."
+					"text": "秘術呪文失敗確率[[-20]]%"
 				}
 			]
 		},
@@ -1177,7 +1177,7 @@
 			"contextNotes": [
 				{
 					"target": "attack",
-					"text": "[[@resources.feat_combatReflexes.value]] AoO available."
+					"text": "機会攻撃回数：[[@resources.feat_combatReflexes.value]] "
 				}
 			]
 		},
